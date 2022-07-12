@@ -6,4 +6,4 @@ This is the repository for our submitted paper *Toward a Unified Framework for U
 
 #### How to Run
 
-We experiment on three benchmarks: FEVEROUS, TAT-QA, and SEM-TAB-FACTS, and we provide scripts for data generation and model training in the corresponding directory.
+We experiment on three benchmarks: FEVEROUS, TAT-QA, and SEM-TAB-FACTS, and provide scripts for data generation and model training in the corresponding directory.
