@@ -1,10 +1,6 @@
 #### Program Collecting
 
-Download the template file 
-
-[all_data.json]: https://github.com/czyssrs/Logic2Text
-
- , and then run:
+Download the template file [all_data.json](https://github.com/czyssrs/Logic2Text) , and then run
 
 ```python
 python process_program.py
