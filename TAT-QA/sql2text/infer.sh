@@ -1,0 +1,12 @@
+python run_summarization.py \
+    --model_name_or_path result \
+    --do_predict \
+    --train_file sql2nl_tat.json \
+    --validation_file sql2nl_tat.json \
+    --test_file sql2nl_tat.json \
+    --source_prefix "summarize: " \
+    --output_dir result_tat \
+    --overwrite_output_dir \
+    --per_device_train_batch_size=8 \
+    --per_device_eval_batch_size=8 \
+    --predict_with_generate
