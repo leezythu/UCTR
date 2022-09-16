@@ -1,6 +1,6 @@
 #### Overview
 
-This is the repository for our submitted paper *Toward a Unified Framework for Unsupervised Complex Tabular Reasoning*
+This is the repository for our paper *Toward a Unified Framework for Unsupervised Complex Tabular Reasoning*
 
 <img src="./framework.png" alt="framework" style="zoom:40%;" />
 
