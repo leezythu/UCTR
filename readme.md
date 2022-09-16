@@ -10,4 +10,4 @@ We experiment on three benchmarks: FEVEROUS, TAT-QA, and SEM-TAB-FACTS, and prov
 
 ## 📝 License
 
-[MIT License](LICENSE)
+The code is open-sourced under [MIT License](LICENSE)
