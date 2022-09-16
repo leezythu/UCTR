@@ -10,4 +10,4 @@ We experiment on three benchmarks: FEVEROUS, TAT-QA, and SEM-TAB-FACTS, and prov
 
 ## 📝 License
 
-[MIT License]
+[MIT License]((LICENSE)
