@@ -1,0 +1,34 @@
+"Class
+
+
+","Algorithms
+
+Agglomerative clustering
+","Variants
+Rodriguez and Laio (2014)
+Shen and Cheng (2016)
+Wang et al. (2019)"
+Hierarchical,Hierarchical self organizing map,Steiger et al. (2016b)
+,,Wu et al. (2017)
+,Machine learning,Ferstl et al. (2017)
+,,Deng et al. (2018)
+,,Andrienko and Andrienko (2013)
+,,Gharavi and Hu (2017)
+,,Cho et al. (2014)
+,kmeans,Yu et al. (2015)
+,,Jiang et al. (2018b)
+,,Bai et al. (2014)
+,,Krüger et al. (2017)
+Pure partitioning,,Von Landesberger et al. (2016)
+,PAM,Penfold et al. (2016)
+,,Sun et al. (2017)
+,,Jiang et al. (2019)
+,Peak density,Putri et al. (2019)
+,,Heredia and Mor (2019)
+,,Li (2019)
+,,Izakian et al. (2013)
+,Fuzzy kmeans,Izakian et al. (2015)
+Overlapping partitioning,,Disegna et al. (2017)
+,,Paci and Finazzi (2017)
+,Machine learning,Gholami and Pavlovic (2017)
+,,Zhang et al. (2017)

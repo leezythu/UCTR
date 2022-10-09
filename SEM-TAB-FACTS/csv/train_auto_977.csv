@@ -1,0 +1,9 @@
+Model run,Factor addressed,Case,DIC land load,F                         CO2
+#1,None,REF,887,−95
+#28,DIC loads,REF − 10%,798,−6
+#29,DIC loads,REF − 20%,710,83
+#30,DIC loads,REF + 10%,976,−184
+#31,DIC loads,REF + 20%,1064,−273
+#17,N/P loads (land + atm.),BSAP,887,−139
+#18,N/P loads (land + atm.),HEL,887,−58
+#19,N/P loads (land + atm.),HIGH,887,75

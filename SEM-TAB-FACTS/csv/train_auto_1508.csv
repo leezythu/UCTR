@@ -1,0 +1,11 @@
+Method (Parameters),Value
+Chromosome length,6 (equal to the number of assets in the portfolio)
+Representation of genes,real number between 0 and 1
+Number of population,150
+Crossover method,Uniform crossover
+Crossover probability,0.7
+Mutation method,Random mutation
+Mutation probability,0.1
+Selection method,Tournament (roulette-wheel) selection
+Elitism,3
+Number of generation,2000

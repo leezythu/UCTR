@@ -1,0 +1,5 @@
+Subclass type of picking activities,Joint angles,Range
+Picking from high location (             P               high              ),Upper arm,x>60°
+Picking from low location (             P               low              ),Leg            or Trunk,x>60°            x>110°
+Picking from medium-height location (             P               med              ),Upper arm            or Lower arm            (Trunk),30°<x<60°            x>90°            x<60°
+Unloading from cart to packing area (             P               unload              ),Trunk,60°<x<110°

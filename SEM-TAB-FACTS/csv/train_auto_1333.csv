@@ -1,0 +1,22 @@
+"Peak cluster
+Peak cluster","Pearsson correlations
+LF","Pearsson correlations
+IgG","Pearsson correlations
+IgA","Pearsson correlations
+IgM"
+2                         IgG,0.31,0.33,ns,0.19
+3                         LF,0.61,0.23,0.30,0.32
+"4                         LF, GCM",0.36,0.20,ns,0.18
+"6                         LF, GCM",0.59,ns,0.23,0.31
+"7                         IgG, LF",0.38,0.22,0.25,ns
+"10                         GCM, LF",0.24,0.30,ns,0.21
+11                         GCM,ns,ns,ns,ns
+"12                         IgG, GCM",0.35,0.61,0.28,0.35
+"13                         LF, GCM",0.30,ns,ns,ns
+16                         GCM,ns,ns,ns,ns
+"17                         GCM, LF",0.38,ns,0.22,ns
+"18                         LF, GCM",0.26,ns,ns,ns
+21                         LF,0.65,ns,0.23,ns
+24                         GCM,ns,ns,ns,ns
+27                         GCM,ns,ns,ns,ns
+29                         GCM,ns,ns,ns,ns

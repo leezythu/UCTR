@@ -1,0 +1,7 @@
+Cell name:,CGO barrier layer:,CGO thickness:,Notes/remarks:
+noCGO,No barrier layer,---,−2 cells tested;
+FCM,Commercial cell with CGO barrier layer,"μm, porous","- purchased from FuelCellMaterials, no sintering details available;                        - La                         0.6                        Sr                         0.4                        CoO                         3-δ                        (LSC) oxygen electrode;                        −2 cells tested;"
+TT-wpsCGO,Aerosol sprayed CGO barrier layer,"3−10 μm, porous","- in-house developed cell (TaipeiTech)                        - cobalt used as a sintering aid, sintered at 1250 °C;                        −2 cells tested;"
+∼300 nm,Spray pyrolysis,∼300 nm,−2 cells tested;
+∼700 nm,"Spray pyrolysis,",∼700 nm,−4 cells tested;
+∼1500 nm,Spray pyrolysis,∼1500 nm,−3 cells tested;

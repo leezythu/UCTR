@@ -1,0 +1,7 @@
+Parameter,This autosampler,Costech Zero Blank Autosampler,Thermo-Fisher MAS200r
+Number of samples per tray,"95; can be expanded without modifying sample size if a larger tray is designed; or a larger tray can be built, along a larger table, so that a larger number of large samples can be accommodated",49 for 6 mm samples,"32; more samples can be added if extra trays are pilled upon each other, but these need to be purchased separately"
+Maximum sample size,Sphere with 10 mm in diameter,Sphere with 6 mm in diameter when using a tray for 49 samples; it can take larger samples but then the tray needs to be swapped with one for less samples at once,"Sphere with 10 mm in diameter, but only if purging flow is largely increased"
+Sample adding procedure,Samples need to be placed inside their respective holes in the carousel,"Samples need to be placed inside carousel, and then a flushing procedure lasting about 10 min is needed. If more samples need to be added, the flushing needs to be repeated again.","Samples need to be placed inside their respective holes in carousel and a lid needs to be placed over the tray. If the lid is forgotten, large air blanks are introduced in the measurement."
+Cost,AU$540 plus extras,"AU$20,000","AU$10,000"
+Replacement parts,3D-printed or readily available from hardware stores,Proprietary,Proprietary
+Compatibility,Universal via AutoIt,"Proprietary, only for designed partner companies","Proprietary, only for designed partner companies"

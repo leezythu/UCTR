@@ -1,0 +1,5 @@
+Parameter,Value,Unit,Parameter,Value,Unit
+Total driving time,15980,s,Average acceleration,0.5,m/s                         2
+Distance,220,km,Maximum deceleration,−0.7,m/s                         2
+Max. Speed,45,kmh,Average deceleration,−0.5,m/s                         2
+Average Speed,37.33,kmh,Max. acceleration,0.7,m/s                         2

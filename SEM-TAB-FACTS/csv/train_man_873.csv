@@ -1,0 +1,24 @@
+Variable,Description,Note
+road_inv,Road identifier,
+Begmp,Begin milepost,
+Endmp,End milepost,
+wardR2U             X            _aadt,AADT,Separate variable for each year (X)
+wardR2U             X            _county,County,Separate variable for each year (X)
+wardR2U             X            _lanewid,Lane width (ft.),Separate variable for each year (X)
+wardR2U             X            _lshl_typ,Left shoulder type,Separate variable for each year (X)
+wardR2U             X            _lshldwid,Left shoulder width (ft.),Separate variable for each year (X)
+wardR2U             X            _rshl_typ,Right shoulder type,Separate variable for each year (X)
+wardR2U             X            _rshldwid,Right shoulder width (ft.),Separate variable for each year (X)
+wardR2U             X            _surf_typ,Surface type,Separate variable for each year (X)
+wardR2U             X            _terrain,Terrain,Separate variable for each year (X)
+wacu             X            _curv_max,Curve maximum super-elevation,Separate variable for each year (X)
+wacu             X            _curv_rad,Curve radius (ft.),Separate variable for each year (X)
+wacu             X            _dir_curv,Curve direction,Separate variable for each year (X)
+wagr             X            _pct_grad,Percent grade,Separate variable for each year (X)
+waln             X            _sln_type,Special lane type,Separate variable for each year (X)
+wacrR2URd             X            _K,Crash severity K,Separate variable for each year (X)
+wacrR2URd             X            _A,Crash severity A,Separate variable for each year (X)
+wacrR2URd             X            _B,Crash severity B,Separate variable for each year (X)
+wacrR2URd             X            _C,Crash severity C,Separate variable for each year (X)
+wacrR2URd             X            _O,Crash severity O,Separate variable for each year (X)
+wacrR2URd             X            _U,Crash severity Unknown,Separate variable for each year (X)

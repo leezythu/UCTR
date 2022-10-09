@@ -1,0 +1,50 @@
+"Variables
+ESG score
+Environmental Pillar score
+Social Pillar score
+Governance Pillar score
+Board Size","Pooled OLS
+Dependent Variable
+
+
+
+0.572 (0.170)***","Fixed Effects
+Dependent Variable
+
+
+
+−0.456 (0.256)*","Fixed Effects
+Dependent Variable
+
+
+
+−0.189 (0.258)","Fixed Effects
+
+Dependent Variable
+
+
+0.169 (0.349)","Fixed Effects
+
+
+Dependent Variable
+
+−0.266 (0.345)","Fixed Effects
+
+
+
+Dependent Variable
+−0.497 (0.441)"
+Board Gender Diversity,0.261 (0.047)***,0.353 (0.058)***,0.224 (0.066)***,0.113 (0.090),0.050 (0.089),0.552 (0.113)***
+Board Independence,−1.669 (1.064),3.771 (1.242)***,1.568 (1.326),−0.326 (1.796),1.113 (1.777),4.208 (2.269)*
+CEO Board Chair Separation,1.585 (1.031),−3.010 (1.253)**,−1.537 (1.269),−0.935 (1.718),−0.631 (1.700),−3.264 (2.171)
+Sustainability Committee,10.479 (1.066)***,2.015 (1.177)*,3.201 (1.189)***,1.530 (1.610),6.091 (1.593)***,1.699 (2.035)
+Free Float Percentage,0.060 (0.021)***,0.060 (0.036)*,0.044 (0.035),−0.015 (0.047),0.148 (0.047)***,−0.013 (0.060)
+Ln (Total Assets),5.815 (0.480)***,10.612 (1.709)***,9.802 (1.734)***,6.424 (2.348)***,10.721 (2.324)***,12.498 (2.967)***
+Leverage,0.101 (0.022)***,0.098 (0.050)*,0.103 (0.049)**,0.170 (0.067)**,0.069 (0.066),0.069 (0.085)
+ROA,−0.121 (0.080),−0.070 (0.064),−0.067 (0.062),−0.054 (0.085),−0.007 (0.084),−0.153 (0.107)
+Constant,−104.118 (9.907)***,−197.262 (37.284)***,−182.332 (38.720)***,−108.506 (52.440)**,−206.045 (51.894)***,−237.029 (66.264)***
+No. of observations,504,504,504,504,504,504
+Firm Fixed Effects,No,Yes,Yes,Yes,Yes,Yes
+Year Fixed Effects,No,No,Yes,Yes,Yes,Yes
+p-value,<.001,<.001,<.001,<.001,<.001,<.001
+Adjusted R2,.61,,,,,

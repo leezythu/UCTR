@@ -1,0 +1,11 @@
+Notation,Definition
+S                        P                        (                    t                    ),Number of susceptible passengers at time               t
+E                        P                        (                    t                    ),Number of exposed passengers at time               t
+I                        P                        A                        (                    t                    ),Number of infected asymptomatic passengers at time               t
+I                        P                        S                        (                    t                    ),Number of infected symptomatic passengers at time               t
+R                        P                        (                    t                    ),Number of recovered passengers at time               t
+S                        C                        (                    t                    ),Number of susceptible crew members at time               t
+E                        C                        (                    t                    ),Number of exposed crew members at time               t
+I                        C                        A                        (                    t                    ),Number of infected asymptomatic crew members at time               t
+I                        C                        S                        (                    t                    ),Number of infected symptomatic crew members at time               t
+R                        C                        (                    t                    ),Number of recovered crew members at time               t

@@ -1,0 +1,11 @@
+"land development scenario
+land development scenario","Change rates (main land use type) (km                         2                        /a)
+Arable land","Change rates (main land use type) (km                         2                        /a)
+Forestland","Change rates (main land use type) (km                         2                        /a)
+Grassland","Change rates (main land use type) (km                         2                        /a)
+Settlement land","Presumption
+Presumption"
+ND,0,0,0,0,Land system stopped changing and remained in the state of 2015
+BAUD,−104.7,+96.9,−26.9,+44.1,According to the change rates of various land use types from 2000 to 2015
+EDP,−14.2,−12.4,−67.2,+101.6,"According to the period with the fastest growth rate of settlement land (2010–2015), the change rates of various land use types will continue to change"
+EPP,−262.2,+273.8,−32.4,+26.4,"According to the period with the fastest growth rate of forestland (2000–2005), the change rates of various land use types will continue to change"

@@ -1,0 +1,5 @@
+Constructs,BA,BP,CS,PI
+Brand Attitude (BA),0.934                         *,,,
+Brand Preference (BP),0.529,0.943                         *,,
+Consumer satisfaction (CS),0.583,0.671,0.908                         *,
+Purchase Intentions (PI),0.694,0.717,0.779,0.867                         *

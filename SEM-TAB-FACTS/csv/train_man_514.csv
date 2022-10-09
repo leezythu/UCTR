@@ -1,0 +1,11 @@
+Reaction,Pd,Pd             3            Ni,PdNi
+CH             3            OH → CH             3            O + H             +            + e             −,0.5,,
+CH             3            OH → CH             2            OH + H             +            + e             −,0.9,,
+CH             2            O → CHO + H             +            + e             −,0.3,0.8,1.2
+CH             2            O+OH →CH             2            OOH,0.4,0.4,0.8
+CHO → CO + H             +            + e             −,(spontaneous),(spontaneous),0.4
+CHO + OH → HCOOH,0.2,0.2,0.2
+CO + OH → COOH,1.1,1.2,1.5
+H             2            COOH → HCOOH + H             +            + e             −,,0.9,1.1
+H             2            COOH → H             2            COO + H             +            + e             −,,(–),(–)
+HCOOH → CHOO + H             +            + e             −,,(spontaneous),(spontaneous)

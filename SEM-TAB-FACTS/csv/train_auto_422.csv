@@ -1,0 +1,4 @@
+Facility,Prime mover,Absorption chiller,Heating coil,Boiler
+Price ($/kW),960.22,169.45,28.24,42.36
+Facility,Electric chiller,Natural gas,Electricity                        (7:00–22:00),Electricity                        (23:00–6:00)
+Price ($/kW),136.97,0.027,0.14,0.061

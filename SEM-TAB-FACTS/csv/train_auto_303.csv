@@ -1,0 +1,7 @@
+Data portal,1st format,2nd format,3rd format
+Spain,CSV (50%),XLS (35%),JSON (33%)
+Norway,CSV (77%),GEOJSON (17%),JSON (14%)
+Italy,CSV (76%),JSON (35%),XML (25%)
+Croatia,XLS (63%),CSV (40%),HTML (33%)
+Luxembourg,ZIP (25%),CSV (24%),PDF (18%)
+Ireland,JSON (49%),CSV (39%),TXT (22%)

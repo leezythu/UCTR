@@ -1,0 +1,6 @@
+Parameters,Values,Units
+K,40000000,M
+G               f,1000,C                    M                      −                      1
+q,0.000002,E                      −                      1                        T                      −                      1
+λ               f              /             σ,0.000025,E                  T                    C                      −                      1
+w               f,40000,C                    E                      −                      1                        T                      −                      1

@@ -1,0 +1,17 @@
+"
+","Panel 1: 2005/2006–2009/2010
+Outsourcing (t0)","Panel 1: 2005/2006–2009/2010
+Outsourcing (t+1)","Panel 1: 2005/2006–2009/2010
+Outsourcing (t+2)","Panel 2: 2009/2010–2013/2014
+Outsourcing (t0)","Panel 2: 2009/2010–2013/2014
+Outsourcing (t+1)","Panel 2: 2009/2010–2013/2014
+Outsourcing (t+2)"
+Financial constraints (t0),1.224 (0.275),1.528 (0.422),1.713 (0.583),1.554                           ⁎                          (0.389),2.260                           ⁎⁎⁎                          (0.652),3.290                           ⁎⁎⁎                          (1.156)
+Competence constraints (t0),1.876                           ⁎⁎                          (0.465),2.182                           ⁎⁎⁎                          (0.646),1.967                           ⁎                          (0.718),1.806                           ⁎⁎                          (0.493),0.998 (0.346),1.281 (0.517)
+Firm-size,1.131 (0.110),1.035 (0.116),0.899 (0.120),1.241                           ⁎                          (0.136),1.249                           ⁎                          (0.167),1.150 (0.171)
+Firm-type fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
+Industry fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
+Year fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
+Model χ                         2,85.61,61.99,43.33,60.40,52.27,42.03
+p,0.00,0.00,0.00,0.00,0.00,0.00
+n,2744,2109,1518,2123,1644,1199

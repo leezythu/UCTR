@@ -1,0 +1,8 @@
+Indicator,Mean,St. Dev.,Min.,Max.
+Number of solar panels,"1,400","1,570",38,"7,612"
+Buildings with solar panels,62,63,6,270
+Average number of solar panels per building,28,30,2,143
+Buildings insulated,71,87,0,344
+Buildings addressed,132,135,8,521
+% buildings addressed with solar panels,47,27,19,100
+% buildings addressed with insulation,53,27,0,81

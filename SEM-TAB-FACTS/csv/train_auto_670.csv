@@ -1,0 +1,20 @@
+"
+","Swing (total,                         N                        = 298)
+Min","Swing (total,                         N                        = 298)
+Med","Swing (total,                         N                        = 298)
+Mean","Swing (total,                         N                        = 298)
+Max","Swing (total,                         N                        = 298)
+Paired Wilcoxon test","Swing “valid” (                         N                        = 36)
+Min","Swing “valid” (                         N                        = 36)
+Med","Swing “valid” (                         N                        = 36)
+Mean","Swing “valid” (                         N                        = 36)
+Max","Swing “valid” (                         N                        = 36)
+Paired Wilcoxon test","Swing “invalid” (                         N                        = 262)
+Min","Swing “invalid” (                         N                        = 262)
+Med","Swing “invalid” (                         N                        = 262)
+Mean","Swing “invalid” (                         N                        = 262)
+Max","Swing “invalid” (                         N                        = 262)
+Paired Wilcoxon test"
+Initial KS,0,9,8.7,17,V                        = 6123                          p                        <.001,5,12,10.7,15,V                        = 72                          p                        <.001,0,9,8.4,17,V                        = 4746.5                          p                        <.001
+Final KS,0,10,9.7,17,,4,13.5,12.2,16,,0,10,9.4,17,
+Difference KS,−7,1,1.1,8,,−5,1,1.5,7,,−7,1,1.0,8,

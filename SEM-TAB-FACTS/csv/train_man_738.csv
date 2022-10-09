@@ -1,0 +1,12 @@
+Parameter,Isotropic media (             g            = 0),Anisotropic media (             g            = 0.9)
+"Absorption coefficient (μ             a            , cm             −1            )",0.1056,0.1056
+"Scattering coefficient (μ             s            , cm             −1            )",2.529,25.29
+Anisotropy factor (g),0,0.9
+Refractive index,1.35,1.35
+Number of photons,10             6,10             6
+"Beam radius, cm",0.05,0.05
+Limiting energy level for photons,10             −9,10             −9
+"Observed radius, cm",3,3
+"Spatial resolution, cm/pixel",0.05,0.05
+Correlation with diffusion model,0.9903,0.9529
+"RMSE with diffusion model, cm             −2",0.0534,0.1744

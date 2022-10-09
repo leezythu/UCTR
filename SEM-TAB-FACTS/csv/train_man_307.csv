@@ -1,0 +1,12 @@
+Authors,Projection technique,Year of publication,LWD lens type (projector + camera),Measurement FOV
+Quan et al.             [50],LCD projector,2001,Pinhole + Pinhole,1.2 × 1.5 mm             2
+Quan et al.             [77],Fine sinusoidal grating,2002,Pinhole + Pinhole,0.1 × 0.1 mm             2
+Wang et al.             [78],LCD projector,2006,Pinhole + Pinhole,768 × 576 pixel
+Chen et al.             [79],DLP projector,2013,Pinhole + Pinhole,Not given
+Yin et al.             [80],DLP projector,2015,Pinhole + Pinhole,5.0 × 4.0 mm             2
+Li and Zhang             [57],LightCrafter,2015,Pinhole + Telecentric,10.0 × 8.0 mm             2
+Li et al.             [59],DLP projector,2014,Telecentric + Telecentric,30.0 × 20.0 mm             2
+Liu et al.             [81],LCD projector,2017,Telecentric + Telecentric,34.6 × 29.0 mm             2
+Peng et al.             [42],DMD chip,2015,Telecentric + Telecentric,1280 × 1024 pixel
+Wang et al.             [82],DMD chip,2017,Telecentric + 4 × Telecentric,1280 × 1024 pixel
+Hu et al.             [56],LightCrafter,2019,Telecentric + 2 × Telecentric,10.0 × 7.0 mm             2

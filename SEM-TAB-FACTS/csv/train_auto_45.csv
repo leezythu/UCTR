@@ -1,0 +1,14 @@
+"Cell name:
+Cell name:","Description
+Description","Ohmic resistance:
+mΩ cm                         2","Polarisation resistance:
+mΩ cm                         2","Total ASR at OCV:
+mΩ cm                         2","Tangent ASR:
+mΩ cm                         2","Maximum power density:
+mW cm                         −2"
+Cell-0,No barrier layer (800 °C),82,"17,300","17,382","∼39,100",8
+Cell-1,Commercial cell,184,305,489,325,800
+Cell-2,Powder-processed CGO,173,136,309,325,800
+Cell-3,∼300 nm CGO,140,154,294,324,730
+Cell-4,∼700 nm CGO,95,114,209,235,990
+Cell-5,∼1500 nm CGO,100,106,206,306,810

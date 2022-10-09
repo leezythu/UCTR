@@ -1,0 +1,39 @@
+Inequality measures,90–10,75–25,50–10,90–50,Variance
+Total difference,0.367***,0.327***,0.244***,0.123**,0.254***
+Composition effect,0.170*,0.123**,0.113*,0.056,0.073**
+Coefficient effect,0.098,0.185,0.159,−0.061,0.186***
+Composition effects:,,,,,
+Mother post-compulsory education (5),−0.003,0.001,−0.019*,0.015,0.001
+Mother employed (5),0.004,−0.006,0.001,0.002,−0.001
+Father blue-collar occupation (5),−0.019,−0.011,0.000,−0.019,−0.009
+No father fig. (5),0.033,0.059*,−0.014,0.047,0.015
+Mother's age,0.081**,0.058**,0.056*,0.025,0.019
+Mother's height,−0.013,0.001,−0.007,−0.006,−0.004
+Mother unmarried,0.068,0.009,0.063,0.006,0.045*
+Non-white ethnicity,0.010,−0.001,0.013,−0.003,−0.002
+No. other children in household (5),−0.002,−0.002,−0.002,−0.001,−0.001
+Child firstborn,−0.001,0.001,0.000,−0.001,0.000
+No. previous stillbirths,0.004,0.000,0.003,0.001,0.001
+Mother smoked in pregnancy,−0.002,0.009,−0.004,0.002,−0.001
+Child born preterm,0.014,0.004,0.014,0.000,0.007
+Gestational age missing,−0.003,0.005,0.003,−0.006,0.006
+Log birth weight,−0.001,−0.004,0.005,−0.006,−0.001
+Specification error,0.158,0.168,0.031,0.128,0.059
+Coefficient effects:,,,,,
+Mother post-compulsory education (5),−0.137,0.040,−0.229,0.092,−0.047
+Mother employed (5),−0.046,−0.350**,0.186,−0.232*,−0.112
+Father blue-collar occupation (5),−0.158,−0.119,−0.115,−0.042,−0.079
+No father fig. (5),−0.092,−0.114,−0.099,0.007,−0.048
+Mother's age,−0.795,−0.711,−0.684,−0.111,−0.579*
+Mother's height,−0.929,−5.180,3.978,−4.906*,−0.530
+Mother unmarried,0.140,0.163,0.096,0.044,0.061
+Non-white ethnicity,0.052,−0.104,0.101,−0.050,−0.004
+No. other children in household (5),−0.146,0.127,−0.091,−0.055,−0.047
+Child firstborn,−0.208*,−0.192,−0.058,−0.150,−0.136**
+No. previous stillbirths,0.002,0.001,0.004,−0.002,0.001
+Mother smoked in pregnancy,0.051,−0.095,0.005,0.046,0.005
+Child born preterm,0.044,0.000,0.002,0.042,0.023
+Gestational age missing,0.001,−0.002,0.002,−0.002,0.000
+Log birth weight,0.282,0.382,−0.297,0.579,−0.137
+Constant,2.038,6.338*,−2.643,4.680,1.816
+Reweighting error,−0.059,−0.149,−0.060,0.000,−0.065

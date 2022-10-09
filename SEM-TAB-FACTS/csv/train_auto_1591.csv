@@ -1,0 +1,23 @@
+"
+","Interaction model
+B","Interaction model
+SE","Interaction model
+p                                <"
+Intercept,3.856,0.025,0.000
+Between-person increasing resources,−0.058,0.075,0.220
+Between-person increasing challenges,0.093,0.075,0.108
+Between-person decreasing demands,0.025,0.043,0.281
+Between-person playful work design,0.123,0.052,0.009
+Between-person work pressure,−0.014,0.055,0.399
+Within-person increasing resources,0.091,0.077,0.119
+Within-person increasing challenges,−0.052,0.076,0.473
+Within-person decreasing demands,−0.092,0.045,0.021
+Within-person playful work design,−0.048,0.054,0.187
+Within-person work pressure,0.054,0.056,0.168
+Increasing resources × Work pressure,−0.023,0.023,0.159
+Increasing challenges × Work pressure,−0.048,0.019,0.006
+Decreasing demands × Work pressure,0.030,0.020,0.067
+Playful work design × Work pressure,−0.047,0.019,0.007
+Variance and                                 SE                                level 2 (person),0.045,0.008,
+Variance and                                 SE                                level 1 (day),0.112,0.003,
+−2 Log likelihood,1584.941,,

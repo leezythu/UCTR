@@ -1,0 +1,15 @@
+Drug name,Target,FDA approval date and indication,EMA approval date and indication,Ongoing trials
+Secukinumab,IL-17A,"2015 PsO, 2016 PsA and AS","2015 PsO, 2016 PsA e AS",/
+Ixekizumab,IL-17A,"2016 PsO, 2017 PsA, 2019 AS","2018 PsO, 2019 PsA",Phase III AS
+Brodalumab,"IL17-RA (IL-17A, IL-17E, IL-17F)",2017 PsO,Not approved,Phase II PsA
+Bimekizumab,"IL-17A, IL-17F",Not approved,Not approved,Phase II PsA            Phase II AS
+Ustekinumab,p40 subunit of IL12 and IL23,"2009 PsO, 2013 PsA, 2016 CD","2009 PsO,            2013 PsA,            2018 CD",/
+Guselkumab,p19 subunit of IL23,2017 PsO,2017 PsO,Phase II PsA
+Tildrakizumab,p19 subunit of IL23,2018 PsO,2018 PsO,Phase II PsA
+Risankizumab,p19 subunit of IL23,2019 PsO,2019 PsO,Phase III PsA            Phase II AS
+Tofacitinib,JAK1/JAK3,"2012 RA, 2017 PsA, 2018 UC","2017 RA, 2018 PsA, 2018 UC",Phase II/III AS
+Upadacitinib,JAK1,2019 RA,2019 RA,Phase II PsA            Phase II AS            Phase II Axial nr-SpA
+Filgotinib,JAK1,Not approved,Not approved,Phase II PsA            Phase II AS
+Abatacept,CD80 and CD86 receptors,"2005 RA, 2017 PsA",2017 PsA,/
+CF101,A3 adenosine receptor,Not approved,Not approved,/
+ABT-122,TNF and IL-17A,Not approved,Not approved,Phase II PsA

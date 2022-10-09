@@ -1,0 +1,5 @@
+Group,Elastic modulus (GPa),Ultimate strength (MPa),Yield strength (MPa),Fatigue strength (MPa),Effective fatigue strength (MPa)
+PT,5.22 ± 0.81,94.76 ± 8.11,79.31 ± 7.53,15.86,–
+PT-1.2,14.69 ± 0.10,279.61 ± 11.52,192.99 ± 15.84,115.79,77.2
+PT-1.8,22.95 ± 0.13,506.08 ± 16.97,330.91 ± 21.56,264.73,165.46
+PT-2.4,34.36 ± 1.32,932.56 ± 19.83,686.68 ± 27.12,–,–

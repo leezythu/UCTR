@@ -1,0 +1,5 @@
+,Label Consistency,Label Inconsistency
+Feature,Homogeneous Transfer Learning,Homogeneous Transfer Learning
+Consistency,,with Label Space Matching
+Feature,Heterogeneous Transfer Learning,Heterogeneous Transfer Learning
+Inconsistency,,with Label Space Matching

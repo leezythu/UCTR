@@ -1,0 +1,9 @@
+Method,Species,Feature Extraction/Selection,Classifiers
+m5C-PseDNC                           26,H. sapiens,PseDNC (3 properties),SVM
+iRNAm5C-PseDNC                           27,H. sapiens,PseDNC (10 properties),RF
+M5C-HPCR                           28,H. sapiens,HPCR,SVM
+pM                         5                        CS-Comp-mRMR                           29,H. sapiens,"Kmer (k = 2, 3, and 4) /mRMR",SVM
+RNAm5Cfinder                           30,"H. sapiens                        ,                         M. musculus",BE,RF
+PEA-m5C                           31,A. thaliana,BE + Kmer + PseDNC,RF
+iRNA-m5C                           32,"H. sapiens                        ,                         S. cerevisiae                        ,                         M. musculus                        ,                         A. thaliana",Kmer + BE + NV + PseKNC,RF
+RNAm5CPred                           33,H. sapiens,Kmer + KSNPF + PseDNC,SVM

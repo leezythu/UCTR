@@ -1,0 +1,10 @@
+State,Illinois,Washington
+Years,2005 - 10,2010 - 15
+Facility Type,"Rural two-lane, two-way road (R2U)","Rural two-lane, two-way road (R2U)"
+Number of Roadway Segments,"16,964","40,141"
+Length,5998.58 miles (9653.78 km),3505.69 miles (5641.86 km)
+Number of Crashes,"52,801","17,281"
+Average Crashes per Mile,8.8,4.9
+Average Crashes per KM,5.5,3.1
+Integrated HSIS Datasets,"Road, Crash","Road, Curve, Grade, Lane, Crash"
+Number of Variables in Final Dataset,111,123

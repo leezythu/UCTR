@@ -1,0 +1,12 @@
+"OFP
+","Evaporative (mgO                                3                              /test)
+Gasoline","Evaporative (mgO                                3                              /test)
+E10(A)","Evaporative (mgO                                3                              /test)
+E10(B)","Tailpipe (mgO                                3                              /km)
+Gasoline","Tailpipe (mgO                                3                              /km)
+E10(A)","Tailpipe (mgO                                3                              /km)
+E10(B)"
+Carbonyls,102.66,124.95,108.36,4.81,5.67,7.09
+VOCs,1291.68,1619.76,1077.33,166.93,74.13,109.25
+CO,–,–,–,36.18,29.87,31.88
+Total,1394.34,1744.71,1185.69,207.92,109.67,148.22

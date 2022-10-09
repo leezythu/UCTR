@@ -1,0 +1,7 @@
+ID,Residual Tumor,Hypophysitis,Adrenalitis,ACTH,Cortisol,Other irAEs
+1,No,Yes,Yes,15 ng/l,2 nmol/l,"Thyroiditis, myocarditis, pneumonitis, hepatitis"
+2,Liver and bone,Yes,Yes,n.a.,n.a.,No
+3,No,Yes,Yes,15 ng/l,72 nmol/l,Colitis
+4,Extensive,Yes,n.a,1200 ng/l,1300 nmol/l,Colitis
+5,Brain,Yes,Yes,n.a.,n.a.,"Thyroiditis, hepatitis"
+6,Extensive,Yes,n.a.,n.a.,n.a.,No

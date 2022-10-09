@@ -1,0 +1,10 @@
+Parameter,Description,Range
+c                                    disp,Dispensation frequency threshold in days,60 (fixed)
+motivtype,Motivation type,"constant, seasonal, sigmoidal, exponential, sinusoidal"
+initsupply,Initial supply available,"[0, 100]"
+c                                    const,Motivation parameter of constant model,"[0.95, 0.75, 0.5, 0.2]"
+c                                    fprob,Probability of forgetting,"[0.8, 0.6, 0.4, 0.2, 0.1, 0.0]"
+c                                    offset,Model specific parameter. Timeliness of motivation change,"[540, 450, 360, 270, 180, 90, 0]"
+c                                    gap,Sigmoidal model parameter. Defines the gap (in days) between motivation changes,"[200, 100, 50, 30]"
+c                                    decline,Model specific parameter. Frequency or magnitude of motivation change,"[300, 270, 200, 100, 50, 40, 30, 20, 10, 5, 3, 2, 1, 0.7, 0.5, 0.2, 0.1]"
+c                                    seasonality,Seasonal model parameter. Rapid increase in motivation at fixed intervals,"[400, 365]"

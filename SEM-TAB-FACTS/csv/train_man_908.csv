@@ -1,0 +1,10 @@
+No.,Application,Crop,Algorithms for Weed Detection,Weed Removal Methods,Accuracy,Reference
+1.,Precision Weed Management,"Pepper plants, artificial plants","Machine Vision, Artificial Intelligence",A smart sprayer,–,Partel et al. (2019)
+2.,Autonomous Weeding Robot.,Sugar beet,Machine vision algorithm,High power lasers for intra-row weeding proposed.,–,Bakker et al. (2006)
+4.,Weeds Detection in Agricultural Fields,–,Data augmentation for image preprocessing;            Convolutional neural networks for weed detection,Herbicide Spray,70.5%,Ngo et al. (2019)
+5.,Robot for weed control,Sugar Beets,Machine Vision,Rotatory hoe/ Mechanical removal,92%(detection),Åstrand and Baerveldt (2002)
+6.,Weeding Robot,Rice,–,Motion of robot prevents weed growth,–,Nakamura et al. (2016)
+7.,Weed Prevention Robot,Rice,–,Motion of robot,–,Maruyama and Naruse (2014)
+8.,Weed Detection,Sugarcane,Color Based and Texture Based algorithms; Greenness Identification; Fuzzy Real Time Classifier,Robotic arms for mechanical removal,92.9%,Sujaritha et al. (2017)
+9.,Weed Control System,Lettuce,Machine Vision,Electrical Discharge,84%(detection),Blasco et al. (2002)
+10.,Robotic Weed Control,Cotton,Machine Vision algorithm based on Mathematical morphology,Chemical spraying,88.8% sprayed,Lamm et al. (2002)

@@ -1,0 +1,15 @@
+,Diclofenac,Naproxen
+Experimental design,,
+"Exposure concentration (nominal, μg/L)","0, 5, 20, 80, 320","0, 20, 80, 320, 1280"
+"Exposure concentration (measured, μg/L)","0, 4.6, 22, 82, 271","0, 18, 70, 299, 1232"
+Duration,28 d (21 d for 271 μg/L),27 d (21 d for 1232 μg/L)
+Number of fish/aquaria,12,20
+Number of replicate aquaria/treatment,3,3
+Aquaria water temperature,15.7−17.6 °C,15.0−16.6 °C
+LOEC,,
+Renal hematopoietic hyperplasia               1,4.6 μg/L,299 μg/L
+Hepatic gene expression (             c7),22 μg/L,299 μg/L
+Condition factor,271 μg/L,1232 μg/L
+Mortality,271 μg/L,299 μg/L
+Jaw lesions               1,271 μg/L,299 μg/L
+BCF            (water to whole-body),0.3,0.07

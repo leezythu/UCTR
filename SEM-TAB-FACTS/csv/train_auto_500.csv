@@ -1,0 +1,17 @@
+Label,Compartment
+B                                    ER,Bacterium extracellular – replicating
+B                                    ED,Bacterium extracellular – dormant
+B                                    ID,Bacterium intracellular – dendritic
+B                                    IM,Bacterium intracellular – macrophage
+,
+D                                    I,Immature dendritic cell
+D                                    M,Mature dendritic cell
+,
+M                                    R,Resting macrophage
+M                                    F,Infected macrophage
+M                                    A,Activated macrophage
+,
+T                                    N,Naïve T cell
+T                                    A,Activated T cell
+,
+C,Caseum

@@ -1,0 +1,20 @@
+"
+","Experiment 1
+B             0            map","Experiment 1
+EPI","Experiment 1
+MPRAGE","Experiment 2
+Multi-echo gradient echo","Experiment 2
+EPI","Experiment 2
+MPRAGE"
+acquisition type,2D axial,2D axial,3D axial,3D axial,2D axial,3D axial
+TR (ms),23,4000,2200,47,4000,2200
+TE (ms),"2.9, 5.4",37,2.44,7 to 42 in 5 ms steps,37,2.43
+flip angle (°),15,90,8,20,90,8
+bandwidth (Hz/px),630,2120,250,240,2120,250
+slice thickness (mm),2.0,2.0,1.0,0.8,2.0,1.0
+matrix size,64 × 54 × 50,118 × 104 × 60,256 × 256 × 256,512 × 352 × 52,118 × 104 × 60,190 × 224 × 192
+field of view (mm             3            ),220 × 185 × 100,236 × 208 × 120,256 × 256 × 256,270 × 186 × 96,236 × 208 × 120,190 × 224 × 192
+voxel size (mm             3            ),3.43 × 3.43 × 2.0,2.0 × 2.0 × 2.0,1.0 × 1.0 × 1.0,0.53 × 0.53 × 0.8,2.0 × 2.0 × 2.0,1.0 × 1.0 × 1.0
+acceleration factor (phase direction),2,2,2,2,2,2
+acquisition time (min:sec),0:26,"5:24 (81 volumes, repeated twice)",5:36,8:47,13:40 (205 volumes),4:16
+others,,echo spacing = 0.56 ms,TI = 925 ms,,,TI = 963 ms

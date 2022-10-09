@@ -1,0 +1,42 @@
+"
+
+","Males
+Mean
+(1)","Males
+Coefficients
+(2)","Males
+Coefficients
+(3)","Females
+Mean
+(4)","Females
+Coefficients
+(5)","Females
+Coefficients
+(6)"
+Higher education (34),.430,,,.426,,
+Externalising skills (5),,.044             ∗∗,.024,,.069             ∗∗∗,.053             ∗∗∗
+,,(.022),(.022),,(.020),(.020)
+Internalising skills (5),,−.032,−.026,,−.017,−.029
+,,(.025),(.026),,(.023),(.023)
+Cognitive skills (5),,,.088             ∗∗∗,,,.113             ∗∗∗
+,,,(.018),,,(.016)
+Adj. R             2,,0.083,0.099,,0.101,0.120
+Observations,,1320,1237,,1691,1589
+Employed (42),.932,,,.828,,
+Externalising skills (5),,.012,.010,,.014,.014
+,,(.011),(.011),,(.017),(.018)
+Internalising skills (5),,.022             ∗,.020,,.024,.017
+,,(.013),(.013),,(.018),(.019)
+Cognitive skills (5),,,.023             ∗∗,,,.037             ∗∗∗
+,,,(.010),,,(.013)
+Adj. R             2,,0.056,0.052,,0.010,0.014
+Observations,,1294,1216,,1677,1571
+(log) Gross weekly pay (42),6.474,,,5.775,,
+Externalising skills (5),,.047,.047,,.009,.003
+,,(.037),(.035),,(.043),(.045)
+Internalising skills (5),,−.044,−.081             ∗,,.051,.041
+,,(.046),(.043),,(.048),(.050)
+Cognitive skills (5),,,.064             ∗∗,,,.137             ∗∗∗
+,,,(.029),,,(.033)
+Adj. R             2,,0.057,0.068,,0.046,0.061
+Observations,,918,865,,1198,1122

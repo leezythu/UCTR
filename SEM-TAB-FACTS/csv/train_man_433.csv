@@ -1,0 +1,14 @@
+"Source of variation
+Source of variation","Df
+Df","Mean Square
+DTF","Mean Square
+PHT (cm)","Mean Square
+GYtha               -1","Mean Square
+GW(g)","Mean Square
+Fe mg kg               -1","Mean Square
+Zn mg kg               -1"
+Environment,1,184.38**,729.16,3.41**,0,156.38**,4.91
+Replication (ENV),4,7.16*,1334.52,0.57*,0.04,25.07,0.39
+Parents,6,105.43**,3585.31,6.39**,0.6**,124.18**,33.88**
+ENV *Parents,6,17.65**,16.66,0.16,0.04,7.05,7.54
+Error,24,2.08*,1391.46,0.14,0.03,12.19,5.27

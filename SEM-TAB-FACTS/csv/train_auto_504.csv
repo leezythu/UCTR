@@ -1,0 +1,5 @@
+,Delivered acoustic power                           a                          [W],Sonication time [s/min],Delivered energy [J],Suspension volume [mL],Energy density [J mL                         −1                        ]
+No sonication,0,0,0,5,0
+Bath sonication,2,600/10,1200,10,120
+Probe sonication 90% amplitude,18,300/5,5400,10,540
+Probe sonication 90% amplitude,18,540/9,9720,10,972

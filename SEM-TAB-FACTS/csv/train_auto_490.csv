@@ -1,0 +1,5 @@
+Coded factor,Parameters,Units,Type,Minimum,Maximum,Coded Low,Coded High,Mean,Std. Dev.
+A,Extraction,(%),Numeric,20.00,60.00,−1 = 20.00,+1 = 60.00,38.40,16.75
+B,Permanganate ion,(mM),Numeric,0.5000,2.50,−1 = 0.50,+1 = 2.50,1.48,0.7969
+C,pH,–,Numeric,4.00,8.00,−1 = 4.00,+1 = 8.00,6.08,1.75
+D,Time,(Minute),Numeric,45.00,105.00,−1 = 45.00,+1 = 105.00,69.60,24.06

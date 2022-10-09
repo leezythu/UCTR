@@ -1,0 +1,6 @@
+Parameters,P1,P2,P3,P4,P5,Positive                        decisions,Weights,Rank
+Wind power density,2,3,3,3,3,12,0.3000,1
+Availability of suitable land,1,2,3,3,3,10,0.2500,2
+Government initiatives,1,1,2,3,3,8,0.2000,3
+Grid connectivity,1,1,1,2,1,4,0.1000,5
+Technical prowess,1,1,1,3,2,6,0.1500,4

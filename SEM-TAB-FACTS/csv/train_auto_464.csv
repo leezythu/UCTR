@@ -1,0 +1,39 @@
+"Param.
+Param.
+Param.
+Param.","Units
+Units
+Units
+Units","Power Case
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.14
+best                        (                         Sutter et al., 2016                        )
+P","Cement Case 18
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.18
+init
+init","Cement Case 18
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.18
+min
+min","Cement Case 18
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.18
+max
+max","Cement Case 18
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.18
+best
+C                              .                              18","Cement Case 22
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.22
+init
+init","Cement Case 22
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.22
+min
+min","Cement Case 22
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.22
+max
+max","Cement Case 22
+y                                        CO                                        2                                        FG                                  ,                                  in                                  =                              0.22
+best
+C                              .                              22"
+c                                        ^                                            NH                                        3,[                                 mol                                        NH                                        3                                           kg                                        H                                        2                                      O                                    -                                  1                                ],8.9,8.0,4.0,10.0,7.0,8.0,4.0,10.0,5.0
+l                                    lean,[                                 mol                                        CO                                        2                                           mol                                        NH                                        3                                        -                                  1                                ],0.352,0.331,0.25,0.45,0.350,0.331,0.25,0.45,0.362
+L                                    lean                                  /                                  G                                    in,[                             kg                                   kg                                    -                                  1                                ],4.2,4.9,3.5,8.5,5.0,6.0,4.0,10.0,7.0
+f                                    s,[–],0.28,0.25,0.05,0.45,0.25,0.18,0.05,0.45,0.15
+T                                    pa,[°C],10,5,5,19,12,5,5,19,13

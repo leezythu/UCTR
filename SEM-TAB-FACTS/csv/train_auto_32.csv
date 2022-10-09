@@ -1,0 +1,8 @@
+Parameter,Symbol,I1,I2
+Solid density,ρ                            l                          (kg/m                         3                        ),2000,2000
+Particle diameter,d                            p                          (mm),2,2
+Particle time step,δt                            p                          (s),5 ⋅ 10                         −5,5 ⋅ 10                         −5
+Nozzle diameter,D                            nozzle                          (m),0.25,0.1
+System size,L                        ×                         W                        ×                         H                        (m × m × m),0.5 × 0.5 × 0.5,0.25 × 0.25 × 0.25
+Inlet mean velocity,v                            mean                          (m/s),2.5,2.5
+Standard deviation,v                        ′ (m/s),1.0,1.0

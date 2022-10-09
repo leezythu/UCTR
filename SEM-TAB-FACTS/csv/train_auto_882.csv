@@ -1,0 +1,15 @@
+"
+","Temporal Phenotype
+A","Temporal Phenotype
+B","Temporal Phenotype
+C","p-value
+p-value"
+Total Number of Subjects,191,574,159,
+Gender Male - N(%),107 (56 %),340 (59.1 %),94 (59.1 %),0.727
+Age - Mean (SD),63.99(12.07),64.43(9.99),66.18(9),0.007
+Time from Diagnosis – Median (IQR),4.81(13.1),7.1(10.3),10.1(10.2),0.497
+Hba1c - Mean (SD),58.63(16.8),55.28(15.61),54.99(12.79),0.547
+BMI - Mean (SD),30.27(6.06),29.6(4.94),28.8(4.54),0.288
+Cholesterol - Mean (SD),184.94(36.31),185.53(31.56),186.96(29.24),<0.001
+Triglycerides - – Median (IQR),139(77.8),127(63.3),119(51.5),0.20
+SBP - Mean (SD),131.98 (17),132.16 (14.12),135.4 (14.04),0.008

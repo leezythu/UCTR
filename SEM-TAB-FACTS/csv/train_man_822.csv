@@ -1,0 +1,5 @@
+Transition mechanism,"Best-guess probability                     p                        τ                      ,                      0","Lower probability                     p                        τ                      ,                      -","Upper probability                     p                        τ                      ,                      +"
+Missing protection system operation (                     p                        m                    ),0.0205,0.01,0.04
+Unwanted unselective tripping (                     p                        u                    ),0.007,0.004,0.02
+Failure of corrective actions (                     p                        c                    ),0.02,0.005,0.04
+Failure of islanding (                     p                        i                    ),0.01,0.002,0.04

@@ -1,0 +1,6 @@
+Metric,Type                           1,Description
+Duct size (mm                         2                        ),Unstandardized,Mean size of all ducts per annual ring
+Duct production (no. year                         −1                        ),Unstandardized,Total number of ducts per annual ring
+Total duct area (mm                         2                        year                         −1                        ),Unstandardized,Sum of duct area per annual ring
+Duct density (no. mm                         −2                        year                         −1                        ),Standardized,Total number of ducts per annual ring divided by ring area                           2
+Relative duct area (% annual ring),Standardized,Total duct area divided by ring area                           2                          × 100

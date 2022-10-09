@@ -1,0 +1,16 @@
+"
+","Panel 1: 2005/2006–2009/2010
+Process improvement (t0)","Panel 1: 2005/2006–2009/2010
+Process improvement (t+1)","Panel 2: 2009/2010–2013/2014
+Process improvement (t0)","Panel 2: 2009/2010–2013/2014
+Process improvement (t+1)"
+Financial constraints,4.192                           ⁎⁎⁎                          (0.819),2.874                           ⁎⁎⁎                          (0.714),5.324                           ⁎⁎⁎                          (1.304),2.817                           ⁎⁎⁎                          (0.747)
+Competence constraints,1.946                           ⁎⁎⁎                          (0.426),2.054                           ⁎⁎⁎                          (0.565),3.948                           ⁎⁎⁎                          (1.043),2.037                           ⁎⁎                          (0.603)
+Outsourcing,1.975                           ⁎⁎⁎                          (0.243),1.323                           ⁎                          (0.204),1.716                           ⁎⁎⁎                          (0.257),1.521                           ⁎⁎                          (0.252)
+Firm-size,2.204                           ⁎⁎⁎                          (0.195),2.231                           ⁎⁎⁎                          (0.261),2.423                           ⁎⁎⁎                          (0.273),2.474                           ⁎⁎⁎                          (0.318)
+Firm-type fixed effects,Yes,Yes,Yes,Yes
+Industry fixed effects,Yes,Yes,Yes,Yes
+Year fixed effects,Yes,Yes,Yes,Yes
+Model χ                         2,229.79,98.68,187.79,115.08
+p,0.00,0.00,0.00,0.00
+n,2740,2095,2123,1656

@@ -1,0 +1,12 @@
+,Estimate,SE,t                        -value,P
+Intercept (raccoon dog),25.617,4.447,5.760,< 0.001
+Martes                        spp.,-9.388,7.262,-1.293,0.198
+European badger,17.399,9.944,1.750,0.083
+Red fox,36.732,7.466,4.920,< 0.001
+Hooded crow,23.727,5.781,4.104,< 0.001
+Eurasian magpie,24.084,5.704,4.222,< 0.001
+Common raven,-8.622,8.734,-0.987,0.325
+Eurasian jay,-9.487,7.703,-1.232,0.220
+Western marsh harrier,18.052,7.262,2.486,0.014
+Gulls,58.061,9.258,6.272,< 0.001
+,,,,

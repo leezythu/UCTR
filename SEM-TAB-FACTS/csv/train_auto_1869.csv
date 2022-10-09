@@ -1,0 +1,26 @@
+"
+
+","Low density
+High SNR
+pSMLM                           a","Low density
+High SNR
+SMAP","Low density
+Low SNR
+pSMLM                           a","Low density
+Low SNR
+SMAP","High density
+High SNR
+pSMLM                           a","High density
+High SNR
+SMAP","High density
+Low SNR
+pSMLM                           a","High density
+Low SNR
+SMAP"
+RMSE x (nm),10.7 ± 0.1,9.6 ± 0.1,24.7 ± 0.2,8.9 ± 0.1,32.0 ± 0.6,37.3 ± 0.7,53.7 ± 2.0,57.1 ± 2.3
+RMSE                         y                        (nm),7.5 ± 0.1,6.5 ± 0.1,16.4 ± 0.1,6.1 ± 0.1,21.1 ± 0.4,23.0 ± 0.5,35.0 ± 1.4,41.0 ± 1.6
+RMSE                         z                        (nm),15.1 ± 0.1,13.5 ± 0.2,34.2 ± 0.3,12.6 ± 0.2,35.6 ± 0.7,36.8 ± 0.8,70.3 ± 2.6,65.8 ± 2.8
+RMSE                         xyz                        (nm),22.9 ± 0.2,20.5 ± 0.2,51.3 ± 0.3,19.0 ± 0.2,60.8 ± 0.8,67.0 ± 1.0,108.2 ± 2.7,110.1 ± 2.6
+Jaccard (%),76 ± 1.2,61 ± 1.0,63 ± 1.2,65 ± 0.8,26 ± 0.6,21 ± 1.3,22 ± 0.7,5 ± 0.3
+Analysis time (s),52,196,58,190,9,15,9,16
+Phasor time (s),1.4,,1.4,,0.6,,0.5,

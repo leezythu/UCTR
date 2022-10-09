@@ -1,0 +1,15 @@
+No.,Algorithm categories,Models,Settings
+1,Decision trees,Coarse tree,Maximum number of layers = 5
+2,,Medium tree,Maximum number of layers = 20
+3,Discriminant analysis,Linear discriminant,Based on a linear classifier
+4,,Quadratic discriminant,Based on a quadratic classifier
+5,Support vector machine (SVM),Linear SVM,Based on a linear kernel
+6,,Quadratic SVM,Based on a quadratic kernel
+7,,Cubic SVM,Based on a cubic kernel
+8,K nearest neighbor (KNN),Fine KNN,"Based on Euclidean distance, number of NN=1"
+9,,Medium KNN,"Based on Euclidean distance, number of NN=10"
+10,,Cos KNN,"Based on cosine distance, number of NN=100"
+11,,Cubic KNN,"Based on Euclidean distance, number of NN=10"
+12,Ensemble algorithms,Bagged trees,Number of learners =50            Learning rate = 0.1
+13,,Subspace discriminant,Number of learners =30            Subspace dimension = (number of features)/2
+14,,Subspace KNN,Number of learners =30            Subspace dimension = (number of features)/2

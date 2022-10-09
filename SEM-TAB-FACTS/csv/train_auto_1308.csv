@@ -1,0 +1,10 @@
+"Anode
+Anode","Maximum power density (mW m                         −2                        )
+day 12","Maximum power density (mW m                         −2                        )
+day 17"
+GRbare #1,12,359
+GRbare #2,5,353
+GR_S #1,242,320
+GR_S #2,397,330
+GR350 #1,258,325
+GR350 #2,347,334

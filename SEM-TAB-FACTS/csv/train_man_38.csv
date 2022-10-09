@@ -1,0 +1,15 @@
+Common name,Chromosome number (2n),Genome size (Mb),Scaffold N50 (Mb),Coverage,%GC,Number of genes,Number of protein-coding genes,Sequencing platforms,Reference
+Asian seabass,48,668.5,25.8,170x,40.8,"30,687","22,184","Illumina, PacBio",
+Atlantic cod,46,824.3,0.5,40x,46.3,"22,154","20,095",Roche 454 GS FLX Titanium,;
+Atlantic salmon,58,2966.9,3.0,220x,43.9,"46,598","37,206","Sanger, Illumina, PacBio",
+Channel catfish,58,771.9,7.7,167x,31.5,"30,530","26,661","Roche 454 FLX Titanium, Illumina GaIIx",;
+Common carp,100,1713.7,1.0,229x,37.3,"52,610","47,795","Roche 454, IlluminaHiSeq 2000and SOLiD",;
+European seabass,48,675.9,5.1,30x,40.4,"26,719",–,"Sanger, Roche 454, Illumina GAIIx",
+Grass carp,48,1076.2 (m)            900.5 (f),2.3 (m)            6.5 (f),110x (m) 95x (f),37.4,"28,842","27,263","Sanger, Illumina GAIIx",
+Japanese flounder,48,546.0,3.9,120x,43.2,"22,751","21,787","Illumina, Hiseq 2000",
+Nile tilapia,46,1005.7,2.8,269x,40.7,"24,559","21,437",PacBio,
+Northern snakehead,48,644.4,4.5,125x,39.9,–,"19,877","Illumina, Hiseq 2000",
+Pacific bluefin tuna,56,684.5,7.9,252x,39.7,–,"26,433","Roche 454, Illumina GaIIx, PacBio",
+Rainbow trout,58,2179.0,0.4,70x,43.5,"30,687","22,184","Sanger Roche 454, Illumina GaIIx, HiSeq 2000",
+Tongue sole,42,470.2,0.9,212x,41.3,"22,352","21,516",Sanger Illumina NGS,
+Turbot,42,568.0,4.3,219x,43.4,"28,189","22,751",Illumina GAIIx and HiSeq 2000,

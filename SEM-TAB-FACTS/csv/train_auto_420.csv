@@ -1,0 +1,5 @@
+DG type,Real power (                           P                          ),Reactive power (                           Q                          ),Example
+I,↑,0,PV and fuel cell
+II,0,↑,Phase modifier circuit or synchronous condenser
+III,↑,↑,"Small hydro turbines, Cogeneration and gas turbine"
+IV,↑,↓,Induction machines e.g. Wind turbine (DFIG)

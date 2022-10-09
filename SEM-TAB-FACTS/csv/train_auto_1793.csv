@@ -1,0 +1,22 @@
+NO,Compounds,Chemical formula,Relative Content (%),Similarity(%)
+1,Methylhydrazine,CH                         6                        N                         2,1.195,86
+2,Acetic acid glacial,C                         2                        H                         4                        O                         2,1.783,64
+3,Furfural,C                         5                        H                         4                        O                         2,0.795,93
+4,"1,4,5-Trimethyl-1H-imidazole",C                         6                        H                         10                        N                         2,0.127,52
+5,"3(2H)-Furanone,2,4-dihydroxy-2,5-dimethyl",C                         6                        H                         8                        O                         4,0.243,59
+6,methyl succinic anhydride,C                         5                        H                         6                        O                         3,0.186,50
+7,"1,3-Dihydroxy-5-methylbenzene",C                         7                        H                         8                        O                         2,0.243,72
+8,"Ethanamine,N-ethyl-N-nitroso-",C                         4                        H                         10                        N                         2                        O,0.256,53
+9,"4H-Pyran-4-one,2,3-dihydro-3,5-dihydroxy-6-methyl-",C6H                         8                        O                         4,2.601,91
+10,"4H-Pyran-4-one,3,5-dihydroxy-2-methyl",C                         6                        H                         12                        O                         6,0.162,89
+11,"2-Furancarboxaldehyde,5-[(acetyloxy)methyl]-",C                         8                        H                         8                        O                         4,0.286,64
+12,D-Ribose,C                         5                        H                         10                        O                         5,0.340,58
+13,"4,4′-bis(tetrahydrothiopyranyl)",C                         10                        H                         18                        S                         2,0.210,95
+14,"3,5-Dimethoxy-4-hydroxybenzhydrazide",C                         9                        H                         12                        N                         2                        O                         4,0.185,92
+15,"4-Hydroxy-9-(3-methy1-2-buteny1)furo(3,2-g)chromen-7-one",C                         16                        H                         14                        O                         4,0.145,94
+16,"7H-Furo[3,2-g][1]benzopyran-7-one,9-hydroxy-",C                         11                        H                         6                        O                         4,0.663,98
+17,8-Methoxypsoralen,C                         12                        H                         8                        O                         4,1.206,96
+18,5-Methoxypsoralen,C                         12                        H                         8                        O                         4,0.910,98
+19,Osthole,C1                         5                        H                         16                        O                         3,11.000,99
+20,"7H-Furo[3,2-g][1]benzopyran-7-one,4,9-dimethoxy-",C                         13                        H                         10                        O                         5,0.867,98
+21,5-Hydroxymethylfurfural,C                         6                        H                         6                        O                         3,19.086,94

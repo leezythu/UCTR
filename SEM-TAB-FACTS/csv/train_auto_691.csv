@@ -1,0 +1,7 @@
+Samples,Primers name,Oligonucleotide sequence (5’–3’),References
+All samples,V3_F,aatcatacggcgaccaccgagatct                         acactctttccctacacgac                           gctcttccgatct                        CCTACGGGAGGCAGCAG,[7]
+Skin sample,V3_7R,caagcagaagacggcatacgagat                         GATCTG                          gtgactggagtt                           cagacgtgtgctcttcccgatct                        ATTACCGCGGCTGCTGG,[7]
+Gut content,V3_5R,caagcagaagacggcatacgagat                         CACTGT                          gtgactggagtt                           cagacgtgtgctcttcccgatct                        ATTACCGCGGCTGCTGG,[7]
+Water sample,V3_13R,caagcagaagacggcatacgagat                         CGTACT                          gtgactggagtt                           cagacgtgtgctcttcccgatct                        ATTACCGCGGCTGCTGG,[7]
+All samples,341F,CCTACGGGAGGCAGCAG,[8]
+All samples,518R,ATTACCGCGGCTGCTGG,[8]

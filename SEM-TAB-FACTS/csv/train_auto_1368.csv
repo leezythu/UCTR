@@ -1,0 +1,20 @@
+Procedure,Section,Imaging,X-ray,Automation
+Beam Energy,4.1,✓,✓,✓
+Probe Current,4.2,✓,✓,✓
+Energy Scale Correction,4.3,,✓,✓
+Elevation angle,4.4,,✓,✓
+Optimal working distance,4.5,,✓,✓
+Detector alignment,4.6,,✓,✓
+Coincident Event,4.7,,✓,✓
+Detector Resolution,4.8,,✓,✓
+Count Rate Linearity,4.9,,✓,✓
+Instrumental Peaks,4.10,,✓,✓
+Response Time,4.11,✓,,✓
+Z-Contrast,4.12,✓,,✓
+Dimensional Calibration,4.13,✓,,✓
+Image Rotation Compensation,4.14,✓,,✓
+Stage-Field Registration,4.15,,,✓
+Image Orthogonality,4.16,✓,,✓
+Stage Orientation,4.17,✓,,✓
+Stage Position - Short term,4.18,,,✓
+Stage Position - Long term,4.19,,,✓

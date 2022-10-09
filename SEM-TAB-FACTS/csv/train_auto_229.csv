@@ -1,0 +1,35 @@
+"
+","Gleason grade at baseline
+","All patients
+","Nonvisible disease
+3 + 3","Nonvisible disease
+3 + 4","MRI-visible disease
+3 + 3","MRI-visible disease
+3 + 4"
+n,,672,312,65,212,83
+,,,,,,
+Mortality,Prostate cancer–related deaths,0,0,0,0,0
+,Deaths due to other causes,24,8,4,5,7
+,Total person-year follow-up,3811,,,,
+,All-cause deaths/1000 py (95% CI),6.3 (4.1–9.5),,,,
+,,,,,,
+Metastasis,Nodal,5,1,0,2,2
+,Bone,3,0,1,1,1
+,Total person-year follow-up,3792,,,,
+,Total metastatic events/1000 py (95% CI),2.1 (1.0–4.3),,,,
+,,,,,,
+Treatment,Number of patients treated,216,68,17,82,49
+,Total person-year follow-up,3486,,,,
+,Patients treated/1000 py (95% CI),62.0 (54.3–70.6),,,,
+,,,,,,
+,RP,62,21,4,23,14
+,EBRT (±ADT),27,8,1,12,6
+,ADT alone,16,5,0,6,5
+,Brachytherapy,5,1,1,3,0
+,Focal,106,33,11,38,24
+,,,,,,
+Transition to WW,,21,5,3,9,4
+,,,,,,
+Upgrade to Gleason ≥4 + 3,Upgrading on follow-up biopsy,27,11,2,7,7
+,Total person-year follow-up,3514,,,,
+,Upgrading on follow-up biopsies/1000 py (95% CI),7.7 (5.2–11.3),,,,

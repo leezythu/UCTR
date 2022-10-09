@@ -1,0 +1,13 @@
+"MAWGS
+Item","MAWGS
+Value","MAWGS
+Units"
+Membrane heat transfer coefficient,200,W/m                         2                        K
+N° of tubes,6000,–
+Tube height,10,m
+Tube diameter,0.05,m
+Retentate side ΔP,200,kPa
+Permeate side ΔP,20,kPa
+Membrane void fraction,0.5,–
+Membrane density,5240,kg/m                         3
+Maximum membrane temperature,600,°C

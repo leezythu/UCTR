@@ -1,0 +1,21 @@
+Decision problem,Description
+Order Assignment:,
+Replenishment Order Assignment (ROA),assignment of replenishment
+,orders to replenishment stations
+Pick Order Assignment (POA),assignment of pick orders to
+,picking stations
+Task Creation:,
+Replenishment Pod Selection (RPS),selection of pods that will
+,move to a replenishment station
+,to store replenishment items
+Pick Pod Selection (PPS),selection of pods to use for
+,picking the pick orders assigned
+,at a picking station
+Pod Repositioning (PR),assignment of an available
+,storage location to a pod that
+,is not in the inventory area
+Task Allocation (TA),assignment of generated tasks for
+,"robots in RPS, PPS, PR and"
+,additional tasks such as idling
+Path Planning (PP),planning of the paths for the
+,robots to execute

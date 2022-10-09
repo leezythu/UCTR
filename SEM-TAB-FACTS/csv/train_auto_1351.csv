@@ -1,0 +1,25 @@
+Number of genes,Description
+133,Amino Acids and Derivatives
+132,Carbohydrates
+119,"Protein Metabolism (folding, biosynthesis, processing and modification, degradation)"
+91,"Cofactors, Vitamins, Prosthetic Groups, Pigments (biosynthesis, degradation, metabolism)"
+85,"Nucleosides and Nucleotides (conversion, synthesis, utilization)"
+47,"DNA Metabolism (repair, RMS, replication, recombination)"
+43,"Fatty Acids, Lipids, and Isoprenoids"
+24,Cell Wall and Capsule
+35,RNA Metabolism
+23,"Virulence, Disease and Defense (resistance to antibiotics, toxic compounds and intracellular resistance)"
+4,Phosphorus Metabolism
+14,Respiration
+13,Stress Response
+15,Miscellaneous
+9,Membrane Transport
+4,Regulation and Cell signaling
+3,Potassium metabolism
+13,Nitrogen Metabolism
+5,Dormancy and Sporulation
+8,Iron acquisition and metabolism
+4,Cell Division and Cell Cycle
+3,Sulfur Metabolism
+6,"Phages, Prophages, Transposable elements, Plasmids"
+1500,Other genes not included in COGs

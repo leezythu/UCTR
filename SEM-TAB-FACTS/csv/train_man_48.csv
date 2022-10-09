@@ -1,0 +1,13 @@
+No,Name,Description,Code,Measure,Unit,Source
+1,Identity,Unique ID to each WUA in the Klambu Wilalung Irrigation District,ID,,,Enumeration
+2,Official name,The official name of WUA as registered in the irrigation offices of Kudus and Grobogan Regency,name,,,Enumeration
+3,Province,The province (Provinsi) in which WUA situated.,Prov,,,Enumeration
+4,Regency,The regency/city (             Kabupaten/Kota            ) in which WUA situated.,Reg,,,Enumeration
+5,District,The district (             kecamatan            ) in which WUA situated.,Dis,,,Enumeration
+6,Village,The village (             desa            ) in which WUA is situated.,village,,,Enumeration
+7,Hamlet,The hamlet (RW) in which WUA situated,hamlet,,,Enumeration
+8,Neighborhood,The neighborhood (RT) in which WUA situated,neighborhood,,,Enumeration
+9,Governance,"The type of WUA governance (1=provider-based network, 2=community-based network)",Gov,Nominal,,Enumeration
+10,Area,WUA's operation area based,,Scale,ha,Enumeration
+11,Board Member,The number of WUA's board member including the chairman,board,Scale,person,Enumeration
+12,Member farmer,The number of farmers belongs to the WUA,member,Scale,person,Enumeration

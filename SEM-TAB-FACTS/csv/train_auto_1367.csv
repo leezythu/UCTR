@@ -1,0 +1,5 @@
+Coordinate,Setup,Relocation,Tests
+1,4                              →                              1,2                              →                              1,−X vs +X
+2,1                              →                              2,3                              →                              2,−Y vs +Y
+3,2                              →                              3,4                              →                              3,−X vs +X
+4,3                              →                              4,1                              →                              4,−Y vs +Y

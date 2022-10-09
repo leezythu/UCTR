@@ -1,0 +1,33 @@
+"Extract ID
+Extract ID","Origin
+Origin","Host
+Host","Dracunculus medinensis            assay
+Time to positive (min:sec)","Dracunculus medinensis            assay
+Annealing temperature (°C)"
+ChDo-339.2,Chad,Dog,10:00,81.11
+ChHu-69,Chad,Human,12:15,80.55
+ChDo-1,Chad,Dog,7:45,81.34
+ChDo-108.5,Chad,Dog,8:15,81.30
+ChHu-25,Chad,Human,8:45,80.86
+ChCa-10a,Chad,Cat,9:00,81.15
+ChDo-189,Chad,Dog,10:15,81.50
+ChDo-13,Chad,Dog,8:00,81.40
+ChDo-11,Chad,Dog,9:00,80.86
+ChDo-47.11,Chad,Dog,8:30,81.60
+ChHu-100,Chad,Human,10:15,81.35
+ChHu-24,Chad,Human,8:30,81.45
+ChDo-1,Chad,Dog,7:45,81.20
+ChHu-283,Chad,Human,10:00,82.58
+EtDo-172,Ethiopia,Dog,12:15,82.78
+EtHu-278,Ethiopia,Human,10:30,82.63
+EtBa-153,Ethiopia,Baboon,10:30,82.87
+EtHu-152,Ethiopia,Human,10:00,82.57
+MaHu-165,Mali,Human,9:45,82.67
+MaHu-240,Mali,Human,10:00,82.54
+MaHu-242,Mali,Human,23:00,82.58
+MaHu-253,Mali,Human,11:00,82.79
+SsHu-201,South Sudan,Human,8:45,82.50
+SsHu-256,South Sudan,Human,10:15,82.36
+SsDo-183,South Sudan,Dog,10:30,82.48
+Uninfected copepod,n/a,n/a,–,–
+Dracunculus insignis,n/a,n/a,–,–

@@ -1,0 +1,18 @@
+"
+Symbol","
+A","
+Z","FLUKA
+LFS","FLUKA
+E (MeV)","EAF-2010 (MF10)
+LFS","EAF-2010 (MF10)
+E (MeV)","Relative difference (%)
+Relative difference (%)","Absolute difference (MeV)
+Absolute difference (MeV)"
+Mn,50,25,1,0.23,1,0.23,1.65%,3.72E-03
+Mn,52,25,1,0.38,1,0.38,0.00%,1.00E-06
+Fe,53,26,1,3.04,1,3.04,0.00%,3.00E-05
+In,120,49,1,0.00,1,0.00,,4.00E-05
+In,120,49,2,0.07,2,0.00,97.09%,6.80E-02
+Sn,120,50,1,2.48,–,–,,
+Sn,120,50,2,2.90,–,–,,
+I,120,53,–,–,1,0.90,,

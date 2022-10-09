@@ -1,0 +1,13 @@
+Dataset Name,Modality,Data Format,# Subjects,Year
+The KITTI Vision Benchmark,2D Images / 3D Range Scans,PNG / BFM,5,2013
+Data61/2D3D,2D Images / 3D Point Clouds,TIFF / LAR,10,2015
+RGB-D 7-Scenes,RGB-D Images / 3D Models,PNG / TSDF,7,2013
+Cambridge Landmark,2D Images / 3D Models,PNG / NVM,6,2017
+Stanford Scanning Repository,3D Models/ CT scan / 2D images,PLY,9,1996 2003
+BrainWeb,3D Volume MRI/2D slices,MINC,270,1997
+NLM-NH-VHP,"3D Volume MRI, CT / 2D Images",PNG,2,1994 - 1995
+RIRE,3D Volume CT-MR and PET-MR,DICOM,7,2007
+IXI,"3D Volume MRI, MRA and DW",NIFTI,600,2018
+VIPS,2D Images / 3D Models,PNG / CAD,1,2018
+SmartTarget,3D Volume MRI and US,DICOM,129,2019
+RESECT,3D Volume MRI and US,NIFTI,23,2017

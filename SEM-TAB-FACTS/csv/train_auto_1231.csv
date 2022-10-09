@@ -1,0 +1,26 @@
+"
+
+","Size descriptor
+MALS
+r                         h,mode1","Size descriptor
+ICP-MS
+r                         h,mode1","Size descriptor
+ICP-MS
+r                         h,mode2","Size descriptor
+mass-based PSD
+d                         10","Size descriptor
+mass-based PSD
+d                         50","Size descriptor
+mass-based PSD
+d                         90"
+Number of replicates,15,15,15,15,15,15
+Mean (nm),55,45,127,70,143,268
+sd,2.1,1.9,6.6,5.8,10,13
+Min (nm),52,43,117,62,127,251
+Max (nm),59,50,138,80,159,287
+s                            r,1.5,1.4,4.2,3.5,7.9,10.2
+s                            day,1.5,1.4,5.5,5.0,7.2,9.1
+s                            IP,2.1,2.0,6.9,6.1,10.6,13.6
+u                            r                          (%),2.7,3.2,3.3,5.1,5.5,3.8
+u                            day                          (%),2.8,3.1,4.4,7.1,5.0,3.4
+u                            IP                          (%),3.9,4.4,5.8,8.8,7.4,5.1

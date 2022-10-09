@@ -1,0 +1,12 @@
+Reference ID,Study design,Sample size,Mean age (SD),Definition of low-risk prostate cancer,Quality assessment
+Chen/2018/Singapore [                         27                        ],Prospective cohort,19,65.4 (4.9),"prostate specific antigen (PSA) ≤10 ng/mL, Gleason score ≤6, clinical stage ≤ T2a)",Fair
+Alberts/2017/Netherlands [                         28                        ],Prospective cohort,210,65.4#,Gleason score 3 + 3,Fair
+Almeida/2016/Italy [                         29                        ],Prospective cohort,73,63 (5.9),"1) men should have a histologically proven adenocarcinoma of the prostate, and they should be fit for possible curative treatment, be willing to attend the follow-up visits, and should not have received former therapy [                         2                        ]; clinical stage T1c/T2 [                         3                        ]; GS ≤ 6 [                         4                        ]; ≤ 2 positive biopsy cores [                         5                        ]; PSA ≤ 10 ng/mL [                         6                        ]; PSAD ≤ 0.2 ng/mL/ml.",Fair
+Borkowetz/2017/Germany [                         30                        ],Retrospective cohort,83,73#,"≤cT2c, ≤2 cores with proven cancer,                        Gleason score ≤6 (3 + 3), prostate specific antigen (PSA) density <0.2 ng/mL2 and PSA <10 ng/mL.",Fair
+Hamoen/2018/Netherlands [                         31                        ],Prospective cohort,111,64#,"PSA density <0.2 ng/mL/ml, clinical stage cT1c–cT2c, and GS 3 + 3 and 2 positive biopsy cores at initial TRUSGB were",Fair
+Hashimoto/2012/Japan [                         32                        ],Retrospective cohort,11,65#,NR,Fair
+Hsiang/2019/USA [                         12                        ],Retrospective cohort,122,63#,grade group [GG] 1,Fair
+Osses/2020/Netherlands [                         33                        ],Retrospective cohort,111,66#,ISUP grade 1,Fair
+Ploussard/2019/France [                         11                        ],Retrospective cohort,143,64.4,"GG 1, T1–T2 disease and PSA ≤ 10",Fair
+Schoots/2018/Netherlands [                         34                        ],Prospective cohort,331,67#,(GS 3 + 3),Fair
+Vos/2016/Canada [                         13                        ],Prospective cohort,23,65,"Gleason score ≤ 6, and either clinical stage ≤ T2a or PSA ≤ 10 ng/mL.",Fair

@@ -1,0 +1,12 @@
+Term,Explanation
+Chart,A chart has a type and associated tabular input data that is represented by output marks.
+Chart type,"A type of chart within the Visception framework, consists of its own layout that is controlled by some of its VC-channels. The layout controls the shape and position of the chart’s output marks."
+Output marks,Graphical marks of a single chart.
+VC-channel,Controls a particular aspect of the appearance or layout of a chart.
+VC-channel mapping,The assignment of data (for example a dimension) to a VC-channel (for example             fill color            ).
+Layout space,Normalized space in which a layout is initially computed.
+Parent space,"Space(s) in which a chart’s output marks are embedded according to the computed layout. If the node is a root node, the parent space is simply the root viewport. Otherwise, a chart-dependent region within the output marks of the parent chart."
+Data object,"Represents a selection from a tabular dataset. May be one of the following: 1) A single row, 2) A list of rows, 3) A list of values."
+Chart input data,"A set of data objects inherited from the parent VC-node. If the node is the root VC-node, the input data is the list of rows of the entire dataset."
+Chart mapping,Transforms every input data object into a new set of data objects.
+Chart output data,"A set of data objects, used for rendering the chart, and possibly as input data to child charts."

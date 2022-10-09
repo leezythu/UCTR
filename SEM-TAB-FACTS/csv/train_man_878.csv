@@ -1,0 +1,21 @@
+Name,Units
+Vapor Pressure Deficit,index
+Minimum daily temperature,°C
+Total solar radiation,kJ m             −2            day             −1
+Maximum daily temperature,°C
+Nighttime daily temperature,°C
+Photon flux density,Umol m             −2
+Solar radiation flux to the ground,K
+NFDRS Spread Component (SC),kW m             −2            day             −1
+Relative humidity,%
+Average daily temperature,o            C
+Soil temperature,°C
+Moisture content of herbaceous fuel,°C
+NFDRS Energy Release Component (ERC),index
+NFDRS Burning Index (BI),Index
+Evaporation,kg H2O yr             −1
+Degree-days,day             o            C
+Moisture content of 100-hour fuel,%
+NFDRS ignition component (IC),index
+Potential evapotranspiration,kg H2O yr             −1
+Surface area weighted reaction intensity (IR),Index

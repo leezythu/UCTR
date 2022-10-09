@@ -1,0 +1,24 @@
+"Case #
+","Quetiapine concentrations (mg/L)
+Central blood","Quetiapine concentrations (mg/L)
+Femoral blood","Quetiapine concentrations (mg/L)
+Brain","Quetiapine concentrations (mg/L)
+Muscle","Quetiapine concentrations (mg/L)
+Liver (right)","Quetiapine concentrations (mg/L)
+Liver (left)","Femoral blood concentration change from autopsy report findings (%)
+Femoral blood concentration change from autopsy report findings (%)","Time between autopsy and reanalysis (years)
+Time between autopsy and reanalysis (years)"
+1,93.4,23.7,47.4,35.0,149,108,+208,10
+2,.056,–,0.30,0.623,1.54,2.19,–,10
+3,0.010,0.011,0.018,<LOQ,0.179,0.203,−8,9
+4,94.6,12.4,34.3,34.4,84.5,118,−31,8
+5,11.8,7.55,12.0,7.76,12.5,21.2,−24,8
+6,0.035,0.040,0.074,0.049,0.703,0.341,−18,6
+7,0.019,0.014,0.037,0.022,0.242,0.317,−13,5
+8,0.014,0.026,0.047,0.031,0.807,0.725,−19,5
+9,–,0.016,0.169,0.02,0.077,–,+33,5
+10,15.8,5.37,47.4,–,–,–,−26,5
+11,5.61,0.358,1.07,0.494,2.82,–,+99,5
+12,0.458,0.157,0.931,2.66,9.08,–,+8,5
+13,–,–,<LOQ,<LOQ,0.013,–,–,4
+14,<LOQ,<LOQ,<LOQ,<LOQ,0.056,–,–,4

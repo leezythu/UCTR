@@ -1,0 +1,15 @@
+"
+","central
+high","central
+med.","central
+low","segmental
+high","segmental
+med.","segmental
+low","subsegmental
+high","subsegmental
+med.","subsegmental
+low"
+monoE-40,29.0,0.33,0.67,26.0,2.67,1.33,21.0,6.67,2.33
+monoE-60,28.7,0.33,1.00,27.0,2.33,0.67,19.7,7.33,3.00
+monoE-70,28.0,1.67,0.33,24.0,3.67,2.33,18.7,6.33,5.00
+100 kVp,26.0,2.33,1.67,23.3,1.33,5.33,13.7,6.00,10.3

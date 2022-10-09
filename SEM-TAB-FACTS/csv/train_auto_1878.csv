@@ -1,0 +1,15 @@
+"Method
+Method","Training Datasets
+Acc (%)","Training Datasets
+MCC","Training Datasets
+Sn (%)","Training Datasets
+Sp (%)","Training Datasets
+AUC","Testing Datasets
+Acc (%)","Testing Datasets
+MCC","Testing Datasets
+Sn (%)","Testing Datasets
+Sp (%)","Testing Datasets
+AUC"
+PEA-m5C                           a,,,,,,44.30,−0.11,43.20,45.40,
+iRNA-m5C,70.70,0.42,65.70,75.70,0.77,74.00,0.48,72.40,75.60,
+This work,73.06,0.47,66.42,79.70,0.80,80.15,0.60,79.40,80.90,0.88

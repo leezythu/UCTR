@@ -1,0 +1,22 @@
+Feature,Description,Origin,Anon.,Domain
+_id,It contains the tweet’s ID      .,Twitter,✔,UUID
+created_at,UTC time when the Tweet was created      .,Twitter,✘,Date
+favorite_count,"Approximately, how many times the Tweet has been liked by Twitter users      .",Twitter,✘,N
+in_reply_to_status_id,"If the tweet is a reply, it contains the original tweet's ID      .",Twitter,✔,UUID
+in_reply_to_user_id,"If tweet is a reply, it contains the original tweet's author ID      .",Twitter,✔,UUID
+retweet_count,Number of times the tweet has been retweeted      .,Twitter,✘,N
+retweet_or_quote_id,"If the tweet is a retweet or a quote, it contains the original tweet's ID      .",Twitter,✔,UUID
+retweet_or_quote_user_id,"If the tweet is a retweet or a quote, it contains the original tweet's author ID      .",Twitter,✔,UUID
+tweet_type,"Type of tweet: original, retweet, reply, or quote      .",Twitter,✘,Text
+user_id,The tweet’s author ID      .,Twitter,✔,UUID
+sentiment_score,"Sentiment of the tweet’s text.             t               sent              ∈ [0             ,            1]      .",Calculated,✘,R
+keywords_summary.VOX,Boolean indicating if the text contains keywords related to VOX political party.,Calculated,✘,B
+keywords_summary.PP,Boolean indicating if the text contains keywords related to PP political party.,Calculated,✘,B
+keywords_summary.Ciudadanos,Boolean indicating if the text contains keywords related to Ciudadanos political party.,Calculated,✘,B
+keywords_summary.PSOE,Boolean indicating if the text contains keywords related to PSOE political party.,Calculated,✘,B
+keywords_summary.UP,Boolean indicating if the text contains keywords related to UP political party.,Calculated,✘,B
+keywords_summary.Elections,Boolean indicating if the text contains keywords related to the general elections.,Calculated,✘,B
+keywords_summary.Exhumation,Boolean indicating if the text contains keywords related to the exhumation of the fascist dictator Francisco            Franco.,Calculated,✘,B
+keywords_summary.Catalonia,Boolean indicating if the text contains keywords related to the riots in Catalonia.,Calculated,✘,B
+keywords_summary.Debate,Boolean indicating if the text contains keywords related to the main electoral debate.,Calculated,✘,B
+keywords_summary.AbascalEH,Boolean indicating if the text contains keywords related to the participation of Santiago Abascal (VOX) in the TV program ‘El Hormiguero’.,Calculated,✘,B

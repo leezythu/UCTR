@@ -1,0 +1,21 @@
+"Cluster number
+Cluster number","Number and % of sites with abiotic data
+Number and % of sites with abiotic data","Local environmental conditions
+Nutrients","Local environmental conditions
+DO","Local environmental conditions
+pH","Local environmental conditions
+Temperature","Local environmental conditions
+Cloride","Regional environmental conditions
+Geomorphology","Regional environmental conditions
+Hydrology","Regional environmental conditions
+Chemistry"
+1,"133, 39",Lowest mean Ptot,High min DO,,,,"Small-medium size,, linear form",Mixed,
+2,"195, 38",,Low min DO,,Lower max T,,"Small, linear form",Lotic,
+3,"270, 44",Highest mean Ntot with broadest range,Highest min DO,Broadest range pH,Lowest max T,,"Small, linear form, chalk soil",Lotic,
+4,"272, 35",High mean Ptot with high range,Lowest min DO,,,,"Small, linear form, some peat soils",Lentic,Brackish
+5,"58, 29","Lowest mean Ntot with small range, lowest mean Ptot",High min DO,Lowest min pH,,,"Small, isolated, peat soil and fen features",Lentic,
+6,"337, 30",,,,,,"Small to medium size, linear form, some peat soils",Lentic,Brackish
+7,"352, 30",,,,,,"Small, linear form",Lentic,
+8,"78, 27","High mean Ntot, lowest mean Ptot",High min DO,Lower min pH,,,"Moderate to small size, linear form",Lotic,
+9,"426, 88",Highest mean Ptot with broad range,,Highest min pH,Lower max T,Highest Cl,"Small, form variable",Lentic,Strongly brackish
+10,"17, 17",Low mean Ptot,,,,,Large and linear,Mixed,

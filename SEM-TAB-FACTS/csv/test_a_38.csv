@@ -1,0 +1,6 @@
+Comparison,Condition,Metric,M               Difference,t,p               perm
+Sherlock – FNL with-case,Talking,FD             Mean,−0.18 (−0.343 −0.051),−2.353,0.009
+Sherlock – FNL with-case,Talking,FD             Median,−0.106 (−0.188 −0.029),−2.534,0.013
+Sherlock – FNL with-case,Talking,Spike             Proportion,−0.171 (−0.306 −0.032),−2.353,0.025
+Sherlock – FNL with-case,Talking,FD             MeanExcluded,0.002 (−0.016 0.018),0.190,0.857
+Sherlock – FNL with-case,Talking,FD             MedianExcluded,−0.002 (−0.024 0.017),−0.222,0.829

@@ -1,0 +1,7 @@
+Samples,Observed mass,Modification observed
+Control apo protein,44376.3 Da,–
+apo-ligand complex (apo protein-acetoacetyl CoA),44376.3 Da,No
+Control AA-mutant,44343.6 Da,–
+AA-mutant-ligand complex (AA-acetoacetyl CoA),45110.8 Da,Yes
+AA-mutant-ligand complex (AA-hexanoyl CoA),45110.4 Da,Yes
+AA-mutant-ligand complex (AA-octanoyl CoA),45110.4 Da,Yes

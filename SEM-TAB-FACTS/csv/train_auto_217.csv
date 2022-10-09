@@ -1,0 +1,13 @@
+Parameter,Description,Value,Reference
+T,Time,0-365 (days),–
+S,Susceptible population,0–1,–
+E,Exposed population,0–1,–
+I,Infective population,0–1,–
+R,Removed population,0–1,–
+Y,Detected infective population,p                              I                              N,–
+N,Total population in Japan,1.26                              ×                                10                                8,SBJ (2020)
+R                                0,Basic reproduction number,"2.6 (95%CI, 2.4–2.8)",Kuniya (2020)
+β,Infection rate,"0.26 (95%CI, 0.24–0.28)",Kuniya (2020)
+1                              /                              ε,Average incubation period,5 (days),Linton et al. (2020)
+1                              /                              γ,Average infection period,10 (days),Anderson et al. (2020)
+P,Detection rate,0.25,Bommer and Vollmer (2020)

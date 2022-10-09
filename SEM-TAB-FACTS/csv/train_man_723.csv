@@ -1,0 +1,14 @@
+"Item
+Item","Data set
+1","Data set
+2","Data set
+3"
+Epoch,750,750,278
+Training loss,0.06,0.50,0.43
+Validation loss,2.48,0.94,0.71
+Accuracy,0.68,0.59,0.71
+Positive predictive value,0.63,0.53,0.66
+Negative predictive value,0.71,0.64,0.78
+Sensitivity (true positive rate),0.51,0.48,0.79
+Specificity (true negative rate),0.80,0.68,0.65
+Matthews correlation coefficient,0.32,0.16,0.44

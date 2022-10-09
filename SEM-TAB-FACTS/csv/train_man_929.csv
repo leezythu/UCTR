@@ -1,0 +1,16 @@
+"Identification
+Identification","Compressive strength MPa
+Ave","Compressive strength MPa
+St. dev.","Tensile strength MPa
+Ave","Tensile strength MPa
+St. dev."
+U0.6             s,146.7,1.5,11.7,0.8
+U0.3             s            0.3             h,147.6,2.6,13.5,1.6
+U0.6             h,147.8,3.3,11.2,1.5
+U1.2             s,145.3,4.0,15.1,1.0
+U0.6             s            0.6             h,149.6,1.8,16.2,2.0
+U0.24             s            0.96             h,153.6,2.2,17.7,1.6
+U1.2             h,147.7,1.2,15.7,2.3
+U1.6             s,145.8,5.0,16.2,1.3
+U0.8             s            0.8             h,142.0,4.1,16.5,1.2
+U1.6             h,141.2,3.8,16.3,2.0

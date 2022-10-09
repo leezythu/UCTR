@@ -1,0 +1,11 @@
+"
+Metric","
+Description","Points of differentiation
+Nutrient diversity","Points of differentiation
+Food quantity","Points of differentiation
+Relation to human health","Points of differentiation
+Relation to environmental sustainability"
+Functional diversity (FD),Calculates diversity based on nutrient content and the weighted deviance from the center of gravity.,Yes,No,FD accounts for human nutrient requirements.,A higher FD can mean more species traits. This is indicative of a more resilient system (      ).
+Potential nutrient adequacy (PNA),Weights percent of population potentially nourished by nutrient evenness.,Yes,Yes,The percent undernourished represents potential micronutrient deficiencies.,None
+Modified functional attribute diversity (MFAD),Assesses functional differences.,Yes,No,No,A higher MFAD can mean more species traits. This is indicative of a more resilient system (      ).
+Rao's quadratic entropy (Q),Weights nutrient diversity by relative food quantities.,Yes,Yes,No,A higher Q can mean more species traits. This is indicative of a more resilient system (      ).

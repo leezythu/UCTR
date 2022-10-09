@@ -1,0 +1,29 @@
+,S 1,S 2,S 3,S 4,Median (Q 1–Q 3)
+"CT (hard kernel, bone window)",,,,,
+Inwardly beveled fracture,2/2,–,3/3,3/3,3 (2–3)
+Outwardly beveled fracture,2/2,–,3/3,3/3,3 (2–3)
+Radiating fracture lines,3/3,2/3,3/3,3/3,3 (3–3)
+Keyhole fracture,–,–,–,–,–
+Intracranial bone fragments,3/3,3/3,2/3,3/3,3 (3–3)
+Gunshot residues,2/2,1/1,1/2,1/2,1.5 (1–2)
+FRACTURE MRI,,,,,
+Inwardly beveled fracture,2/2,–,3/3,3/3,3 (2–3)
+Outwardly beveled fracture,2/2,–,3/3,3/3,3 (2–4)
+Radiating fracture lines,2/3,2/3,3/3,3/3,3 (2.25–3)
+Keyhole fracture,–,–,–,–,–
+Intracranial bone fragments,1/2,1/1,1/1,1/2,1 (1–1.75)
+Gunshot residues,1/2,1/1,3/3,3/3,2.5 (1–3)
+T2-weighted MRI,,,,,
+Inwardly beveled fracture,1/1,–,2/2,1/2,1.5 (1–2)
+Outwardly beveled fracture,1/1,–,1/2,1/2,1 (1–2)
+Radiating fracture lines,1/1,1/1,0/0,2/1,1 (0.25–1)
+Keyhole fracture,–,–,–,–,–
+Intracranial bone fragments,1/0,0/0,0/0,0/1,0 (0–0.75)
+Gunshot residues,0/1,0/1,1/1,1/0,1 (0–1)
+T1-weighted MRI,,,,,
+Inwardly beveled fracture,–,–,1/2,1/2,1.5 (1–2)
+Outwardly beveled fracture,–,–,1/1,2/1,1 (1–1.75)
+Radiating fracture lines,–,–,1/2,1/1,1 (1–1.75)
+Keyhole fracture,–,–,–,–,–
+Intracranial bone fragments,–,–,0/1,0/0,0 (0–0.75)
+Gunshot residues,–,–,1/0,0/1,0.5 (0–1)

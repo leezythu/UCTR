@@ -1,0 +1,5 @@
+Step,Amount (ml),Molarity [mol l                         −1                        ],Reagent,Elution
+Condition,1,3,HNO                         3,
+Load,1,3,HNO                         3,"Mg, Ca, Zn, Fe, Rb"
+Wash,4,3,HNO                         3,
+Collect,3,–,H                         2                        O,"Sr, Ca"

@@ -1,0 +1,11 @@
+"
+Experimental timepoint","Modelled estimated marginal means for luminescence in relative light units/second (95%CI)
+Highly TB-exposed Infected (95% CI)","Modelled estimated marginal means for luminescence in relative light units/second (95%CI)
+Highly TB-exposed Uninfected (95% CI)","
+p"
+Baseline,400.78 (332.66–482.84),456.59 (374.81–556.21),0.092
+4 h,"848.10 (703.95–1,021.76)","889.31 (730.02–1,083.34)",0.54
+24 h,"872.47 (724.18–1,051.12)","970.13 (796.37–1,181.80)",0.171
+48 h,"2,144.54 (1,780.05–2,583.66)","2,307.49 (1,894.20–2,810.95)",0.345
+72 h,"5,282.15 (4,384.38–6,363.76)","6,005.02 (4,929.47–7,315.24)",0.098
+96 h,"11,261.95 (9,347.84–13,568.01)","13,303.89 (10,921.06–16,206.62)",0.031

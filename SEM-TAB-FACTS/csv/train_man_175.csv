@@ -1,0 +1,21 @@
+"RAMPS 1.4 Additional Controls
+Daughterboard","RAMPS 1.4 Additional Controls
+RAMPS 1.4 Pin","RAMPS 1.4 Additional Controls
+Notes"
+E3D PT100 board primary hot end,5V,5V
+,GND,GND
+,D57,Signal Pin
+E3D PT100 board second hot end,5V,5V
+,GND,GND
+,D58,Signal Pin
+Turntable Stepper Driver,+12V,+12V
+,GND (-12V),GND
+,+5V,+5V
+,GND (-5V),GND
+,D4,Direction
+,D5,Step
+,D6,Enable
+PWM Fan Controllers,Any of the following:D44D45D46,Only PWM pins will work to control the fans. +12V and GND pins are the only fan input.
+Optional Relays to control extra fans or,GND,Relay breaks the +12V
+lights,5V,wire to switch fans/lights
+,Any other digital pin available.,on and off.

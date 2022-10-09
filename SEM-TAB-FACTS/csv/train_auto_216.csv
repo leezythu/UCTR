@@ -1,0 +1,11 @@
+"Peak pressure (daPa)
+Group","Peak pressure (daPa)
+Mean","Peak pressure (daPa)
+Median","Peak pressure (daPa)
+SD","Peak pressure (daPa)
+Minimum","Peak pressure (daPa)
+Maximum","Peak pressure (daPa)
+p                            a"
+Control,−1.2,0.0,8.6,−16.0,17.0,<0.05
+Asymptomatic,−19.0,−11.0,24.4,−86.0,6.0,
+Symptomatic,−191.0,−192.0,55.7,−268.0,−91.0,

@@ -1,0 +1,7 @@
+"Parameter
+","Diffusion theory model
+","Monte Carlo simulation
+Isotropic media (                         g                        = 0)","Monte Carlo simulation
+Anisotropic media (                         g                        = 0.9)"
+Correlation,0.9937,0.9532,0.9867
+"RMSE, cm                         −2",0.0947,0.1421,0.0942

@@ -1,0 +1,12 @@
+"
+Quenchants","Relative amount of phases present (%)
+Martensite","Relative amount of phases present (%)
+Retained austenite","
+Count","
+Perimeter (µm)","
+Feret's Diameter (µm)"
+EC,93,7,580,11.845,2.482
+ETC,95,5,675,10.714,2.048
+TC,89,11,500,13.845,2.581
+FC,84,16,227,18.707,2.990
+*SAE40,77,23,252,14.5,2.80

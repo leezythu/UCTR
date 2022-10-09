@@ -1,0 +1,59 @@
+"Session ID
+Session ID
+Initial Positions","S1 (right hand)
+S2 (left hand)
+Sit","S1 (right hand)
+S2 (left hand)
+A","S3 (right hand)
+S4 (left hand)
+Sit","S3 (right hand)
+S4 (left hand)
+A"
+Activity Sequence,Activity,Location,Activity,Location
+1,Drink Glass,A,Stand Up,A
+2,Pour Water,A,Clean Table,A
+3,Stand Up,A,Sit Down,A
+4,Walk,A→B,Pour Water,A
+5,Open Door,B,Stand Up,A
+6,Clean Table,B,Drink Glass,A
+7,Walk,B→A,Walk,A→C
+8,Sit Down,A,Drink Glass,C
+9,Pour Water,A,Open Door,C
+10,Drink Glass,A,Close Door,C
+11,Stand Up,A,Pour Water,C
+12,Walk,A→C,Walk,C→B
+13,Open Door,C,Pour Water,B
+14,Brush Teeth,C,Open Door,B
+15,Walk,C→B,Pour Water,B
+16,Clean Table,B,Walk,B→C
+17,Sit Down,B,Open Door,C
+18,Drink Glass,B,Drink Glass,C
+19,Pour Water,B,Brush Teeth,C
+20,Stand Up,B,Pour Water,C
+21,Walk,B→C,Close Door,C
+22,Close Door,C,Drink Glass,C
+23,Brush Teeth,C,Walk,C→B
+24,Walk,C→B,Drink Glass,B
+25,Clean Table,B,Close Door,B
+26,Close Door,B,Clean Table,B
+28,Walk,B→A,Pour Water,A
+29,Sit Down,A,Sit Down,A
+30,Stand Up,A,Drink Glass,A
+31,Pour Water,A,Clean Table,A
+32,Clean Table,A,Pour Water,A
+33,Drink Glass,A,Stand Up,A
+34,Walk,A→B,Walk,A→C
+35,Sit Down,B,Open Door,C
+36,Clean Table,B,Pour Water,C
+37,Stand Up,B,Brush Teeth,C
+38,Walk,B→C,Drink Glass,C
+39,Brush Teeth,C,Walk,C→B
+40,Walk,C→B,Clean Table,B
+41,Close Door,B,Open Door,B
+42,Walk,B -> C,Walk,B→A
+43,Brush Teeth,C,Drink Glass,A
+44,Open Door,C,Sit Down,A
+45,Brush Teeth,C,Stand Up,A
+46,Close Door,C,Walk,A→C
+47,,,Close Door,C
+Final position,Standing,C,Standing,C

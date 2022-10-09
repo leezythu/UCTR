@@ -1,0 +1,12 @@
+"Scene
+","Spatial
+Extent (m)","# Frames
+Train","# Frames
+Test"
+Chess,3  ×  2  ×  1m,4000,2000
+Fire,2.5  ×  1  ×  1m,2000,2000
+Heads,2  ×  0.5  ×  1m,1000,1000
+Office,2.5  ×  2  ×  1.5m,6000,4000
+Pumpkin,2.5  ×  2  ×  1m,4000,2000
+Red Kitchen,4  ×  3  ×  1.5m,7000,5000
+Stairs,2.5  ×  2  ×  1.5m,2000,1000

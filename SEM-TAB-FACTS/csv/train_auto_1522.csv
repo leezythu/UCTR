@@ -1,0 +1,8 @@
+,S                         (politician),E                         (politician),O                         (politician),A                         (politician),C                         (politician)
+Personality                         (self),,,,,
+Direct effect:,0.31                         ***,0.27                         ***,0.38                         ***,0.41                         ***,0.25                         ***
+Indirect effect:,0.01,−0.01,0.17                         ***,0.04*,0.07                         **
+Total effect:,0.33                         ***,0.26                         ***,0.56                         ***,0.46                         ***,0.31                         ***
+% direct,96%,103%,69%,91%,79%
+% indirect,4%,−3%,31%,9%,21%
+n,611,610,610,610,611

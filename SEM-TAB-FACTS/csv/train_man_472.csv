@@ -1,0 +1,16 @@
+"
+Location","
+Near or between OAR?","
+N","FS-HDR-BT
+Median D95 CTV (Gy)","FS-HDR-BT
+Range (Gy)","MR-Linac
+Median D95 PTV (Gy)","MR-Linac
+Range (Gy)"
+Peripheral,No,5,20.0,19.1–21.1,21.0,20.4–22.0
+Central,U,3,19.7,16.6–21.2,19.0,19.0–19.7
+Peripheral,U and R,3,19.1,17.5–19.1,19.0,18.1–19.2
+Central,U and R,4,18.4,17.7–18.7,18.5,17.4–19.3
+Central,U and B,3,15.2,14.0–21.7,17.7,17.0–20.7
+Peripheral,R,4,19.7,18.6–21.1,19.1,18.8–20.1
+Seminal vesicles,R and/or B,5,16.8,16.0–19.2,17.9,15.5–19.1
+Base,R and B,3,16.3,15.7–18.7,16.1,16.0–18.6

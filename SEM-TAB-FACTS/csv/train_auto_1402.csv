@@ -1,0 +1,20 @@
+Code,Variable,Importance
+bio1,Annual mean temperature,18.4
+bio2,Mean diurnal range = mean of monthly (max temp-min temp),0.4
+bio3,Isothermality (bio2/bio7) (∗100),10.1
+bio4,Temperature seasonality (standard deviation ∗100),0.6
+bio5,Max temperature of warmest month,0.9
+bio6,Min temperature of coldest month,0.3
+bio7,Temperature annual range (bio5-bio6),1.1
+bio8,Mean temperature of wettest quarter,0.4
+bio9,Mean temperature of driest quarter,0.2
+bio10,Mean temperature of warmest quarter,4.1
+bio11,Mean temperature of coldest quarter,7.9
+bio12,Annual precipitation,2.9
+bio13,Precipitation of wettest month,0.9
+bio14,Precipitation of driest month,23.8
+bio15,Precipitation seasonality (coefficient of variation),19.1
+bio16,Precipitation of wettest quarter,0.1
+bio17,Precipitation of driest quarter,1.6
+bio18,Precipitation of warmest quarter,7.3
+bio19,Precipitation of coldest quarter,0.1

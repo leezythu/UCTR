@@ -1,0 +1,10 @@
+Sensor,VZ-2000,miniVUX-1DL,VUX-1UAV
+Field of view,+                          60°/                           −                          40°,23° off-nadir,330°
+Scanning pattern,Hemispheric,Circular,Linear
+,,(Palmer scan),
+Pulse repetition frequency,1 MHz,100 kHz,550 kHz
+Wavelength,1550 nm,905 nm,1550 nm
+Beam divergence,0.3 mrad,1.6                           ×                          0.5 mrad,0.5 mrad
+Footprint size @ 100 m,∼                          30 mm,160                           ×                          50 mm,50 mm
+Accuracy,8 mm @ 150 m,15 mm @ 50 m,10 mm @ 150 m
+Precision,5 mm @ 150 m,10 mm @ 50 m,5 mm @ 150 m

@@ -1,0 +1,16 @@
+"
+","Network characteristics
+Network size (                         N                        )","Network characteristics
+Network connectivity (                         α, β, γ                        )","Network characteristics
+Degree heterogeneity","Network characteristics
+Link costs heterogeneity","Network characteristics
+Proportion of nodes being OD points"
+Mean robustness to SLF,0.66***,"[0.74, 0.83]***",-0.20                           ns,-0.55**,-0.17                           ns
+Mean robustness to 2LF,0.67***,"[0.73, 0.82]***",-0.20                           ns,-0.57**,-0.17                           ns
+Mean robustness to 3LF,0.68***,"[0.72, 0.81]***",0.17                           ns,-0.59***,-0.16                           ns
+SLF vs ALL                         (1),0.28                           ns,"[0.20, 0.21]                           ns",-0.08                           ns,-0.29                           ns,0.59***
+2LF vs ALL,0.41*,"[0.22, 0.24]                           ns",-0.10                           ns,-0.39*,0.40*
+3LF vs ALL,0.35                           ns,"[0.01, 0.02]                           ns",-0.00                           ns,-0.30                           ns,-0.25                           ns
+Robustness to a BETWI                         (2),-0.43*,"[0.53, 0.67]**",-0.11                           ns,0.43*,0.01                           ns
+Robustness to a RAND                         (3),0.27                           ns,"[0.70, 0.83]***",-0.18                           ns,0.31*,0.11                           ns
+Targeted attack extended impact,0.30                           ns,"[0.48, 0.52]**",-0.22                           ns,-0.18                           ns,0.24                           ns

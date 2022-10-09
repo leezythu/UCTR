@@ -1,0 +1,15 @@
+Humanoid,Image,Number of actuators,Actuator type(s),Mask material,Weight (kg),Head Size,With body (Y/N),Open source (Y/N),Consumer product (Y/N),Cost ($)
+Eva(this paper),,25,Servo motor,Silicone,3,Adult,N,Yes,N,900
+Face Robot                         [3],,24,"FMA, stepper motor, air cylinder",Silicone,N/A,Adult,N,N,N,N/A
+Face Robot                         [4],,N/A,"McKibben actuator, DC motor",Urethane resin,1.5,Adult,N,N,N,N/A
+Albert HUBO                         [5],,"66 (31 in head, 35 in body)",Servo motor,Frubber,57,Adult,Y,N,N,N/A
+Face Robot                         [6],,39,McKibben actuator,Urethane resin,N/A,Adult,N,N,N,N/A
+Face Robot                         [7],,7,Servo motor,Urethane resin,N/A,Child,N,N,N,N/A
+HRP-4C                         [8],,44,Servo motor,Silicone,46,Adult,Y,N,N,N/A
+Geminoid DK                         [9],,N/A,Pneumatic,Silicone,40,Adult,Y,N,N,"165,000"
+Erica                         [10],,44,Pneumatic,Silicone,N/A,Adult,Y,N,N,N/A
+Geminoid HI-2                         [11],,50,Pneumatic,Silicone,N/A,Adult,Y,N,N,N/A
+Sophia                         [1],,34,Servo motor,Frubber,20,Adult,Y,N,N,N/A
+Professor Einstein                         [1],,9,Servo motor,Frubber,N/A,Miniature,Y,N,Y,200
+Little Sophia                         [1],,N/A,Servo motor,Frubber,N/A,Miniature,Y,N,Y,149
+Telenoid R4                         [12],,9,Servo motor,Polyvinyl chloride,3.5,Child,Y,N,Y,"8,000"

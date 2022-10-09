@@ -1,0 +1,12 @@
+Variables,Mean,Median,SD
+α                                ̂                                ijt,0.006,0.006,0.019
+β                                ̂                                ijt                              M,0.533,0.578,1.010
+β                                ̂                                ijt                              SMB,0.079,0.088,1.086
+β                                ̂                                ijt                              HML,0.479,0.425,1.234
+β                                ̂                                ijt                              MOM,−0.070,−0.050,0.738
+β                                ̂                                ijt                              IND,0.443,0.334,0.782
+Obs per Regression,58,60,7
+R                          2,0.250,0.226,0.164
+Monthly Return,0.015,0.013,0.045
+Expected Monthly Return,0.016,0.015,0.035
+Idiosyncratic Monthly Return,−0.001,−0.002,0.041

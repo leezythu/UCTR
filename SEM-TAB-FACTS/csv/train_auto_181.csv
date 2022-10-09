@@ -1,0 +1,26 @@
+Parameters,All patients (n = 81)
+"White cell count x 10                         3                        /mm                         3                        , m±SD",7.00 ± 2.58
+White cell count < 4 × 10                         3                        /mm                         3,10 (12.3%)
+White cell count > 11 × 10                         3                        /mm                         3,7 (8.6%)
+"Neutrophils count x 10                         3                        /mm                         3                        , m±SD",4.37 ± 2.22
+Neutrophils count >7000/mm                         3,8 (9.9%)
+Neutrophils count <1500/mm                         3,3 (3.7%)
+"Lymphocytes count x 10                         3                        /mm                         3                        , m±SD",1.95 ± 0.81
+Lymphocytes count >3000/mm                         3,8 (9.9%)
+Lymphocytes count <1000/mm                         3,8 (9.9%)
+"Hemoglobin g/dl, m±SD",13.86 ± 2.04
+Low Hb < 13 g/dl,22 (27.2%)
+"Platelets x 10                         3                        /mm                         3                        , m±SD",229.42 ± 67.53
+"Serum creatinine μmol/l, m±SD",69.51 ± 18.77
+"ALT u/l, m±SD",21.87 ± 15.66
+"AST u/l, m±SD",21.40 ± 7.65
+"Serum albumin g/l, m±SD",44.93 ± 3.96
+"CRP mg/l, m±SD (n = 75)",10.86 ± 24.49
+High CRP (>5 mg/l),32/75 (42.7%)
+"ESR mm/h, m±SD (n = 70)",22.53 ± 16.49
+High ESR (>20 mm/h),35/70 (50.0%)
+"D-dimer μg/ml, m±SD (n = 78)",1.05 ± 0.44
+Positive D-dimer (>0.5 μg/ml),76/78 (97.4%)
+Abnormal chest radiographic findings,13/77 (16.9%)
+Bilateral patchy infiltrates,7 (53.8%)
+Unilateral patchy infiltrates,6 (46.2%)

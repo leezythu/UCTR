@@ -1,0 +1,15 @@
+"Sample
+Sample","D (nm)
+Scherrer’s","D (nm)
+W-H","Strain (10                         -3                        )
+W-H","Strain (10                         -3                        )
+ε                         (cal)","lattice parameters nm
+a (110)","lattice parameters nm
+c (002)","Unit cell volume (Å                         3                        )
+Unit cell volume (Å                         3                        )","D                         x                        (g cm                         -3                        )
+D                         x                        (g cm                         -3                        )"
+A,22,38,1.94,1.6,0.3252,0.5204,47.68,5.716
+B,19,32,2.2,1.8,0.325,0.5213,47.71,5.71
+C,18,25,1.5,1.9,0.325,0.5213,47.64,5.76
+D,17,35,2.9,2.0,0.3251,0.5210,47.68,5.762
+E,16,34,2.7,2.2,0.3254,0.5204,47.76,5.66

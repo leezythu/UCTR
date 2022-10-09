@@ -1,0 +1,14 @@
+"Performance metric
+","Baseline (BAJ)
+QS","Baseline (BAJ)
+DY0.5","Baseline (BAJ)
+DY3.0","Interlocking (IAJ)
+QS","Interlocking (IAJ)
+DY0.5","Interlocking (IAJ)
+DY3.0"
+Peak force,1.00,1.01,1.04,1.09,1.11,1.12
+Deformation at failure,1.00,1.27,0.86,1.63,2.45,1.59
+Lap shear strength,1.00,1.01,1.04,1.09,1.11,1.12
+Work-to-failure,1.00,1.31,0.89,1.75,2.89,1.73
+Stable crack length (in mm),14.0,17.8,14.3,17.9,8.1,4.9
+Failure mode,Bondline,Bondline,Bondline,Bondline,Metal adherend,Composite adherend

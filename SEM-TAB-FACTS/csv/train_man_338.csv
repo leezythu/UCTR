@@ -1,0 +1,6 @@
+Quenchant,Austenitizing Temperature ( °C),Austenitizing time (min),Agitation Amplitude (mm)
+EC,800,30,3
+ETC,850,30,1.5
+TC,850,30,1.5
+FC,800,45,1.5
+SAE40,800,45,3

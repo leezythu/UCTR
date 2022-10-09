@@ -1,0 +1,26 @@
+"
+
+","SAM phantom
+SNR center
+Absolute","SAM phantom
+SNR center
+Relative","SAM phantom
+SNR surface
+Absolute","SAM phantom
+SNR surface
+Relative","Cylindrical phantom
+SNR center
+Absolute","Cylindrical phantom
+SNR center
+Relative","Cylindrical phantom
+SNR surface
+Absolute","Cylindrical phantom
+SNR surface
+Relative"
+Coil #1,31,72%,36,14%,25,91%,35,11%
+Coil #2,43,100%,56,22%,–,–,–,–
+Coil #3,20,47%,39,15%,8,28%,30,9%
+Coil #4,37,86%,214,85%,13,46%,161,49%
+Coil #5,–,–,–,–,12,43%,189,57%
+Coil #6,40,94%,252,100%,28,100%,330,100%
+Coil #7,8,19%,238,94%,8,29%,249,75%

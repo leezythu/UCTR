@@ -1,0 +1,6 @@
+Technique,FPM optical scheme,Strategy to achieve super-resolution FPM,Number of polarization modulation,Spatial resolution,Temporal resolution,Advantages,Limitations
+Instantaneous FluoPolScope,PD,Polarization single molecule,4,～200 nm,0.1 second,"Single molecule, living cell",Simple sample
+Polar-dSTORM,PD,Polarization single molecule,2,∼20 nm,Several minutes,"Single molecule, complex sample",Fixed sample
+Polar-PALM,PE,Polarization single molecule,4,∼20 nm,Several minutes,"Single molecule, complex sample",Fixed sample
+SDOM and its derivatives,PE,Polarization demodulation,10,50∼100 nm,Second,"living, complex sample",Ensemble molecules
+pSIM,PE,Polarized structured illumination,3,∼100 nm,Sub-second,"living, complex sample",Ensemble molecules

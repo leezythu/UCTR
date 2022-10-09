@@ -1,0 +1,30 @@
+Parameters and functions,Meaning,Values/Unit
+ψ                                    S                                        ξ,Susceptible male individuals at time                             ξ,Variable
+ψ                                    I                                        ξ,Infected male individuals at time                             ξ,Variable
+ψ                                    T                                        ξ,Treated male individuals at time                             ξ,Variable
+ψ                                    A                                        ξ,AIDS-infected male individuals at time                             ξ,Variable
+Φ                                    S                                        ξ,Susceptible female sex workers at time                             ξ,Variable
+Φ                                    I                                        ξ,Infected female sex workers at time                             ξ,Variable
+Φ                                    T                                        ξ,Treated female sex workers at time                             ξ,Variable
+Φ                                    A                                        ξ,AIDS-infected female sex workers at time                             ξ,Variable
+Ω                                    1,Immigration rate of susceptible male class,3                            year                         −1
+Ω                                    2,Immigration rate of female sex worker class,5                            year                         −1
+δ                                    1,Migration rate of susceptible male class,1                            year                         −1
+δ                                    2,Migration rate of female sex worker class,1                            year                         −1
+η                                    1,Transmission rate,0.04                            person                         −1
+η                                    2,Transmission rate,0.05                            person                         −1
+λ,Natural death rate,0.05                            year                         −1
+σ,Rate of movement,0.6                            year                         −1
+ρ                                    1,Fraction of joining treatment class,0.2                            person year                         −1
+ρ                                    2,Fraction of joining treatment class,0.1                            person year                         −1
+ω,Development of full-blown AIDS disease,0.08                            year                         −1
+k,Treatment is given to AIDS patients,0.1                            person year                         −1
+p,AIDs related death rate,0.01                            year                         −1
+ψ                                    S                                    0,Initially susceptible male individuals,150
+ψ                                    I                                    0,Initially infected male individuals,10
+ψ                                    T                                    0,Initially treated male individuals,6
+ψ                                    A                                    0,Initially AIDS infected male individuals,3
+Φ                                    S                                    0,Initially susceptible female sex workers,300
+Φ                                    I                                    0,Initially infected female sex workers,7
+Φ                                    T                                    0,Initially treated female sex workers,2
+Φ                                    A                                    0,Initially AIDS infected female sex workers,4

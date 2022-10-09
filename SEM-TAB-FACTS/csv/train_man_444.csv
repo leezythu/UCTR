@@ -1,0 +1,7 @@
+Decision Problem,Sequential,Integrated (without/with split orders)
+POA,Pod-Match,Model
+PPS,Demand,Model
+ROA,not relevant,not relevant
+RPS,not relevant,not relevant
+PR,Nearest,Nearest
+PP,WHCA                  n                  *,WHCA                  n                  *

@@ -1,0 +1,33 @@
+"
+
+speciality","
+
+λ","Current situation
+
+μ","Current situation
+p                         b                        = 0.05
+beds","Current situation
+p                         b                        = 0.05
+occ.","Current situation
+p                         b                        = 0.01
+beds","Current situation
+p                         b                        = 0.01
+occ.","With the admission lounge
+
+μ","With the admission lounge
+p                         b                        = 0.05
+beds","With the admission lounge
+p                         b                        = 0.05
+occ.","With the admission lounge
+p                         b                        = 0.01
+beds","With the admission lounge
+p                         b                        = 0.01
+occ."
+BAR,1.38,1.87,6,42%,8,32%,–,–,–,–,–
+CHI,3.36,4.57,21,70%,25,61%,4.47,20,72%,24,62%
+KAA,0.07,1.19,2,4%,2,4%,1.03,2,4%,2,4%
+NCH,0.29,1.17,2,16%,3,11%,1.09,2,15%,3,10%
+ORT,1.97,3.03,10,57%,13,46%,2.94,10,56%,12,48%
+PLA,1.66,2.14,7,49%,9,39%,1.92,7,44%,9,35%
+URO,1.12,2.21,6,40%,7,35%,2.14,6,39%,7,34%
+Pooled,9.86,3.17,37,80%,43,72%,3.08,35,80%,41,71%

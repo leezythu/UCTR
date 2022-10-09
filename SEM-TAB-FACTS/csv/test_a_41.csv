@@ -1,0 +1,18 @@
+"Year
+Year","Month
+Month","Air temperature (°C)
+Air temperature (°C)","Precipitation (+Irrigation)
+Rainfed (mm)","Precipitation (+Irrigation)
+Irrigated (mm)"
+2018,Jun,21.0,93.5,93.5
+2018,Jul,25.1,71.7,71.7
+2018,Aug,26.4,22.8 (+20),22.8 (+80)
+2018,Sep,20.0,78.8,78.8 (+40)
+2018,Oct,15.0,0.4,0.4
+2018,Nov,7.4,28.0,28.0
+2018,Dec,3.5,70.0,70.0
+2019,Jan,1.5,29.5,29.5
+2019,Feb,6.1,8.9,8.9
+2019,Mar,10.6,21.1,21.1
+2019,Apr,13.3,0.0,0.0
+Total,,,444.7,564.7

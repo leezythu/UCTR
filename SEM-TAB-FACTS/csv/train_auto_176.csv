@@ -1,0 +1,41 @@
+"Baseline unmet need, intention to use and background covariate
+Baseline unmet need, intention to use and background covariate","Hazard ratios and 95%CI
+Unadjusted","Hazard ratios and 95%CI
+Adjusted","Hazard ratios and 95%CI
+Unadjusted","Hazard ratios and 95%CI
+Adjusted","Hazard ratios and 95%CI
+Unadjusted","Hazard ratios and 95%CI
+Adjusted"
+N,747,742,747,742,747,742
+Unmet need status,,,,,,
+No unmet need,Ref,Ref,,,,
+Unmet need,0.66 (0.48–0.89),0.79 (0.57–1.10),,,,
+Contraception Intentions,,,,,,
+No intention to use,,,Ref,Ref,,
+Intention to use,,,1.65 (1.39–1.96),1.45 (1.22–1.73),,
+Unmet need concordance,,,,,,
+No unmet need-no intention to use,,,,,Ref,Ref
+Unmet need-intention to use,,,,,2.16 (1.18–3.95),1.98 (1.07–3.66)
+Unmet need-no intention to use,,,,,0.91 (0.47–1.77),1.06 (0.54–2.09)
+No unmet need-intention to use,,,,,3.65 (1.95–6.85),2.78 (1.48–5.25)
+Age,,,,,,
+<                        25 years,,Ref,,Ref,,Ref
+25–34 years,,0.66 (0.44–0.99),,0.70 (0.47–1.04),,0.67 (0.45–1.01)
+35 + years,,0.32 (0.18–0.56),,0.39 (0.22–0.71),,0.39 (0.22–0.70)
+Parity,,,,,,
+0–2 children,,Ref,,Ref,,
+3–4 children,,1.26 (0.84–1.90),,1.16 (0.78–1.72),,1.23 (0.82–1.85)
+5 + children,,1.32 (0.80–2.20),,1.13 (0.69–1.87),,1.24 (0.74–2.08)
+Education,,,,,,
+Never attended,,Ref,,Ref,,Ref
+Primary,,2.27 (1.37–3.76),,2.00 (1.20–3.32),,1.97 (1.19–3.29)
+Secondary or higher,,3.27 (1.79–5.89),,2.77 (1.52–5.05),,2.74 (1.49–5.02)
+Residence,,,,,,
+Urban,,Ref,,Ref,,Ref
+Rural,,0.73 (0.45–1.18),,0.75 (0.46–1.21),,0.74 (0.46–1.20)
+Wealth Quintile,,,,,,
+Lowest quintile,,Ref,,Ref,,Ref
+Lower quintile,,1.18 (0.76–1.84),,1.10 (0.71–1.71),,1.07 (0.69–1.67)
+Middle quintile,,1.25 (0.77–2.04),,1.20 (0.74–1.95),,1.19 (0.73–1.93)
+Higher quintile,,1.34 (0.85–2.10),,1.28 (0.81–2.01),,1.26 (0.80–1.98)
+Highest quintile,,1.13 (0.63–2.03),,1.17 (0.65–2.10),,1.11 (0.61–2.00)

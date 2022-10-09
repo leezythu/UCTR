@@ -1,0 +1,9 @@
+Property,Concrete,Soil
+"Horizontal hydraulic conductivity,                                 k                                    x                                  =                                  k                                    z                                [m/s]",10                         −16,4.15                           ⋅                          10                         −3
+"Vertical hydraulic conductivity,                               k                                  y                              [m/s]",10                         −16,2.1                           ⋅                          10                         −4
+"Specific storage coefficient, S [m                         −1                        ]",10                         −4,10                         −4
+"Porosity, n [-]",0.0,0.25
+Effective heat capacity                           ρ                          c [MJ/m                         3                        /K],2.19,2.55
+Effective thermal conductivity                           λ                          [W/m/K],2.3,Table 2
+"Longitudinal dispersivity,                               α                                  L                              [m]",–,3.1
+"Transverse dispersivity,                               α                                  T                              [m]",–,0.3

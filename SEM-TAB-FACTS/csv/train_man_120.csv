@@ -1,0 +1,20 @@
+"GTAP Sectors
+Code","GTAP Sectors
+Description","RICA Plant Species
+RICA Plant Species"
+pdr,Paddy Rice,Rice
+wht,Wheat,"Soft wheat, Durum Wheat"
+gro,Other Grains,"Maize, Barley, Oats"
+v_f,Veg & Fruit,
+,Vineyards,Vineyards
+,Rest of Veg & Fruit,"Apple, Peach, Potato, Tomato, Orange, Apricot, Kiwi, Pear and 24 more species             *"
+osd,Oil Seeds,
+,Olive,Olive
+,Rest of Oil seeds,"Soy, Sunflower"
+c_b,Cane & Beet,Sugar Beet
+pfb,Plant Fibres,–
+ocr,Other Crops,"Alfalfa, Flowers, Tobacco, Eucalyptus, Ruscus, Rose, Genisteae, Acacia and 15 more species             *"
+ctl,Cattle,Pastures
+oap,Other Animal Products,Other Grains
+rmk,Raw milk,Pastures
+wol,Wool,Pastures

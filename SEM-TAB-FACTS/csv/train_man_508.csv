@@ -1,0 +1,14 @@
+Variable,Mean,S.D.,1,2,3,4,5,6,7,8,9,10,11,12
+1. Added geographic distance,601.1,2048.1,,,,,,,,,,,,
+2. Spatial dispersion of network,2366.2,2901.8,0.15,,,,,,,,,,,
+3. Country network size,4.61,7.86,0.22,0.16,,,,,,,,,,
+4. Firm size,15613,28314,0.07,0.26,0.18,,,,,,,,,
+5. Firm profitability,2.89,4.05,0.10,0.09,0.13,0.01,,,,,,,,
+6. Firm’s product diversification,2.64,2.03,0.04,0.16,0.13,0.21,−0.06,,,,,,,
+7. Firm is a large franchisor,0.04,0.19,0.16,0.27,0.23,0.11,0.00,0.10,,,,,,
+8. Home country demand volatility,1746.7,785.6,0.05,0.05,0.14,0.11,0.10,−0.03,0.13,,,,,
+9. Home country policy uncertainty,−0.44,0.09,−0.06,0.10,0.02,−0.02,−0.14,0.26,0.01,−0.11,,,,
+10. Home country supportive investment policy,43.80,29.76,0.10,0.13,0.43,0.12,0.11,0.10,0.12,0.37,−0.16,,,
+11. Home country economic development,36459,8921,0.00,−0.06,−0.07,0.12,−0.04,−0.26,−0.01,0.41,0.06,0.10,,
+12. Home country institutional development,1.42,0.42,0.01,−0.02,0.06,0.11,−0.01,−0.10,−0.02,0.43,0.13,0.32,0.59,
+13. Home country retail sales growth,0.05,0.07,0.02,0.02,0.12,0.01,0.09,0.15,0.03,0.11,−0.11,0.23,−0.24,−0.08

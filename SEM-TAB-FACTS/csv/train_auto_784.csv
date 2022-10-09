@@ -1,0 +1,20 @@
+Case Number,Decision of the proposed CBR framework,Decision of the Retrieved Case,Case Retrieved,Decision of the Expert in the dataset
+6,PositiveCase,PositiveCase,Case 20,Unconfirmed
+13,NegativeCase,PositiveCase,Case 25,Unconfirmed
+14,PositiveCase,PositiveCase,Case 6,Unconfirmed
+15,NegativeCase,PositiveCase,Case 61,Unconfirmed
+17,NegativeCase,NegativeCase,Case 60,Unconfirmed
+33,PositiveCase,PositiveCase,Case 14,Unconfirmed
+38,PositiveCase,PositiveCase,Case 14,Unconfirmed
+45,PositiveCase,PositiveCase,Case 14,Unconfirmed
+47,PositiveCase,PositiveCase,Case 18,Unconfirmed
+53,PositiveCase,PositiveCase,Case14,Unconfirmed
+54,PositiveCase,PositiveCase,Case14,Unconfirmed
+58,PositiveCase,PositiveCase,Case29,Unconfirmed
+59,PositiveCase,PositiveCase,Case29,Unconfirmed
+62,PositiveCase,PositiveCase,Case14,Unconfirmed
+66,PositiveCase,PositiveCase,Case37,Unconfirmed
+67,PositiveCase,PositiveCase,Case 14,Unconfirmed
+Pediatric 2,PositiveCase,PositiveCase,Case 21,Unconfirmed
+Pediatric 3,PositiveCase,PositiveCase,Case 21,Unconfirmed
+Pediatric 4,PositiveCase,PositiveCase,Case 21,Unconfirmed

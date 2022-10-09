@@ -1,0 +1,45 @@
+"Variable name
+Variable name
+Variable name","Definition
+Definition
+Definition","Descriptive statistics
+Chinese studies
+Mean","Descriptive statistics
+Chinese studies
+Median","Descriptive statistics
+Chinese studies
+S.D.","Descriptive statistics
+East European studies
+Mean","Descriptive statistics
+East European studies
+Median","Descriptive statistics
+East European studies
+S.D."
+State ownership,"1 = if ownership variable used for estimation belongs to the category of state, 0 = otherwise",0.469,0,0.499,0.169,0,0.376
+Domestic outside ownership,"1 = if ownership variable used for estimation belongs to the category of domestic outside investors, 0 = otherwise",0.180,0,0.384,0.208,0,0.407
+Foreign ownership,"1 = if ownership variable used for estimation belongs to the category of foreign investors, 0 = otherwise",0.038,0,0.191,0.174,0,0.380
+Insider ownership,"1 = if ownership variable used for estimation belongs to the category of insiders, 0 = otherwise",0.070,0,0.255,0.169,0,0.376
+Ownership by top shareholder(s),"1 = if ownership variable used for estimation belongs to the category of top shareholder(s), 0 = otherwise",0.473,0,0.500,0.213,0,0.410
+Ownership by block shareholders,"1 = if ownership variable used for estimation belongs to the category of block shareholders, 0 = otherwise",0.127,0,0.333,0.106,0,0.309
+Ownership share,"1 = if ownership variable is ownership share, 0 = otherwise",0.433,0,0.496,0.744,1,0.438
+Dummy variable,"1 = if ownership variable is a dummy variable, 0 = otherwise",0.567,1,0.496,0.256,0,0.438
+Lagged variable,"1 = if a lagged ownership variable is used for estimation, 0 = otherwise",0.164,0,0.371,0.082,0,0.275
+With an interaction term(s),"1 = if estimation is carried out with an interaction term(s) of the ownership variable, 0 = otherwise",0.308,0,0.462,0.348,0,0.477
+CEO turnover,"1 = if turnover likelihood or frequency of chief executive officers is used as the dependent variable, 0 = otherwise",0.675,1,0.469,0.478,0,0.501
+Turnover of management team,"1 = if turnover likelihood or frequency of management team is used as the dependent variable, 0 = otherwise",0.117,0,0.322,0.454,0,0.499
+Turnover of board chairman/directors,"1 = if turnover likelihood or frequency of board chairman/directors is used as the dependent variable, 0 = otherwise",0.208,0,0.406,0.068,0,0.252
+All kinds of turnover,"1 = if all kinds of turnover are the focus of empirical analysis, 0 = otherwise",0.248,0,0.432,0.966,1,0.181
+Forced and involuntary turnover,"1 = if forced and involuntary turnover is the focus of empirical analysis, 0 = otherwise",0.543,1,0.499,0.034,0,0.181
+Normal and voluntary turnover,"1 = if normal and voluntary turnover is the focus of empirical analysis, 0 = otherwise",0.210,0,0.408,–,–,–
+Mining and manufacturing industry,"1 = if target industry is mining and manufacturing industry, 0 = otherwise",–,–,–,0.512,1,0.501
+Various industries,"1 = if target industry is various industries, 0 = otherwise",–,–,–,0.488,0,0.501
+First year of estimation,First year of estimation period,1999.913,2000,4.041,1999.280,1999,2.311
+Length of estimation,Years of estimation period,7.412,6,3.361,3.353,2,1.731
+Panel data,"1 = if paneldata is employed for empirical analysis, 0 = otherwise",0.537,1,0.499,0.092,0,0.289
+Cross-sectional data,"1 = if cross-sectional data is employed for empirical analysis, 0 = otherwise",0.463,0,0.499,0.908,1,0.289
+Non-probit/logit estimator,"1 = if non-probit/logit estimator is used for estimation, 0 = otherwise",0.384,0,0.487,0.217,0,0.413
+Probit/logit estimator,"1 = if probit or logit estimator is used for estimation, 0 = otherwise",0.616,1,0.487,0.783,1,0.413
+Industry fixed effects,"1 = if estimation simultaneously controls for industry fixed effects, 0 = otherwise",0.280,0,0.449,0.469,0,0.500
+Time fixed effects,"1 = if estimation simultaneously controls for time fixed effects, 0 = otherwise",0.467,0,0.499,0.048,0,0.215
+√Degree of freedom,Root of degree of freedom of the estimated model,57.852,56.25833,26.616,13.871,11.31371,5.024
+Quality level,Ten-point scale of the study's quality level,4.981,5,1.837,3.348,4,2.153

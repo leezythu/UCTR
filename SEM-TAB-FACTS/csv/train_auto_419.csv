@@ -1,0 +1,4 @@
+Filters,Notes
+L-filter,"First order filter, attenuation 20 db/decade, required high value of inductor, non-cost-effective and causing voltage drop, using in such as high switching frequency converters."
+LC-filter,"Affected by nonlinear load harmonics (                         Rasul et al., 2017                        ), second order filter, its resonant frequency relied on system impedance, attenuation 12 db/octave after cut-off frequency, less cost, large capacitor causing high inrush current and reactive power"
+LCL-filter,"Attenuation 60 db/decade, reducing ripple current, non-cost-effective and improper design leads to resonance and instability in system."

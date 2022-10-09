@@ -1,0 +1,26 @@
+"
+","Responder            (             N            = 80)
+N            (%)","Non-responder            (             N            = 20)
+N            (%)","
+p            value"
+"Age (median, IQR)",76 (73–81),78 (76–83),0.052
+No. of comorbidities,,,0.119               a
+0–1,22 (28),2 (10),
+2–3,31 (39),7 (35),
+≥4,26 (33),11 (55),
+Unknown,1,0,
+No. of medications,,,0.158
+0–4,38 (48),6 (30),
+≥5,42 (53),14 (70),
+Risk of malnutrition,,,0.140               a
+Low,65 (84),14 (70),
+Medium or high,12 (16),6 (30),
+Unknown,3,0,
+MMSE score,,,0.005
+≥24,76 (95),15 (75),
+<24,4 (5),5 (25),
+Timed Up and Go test,,,0.270               a
+≤14 s,46 (79),12 (67),
+>14 s,12 (21),6 (33),
+Unable to perform the test,18,1,
+Unknown,4,1,

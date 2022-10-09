@@ -1,0 +1,7 @@
+D-Values,Absolute number of particles that would be excluded by setting this D-value                           a,Button-shaped Candies [nm],Chewing Gum [nm],Pristine E 171 [nm]
+D90,200,251,222,260
+D95,100,284,257,294
+D99,20,338,330,340
+D99.5,10,363,350,363
+D99.8,4,375,371,399
+D100,0,453,401,509

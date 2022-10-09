@@ -1,0 +1,5 @@
+,Electric consumption,Operationg days,Outside temperature,Carcass volume
+Electric consumption,1,0.2332,0.9307,−0.5181
+Operationg days,0.2332,1,0.0172,0.2021
+Outside temperature,0.9307,0.0172,1,−0.7063
+Carcass volume,−0.5181,0.2021,−0.7063,1

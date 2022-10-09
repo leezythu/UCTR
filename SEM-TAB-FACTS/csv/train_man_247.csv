@@ -1,0 +1,9 @@
+MRI parameter,Description
+Surface to curve ratio (S/C),"Indicates the plate (surface) to rod (curve) ratio of the trabeculae. A higher ratio is a marker of greater trabecular network integrity (             Rajapakse et al., 2014            )."
+Erosion index (EI),"Represents topological parameters expected to increase             versus            those expected to decrease, with erosion cause by osteoclastic resorption. A higher index is consistent with greater trabecular deterioration (             Rajapakse et al., 2014            )."
+Bone volume/total volume (BV/TV) (%),Represents the ratio of bone volume to total volume in the region of interest.
+Trabecular thickness (TbTh) (mm),Represents mean thickness of trabeculae
+Trabecular number (TbN) (1/mm),Represents mean number of trabecular per unit length
+Trabecular separation (TbS) (mm),Represents the bone marrow space between trabeculae
+Cortical thickness (CTh) (mm),Represents mean cortical bone thickness
+Elastic modulus (GPa),Main component of FEA and a marker of bone mechanical competence

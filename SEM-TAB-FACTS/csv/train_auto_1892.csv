@@ -1,0 +1,5 @@
+Conditions,Husrt exponent,Fractal dimension,Fractal Km (mM)
+LDH alone,0.85 ± 0.003,1.176 ± 0.01,0.202
+LDH with F-actin (10 μg/mL),1.01 ± 0.015*,0.991 ± 0.02*,0.744
+LDH with 50 nm NPs (1 μg/mL),1.154 ± 0.013*,0.865 ± 0.02*,0.258
+LDH with 100 nm NPs (1 μg/mL),1.090 ± 0.02*,0.917 ± 0.02*,0.855

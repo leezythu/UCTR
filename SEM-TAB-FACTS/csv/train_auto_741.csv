@@ -1,0 +1,5 @@
+Material,Molecular weight,Tank temp °C,Needle temp °C,Pressure MPa,Screw speed
+PCL,"48–90,000",70,70,0.1,9 rev/m
+PLA,"60,000",180,160,0.1,20 rev/m
+PLGA 85:15,"50–75,000",145,130,0.1,20 rev/m
+PLGA 65:35,"40–75,000",140,120,0.1,16 rev/m

@@ -1,0 +1,35 @@
+Model run,Factor addressed,Case,Value,Unit
+#2,Atmospheric pCO                         2,Pre-industrial,280,μatm
+#3,Atmospheric pCO                         2,"RCP 5.5, year 2100",550,μatm
+#4,Atmospheric pCO                         2,"RCP 8.5, year 2100",950,μatm
+#5,Air temperature,REF − 1 °C,5.2,°C
+#6,Air temperature,REF − 2 °C,4.2,°C
+#7,Air temperature,REF + 1 °C,7.2,°C
+#8,Air temperature,REF + 2 °C,8.2,°C
+#9,River runoff,REF − 10%,444,km                         3                        year                         −1
+#10,River runoff,REF − 20%,395,km                         3                        year                         −1
+#11,River runoff,REF + 10%,543,km                         3                        year                         −1
+#12,River runoff,REF + 20%,592,km                         3                        year                         −1
+#13,A                         T                        /DIC land loads,REF − 10%,729/798,Gmol year                         −1
+#14,A                         T                        /DIC land loads,REF − 20%,648/710,Gmol year                         −1
+#15,A                         T                        /DIC land loads,REF + 10%,891/976,Gmol year                         −1
+#16,A                         T                        /DIC land loads,REF + 20%,972/1064,Gmol year                         −1
+#17,N/P loads (land + atm.),BSAP,796/20,ktons year                         −1
+#18,N/P loads (land + atm.),HEL,1050/37,ktons year                         −1
+#19,N/P loads (land + atm.),HIGH,1330/68,ktons year                         −1
+#20,Ocean boundary A                         T                        /DIC,REF − 10%,2020/1870                           a,μmol kg                         −1
+#21,Ocean boundary A                         T                        /DIC,REF − 20%,1800/1660                           a,μmol kg                         −1
+#22,Ocean boundary A                         T                        /DIC,REF + 10%,2470/2290                           a,μmol kg                         −1
+#23,Ocean boundary A                         T                        /DIC,REF + 20%,2700/2490                           a,μmol kg                         −1
+#24,"Runoff, A                         T                        /DIC loads",REF − 10%,"444, 729/798","km                         3                        year                         −1                        , Gmol year                         −1"
+#25,"Runoff, A                         T                        /DIC loads",REF − 20%,"395, 648/710","km                         3                        year                         −1                        , Gmol year                         −1"
+#26,"Runoff, A                         T                        /DIC loads",REF + 10%,"543, 891/976","km                         3                        year                         −1                        , Gmol year                         −1"
+#27,"Runoff, A                         T                        /DIC loads",REF + 20%,"592, 972/1064","km                         3                        year                         −1                        , Gmol year                         −1"
+#28,DIC land loads,REF − 10%,798,Gmol year                         −1
+#29,DIC land loads,REF − 20%,710,Gmol year                         −1
+#30,DIC land loads,REF + 10%,976,Gmol year                         −1
+#31,DIC land loads,REF + 20%,1064,Gmol year                         −1
+#32,"Runoff, A                         T                        /DIC land loads","BS, BB + 10%; BN, GS, GR − 10%","498, 759/837","km                         3                        year                         −1                        , Gmol year                         −1"
+#33,"Runoff, A                         T                        /DIC land loads","BS, BB + 20%; BN, GS, GR − 20%","502, 708/788","km                         3                        year                         −1                        , Gmol year                         −1"
+#34,A                         T                        /DIC land loads,"BS, BB + 10%; BN, GS, GR − 10%",759/837,Gmol year                         −1
+#35,A                         T                        /DIC land loads,"BS, BB + 20%; BN, GS, GR − 20%",708/788,Gmol year                         −1

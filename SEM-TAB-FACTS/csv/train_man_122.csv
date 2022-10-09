@@ -1,0 +1,20 @@
+Crop,Coefficient (β),p-value,Adj-                 R                  2,N,Economic sector (GTAP)
+Rice,0.0018,0.003,0.349,181,Paddy Rice
+Durum Wheat,0.0020,0.000,0.788,1136,Wheat
+Soft Wheat,0.0010,0.001,0.731,1144,Wheat
+Maize,0.0020,0.000,0.533,1108,Other Grains
+Barley,0.0006,0.046,0.721,1356,Other Grains
+Oats,0.0010,0.026,0.524,873,Other Grains
+Vineyards,0.0007,0.091,0.670,1052,Vineyards
+Beans,0.0019,0.000,0.446,712,Rest of Veg & Fruit
+Apples,0.0046,0.000,0.625,496,Rest of Veg & Fruit
+Potatoes,0.0019,0.012,0.582,664,Rest of Veg & Fruit
+Tomatoes,0.0034,0.000,0.594,723,Rest of Veg & Fruit
+Plums,0.0078,0.000,0.470,356,Rest of Veg & Fruit
+Lettuce,0.0043,0.010,0.548,345,Rest of Veg & Fruit
+Peppers,0.0064,0.003,0.483,256,Rest of Veg & Fruit
+Olives,−0.0012,0.009,0.550,1064,Olive
+Soy,0.0011,0.016,0.440,534,Rest of Oil seeds
+Sunflower,0.0015,0.010,0.473,578,Rest of Oil seeds
+Sugar beet,0.0021,0.001,0.433,549,Cane & Beet
+Pastures,0.0032,0.005,0.479,541,Other Crops

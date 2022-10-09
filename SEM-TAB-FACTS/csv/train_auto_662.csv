@@ -1,0 +1,25 @@
+"
+
+
+","Attitudes towards gender inequality
+(share of statements)
+(1)
+Full sample","Attitudes towards gender inequality
+(share of statements)
+(2)
+Men","Attitudes towards gender inequality
+(share of statements)
+(3)
+Women"
+Male (=1),0.09***,,
+,(0.02),,
+Gender equality frame (=1),-0.20***,-0.15***,-0.20***
+,(0.02),(0.02),(0.02)
+Male × Frame,0.05,,
+,(0.03),,
+Constant,0.60***,0.76***,0.58***
+,(0.09),(0.13),(0.12)
+Controls,YES,YES,YES
+Governorate FE,YES,YES,YES
+Observations,"2,228","1,052","1,176"
+Adj. R-squared,0.17,0.12,0.18

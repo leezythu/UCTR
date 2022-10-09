@@ -1,0 +1,15 @@
+Number,Item,Number,Item
+S1,Pump discharge pressure of FTP,S15,Temperature of fuel side injector
+S2,Pump temperature difference between inlet and outlet of FTP,S16,Turbine inlet pressure of FTP
+S3,Pump volumetric flow rate of FTP,S17,Turbine inlet temperature of FTP
+S4,Rotation speed of FTP,S18,Turbine outlet pressure of FTP
+S5,Pump discharge pressure of OTP,S19,Turbine inlet pressure of OTP
+S6,Pump discharge temperature of OTP,S20,Turbine inlet temperature of OTP
+S7,Pump volumetric flow rate of OTP,S21,Turbine outlet pressure of OTP
+S8,Rotation speed of OTP,S22,Turbine outlet temperature of OTP
+S9,Inlet pressure of regenerative cooling,S23,Pressure of exhaust gas in turbine driving line
+S10,Outlet pressure of regenerative cooling,S24,Temperature of exhaust gas in turbine driving line
+S11,Downstream pressure of MFV,S25,Pressure of oxidizer side injector
+S12,Pressure of mixer at low temperature side,S26,Combustion pressure
+S13,Pressure of mixer at high temperature side,S27,Thrust
+S14,Pressure of fuel side injector,,

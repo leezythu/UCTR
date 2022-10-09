@@ -1,0 +1,6 @@
+Satellite,Hard Body Radius,Threshold,Estimated Detection Rate P(Pc > T),Data Span,Number of Reports,Number of Days
+CloudSat,3.5,1.00E-04,75.2%,Apr 2015 - Sep 2019,2323,1632
+CALIPSO,14.8,1.00E-04,92.5%,Jan 2015 - Apr 2019,2261,1586
+Aqua,20,1.00E-04,96.3%,Jun 2016 - Apr 2019,1560,1047
+Aura,20,1.00E-04,96.6%,Jun 2016 - Apr 2019,1772,1045
+OCO-2,6,1.00E-04,84.7%,Jan 2015 - Sep 2019,2402,1720

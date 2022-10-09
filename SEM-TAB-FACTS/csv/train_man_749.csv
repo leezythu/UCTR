@@ -1,0 +1,19 @@
+Property,,Value,Unit
+Reactor diameter,D               R,0.1,m
+Reactor length,L               R,0.5,m
+Inlet velocity,U              0,0.15,m/s
+CFD time step size,Δ             t               CFD,5                  ·                    10                      −                      4,s
+CFD cell size,Δ             x               CFD,6.6,mm
+Fluid density,ρ               f,1000,kg/m             3
+Fluid viscosity,ν               f,10                    −                    6,m             2            /s
+Particle size,d               p,2.0,mm
+Number of particles,N               p,"200,000",-
+Packed bed height,H              0,0.2,m
+Particle density,ρ               p,8000,kg/m             3
+DEM time step size,Δ             t               DEM,10                    −                    5,s
+Young’s modulus,Y,5.0,MPa
+Poisson’s ratio,ν               p,0.45,-
+Restitution coeff.,e               p,0.3,-
+Friction coeff.,μ               p,0.5,-
+Rolling friction coeff.,"μ                p,roll",0.2,-
+Rolling damping coeff.,"η                p,roll",0.3,-

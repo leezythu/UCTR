@@ -1,0 +1,14 @@
+TriplesMap,Source,Classes,#PredicateObjectMap,#Predicates,#Objects,#RefObjectMap
+shapes,shapes,gtfs:Shape,4,4,4,0
+trips,trips,gtfs:Trip,8,8,5,4
+calendar_rules,calendar,gtfs:CalendarRule,9,9,9,0
+calendar_date_rules,calendar_dates,gtfs:CalendarDateRule,2,2,2,0
+stops,stops,gtfs:Stop,12,12,11,1
+stoptimes,stop_times,gtfs:StopTime,9,9,7,2
+routes,routes,gtfs:Route,8,8,7,1
+agency,agency,gtfs:Agency,6,6,6,0
+frequencies,frequencies,gtfs:Frequency,5,5,4,1
+feed,feed_info,gtfs:Feed,6,6,6,0
+service1,calendar,gtfs:Service,1,1,0,1
+service2,calendar_dates,gtfs:Service,1,1,0,1
+Total,10,11,71,71,60,11

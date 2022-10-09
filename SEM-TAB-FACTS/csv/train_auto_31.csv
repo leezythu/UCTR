@@ -1,0 +1,24 @@
+Name,Type,CFD grid size,#Lagr. elements,Parallelization technique,#Cores,Efficiency
+Ouro et al.                         [2],CFD+IBM,52.59 ⋅ 10                         6,3.57 ⋅ 10                         5,MPI+OpenMP,314,ideal
+Rakotonirinaa et al.                         [3],CFD+DEM,-,2.304 ⋅ 10                         8,MPI,768,90%
+Pozzetti et al.                         [4],CFD+DEM,10                         6,10                         7,MPI,280,70%
+Tian et al.                         [5],DEM,-,1.28 ⋅ 10                         8,GPU/MPI,256/128,62.59%/20%
+Spandan et al.                         [6],CFD+IBM,2 ⋅ 10                         9,2.5 ⋅ 10                         4,MPI,1000,78%
+Wang et al.                         [7],CFD+DEM,3 ⋅ 10                         5,2 ⋅ 10                         5,MPI,64,57.5%
+Geneva et al.                         [8],CFD+IBM,1.6 ⋅ 10                         7,7% vol. frac.,MPI,580,ideal
+Loisy et al.                         [9],CFD+DEM,1.68 ⋅ 10                         7,8,MPI,512,90%
+Liu et al.                         [10],CFD+DEM,1.25 ⋅ 10                         5,10                         4,MPI,1000,50%
+Yue et al.                         [11],DEM,2 ⋅ 10                         4,8,GPU,2880,x20 speedup
+Mountrakis et al.                         [12],LBM+IBM,1.342 ⋅ 10                         8,6.624 ⋅ 10                         5,MPI,8192,79%
+Ma et al.                         [13],DBM,6.5 ⋅ 10                         4,1.7 ⋅ 10                         5,OpenMP,12,99%
+Goniva et al.                         [14],CFD+DEM,2.05 ⋅ 10                         5,2.05 ⋅ 10                         7,MPI,512,>100%
+Berger et al.                         [15],DEM,-,5 ⋅ 10                         4,MPI+OpenMP,128,50%
+Wu et al.                         [16],CFD+DEM,1.28 ⋅ 10                         5,2 ⋅ 10                         6,MPI+OpenMP,128,60%/20%
+Niethammer et al.                         [17],MD,-,10                         12,MPI+OpenMP,65536,82.5%
+Liu et al.                         [18],CFD+DEM,1.6 ⋅ 10                         6,5.12 ⋅ 10                         6,MPI+OpenMP,256/128,37.5%
+Amritkar et al.                         [19],CFD+DEM,-,1.05 ⋅ 10                         6,MPI+OpenMP,64,-
+Kuan et al.                         [20],CFD+FT,6.4 ⋅ 10                         4,-,MPI,128,20%
+Kafui et al.                         [21],CFD+DEM,-,5 ⋅ 10                         4,MPI,64,58%
+Darmana et al.                         [1],CFD+DBM,6.5 ⋅ 10                         6,10                         5,MPI,32,50%
+Maknickas et al.                         [22],DEM,-,10                         5,MPI,16,70%
+Pohl et al.                         [23],LBM,1.078 ⋅ 10                         9,-,MPI,512,75%

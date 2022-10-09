@@ -1,0 +1,7 @@
+Adsorbent,Isotherm Model,Maximum adsorption capacity (mg g                         −1                        ),References
+"Fe                         3                        O                         4                        , ZnO, and CuO nanoparticles",Freundlich isotherm,"30.310, 50.00, 2.95","Mahdavi et al., 2012"
+CNT/MnO                         2,Langmuir,82.6,"Wang and Ariyanto, 2007"
+CNT/Al                         2                        O                         3,Langmuir,67.11,"Hsieh and Horng, 2007"
+Polypyrrole-Polyaniline/Fe                         3                        O                         4,Langmuir,243.9,
+ZnO@Chitosan core/organically shell nanocomposite,Langmuir,476.1,"Saad et al., 2018"
+CDs/Al                         2                        O                         3                        NFs nanocomposite,Freundlich isotherm,177.83,Current work

@@ -1,0 +1,11 @@
+,Variable,Estimate (95% CI),P-value
+Gender,Female vs. Male,0.2 (-0.4 to 0.7),0.533
+Age,≥25 vs. <25,0.7 (0.1 to 1.3),0.015
+Medical college,Overall,,0.001
+,CMS vs. KUSMS,1.2 (0.4 to 2.1),0.002
+,CMS vs. NMC,0.3 (-0.5 to 1.2),1.000
+,NMC vs. KUSMS,0.9 (0.1 to 1.6),0.017
+Tuberculin skin test,≤5 yrs vs. >5 yrs/never,0.3 (-0.4 to 1.0),0.406
+No. TB patients seen,≥10 vs. <10,0.3 (-0.4 to 0.9),0.410
+Friends or family with TB,No vs. Yes,0.1 (-0.5 to 0.7),0.743
+Knowledge score,Overall,0.3 (0.1 to 0.4),<0.001

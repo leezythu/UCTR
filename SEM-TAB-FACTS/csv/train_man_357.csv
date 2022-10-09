@@ -1,0 +1,16 @@
+Key Ventilation Specifications,E-Vent Recommendations,RepRapable OS Design
+2.1. Control of Breathing Rate (breaths per minute),8–30 BPM,"5–45 BPM, controlled by user interface"
+2.2 Control of Tidal Volume (air volume pushed into lung in mL),200–800 mL based on patient weight,"100–846 mL, controlled by user interface"
+2.3 Control of I/E Ratio (inspiratory/expiration time ratio),best if adjustable between range of 1:1–1:4,"Adjustable between range of 1:1–1:4, controlled by user interface"
+"2.4 Assist detection pressure. When a patient tries to inspire, they can cause a dip on the order of 1–5 cm H             2            O, with respect to PEEP pressure (not necessarily = atmospheric).",Required,Can be added based on pressure             [132]            or temperature             [66]            feedback
+3. Airway pressure must be monitored,Required,"Contains two pressure sensors connected between the ventilator and patient via an airway tube, pressures are shown on the LCD screen"
+3.1.1 Pressure limits: Max pressure,40 cm H             2            O,Alarms sound if pressure exceeds 40 cmH             2            O
+3.1.2 Pressure limits: Plateau pressure,30 cm H             2            O,Can be added by introducing a pause at the end of the inspiratory phase             [132]
+3.2 Passive mechanical blow-off valve,40 cm H             2            O,Can be purchased together with the self-inflating bag kit
+3.3.1 Monitor plateau pressure,Clinician viewable,Can be added by modifying the control algorithm
+3.3.2 Monitor PEEP,Clinician viewable,"Can be added, need software to see the quantitative value"
+3.4 PEEP,5–15 cm H             2            O,2–11 cm H             2            O based on observed data during testing
+4. Manual clinician override,Failure of automatic ventilation allows conversion to immediate ventilation.,Yes
+5. Ability to use ventilation on room air.            Implemented with an oxygen/air gas blender that some hospitals already have.,Required for emergencies,Yes
+6. HEPA filtration on the patient’s exhalation,Required because COVID-19 can be aerosolized,"Can be added, HEPA filters can usually be purchased alongside manual resuscitator bags."
+8. Failure conditions result in alarm,Required,Alarms sound if pressure exceeds the allowed limits from 5 to 40 cmH             2            O

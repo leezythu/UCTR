@@ -1,0 +1,8 @@
+Name of Laboratory,Country,Instrument,Software,Pump Flow Rates [mL min                         −1                        ],Dwell Time [μs],Transport Efficiency [%]
+Sciensano,Belgium,Agilent 8800,Rikilt Calculation Sheet,0.473,3000,6.5
+Max Rubner-Institut (MRI) – Karlsruhe,Germany,Thermo iCAP Q,Thermo Qtegra with npQuant plugin &Rikilt Calculation Sheet,0.31,3000,7.3
+"National Food Institute, Technical University of Denmark",Denmark,Agilent 8900,Single Nanoparticle Application Module of the Agilent ICP-MS MassHunter software 4.5,0.339,100,5.2
+Service Commun des Laboratoires (SCL),France,Perkin Elmer Nexion 300 and Perkin Elmer Nexion 2000,Syngistix V1.1 and Syngistix V2.3,0.18,100,9–12
+Istituto Superiore di Sanità (ISS) - Rome,Italy,Perkin Elmer Nexion 350D,Syngistix V2.3,0.277,100,11.2
+WFSR - Wageningen University & Research,Netherlands,Perkin Elmer Nexion 350D,Syngistix V1.1,0.171,100,11.2
+Joint Research Centre of the European Commission - Ispra/Italy,European Commission,Perkin Elmer Nexion 300D,Syngistix V1.1,0.169,100,12.0

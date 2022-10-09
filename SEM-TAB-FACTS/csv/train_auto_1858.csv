@@ -1,0 +1,21 @@
+"
+
+","Stability studies
+Stability studies
+T                          ½                        (°C)","Stability studies
+Stability studies
+c                          ½                        (M)","Structural studies
+MD (interacting patches)
+N-lobe","Structural studies
+MD (interacting patches)
+C-lobe","Structural studies
+SAXS (volume fractions)
+Partially open","Structural studies
+SAXS (volume fractions)
+Closed","Structural studies
+SAXS (volume fractions)
+Dimer + aggregates"
+Histidine,62.2,1.2,E89-F94,D416-D420,0.5,0.3,0.2
+NaCl,43.4,1.14,"E89-F94, D236- D240, D277- K280, K291-S298",D416-D420,0.5,0,0.5
+Acetate,66.3,1.35,"E89-T93, C227-C241",D416-D420,0.4,0.4,0.2
+Arginine,44.1,1.74,"K88-T93, D229-K233, D236-H242",N413-Q424,0.6,0,0.4

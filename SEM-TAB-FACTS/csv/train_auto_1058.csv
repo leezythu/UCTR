@@ -1,0 +1,17 @@
+"Experiment set sub-folder
+F_Data","Test case sub-folder
+F1","Sub-folder
+F1_ADV_Data","Sub-folder
+F1_Transect_1","Sub-folders
+ADV_Raw; ADV_Post-processed"
+,,,F1_Transect_2,ADV_Raw; ADV_Post-processed
+,,F1_Videos,,
+,F2,F2_ADV_Data,F2_Transect_1,ADV_Raw; ADV_Post-processed
+,,,F2_Transect_2,ADV_Raw; ADV_Post-processed
+,,F2_Videos,,
+,F3,F3_ADV_Data,F3_Transect_1,ADV_Raw; ADV_Post-processed
+,,,F3_Transect_2,ADV_Raw; ADV_Post-processed
+,,F3_Videos,,
+R_Data,R1,R1_ADV_Data,-,ADV_Raw; ADV_Post-processed
+,R2,R2_ADV_Data,-,ADV_Raw; ADV_Post-processed
+,R3,R3_ADV_Data,-,ADV_Raw; ADV_Post-processed

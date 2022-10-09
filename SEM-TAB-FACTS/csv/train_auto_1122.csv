@@ -1,0 +1,8 @@
+Parameters,Value
+OS kernel version,5.0.0-31
+Processors,64
+L1 cache,32                        k
+L2 cache,1024                        k
+L3 cache,22 528                        k
+RAM,384                        GBDDR4
+Storage capacity,9.6                        TBSSD

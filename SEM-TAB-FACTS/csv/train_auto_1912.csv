@@ -1,0 +1,12 @@
+Nucleotide Position,AA Position,Secondary Structure,Conservation,Cataract Class,Possible Structural Impact
+c. 57C > A,A19D,Helix α1,High,Lamellar,NO
+c. 69G > T,K23N,Helix α1,Very high,Cerulean,DNA-binding perturbation
+c. 103C > T,H35Y,Loop,Very low,Congenital,NO
+c. 179C > A,P60H,Helix α2,High,Nuclear,Protein misfolding
+c. 182A > G,Q61R,Helix α2,Very low,Senile,Wing movement
+c. 190A > G,K64E,Helix α2,Very high,Lamellar,DNA-binding perturbation
+c. 218G > A,R73H,Helix α3,Very high,Congenital,HSE-recognition disruption
+c. 256A > G,I86V,Wing,Very low,Senile,NO
+c. 341 T > C,L114P,Helix α2,High,Lamellar,Protein misfolding
+c. 355G > A,R116H,Helix α2,Very low,Lamellar,C-terminus movement
+c. 362C > T,R119C,C-terminal loop,Very high,Lamellar,HSE-recognition disruption

@@ -1,0 +1,9 @@
+Performance measure,Interpretation,Minimally acceptable performance,Good performance,Excellent performance
+AUC of ROC1,Probability of ranking an intermediate-or-high risk drug above a low risk drug,> ~ 0.7,> ~ 0.8,> ~ 0.9
+AUC of ROC2,Probability of ranking a high risk drug above an intermediate-or-low drug,> ~ 0.7,> ~ 0.8,> ~ 0.9
+Pairwise comparison,Probability of correctly ranking a drug relative to CiPA reference drugs through pairwise comparison,> ~ 0.7,> ~ 0.8,> ~ 0.9
+LR+ of threshold 1,Likelihood ratio of a positive prediction (high-or-intermediate) occurring in high-or-intermediate risk drugs versus in low risk drugs,> ~ 2,> ~ 5,> ~ 10
+LR− of threshold 1,Likelihood ratio of a negative prediction (low risk) occurring in high-or-intermediate risk drugs versus in low risk drugs,<~0.5,<~0.2,<~0.1
+LR+ of threshold 2,Likelihood ratio of a positive prediction (high risk) occurring in high risk drugs versus in intermediate-or-low risk drugs,> ~ 2,> ~ 5,> ~ 10
+LR− of threshold 2,Likelihood ratio of a negative prediction (intermediate-or-low) occurring in high risk drugs versus in intermediate-or-low risk drugs,<~0.5,<~0.2,<~0.1
+Mean classification error,"Average error of classifying each drug into high, intermediate, or low risk category",<~1,<~0.5,<~0.3

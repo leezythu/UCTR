@@ -1,0 +1,5 @@
+Parameter,Description,Value
+post_harvest_density,Initial deer density (per forested sq. mile),23
+sexratio,Male: female ratio in the population,1:1.2
+adultprop,Adult proportion (≥ 25 months) in the population,0.4
+yearlingprop,Yearling proportion in the population,0.25

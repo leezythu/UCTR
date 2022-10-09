@@ -1,0 +1,4 @@
+Format,Tweets,Users,Import utility
+JSON,✔,✔,mongoimport
+BSON,✔,✔,mongorestore
+CSV,✔,✘,mongoimport

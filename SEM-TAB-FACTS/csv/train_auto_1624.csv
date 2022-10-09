@@ -1,0 +1,35 @@
+,Code Listing,Parameters
+Data,,
+,Audio sampling rate,"16,000"
+,Video sampling rate,29.97 frames/s
+Video Segmentation,,
+,Short Time Energy,window step size = 1
+,Median Filter,Filter order = 5
+,Clusters related to noise,threshold < 35% of maximum cluster length
+Face,,
+,"facedetector = vision.CascadeObjectDetector('FrontalFaceLBP', 'MergeThreshold',i);",
+,Merge threshold,Merge threshold = 1 to 150 with increments of 10
+,,
+Left eye,"vision.CascadeObjectDetector('EyePairBig', 'MergeThreshold',a);",
+,Merge threshold,Merge threshold = 0 to 150 with increments of 10
+,"vision.CascadeObjectDetector('LeftEye', 'MergeThreshold',i);",
+,"vision.CascadeObjectDetector('LeftEyeCART', 'MergeThreshold',i);",
+,Merge threshold,Merge threshold = 4 to 150 with increments of 10
+Eyebrow,,
+,Color probability threshold,0.2
+,rgb2hsv(img);,
+,"edge(img(:,:,3),'canny');",
+,"activecontour(rgb2gray(img),mask,400);",iterations = 400
+Nose,Merge threshold,Merge threshold = 1 to 150 with increments of 10
+,"activecontour(rgb2gray(img),mask,500,'edge','SmoothFactor',2);",iterations = 500
+Lips,"vision.CascadeObjectDetector('Mouth', 'MergeThreshold',i);",
+,Merge threshold,Merge threshold = 4 to 150 with increments of 10
+,rgb2hsv(img);,
+,"strel('sphere',7);",
+,"bwareafilt(lip,1);",Number of objects to keep = 1
+,"imdilate(bwconvhull(big),se);",spherical structuring element of radius = 7
+,"activecontour(rgb2gray(img),mask,500,'edge','SmoothFactor',2);",Number of iterations = 500
+Random Forest,Trees,Number of trees = 500;
+,Repeat sampling N times from the larger class,100
+,"mafdr(pval11,'BHFDR', true);",p value = 0.05
+,"B                        = TreeBagger(ntree,[                         train                        X                         interaction                        ],trainY,'OOBPrediction','On', OOBPredictorImportance','on','MinLeafSize',20,'Method',' classification');",Random seed = 1                        Min Leaf size = 20                        OOBPrediction = on                        OOBPredictorImportance = on

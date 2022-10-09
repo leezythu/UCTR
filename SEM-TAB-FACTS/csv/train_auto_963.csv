@@ -1,0 +1,11 @@
+Gene ID,Protein name,ORF length (nucleotides),Protein length (aa),Predicted MW of protein (kDa),Predicted MW of recomb. protein with His                         6                        -mNG (kDa),Publication
+Tb927.11.1150,RSP3,999,332,39,68,[                         37                        ]
+Tb927.10.14880,ACS3/TbCEP104,2553,850,93,122,[                         32                        ]
+Tb927.5.2090,TbKin2a,3267,1088,123,152,"[                         38                        ,                         39                        ]"
+Tb927.11.13920,TbKin2b,3270,1089,125,154,"[                         38                        ,                         39                        ]"
+Tb927.5.2410,KIN-E,4020,1339,150,179,"[                         38                        ,                         40                        ]"
+Tb927.10.890,FCP4/TbKin15,8670,2889,323,352,"[                         38                        ,                         32                        ]"
+Tb927.4.560,DYNC2H1,12699,4232,480,509,"[                         41                        ,                         46                        ]"
+Tb927.11.2430,DYNC2H2,12924,4307,485,514,"[                         41                        ,                         46                        ]"
+Tb927.4.870,IAD-1α,13800,4599,527,556,[                         46                        ]
+Tb927.3.930,OADα,13920,4639,531,560,[                         46                        ]

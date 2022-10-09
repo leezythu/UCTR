@@ -1,0 +1,11 @@
+"
+compd","Subtype-specific transactivation                           a                          Relative EC                         50                            b
+RAR                         α","Subtype-specific transactivation                           a                          Relative EC                         50                            b
+RAR                         β","Subtype-specific transactivation                           a                          Relative EC                         50                            b
+β                        /                         α                        ratio                           c","Subtype-specific transactivation                           a                          Relative EC                         50                            b
+RAR                         γ","Subtype-specific transactivation                           a                          Relative EC                         50                            b
+γ                        /                         α                        ratio                           c","Subtype-specific transactivation                           a                          Relative EC                         50                            b
+cLogP                           e"
+5,11,1564,141,9836,867,7.2
+7,24,1917,79,>300000,">12,500",4.4
+ATRA,1.0 (1.51 nM)                           d,1.0 (1.52 nM)                           d,,1.0 (0.2 nM)                           d,,

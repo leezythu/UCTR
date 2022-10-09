@@ -1,0 +1,6 @@
+Welding study,Surface configuration,Weld path
+#1,Coated,Spiral
+#2,Outside-uncoated,Spiral
+#3,Inside-uncoated,Spiral
+#4,All-uncoated,Spiral
+#5,Coated,Spiral followed by annular stirring

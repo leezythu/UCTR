@@ -1,0 +1,9 @@
+Treatment,Feedback type,Compensation scheme,Level of feedback,Number of subjects,Number of clusters (independent observations)
+RPF-ind-ind,Relative,Individual,Individual,"51 subjects (20 females, 31 males)",17
+RPF-ind-team,Relative,Individual,Team,"45 subjects (14 females, 31 males)",5
+RPF-team-ind,Relative,Team,Individual,"63 subjects (27 females, 36 males)",21
+RPF-team-team,Relative,Team,Team,"54 subjects (27 females, 27 males)",6
+APF-ind-ind,Absolute,Individual,Individual,"68 subjects (29 females, 39 males)",68
+APF-team-team,Absolute,Team,Team,"57 subjects (23 females, 34 males)",57
+APF-teamleader,Absolute,Team,Individual,"93 subjects (50 females, 43 males)",31
+RPF-teamleader,Relative,Team,Team,"84 subjects (49 females, 35 males)",28

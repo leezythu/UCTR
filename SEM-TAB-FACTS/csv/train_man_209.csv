@@ -1,0 +1,3 @@
+"Input:            The patient had symptoms of chest tightness and short of breath after exhaustion or emotional excitement more than 10 years ago, which were relieved after rest.
+"
+Output:            <short of breath> → Instance node: I001203 ← <breathless><chest tightness >: Instance node: I003942 <emotional excitement > → Instance node: I002938 ← <intense emotion undulating>

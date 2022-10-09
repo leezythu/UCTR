@@ -1,0 +1,13 @@
+Neuronal signal transmission direction,NMDA,GABA
+TPN pyramidal → TPN pyramidal,0.0001905,/
+TPN pyramidal → TPN interneuron,0.0001460,/
+TPN interneuron → TPN pyramidal,/,0.0006681
+TPN interneuron → TPN interneuron,/,0.0005120
+TNN pyramidal → TNN pyramidal,0.0001905*4,/
+TNN pyramidal → TNN interneuron,0.000146*4,/
+TNN interneuron → TNN pyramidal,/,0.0006681*1.5
+TNN interneuron → TNN interneuron,/,0.000512*1.5
+TPN pyramidal → TNN pyramidal,k5/4096*0.001,/
+TPN pyramidal → TNN interneuron,k5/4096*0.001,/
+TNN pyramidal → TPN pyramidal,60/4096*0.001,/
+TNN pyramidal → TPN interneuron,60/4096*0.001,/

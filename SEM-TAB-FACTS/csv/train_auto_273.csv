@@ -1,0 +1,16 @@
+"Tests of Between-Subjects Effects
+Source","Tests of Between-Subjects Effects
+Type III Sum of Squares","Tests of Between-Subjects Effects
+df","Tests of Between-Subjects Effects
+Mean Square","Tests of Between-Subjects Effects
+F","Tests of Between-Subjects Effects
+Sig."
+Age,.485,1,.485,.872,.351
+Gender,.507,1,.507,.912,.340
+RBCS,15.688,2,7.844,14.098,.000
+Hb Value,15.915,2,7.957,14.301,.000
+Mean corpuscular volume,.066,1,.066,.119,.730
+Mean corpuscular Hb concentration,.178,1,.178,.321,.572
+Red cell distribution width,1.919E-5,1,1.919E-5,.000,.995
+WBC count,4.534,1,4.534,8.148,.005
+Platelets count,1.367,2,.684,1.229,.294

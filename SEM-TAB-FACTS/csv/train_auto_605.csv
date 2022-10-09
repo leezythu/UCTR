@@ -1,0 +1,12 @@
+Matrix,Conv. Method,MW Method,Improvement
+Overall Yield (%),90.0,98.2,8.2% increase (more productive method)
+Overall Heating Time,21 hr (75600 sec),120 sec,630 times less (time-saving method)
+Number of Steps,Two (two different separate reactions),One (one-pot method),50% decrease (simpler and cheaper method)
+Solvent,Present (in the second step),Absent,Solvent-free or solventless greener method
+Alcohol for Esterification,Present (in the first step),Absent (no need for this step),One-pot alcohol-free greener method
+Catalyst and Dehydrating Agent,Present (conc. H                         2                        SO                         4                        in the first step),Absent (no need for this step or dehydrating agent),More efficient simpler greener method
+Energy Consumption (KWhr)                            a,42,0.02667,About 1575 times less (energy-saving method)
+E-Factor                            b,4.8,0.2,95.83% decrease (in the total waste produced in Kg over the production of 1 Kg of the product)
+Atom Economy (%)                            c,69.16,83.64,14.48% increase (in the greenness of the method)
+Atom Efficiency (%)                            d,62.24,82.14,19.90% increase (in the efficiency of the method)
+Carbon Efficiency (%)                            e,77.78,100.00,22.22% increase

@@ -1,0 +1,9 @@
+Summary,Numbers
+Total raw reads count,"3737,001,658"
+Total clean reads count,"3359,945,032"
+Number of transcripts,"381,475"
+Maximum transcript length,"48,514"
+Minimum transcript length,201
+Mean transcript length,988
+N50 length,1908
+GC% content,39%

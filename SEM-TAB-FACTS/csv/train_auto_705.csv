@@ -1,0 +1,9 @@
+,TLS,miniVUX,VUX-1
+Detected trees,83,73,63
+Correctly detected trees,65,65,55
+Precision [%],78.3,89.0,87.3
+Recall [%],97.0,97.0,82.1
+Valid fitted stems,64,61,44
+Fitted and correct stems,61,54,41
+DBH bias [cm],−0.34,2.86,0.95
+DBH RMSE [cm],1.92,5.26,2.63

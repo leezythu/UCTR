@@ -1,0 +1,12 @@
+Specimen designation,Longitudinal bar type,V                         f                        (%),Shear reinforcement type,"Experimental shear load                        (Vc,e)                         *                         kN","Predicted shear load (Vc,p)                        kN","Vc,e/Vc,p",Failure mode
+SR-0,Steel,0,Stirrups,71,63                         **,1.12,Flexure
+SG-0,GFRP,0,Stirrups,76.5,86                         **,0.89,Flexure
+NG-0,GFRP,0,None,31.5,30.5,1.03,Shear
+NG-0.5,GFRP,0.5,None,37.5,36,1.04,Shear
+NG-1,GFRP,1,None,39.5,38,1.04,Shear
+UG-0,GFRP,0,U-strips,51.5,47.5,1.08,Flexure-shear
+UG-0.5,GFRP,0.5,U-strips,55.5,53,1.05,Flexure-shear
+UG-1,GFRP,1,U-strips,61.5,55,1.11,Flexure-shear
+FG-0,GFRP,0,Full sheets,54,66,0.82,Flexure
+FG-0.5,GFRP,0.5,Full sheets,67.5,73,0.93,Flexure
+FG-1,GFRP,1,Full sheets,85,76,1.12,Flexure

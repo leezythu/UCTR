@@ -1,0 +1,10 @@
+Group name,Summary,Variables,Validation accuracy of last 100 epochs
+G1,VNIR bands,"B2, B3, B5, B7",0.875 (±0.016)
+G2,All bands,B1 - B8,0.877 (±0.020)
+G3,All bands and 2 LiDAR,"B1 - B8, DEM, CHM",0.910 (±0.011)
+G4,"All bands, 2 LiDAR, 2 indices","B1 - B8, DEM, CHM, NDVI, NDWI",0.912 (±0.020)
+G5,"All bands, 2 LiDAR, 10 indices","B1-B8, DEM, CHM, 10 spectral indices",0.934 (±0.009)
+G6,All LiDAR metrics,"DEM, CHM, hillshade, slope, TWI, TPI, TRI",0.522 (±0.027)
+G7,All textural and spectral indices,"5 GLCMs, 10 spectral metrics",0.906 (±0.025)
+G8,All variables,"B1 - B8, 22 metrics",0.900 (±0.014)
+G9,PCA-based feature selection,"GI, MCARI, MSR, NDWI, GLCM (Correlation, Energy, Homogeneity), TRI, TPI, TWI, So, CHM, B8.",0.941 (±0.010)

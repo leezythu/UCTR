@@ -9,6 +9,7 @@ python process_program.py
 #### Data Generation
 
 ```python
+git clone https://github.com/Raldir/FEVEROUS.git
 python syn.py
 ```
 

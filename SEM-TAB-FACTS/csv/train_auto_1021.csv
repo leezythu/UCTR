@@ -1,0 +1,23 @@
+"Panel A: Contemporaneous independent variables
+Variables","Panel A: Contemporaneous independent variables
+(1)","Panel B: 1-period-lag independent variables
+Variables","Panel B: 1-period-lag independent variables
+(2)"
+Cash                            ijt,−0.005,Cash                            ijt                          −1,−0.013**
+,(0.005),,(0.005)
+Debt                            ijt,0.013***,Debt                            ijt                          −1,0.011**
+,(0.005),,(0.005)
+Size                            ijt,−0.005***,Size                            ijt                          −1,−0.008***
+,(0.001),,(0.001)
+PPE                            ijt,−0.012*,PPE                            ijt                          −1,−0.007
+,(0.007),,(0.008)
+SG                            ijt,−0.002,SG                            ijt                          −1,0.003
+,(0.002),,(0.002)
+ROA                            ijt,−0.009,ROA                            ijt                          −1,0.003
+,(0.006),,(0.006)
+EShock                            ijt,0.020***,EShock                            ijt                          −1,−0.001
+,(0.001),,(0.001)
+Peer                        ‐                         firm                          averages,Yes,Peer                        ‐                         firm                          averages,Yes
+N,"63,786",N,"58,698"
+Firms,5088,Firms,5088
+R                          2,0.216,R                          2,0.227

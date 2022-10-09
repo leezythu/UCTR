@@ -1,0 +1,13 @@
+Accession,Protein Name,Symbol,p-value,Fold change,Log2 Fold change
+P16638,ATP Citrate Lyase,ACLY,0.049,0.149,−2.748
+P11240,Cytochrome                         c                        oxidase subunit 5A,COX5A,0.031,5.344,2.418
+P31977,Ezrin,EZR,0.033,1.358,0.442
+P63095,GNAS Complex locus,GNAS,0.034,1.318,0.399
+P85125,Polymerase I and transcript release factor release factor,PTRF,0.021,0.662,−0.596
+P49432,Pyruvate dehydrogenase,PDHB,0.037,0.376,−1.409
+P61589,Ras homolog family member A,RHOA,0.047,0.507,−0.981
+P63245,Receptor for activated C Kinase1,RACK1,0.044,0.306,−1.707
+P62282,Ribosomal Protein S11,RPS11,0.042,0.186,−2.424
+P29314,Ribosomal Protein S9,RPS9,0.002,1.844,0.883
+P16036,Solute carrier family 25,SLC25A3,0.003,2.562,1.357
+Q5I0E7,Transmembrane p24 trafficking protein 9,TMED9,0.014,0.104,−3.262

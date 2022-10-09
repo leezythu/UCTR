@@ -1,0 +1,11 @@
+,Model 1,Model 2
+Intercept,4.02**,.143**
+Decreasing network distance (DND),.388 (.182)** [H1],.027 (.013)
+DND                           2,–.106 (−.046),–.065 (−.028)
+Difference in closeness (DCL),–.105 (−.202)**,–.109 (−.209)**
+Structural equivalence,–.354 (−.032),.324 (.029)
+Same destination dummy,–.184 (−.043),–.124 (−.029)
+Combined closeness (CCL),,.063 (.201)** [H2]
+CCL × DCL,,–.014 (−.103)*
+R-square,.066,.101
+Adjusted R-square,.063,.098

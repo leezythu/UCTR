@@ -1,0 +1,11 @@
+Organ/Cell,Phenotypes,Ref.
+Global            (all cells from conception),The blastocyst fail to implant and die at ED3.4,
+Brain/most CNS astrocytes            (hGFAP-Cre),The mice die soon after birth. They fail to feed and have slightly increased cortical ammonia levels,
+Cerebral cortex            (glutamatergic neurons and glia; Emx1-IRES-Cre),"The mice are viable, but have reduced life span, develop spontaneous seizures from 6 weeks of age, and have decreased locomotive activities with episodes of wild running",
+Oligodendrocytes            (MOGi-Cre),"The mice are viable, but neuronal glutamatergic transmission is disrupted in a myelin-independent way. There are deficits in cocaine-induced locomotor sensitization",
+Macrophages            (CSF1R-Cre             ERT            ),"The mice are viable, but with an increased capacity to induce T-cell recruitment, a reduced T-cell suppressive potential and an impaired ability to foster endothelial cell branching or cancer cell motility",
+Endothelial cells            (VE-cadherin(PAC)-cre             ERT2            and Pdgfb-cre             ERT2            ),"The mice are viable, but have impaired retinal vessel sprouting during vascular development",
+Liver            (Alb-Cre and Alfp-Cre),"The mice are viable, but have systemic hyperammonia, increased locomotion, impaired fear memory, a slightly reduced life span, reduced exploratory activity, and delayed habituation to a novel environment",;            ;
+Muscle            (MCK-Cre),"The mice are healthy, fertile, but 5-fold higher escaped ammonia when fasting",
+Kidney            (PEPCK-Cre),"The mice are viable, but under basal conditions there is increased urinary ammonia excretion, impaired adaptive responses in ammonia excretion during metabolic acidosis or during dietary protein restriction",;
+Pancreas            (Pdx1-Cre),Pancreatic ductal carcinoma development is supressed,

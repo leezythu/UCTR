@@ -1,0 +1,8 @@
+Method,Precision,Recall,F1-score,Specificity
+"SIL (                         Ray and Craven, 2005                        )",0.235,0.046,0.066,0.997
+"MissSVM (                         Zhou and Xu, 2007                        )",0.130,0.162,0.123,0.912
+"Attention based deep MIL (                         Ilse et al., 2018                        )",0.616,0.471,0.513,0.955
+"STPN (                         Nguyen et al., 2018                        )",0.592,0.517,0.536,0.916
+"W-TALC (                         Paul et al., 2018                        )",0.274,0.891,0.416,0.666
+PS-DeVCEM (w/o self-supervision),0.606,0.54,0.54,0.951
+PS-DeVCEM (proposed),0.616,0.546,0.551,0.951

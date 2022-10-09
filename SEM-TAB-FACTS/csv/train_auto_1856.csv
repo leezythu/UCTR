@@ -1,0 +1,6 @@
+Data type,Time                        points                        [months],N,INTERVALS,Other                        repository
+Proteomics,"3, 4, 6",8,processed                         [72]                         contrast                         [73],Pride                         [60]                        :                        PXD010875
+mRNA transcriptomics,"3, 4, 6",9,raw                         [74]                         processed                         [75]                         contrast                         [76],ArrayExpress                         [61]                        :                        E-MTAB-7444
+miRNA transcriptomics,"3, 4, 6",9,raw                         [77]                         processed                         [75]                         contrast                         [76],ArrayExpress                         [61]                        :                        E-MTAB-7892
+Metabolomics,"3, 6",9,processed                         [78]                         contrast                         [79],MetaboLights                         [62]                        :                        MTBLS158
+Lipidomics,"3, 4, 6",9,raw                         [80]                         processed                         [81]                         contrast                         [82],–

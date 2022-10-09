@@ -1,0 +1,7 @@
+Classification,"Capacity (MW)                        (                         Cuasay et al., 2014                        )","Capacity (MW)                        (                         Aun and Schei, 2009                        )","Capacity (MW)                        (                         Tarife et al., 2017                        )","Capacity (MW)                        (                         Carrrasco et al., 2019                        )"
+Pico,Less than 0.005,Less than 0.005,Less than 0.005,Less than 0.005
+Micro,0.005 to 0.100,Less than 0.1,0.005 to 0.100,0.005 to 0.100
+Mini,0.101 to 1,Less than 1,0.100 to 1,0.100 to 1
+Small,1.001 to 3,1 to 100,1 to 25,1 to 10
+Medium,3.001 to 10,Greater than 100,25 to 100,10 to 100
+Large,Greater than 10,Greater than 500,Greater than 100,Greater than 100

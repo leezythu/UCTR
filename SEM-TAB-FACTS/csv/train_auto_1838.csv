@@ -1,0 +1,8 @@
+Feature combination,P                          value
+Seq + Chem ± smooth DSSP                         vs                        . Seq only,0.10
+Seq + Chem ± smooth DSSP                         vs                        . Seq + Chem,0.01
+Seq + Chem ± smooth DSSP                         vs                        . Seq + Chem + real structure,1.12E−20
+Seq + Chem + smooth structure                         vs                        . Seq only,1.91E−13
+Seq + Chem + smooth structure                         vs                        . Seq + Chem,2.04E−16
+Seq + Chem + smooth structure                         vs                        . Seq + Chem + real structure,3.94E−49
+Seq + Chem + smooth structure                         vs                        . Seq + Chem + smooth DSSP,5.38E−09

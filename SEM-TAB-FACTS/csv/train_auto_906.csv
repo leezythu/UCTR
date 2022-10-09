@@ -1,0 +1,15 @@
+"
+","Coil Parameters
+Type","Coil Parameters
+Geometry","Coil Parameters
+T/R Mode","Coil Parameters
+Manufacturer","MR System
+Brand","MR System
+Location"
+Coil #1,Volume,Birdcage,Tx-Rx,RAPID Gmbh,Siemens,"Copenhagen, DK"
+Coil #2,Volume,Birdcage,Tx-Rx,RAPID Gmbh,GE,"Cambridge, UK"
+Coil #3,Volume,Helmholtz,Tx-Rx,Pulsteq,GE,"Aarhus, DK"
+Coil #4,Surface,8-CH Array,Rx-Only,GE,GE,"Aarhus, DK"
+Coil #5,Surface,16-CH Array,Rx-Only,RAPID Gmbh,GE,"Aarhus, DK"
+Coil #6,Surface,14-CH Array,Rx-Only,HYPERMAG,GE,"Aarhus, DK"
+Coil #7,Surface,Single Loop,Rx-Only,HYPERMAG,GE,"Aarhus, DK"

@@ -1,0 +1,5 @@
+Type of                 A                  +                  σ                  I,Method,Solver name
+Real symmetric,Shifted conjugate gradient (CG) method (using real vector),komega_cg_r
+Hermitian,Shifted conjugate gradient (CG) method (using complex vector),komega_cg_c
+Complex symmetric,Shifted conjugate orthogonal conjugate gradient (COCG) method,komega_cocg
+Otherwise,Shifted bi-conjugate gradient (BiCG) method,komega_bicg

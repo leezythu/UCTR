@@ -1,0 +1,16 @@
+"Equation pair used to calculate            eGFR             cystatin C            /eGFR             creatinine            -ratio
+","Prevalence (%)            eGFR             cystatin C            /eGFR             creatinine            -ratio
+0.60","Prevalence (%)            eGFR             cystatin C            /eGFR             creatinine            -ratio
+0.70","Reference (no. in list)
+"
+CAPA/LMrev,8.2,,Grubb et al. [48]
+CAPA/LMrev,2.1,6.5,Dardashti et al. [64]
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,5.7,,Dardashti et al. [64]
+CAPA/LMrev,0.2,0.3,Purde et al. [65]
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,0.7,2.2,Purde et al. [65]
+CAPA/LMrev,2.4,6.4,Herou et al. [70]
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,7.7,21,Herou et al. [70]
+CAPA/LMrev,11,23,Åkesson et al. [71]
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,19,36,Åkesson et al. [71]
+FAS             cystatin C            /FAS             creatinine,10,23,Åkesson et al. [71]
+FAS             cystatin C            /FAS             creatinine,4.8,13.9,den Bakker et al. [77] (children)

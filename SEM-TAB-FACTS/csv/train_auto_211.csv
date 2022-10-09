@@ -1,0 +1,4 @@
+,Positive for disease,Negative for disease,Total
+Positive ultrasound,32 (TP),10 (FP),42
+Negative ultrasound,13 (FN),26 (TN),39
+Total,45,36,81

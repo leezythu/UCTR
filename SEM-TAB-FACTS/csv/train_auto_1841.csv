@@ -1,0 +1,23 @@
+Category,Bonferroni                           P                          value,Percentage of related genes (%),Adjusted fold enrichment,χ                             2                            P                          value
+Biological process,,,,
+GO:0048869 cellular developmental process,4.49×10                         -5,17.30,1.82,5.21×10                         -6
+GO:0048856 anatomical structure development,5.19×10                         -5,16.63,1.56,2.55×10                         -9
+GO:0030154 cell differentiation,7.09×10                         -5,22.25,1.83,2.72×10                         -5
+GO:0048731 system development,2.87×10                         -4,20.67,1.54,3.36×10                         -11
+GO:0009653 anatomical structure morphogenesis,1.35×10                         -3,11.91,1.87,8.83×10                         -7
+GO:0007399 nervous system development,2.14×10                         -3,25.39,1.94,9.06×10                         -12
+GO:0032502 developmental process,2.55×10                         -3,23.37,1.40,7.12×10                         -4
+GO:0045595 regulation of cell differentiation,6.54×10                         -3,6.97,2.58,8.99×10                         -31
+GO:0007275 multicellular organismal development,8.31×10                         -3,8.09,1.38,1.57×10                         -7
+GO:0048513 organ development,0.03,11.91,1.52,1.27×10                         -8
+GO:0050793 regulation of developmental process,0.05,8.09,2.14,6.02×10                         -23
+Cell Component,,,,
+GO:0016020 membrane,0.03,46.52,1.24,1.75×10                         -3
+GO:0044425 membrane part,0.04,42.25,1.26,3.34×10                         -5
+INTERPRO,,,,
+IPR013098:Immunoglobulin I-set,6.15×10                         -3,4.00,5.03,1.71×10                         -10
+SP_PIR_KEYWORDS,,,,
+membrane,3.96×10                         -3,43.33,1.22,1.02×10                         -6
+UP_SEQ_FEATURE,,,,
+domain:Ig-like C2-type 1,0.04,4.33,4.19,2.26×10                         -9
+domain:Ig-like C2-type 2,0.04,4.33,4.17,2.26×10                         -9

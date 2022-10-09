@@ -1,0 +1,11 @@
+Model run,Factor addressed,Instantaneous change year 0,e-Folding time-scale
+#36,Atmospheric pCO                         2,REF pCO                         2                        to pre-industrial pCO                         2,~1 month
+#37,Atmospheric pCO                         2,REF pCO                         2                        to pCO                         2                        according to RCP 8.5,~1 month
+#38,River runoff,Runoff increased by 10%,~30 years
+#39,River runoff,Runoff increased by 20%,~30 years
+#40,A                         T                        /DIC land loads,A                         T                        /DIC land loads increased by 10%,~30 years
+#41,A                         T                        /DIC land loads,A                         T                        /DIC land loads increased by 20%,~30 years
+#42,N/P loads (land + atm.),REF N/P loads to BSAP N/P loads,Not applicable
+#43,N/P loads (land + atm.),REF N/P loads to HIGH N/P loads,Not applicable
+#44,Ocean A                         T                        /DIC,Ocean A                         T                        /DIC increased by 10%,~30 years
+#45,Ocean A                         T                        /DIC,Ocean A                         T                        /DIC increased by 20%,~30 years

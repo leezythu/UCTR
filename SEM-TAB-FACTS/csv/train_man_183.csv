@@ -1,0 +1,10 @@
+Specimen,Compressive strength             f’c            (MPa),Modulus of rupture             f               r              (MPa),Splitting tensile strength             f               t              (MPa),Modulus of elasticity (GPa)
+V-3/12,28.4,3.11,2.81,20.78
+L30-3/12,30.4,3.33,3.08,23.25
+L45-3/12,29.4,2.94,2.75,21.98
+L60-3/12,27.1,2.78,2.57,19.25
+L45-2/8,28.2,3.05,2.73,21.25
+L45-3/16,28.7,3.26,3.25,22.78
+Average (X),28.70,3.08,2.87,21.55
+SD,1.12,0.20,0.25,1.45
+C.O.V. %,3.90,6.60,8.77,6.74

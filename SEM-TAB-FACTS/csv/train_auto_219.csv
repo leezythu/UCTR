@@ -1,0 +1,20 @@
+"Pre-existing medical condition
+","SAVR Non-Cirrhotic
+(n = 112)","SAVR-Cirrhotic
+(n = 5)","Mini-SVR Non-Cirrhotic
+(n = 120)","Mini-SVR Cirrhotic
+(n = 4)","TAVR Non-Cirrhotic
+(n = 167)","TAVR Cirrhotic
+(n = 49)","P                        Value                           a                          (TAVR patients)
+"
+Hypertension,104(93%),5(100%),107(89%),4(100),159(95%),49(100%),0.20
+Hyperlipidemia,84(75%),3(60%),100(83%),3(75),153(92%),39(80%),0.02
+Coronary artery disease,79(71%),5(100%),82(68%),2(50),137(82%),44(90%),0.27
+Concomitant cardiac disease,52(46%),3(60%),30(25%),1(25),111(66%),34(69%),0.73
+Atrial fibrillation,28(25%),2(40%),29(24%),2(50),73(44%),23(47%),0.62
+Cancer,22(20%),0(0%),29 (24%),2(50),47(28%),18(37%),0.29
+Chronic kidney disease,24(21%),2(40%),15 (13%),0(0),19(11%),10(20%),0.10
+Stroke,11(10%),0(0%),14 (12%),1(25),33(20%),6(12%),0.29
+Peripheral vascular disease,17(15%),1(20%),18 (15%),0(0),34(20%),9(18%),0.84
+Rheumatic disease,8(7%),0(0%),13 (11%),0(0),21(13%),4(8%),0.61
+Psychiatric disease,29(26%),0(0%),35 (29%),0(0),22(13%),6(12%),1.00

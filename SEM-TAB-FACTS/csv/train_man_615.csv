@@ -1,0 +1,10 @@
+Variable,Unadjusted OR (95% CI),P
+Age,1.01 (0.99–1.04),.34
+Female,1.52 (0.82–2.79),.18
+Married,2.30 (1.25–4.21),.007
+Education,,.36
+Higher education,Referent,
+Primary/secondary,0.66 (0.34–1.28),
+No education,0.60 (0.25–1.42),
+Previously employed,0.63 (0.34–1.17),.14
+Number of children,1.13 (0.92–1.39),.23

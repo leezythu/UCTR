@@ -1,0 +1,5 @@
+City,A,B,C,D
+Hospital Beds,5,10,15,500
+Min-Max Resilience A-C,0,"0,5",1,n.a.
+Min-Max Resilience A-D,0,"0,01","0,02",1
+Exponential resilience (with rho = −5),0,"0,55","0,95",1

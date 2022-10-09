@@ -1,0 +1,5 @@
+,AVC                         ⁎                        set voltage (V),Current (A),Travel speed (mm/min),Wire feed speed (mm/min),Weaving amplitude (mm) & frequency (Hz)
+Pass 1,12,120,50,910,2 & 0.3
+Pass 2,13.5,220,100,1225,4 & 0.6
+Pass 3-16,13.5,210,120,1470,3 & 0.55
+Pass 17-21,13.5,240,100,1225,4 & 0.6

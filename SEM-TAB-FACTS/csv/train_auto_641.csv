@@ -1,0 +1,6 @@
+Data Category,Example Data
+User credentials,"username, password"
+Participant characteristics,"names, identification numbers, telephone number, physical address, birth dates, gender, tribe"
+Medical Data,"Diagnosis, Prescription, Drugs/Medication, Laboratory Tests, Procedures, Findings, Anatomy, Symptoms"
+Project/Internal Data,"data collector details, coverage and location, mobile devices allowed, consent forms, project goals, actual data related to the survey, participant selection criteria"
+Meta Data,"user and device identity such as telephone number, SIM card, time, GPS coordinates"

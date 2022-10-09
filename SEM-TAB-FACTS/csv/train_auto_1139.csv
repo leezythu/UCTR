@@ -1,0 +1,14 @@
+"Filler (wt%)
+Filler (wt%)","Hardness value (HV)
+PLA/Ch","Hardness value (HV)
+PLA/Ct","Hardness value (HV)
+PLA/Ti","% increase in hardness of
+PLA/Ct over PLA/Ch","% increase in hardness of
+PLA/Ti over PLA/Ct","% increase in hardness of
+PLA/Ti over PLA/Ch"
+0.00,68.6,68.6,68.6,0.0000,0.0000,0.0000
+1.04,76.1,134,151.8,76.0841,13.2836,49.8683
+2.08,90.2,135.5,161.8,50.2217,19.4096,44.2522
+4.17,107.2,154.5,180.5,44.1231,16.8285,40.6094
+8.33,148.4,213.1,268.1,43.5984,25.8095,44.6475
+16.67,167.7,210.9,165.2,25.7603,-21.6690,-1.5133

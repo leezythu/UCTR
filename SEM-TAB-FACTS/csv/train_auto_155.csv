@@ -1,0 +1,11 @@
+"
+","30-day Mortality*
+OR (95% CI)","30-day Mortality*
+p-value","30-day all-cause Morbidity**
+OR (95% CI)","30-day all-cause Morbidity**
+p-value"
+Admission on Weekday,0.69 (0.17–2.84),0.602,1.44 (0.83–2.48),0.194
+Age,1.03 (0.99–1.08),0.145,1.03 (1.01–1.04),0.001
+Male Gender,0.23 (0.05–1.17),0.077,0.90 (0.52–1.55),0.700
+Mean ASA Grade,4.26 (1.52–11.90),0.006,1.37 (0.89–2.10),0.152
+Time from admission to procedure,0.88 (0.70–1.11),0.268,1.06 (0.98–1.15),0.170

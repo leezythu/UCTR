@@ -1,0 +1,41 @@
+Parameter,Value
+Thermal desorber,
+Primary desorption (Tenax TD tube),
+Valve temperature,225°C
+Tube temperature,225°C
+Transfer line temperature,250°C
+Trap temperature,"-30 to 300°C, heating rate of 40°C/s"
+Purge time,1 min
+Desorption time,5 min
+Trap hold time,7 min
+Desorption gas,Helium (99.999%)
+Desorption flow,50 mL/min
+Inlet split flow,20 mL/min
+Outlet split flow,20 mL/min
+Column pressure,12 psi
+Trap packing material,Tenax TA
+GC/MS,
+GC Oven,
+Temperature,"50°C for 0.5 min, 25°C/min to 100°C,"
+,"180°C, hold for 1 min"
+GC column flow,1 mL/min
+Carrier gas and flowrate,"Helium (99.999%), 1mL/min"
+MS (detector),
+Electron Energy,70
+Trap Emission,100
+Repeller,1.0
+"Lens 1, 2","5, 55"
+Filament current,0.07
+Source temp,200°C
+LM Res,8.0
+HM Res,12.5
+Ion Energy,2.5 (ramp of 1.5)
+Multiplier,1650 V
+SIM (detection method),
+"m/z of 1,2-DCB","111, 146"
+"m/z of 1,2-DCB-d4","78, 115, 152"
+Dwell time,0.05 seconds
+Ionization mode,EI+
+Inter-channel delay,0.05
+Retention window,4.3 to 5 min
+Solvent delay,4 min

@@ -1,0 +1,6 @@
+Category,Merits,Limits
+Hierarchical clustering,Free-parameters,High time and memory consuming
+,Different level of granularities,
+Pure clustering,Fast time and memory consuming,Difficult to fix the number of clusters
+Overlapping clustering,Finding overlapping clusters,High time consuming
+,,Need parameters adjustments

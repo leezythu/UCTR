@@ -1,0 +1,11 @@
+Method,Coarse,Mean IoU(%)
+DeepLabv2-CRF             [11],,70.4
+LRR-4            ×             [38],✓,71.8
+RefineNet             [33],,73.6
+DUC             [12],,77.6
+PSPNet             [9],,78.4
+PAN             [19],,78.6
+BiSeNet             [25],,78.9
+SegNet             [39],✓,79.2
+DFN             [18],,79.3
+PCANet,,80.1

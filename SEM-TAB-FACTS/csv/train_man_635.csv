@@ -1,0 +1,6 @@
+Parameter,Description
+Sa,Arithmetic mean height of selected area
+Sq,Root-Mean-Square height of selected area
+Sv,Maximum valley depth of selected area
+Ssk,Skewness of selected area. It describes how the mass is distributed around the mean plane.
+Sku,Kurtosis of selected area. It is a measure of the sharpness of the surface roughness over the area.

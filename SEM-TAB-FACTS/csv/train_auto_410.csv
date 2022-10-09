@@ -1,0 +1,40 @@
+"Item
+Design Mode","Unabated IGCC
+SFT 2200 K","Unabated IGCC
+SFT 2300 K","Pre-combustion CO                           2                          Capture IGCC
+SFT 2110 K","GSC-MAWGS IGCC with reduction gases recuperator
+Power","GSC-MAWGS IGCC with reduction gases recuperator
+H                           2","GSC-MAWGS IGCCwith slurry pre-gasifier
+Power","GSC-MAWGS IGCCwith slurry pre-gasifier
+H                           2"
+Coal Input (MW),1534.1,1525.3,1794.9,1487.0,1487.0,1224.0,1224.0
+GT Net (MW),561.6,546.4,585.3,475.5,29.1,466.0,22.3
+ST Net (MW),332.7,351.8,347.3,328.3,158.2,205.0,56.2
+Air /Syngas Expander (MW),15.5,15.4,18.1,17.8,57.5,12.5,40.3
+GT Aux. (MW),−2.2,−2.2,−2.2,−2.2,−2.2,−2.2,−2.2
+ASU (MW),−47.4,−47.1,−55.5,−58.6,−58.6,−20.3,−24.0
+N                         2                        Compression (MW),−47.4,−47.2,−61.1,0,0,0,0
+Syngas Recycle Compressor (MW),−2.4,−2.3,−2.8,−1.9,−1.9,0,0
+Coal Milling (MW),−3.1,−3.0,−3.6,−3.0,−3.0,−2.4,−2.4
+Ash Handling (MW),−0.9,−0.9,−1.0,−0.9,−0.9,−0.8,−0.8
+HGCU Aux. (MW),−1.8,−1.8,−2.1,−1.7,−1.7,−1.4,−1.4
+Compander (MW),4.1,4.0,4.7,−0.4,−0.4,−0.4,−0.4
+CO                         2                        Compression (MW),0,0,−40.7,−18.7,−40.15,−11.6,−25.3
+H                         2                        Compression (MW),0,0,0,−19.2,−52.4,−19.6,−56.2
+Selexol Unit (MW),0,0,−20.7,0,0,0,0
+Water Pumps (MW),−6.3,−6.1,−7.4,−6.9,−4.8,−4.3,−2.5
+Heat Rejection Aux. (MW),−3.5,−3.8,−3.9,−3.8,−2.6,−2.8,−1.4
+Total Condenser Duty (MW),435.0,470.7,492.0,479.3,323.2,354.7,175.6
+Balance of Plant (MW),−2.4,−2.3,−2.7,−2.2,−2.2,−1.8,−1.8
+Gross Plant (MW),913.8,917.6,955.5,821.4,244.2,683.4,118.4
+Net Plant (MW),792.1,796.3,751.8,702.0,73.5,615.8,0.0
+Total H                         2                        LHV (MW),–,–,–,–,761.3,–,764.0
+Gross Electric Efficiency (%),59.6,60.2,53.2,55.2,16.4,55.8,9.7
+η                                t                                w                            (%),51.6,52.2,41.9,47.2,4.9,50.3,0.0
+η                                t                                  H                                2                              (%),–,–,–,–,51.2,–,62.4
+"η                                t                                ,                                e                                q                                  H                                2                              (%)",–,–,–,–,56.6,–,62.4
+E                                  co                                  2                              (kgCO                         2                        /MWh                         H2+el.                        ),670.9,663.6,70.6,38.4,26.9,13.2,2.5
+CC (%),0,0,91.5,94.8,95.6,98.1,99.5
+CA (%),0,1.0,89.5,94.3,–,98.0,–
+SPECCA (MJ/kgCO                         2                        ),–,–,2.70,1.05,–,0.28,–
+wc                        (kgH                         2                        O/GJ                         th                        ),18.7,5.4,35.3,8.7,20.8,13.7,30.0

@@ -1,0 +1,30 @@
+Listener ID,Group                         *,Age (years),Gender (F/M),Hearing screening                         **,City                         ***,Meeting children (frequency),Clinical experience as SLP (years),Clinical pediatric experience (years)
+A01,SLP,53,F,-,STH,Several times/month,32,0
+A02,SLP,28,F,-,STH,Daily,2,2
+A03,SLP,49,F,-,STH,Daily,16,16
+A04,SLP,52,F,-,STH,Daily,15,15
+A05,SLP,30,F,-,STH,Several times/year,4.5,4
+A06,SLP,35,F,-,STH,Daily,9,8
+A07,SLP,58,F,Right ear 30 dB at 1000 Hz,STH,Daily,35,35
+A08,SLP,25,F,-,STH,Daily,1,1
+A09,SLP,54,F,-,GBG,Daily,31,30
+A10,SLP,31,F,-,GBG,Several times/year,6.5,7
+A11,SLP,46,F,-,GBG,Daily,6,6
+A12,SLP,40,F,-,GBG,Daily,16,15
+A13,SLP,56,F,Right ear 30 dB at 4000 Hz,GBG,Several times/year,32,0
+A14,SLP,58,F,Left ear 40 dB at 500 Hz,GBG,Several times/month,31,30
+A15,SLP,50,F,-,GBG,Daily,17,8.5
+A16,SLP,49,F,-,GBG,Several times/month,20,1
+B01,ADU,54,F,"Right ear 30 dB at 4000 Hz, Left ear 30 dB at 2000 Hz, 35 dB at 4000 Hz",STH,Daily,-,-
+B02,ADU,60,M,-,STH,Several times/year,-,-
+B03,ADU,31,M,"Left ear 35 dB at 500 and 1000 Hz, and 30 dB at 4000 Hz",STH,Several times/month,-,-
+B04,ADU,31,M,-,STH,Daily,-,-
+B05,ADU,54,F,-,STH,Daily,-,-
+B06,ADU,40,F,-,STH,Daily,-,-
+B07,ADU,49,M,-,STH,More rarely,-,-
+B08,ADU,23,M,-,STH,More rarely,-,-
+B09,ADU,25,F,-,GBG,Several times/month,-,-
+B10,ADU,28,M,-,GBG,More rarely,-,-
+B11,ADU,28,F,-,GBG,Several times/month,-,-
+B12,ADU,45,F,-,GBG,Several times/year,-,-
+B13,ADU,27,M,-,GBG,Several times/month,-,-

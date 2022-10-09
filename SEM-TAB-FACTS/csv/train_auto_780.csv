@@ -1,0 +1,24 @@
+"Metrics
+Metrics
+Studies (Year) [Ref]","Ontology Metrics
+Complexity
+Class","Ontology Metrics
+Complexity
+Properties","Ontology Metrics
+Abstraction
+Abstraction","Ontology Metrics
+Cohesion
+Cohesion","Ontology Metrics
+Conceptualization richness
+Semantic","Ontology Metrics
+Conceptualization richness
+Data property","Ontology Metrics
+Conceptualization richness
+Inheritance","Ontology Metrics
+Comprehension
+Classes (%)","Ontology Metrics
+Comprehension
+Property (%)"
+Proposed framework,4,11,4,181,1.041,0.12,8.2,10,10
+El-Sappagh et al. [                         42                        ],5,1.4,2,63,0.495,2.26,5.0,88.71,2.04%
+Heras et al. [                         43                        ],3,1.3,2,27,0.62,0.92,2.875,0.0,0.0

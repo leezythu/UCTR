@@ -1,0 +1,18 @@
+"
+Treatment","Extrudate samples
+Total DF (g/100 g)","Extrudate samples
+IDF (g/100 g)","Extrudate samples
+SDF (g/100 g)","Extrudate samples
+pH","Extrudate samples
+TTA (% lactic acid equivalents)","Bran Samples
+pH","Bran Samples
+TTA (% lactic acid equivalents","Bran Samples
+Dextran content (g/100 g)","Bran Samples
+Soluble protein (g/100 g)"
+Native,18.0,12.8 ± 0.03,5.2 ± 0.03,NA,NA,NA,NA,NA,NA
+Soaked,18.7,13.4 ± 0.26,5.3 ± 0.58,6.4 ± 0.07                         b,0.6 ± 0.07                         a,6.5 ± 0.07                         c,1.8 ± 0.06                         a,N/A,8.2 ± 0.3                         a
+W. confusa                        0% sucrose,17.3,11.6 ± 0.16,5.7 ± 0.57,4.7 ± 0.14                         a,2.1 ± 0.04                         c,4.4 ± 0.03                         ab,6.4 ± 0.20                         c,0.8 ± 0.02                         a,10.6 ± 0.2                         b
+W. confusa                        5% sucrose,17.4,11.4 ± 0.21,5.9 ± 0.08,4.7 ± 0.14                         a,2.1 ± 0.00                         c,4.3 ± 0.03                         ab,6.3 ± 0.51                         c,2.4 ± 0.06                         b,10.8 ± 0.2                         b
+W. confusa                        10% sucrose,18.3,11.1 ± 1.13,7.2 ± 0.43,4.5 ± 0.14                         a,2.1 ± 0.01                         c,4.3 ± 0.03                         a,5.7 ± 0.13                         b,4.7 ± 0.20                         d,11 ± 0.3                         b
+Chemical acidification,17.2,11.7 ± 0.69,5.5 ± 0.31,4.7 ± 0.08                         a,2.0 ± 0.02                         b,4.3 ± 0.00                         b,5.4 ± 0.02                         b,NA,10.3 ± 0.1                         b
+Dextransucrase treated,NA,NA,NA,NA,NA,NA,NA,4.3 ± 0.06                         c,NA

@@ -1,0 +1,11 @@
+Patient,Diagnosis,Lesion,Gender,Age,Months since event,FIM,BIT
+1,ICH,parieto-occipital,male,63,2,-,127
+2,SAH,temporal,male,61,1,63,102
+3,Infarction,temporo-parietal,male,58,3,62,40
+4,Infarction,temporo-occipital,male,57,1,64,105
+5,SAH,temporo-occipital,female,41,2,62,64
+6,SAH,temporo-occipital,female,64,4,35,69
+7,ICH,parieto-occipital,male,66,5,37,109
+8,SAH,temporal,female,55,2,50,81
+9,TBI,frontal,male,68,3,58,17
+10,Infarction,fronto-parieto-temporal,female,65,2,84,108

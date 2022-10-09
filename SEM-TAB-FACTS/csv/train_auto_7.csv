@@ -1,0 +1,48 @@
+"
+
+Hotel A
+","
+Variable
+Intercept
+Guest numbers","Before reduction                           a                          (w                         i,1                        )
+Non-standardized
+9.072
+−0.003","Before reduction                           a                          (w                         i,1                        )
+Non-standardized
+
+","Before reduction                           a                          (w                         i,1                        )
+Standardized                           c
+
+−0.057","Before reduction                           a                          (w                         i,1                        )
+SE
+4.509
+0.012","After reduction                           b                          (w                         i,const                        )
+Non-standardized
+2.161
+−0.001","After reduction                           b                          (w                         i,const                        )
+Non-standardized
+⁎
+","After reduction                           b                          (w                         i,const                        )
+Standardized                         c
+
+−0.100","After reduction                           b                          (w                         i,const                        )
+Standardized                         c
+
+","After reduction                           b                          (w                         i,const                        )
+SE
+0.219
+0.001"
+,R                         2,0.003,,,,0.010,,,,
+,F,0.080,,,,2.249,,,,
+Hotel B,Intercept,5.291,⁎,,1.782,0.517,⁎,,,0.156
+,Guests numbers,0.006,,0.187,0.006,0.002,⁎,0.249,⁎,0.001
+,R                         2,0.035,,,,0.062,,,,
+,F,0.947,,,,14.687,⁎,,,
+Hotel C,Intercept,5.804,⁎,,1.652,5.565,⁎,,,0.648
+,Guests numbers,0.016,,0.329,0.009,−0.004,⁎,−0.176,⁎,0.002
+,R                         2,0.108,,,,0.031,,,,
+,F,3.156,,,,7.041,⁎,,,
+Hotel D,Intercept,7.261,⁎,,1.438,3.770,⁎,,,0.132
+,Guests numbers,−0.002,,−0.106,0.004,0.001,,0.099,,0.001
+,R                         2,0.011,,,,0.010,,,,
+,F,0.297,,,,2.214,⁎,,,

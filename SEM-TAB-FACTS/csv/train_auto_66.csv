@@ -1,0 +1,17 @@
+Contrast,Age,Region,Estimate (*10                         −5                        ),SE (*10                         −5                        ),df,t-ratio,p                        -value
+A - NA,2 years,LH Frontal,−3.02,1.54,2534,−1.957,0.0504
+A - NA,2 years,LH IF,−1.12,1.57,2534,−0.716,0.4744
+A - NA,2 years,LH Temporal,0.23,1.34,2534,0.17,0.865
+A - NA,2 years,LH Parietal,−1.11,1.54,2534,−0.718,0.4731
+A - NA,2 years,RH Frontal,−0.006,1.55,2534,−0.004,0.9968
+A - NA,2 years,RH IF,0.87,1.58,2534,0.551,0.5818
+A - NA,2 years,RH Temporal,1.96,1.34,2534,1.457,0.1452
+A - NA,2 years,RH Parietal,0.63,1.57,2534,0.404,0.6864
+A - NA,3 years,LH Frontal,−2.14,1.57,2534,−1.368,0.1716
+A - NA,3 years,LH IF,−0.13,1.59,2534,−0.081,0.9352
+A - NA,3 years,LH Temporal,3.06,1.34,2534,2.275,0.023
+A - NA,3 years,LH Parietal,3.85,1.57,2534,2.458,0.014
+A - NA,3 years,RH Frontal,−4.74,1.54,2534,−3.067,0.0022
+A - NA,3 years,RH IF,−1.74,1.54,2534,−1.13,0.2588
+A - NA,3 years,RH Temporal,0.81,1.35,2534,0.596,0.551
+A - NA,3 years,RH Parietal,−0.88,1.57,2534,−0.561,0.5752

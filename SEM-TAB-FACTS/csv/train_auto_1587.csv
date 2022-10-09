@@ -1,0 +1,16 @@
+Transect 1,Specimen Identification,87                        Sr/                         86                        Sr,Sr concentration (ppm),Transect 2,Specimen Identification,87                        Sr/                         86                        Sr,Sr concentration (ppm)
+"Position 1, 0m",ACL-5529 IRE-GALW-0062,0.71003,NA,"Position 1, 0m",ACL-5534 IRE-GALW-0072,0.70982,76
+"Position 2, 50m",ACL-5530 IRE-GALW-0064,0.70925,152,"Position 2, 50m",ACL-5535 IRE-GALW-0074,0.70931,122
+"Position 3,10 0m",ACL-5531 IRE-GALW-0066,0.70929,59,"Position 3,10 0m",ACL-5536 IRE-GALW-0076,0.70927,68
+"Position 4, 150m",ACL-5532 IRE-GALW-0068,0.70931,85,"Position 4, 150m",ACL-5537 IRE-GALW-0078,0.70947,54
+"Position 5, 200m",ACL-5533 IRE-GALW-0070,0.70932,47,"Position 5, 200m",ACL-5538 IRE-GALW-0080,0.70930,59
+Average,,0.70944,86,Average,,0.70943,76
+Standard Deviation,,0.00030,47,Standard Deviation,,0.00023,27
+Transect 3,Specimen Identification,87                        Sr/                         86                        Sr,Sr concentration (ppm),Controls,Specimen Identification,87                        Sr/                         86                        Sr,Sr concentration (ppm)
+"Position 1, 0m",ACL-5539 IRE-GALW-0082,0.71020,113,Hilltop Control 1,ACL-5544 IRE-GALW-0092,0.71151,58
+"Position 2, 50m",ACL-5540 IRE-GALW-0084,0.70926,29,Hilltop Control 2,ACL-5545 IRE-GALW-0094,0.70974,
+"Position 3,10 0m",ACL-5541 IRE-GALW-0084,0.71040,24,Hilltop Control 3,ACL-5546 IRE-GALW-0096,0.70986,
+"Position 4, 150m",ACL-5542 IRE-GALW-0088,0.70938,40,Average,,0.71037,
+"Position 5, 200m",ACL-5543 IRE-GALW-0090,0.70938,22,Standard Deviation,,0.00099,
+Average,,0.70972,46,,,,
+Standard Deviation,,0.00053,38,,,,

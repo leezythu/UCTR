@@ -1,0 +1,5 @@
+Sample set,Laser power (W),Scan speed (mm/s),Scanning strategy
+#1,285,960,Bi-directional Raster
+#2,340,1145,Bi-directional Raster
+#3,340,960,Bi-directional Raster
+#4,285,960,Chessboard (67° rotation)

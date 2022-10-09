@@ -1,0 +1,21 @@
+Notation,Description,Scenario 1 value,Scenario 2 value
+β,Transmission rate of disease,0.23,0.2
+σ,Incubation rate of disease,0.5,0.2
+γ,Recovery/removal rate from disease,0.14,0.1
+ν                                    r,Daily vaccination rate (number of individuals),100,100
+ν                                    e,Vaccine efficacy,"(                              0                              ,                              100                              )                              %","(                              0                              ,                              100                              )                              %"
+ν                                    pool,Total number of vaccines available,2500,4500
+t                                    ∗,Day on which adaptive approaches can adapt control,7,7
+t                                    end,Day on which outbreak ends (duration of the outbreak),–,–
+"V                                        t                                        0                                      ,                                      t                                        1",Denotes a vaccination campaign that starts on day                                 t                                    0                                and ends on day                                 t                                    1                                . We require                                 t                                    0                                  ⩽                                  t                                    1                                  ⩽                                  t                                    end,–,–
+"C                            (                                V                                      t                                      0                                    ,                                    t                                      1                                    ,                                ν                                  e                                )","Cost of an outbreak (                             H                              (                              t                              )                            ) with a given vaccination campaign (                                 V                                        t                                        0                                      ,                                      t                                        1                                    ) and vaccine efficacy.",–,–
+ω                                    1,Weight assigned to the length of the outbreak (per day) in calculation of cost,0,1
+ω                                    2,Weight assigned to each infection caused by the outbreak in calculation of cost,1,0
+ω                                    3,Weight assigned to each vaccination administered in calculation of cost,0.6,0
+ω                                    4,Weight associated with a fixed cost of implementing a vaccination campaign in calculation of cost,350,0
+x                                    0,Number of successful vaccinations that form prior information regarding vaccine efficacy,0.1,0.1
+y                                    0,Number of unsuccessful vaccinations that form prior information regarding vaccine efficacy,0.1,0.1
+ρ,Proportion of administered vaccines monitored for success,5                              %,5                              %
+M                                    t,Number of vaccines monitored for success until time                         t,–,–
+x                                    t,"Number of successful, monitored vaccinations up to time                         t",–,–
+y                                    t,"Number of unsuccessful, monitored vaccinations up to time                         t",–,–

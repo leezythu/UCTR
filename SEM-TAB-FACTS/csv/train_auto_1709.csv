@@ -1,0 +1,50 @@
+Type,Tract,Panel,SKID_R,SKID_L,FC Match,Score,Novel,Previous Names,Driver,Score,NT
+VP2 adPN,mALT,2O,57516,9159128,Gad1-F-000090,0.615,false,VP2 uACT1 [                         23                        ],R21C11,0.568,ACh
+VP2+ adPN,mALT,2G,1712057,8864990,,NA,true,,,NA,ACh
+VP5+SEZ adPN,mALT,3L,14003783,9511430,,NA,true                         ∗,poly[emb] adPN [                         34                        ],,NA,ACh
+VP1l+VP3 ilPN,mALT,"3B, 3B’",57495,57487,Cha-F-100277,0.656,false,VP3 bilateral PN [                         23                        ],R82F02,0.521,
+VP1m+VP5 ilPN,mALT,"3A, 3A’",57503,46105,Gad1-F-300444,NA,false,R24G07 hPN [                         21                        ],R24G07-L [                         21                        ]; R25B12,NA; 0.470,
+VP1d il2PN,dALT,"2E, 2E’",192423,203504,VGlut-F-000344,0.571,true,,R18A08,0.531,
+VP3+VP1l ivPN,mALT,"3C, 3C’",45882,37513,,NA,false,slow cold mALT PN [                         28                        ],VT26020 [                         28                        ]; R80F03,NA; 0.636,
+VP4++ lPN,mALT,"S3H, S4E, S4E’","3648956,                        57430, 57434",,Gad1-F-700019,0.657,true,,R82C09,0.679,ACh
+VP4+VP2+VL1 l2PN,t3ALT,"3M, 3M’",1664544,4631122,,NA,false,warm-cool PN [                         27                        ],R54A03 [                         27                        ]; R82C09,NA; 0.603,
+VP5+ l2PN,mALT,S3E,10078400,,,NA,true,,,,
+VP1d+VP4 l2PN1,lALT,"3D, 3D’",23005,9716626,,NA,true                         ∗,biPN-2 [                         35                        ],R38A04,0.517,
+VP1d+VP4 l2PN2,lALT,3E,3908507,9740174,Cha-F-500003,0.683,true                         ∗,VP3 oACT [                         23                        ],R59B04,0.641,
+VP1m l2PN,lALT,2L,11524119,3078,Cha-F-500056,0.655,true                         ∗,unPN-2 [                         35                        ]; lPN1 [                         36                        ],,NA,
+VP2 l2PN,lALT,2M,5672990,13154015,,NA,true                         ∗,unPN-4 [                         35                        ],VT046265,NA,
+VP2+VC5 l2PN,lALT,"3N, 3N’",2600341,10515783,Cha-F-100163,0.684,true                         ∗,biPN-3 [                         35                        ],R32H03?,0.609,
+VP3+ l2PN1,t10ALT,"2H, S4C",11234968,"13159728,13159715",Trh-M-300005?,0.605,true,,R95C02,0.638,
+VP3+ l2PN2,t10ALT,"2Q, 2Q’, S4A","4869882,                        1356477",13159741,Trh-M-300005,0.699,false,fast-cool PN [                         27                        ],R95C02 [                         27                        ],0.627,
+VP3++ l2PN,t10ALT,"S3D, S3D’",7017522,5946637,,NA,true,,R95C02?,0.506,
+VP5 l2PN,t10ALT,2K,4672650,13053419,Cha-F-100123,0.680,true,,R78E05,0.588,
+VP5+VP2 l2PN,t10ALT,"S3A, S4B","5946848, 4876532",13159719,Cha-F-100123,0.693,false,warm-PN [                         27                        ],R95C02 [                         27                        ]; R78E05,NA; 0.571,
+VP5+VP3 l2PN,t10ALT,S3B,4671556,9704839,Trh-M-200074,0.710,false,unPN-6 [                         35                        ]; cool lALT PN [                         28                        ],R95C02 [                         28                        ],0.593,
+VP1l+ lvPN1,mALT,"2F, S4F, S4F’","57224, 56999, 57200","4177248, 7463926,                        13492671",,NA,true,,R14F11?,0.564,ACh
+VP1l+ lvPN2,mALT,S3I,3742499,,,NA,true,,R14F11?,0.491,ACh
+VP1m++ lvPN,mALT,S3J,57142,,,NA,true,,,NA,ACh
+VP1m+VP2 lvPN1,mALT,"3F, 3F’, 3F’’","57122, 57059, 57114","9101937, 12681995, 13931917",,NA,true,,R31H04,0.629,ACh
+VP2+VP5 lvPN,mALT,"S3M, S4G, S4G’, S4G’’","57138, 57134, 57051, 1372988",11052217,,NA,true,,R31H04,0.601,ACh
+VP2+SEZ lvPN2,mALT,S3K,57063,4495405,VGlut-F-700270?,0.579,true,,R31H04?,0.539,ACh
+VP2+SEZ lvPN1,mALT,"3K, S4I, S4I’","57166, 57146",7423431,VGlut-F-700270,0.606,true,,R31H04?,0.558,ACh
+VP1m+ lvPN,t2ALT,3J,192430,9588978,,NA,Ttrue,,R24B03,0.657,
+VP1m+VP2 lvPN2,t2ALT,3I,4058666,9590169,,NA,true,,R24B03,0.615,
+VP2+ lv2PN,t9ALT,S3N,4002166,,,NA,true,,R93D06?,0.564,
+VP3+ smPN,mALT,S3O,57475,,VGlut-F-200354?,0.628,true,,R82F02,0.549,
+VP1d++ vPN,mlALT,"S3P, S4I, S4I’","3813447,                        3813442,                        4632023",,VGlut-F-500199,0.682,true,,R49F09,0.694,GABA
+VP1d+VP1l vPN,mlALT,S3Q,3813438,5643689,,NA,true,,R21C11,0.660,GABA
+VP1m+VP1d vPN,mlALT,S3S,3813424,13272972,,NA,true,,R21C11,0.675,GABA
+VP4+ vPN,mlALT,"2J, 2J’",2484510,12805737,,NA,true,,R11F08,0.600,GABA
+VP3 vPN,mlALT,2P,5471515,561100,Fru-M-100050,0.523,false,AL-t5PN1 [                         26                        ]; slow-cool PN [                         27                        ],R60H12 [                         28                        ],0.600,GABA
+VP4 vPN,mlALT,2I,1149173,9039579,VGlut-F-300564,0.659,true,,R21A01,0.616,GABA
+VP1d++ lPN1                         ∗,mALT,"S3F, S4D-S4D’’’","37235, 37212, 182684, 57426, 57446",,VGlut-F-200115,0.663,true,,R47G06?,0.666,ACh
+VP1l++ lPN                         ∗,mALT,S3G,57442,,Cha-F-300107,0.636,true,,R41H09,0.616,ACh
+VP1m++ l2PN                         ∗,lALT,S3C,4195469,14005954,VGlut-F-000370?,0.541,true                         ∗,unPN-5 [                         35                        ],R47A12,0.605,
+VP2++ lvPN                         ∗,mALT,S3L,57126,,,NA,true,,R14F11?,0.494,ACh
+VP1m++ smPN                         ∗,t6ALT,6D,11546775,9717951,,NA,true,,R82F02?,0.486,
+VP1m++ vPN                         ∗,mlALT,S3R,4954519,,,NA,true,,R49F09?,0.680,GABA
+VC5+ adPN                         ∗,mALT,2N,39254,3420237,Cha-F-200265,0.579,true                         ∗,VM6+VP1 adPN [                         34                        ],,NA,ACh
+VC5++ l2PN1                         ∗,t3ALT,"3O, 3O’","1363077, 8825246","5122761, 13950267",VGlut-F-100102,0.693,false,slow hot and cold t3ALT PN [                         28                        ],R84E08 [                         28                        ]; R82C09; R13B06,NA; 0.584; 0.538,
+VC5++ l2PN2,t10ALT,"S3T, S3T’",8406430,5582907,,NA,true                         ∗,biPN-4 [                         35                        ],,NA,
+VC5+ lvPN1                         ∗,mALT,"S3U, S3U’, S4J","57130, 57236",4724830,,NA,true,,R53D01?,0.538,ACh
+VC5+ lvPN2                         ∗,mALT,"S3V, S4K","57015, 57175",,,NA,true,,R14F11?,0.516,ACh

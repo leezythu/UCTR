@@ -1,0 +1,10 @@
+Parameter,Value,Unit
+Atmospheric pCO                         2,416,μatm
+Air temperature,6.2,°C
+River runoff,493,km                         3                        year                         −1
+A                         T                        land load,810,Gmol year                         −1
+DIC land load,887,Gmol year                         −1
+N load (land + atmosphere),905,ktons year                         −1
+P load (land + atmosphere),30,ktons year                         −1
+Ocean boundary A                         T,2250                           a,μmol kg                         −1
+Ocean boundary DIC,2080                           a,μmol kg                         −1

@@ -1,0 +1,9 @@
+"IC                         50                        values (μg/mL) of radical scavenging
+Chemicals/Plant extracts","IC                         50                        values (μg/mL) of radical scavenging
+IC                         50","IC                         50                        values (μg/mL) of radical scavenging
+Regression equation"
+Ascorbic acid,36.32,y = 0.1374x + 45.009; R                         2                        = 0.5688
+MEATL,194.77,y = 0.133x + 24.095; R                         2                        = 0.7687
+NFATL,139.65,y = 0.1355x + 31.078; R                         2                        = 0.7827
+MEATS,454.09,y = 0.095x + 6.8611; R                         2                        = 0.9064
+NFATS,372.95,y = 0.096x + 14.197; R                         2                        = 0.798

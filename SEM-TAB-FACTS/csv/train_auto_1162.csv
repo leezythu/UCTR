@@ -1,0 +1,10 @@
+Statistic,N,Mean,SD,Min,Max
+Age (in years),195,24.13,4.72,19,42
+Fluid intelligence test score (1–18)                           a,195,12.81,2.63,7,18
+Education (1–4)                           b,195,2.44,0.52,2,4
+Parental education (1–4)                           b,195,2.39,0.68,1,4
+Social status (1−10)                           c,195,6.26,1.33,3,9
+Income (1–6)                           d,195,2.91,1.18,0,6
+Computer use (hours per day),192,5.15,2.73,1.00,16.00
+Playing computer games (hours per day),48,1.62,1.11,0.50,1.50
+Playing a musical instrument (hours per day),17,4.76,3.58,1.00,12.00

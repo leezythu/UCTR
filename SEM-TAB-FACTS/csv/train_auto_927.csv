@@ -1,0 +1,6 @@
+Analyte / IS,MS/MS transition,Column Length (L; cm),Retention Time (τ                         R;                        min),Full width at half-max (W                         1/2                        ; mins),HETP (cm/plate),Plates per meter (N/m)
+CA,407 > 343,10,3.56,0.035,0.00017,"590,000"
+D                         4                         CA (IS),411 > 347,10,3.56,0.031,0.00014,"720,000"
+DCA,391 > 345,10,4.23,0.040,0.00016,"640,000"
+D                         4                        -DCA (IS),395 > 349,10,4.22,0.039,0.00015,"670,000"
+TCA,514 > 124,10,3.04,0.031,0.00019,"520,000"

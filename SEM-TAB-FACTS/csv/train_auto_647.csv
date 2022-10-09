@@ -1,0 +1,23 @@
+"
+Sample ID","Speaker descriptives
+Sex","Speaker descriptives
+Age (y;m)","Speaker descriptives
+City                         *","Speaker descriptives
+Group","Speaker descriptives
+ICS                         **"
+01,M,8;1,GBG,SSD,3.14
+02,M,7;8,GBG,SSD,3.71
+03,M,5;9,GBG,SSD,3.57
+04,M,5;8,GBG,TD,5.00
+05,M,4;10,GBG,SSD,3.29
+06,M,4;6,GBG,SSD,4.00
+07,M,4;4,GBG,SSD,2.43
+08,M,6;10,GBG,SSD,4.00
+09,M,7;4,STH,SSD,5.00
+10,F,6;6,STH,SSD,3.71
+11,F,6;0,STH,TD,4.57
+12,F,6;1,STH,SSD,4.29
+13,M,5;9,STH,SSD,4.71
+14,M,5;9,STH,SSD,3.71
+15,M,5;8,STH,SSD,3.71
+16,M,5;1,STH,SSD,3.29

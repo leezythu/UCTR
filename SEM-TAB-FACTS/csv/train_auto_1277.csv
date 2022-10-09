@@ -1,0 +1,5 @@
+Symbol,Description,Values
+|                         O                        |,Number of orders,"50, 150, 250"
+|                         I                        |,Number of SKUs,"20, 100"
+|                         P                        |,Number of pods,"50, 100"
+α,SKUs per pod,"2, 3"

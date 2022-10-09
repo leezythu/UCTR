@@ -1,0 +1,9 @@
+Description,Specifications
+Flexural strength ratio,2.0
+"Beam size,b             ˟            d (mm)",120 × 150
+"Column size,b             ˟            d (mm)",120 x 150
+Beam main Reinforcement(top + bottom),2-8φ + 2-8φ
+Column longitudinal reinforcement,4-8φ
+Stirrups & Links,6mm mild steel @ 50 mmc/c
+Ratio of shear capacity to shear demand,1.08
+Development length(mm),755

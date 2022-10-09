@@ -1,0 +1,13 @@
+Item,Type of data,Description,Category
+Thick index,free text,normal or not (thick or fat),expert judgment
+Macroglossia index,free text,normal or not,expert judgment
+Judgment of fissured tongue,free text,with or without cracks,expert judgment
+Judgment of tooth marks,free text,with or without marks,expert judgment
+Smooth or shiny index,free text,normal or not (smooth or shiny),expert judgment
+Constitutional types,free text,9 indicators (see             Table 4            ),physical factors
+Scale for osteoporosis,questionnaire,primary and specific form,physical factors
+Frailty assessment scale,questionnaire,SARC-F and FRAIL form,physical factors
+Scale for geriatric depression,questionnaire,CGS short form,mental factors
+Opinion for clinical imaging examination,free text,10 indicators (see             Table 4            ),clinical observations
+Opinion for laboratory indicators,free text,20 indicators (see             Table 4            ),clinical observations
+Additional information,free text,the patient's sitting height and the distance between the patient and intelligent mirror,other factors

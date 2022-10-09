@@ -1,0 +1,11 @@
+Antibody,Clone,Dilution,Source,Platform
+CD3,LN10,1:500,Leica,Ventana
+CD4,SP35,Ventana-Roche,Prediluted,Ventana
+CD8,C8/144B,DAKO A/S,1:100,Ventana
+CD20,L26,Ventana-Roche,Prediluted,Ventana
+CD25,4C9,Cell Marque,1:100,Bond/Leica
+CD68,PG-M1,DAKO A/S,1:50,Ventana
+CD163,163C01 / 10D6,NeoMarkers,1:200,Bond/Leica
+PD-1,J116,DAKO A/S,1:50,Ventana
+PDL1 263,SP263,Ventana-Roche,Prediluted,Ventana
+MPO,polycloncal,NeoMarkers,1:200,Ventana

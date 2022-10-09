@@ -1,0 +1,31 @@
+"Family
+Family","Scientific name
+Scientific name","Common name
+Common name","Nsamp                           a
+Nsamp                           a","Plasmodium
+Npos                           b","Plasmodium
+% Prev (LCI, UCI)                           c","Haemoproteus
+Npos","Haemoproteus
+% Prev (LCI, UCI)","Leucocytozoon
+Npos","Leucocytozoon
+% Prev (LCI, UCI)","Overall
+Npos","Overall
+% Prev (LCI, UCI)"
+Estrildidae,Lagonosticta rubricata,African Firefinch,3,0,"0.00 (0.00, 56.15)",0,"0.00 (0.00, 56.15)",0,"0.00 (0.00, 56.15)",0,"0.00 (0.00, 56.15)"
+Estrildidae,Uraeginthus angolensis,Blue Waxbill,34,3,"8.82 (3.05, 22.96)",17,"50.00 (34.07, 65, 93)",12,"35.29 (21.49, 52.09)",30,"88.24 (73.38, 95.33)"
+Estrildidae,Lonchura cucullata,Bronze Mannikin,20,1,"5.00 (0.89, 23.61)",2,"10.00 (2.79, 30.10)",0,"0.00 (0.00, 16.11)",3,"15.00 (5.24, 36.04)"
+Estrildidae,Lagonosticta senegala,Red-billed Firefinch,5,2,"40.00 (11.76, 76.93)",0,"0.00 (0.00, 43.45)",0,"0.00 (0.00, 43.45)",2,"40.00 (11.76, 76.93)"
+Ploceidae,Euplectes axillaris,Fan-tailed Widowbird,30,24,"80.00 (62.69, 90.49)",2,"6.67 (1.85, 21.32)",6,"20.00 (9.51, 37.31)",28,"93.33 (78.68, 98.15)"
+Ploceidae,Euplectes ardens,Red-collared Widowbird,2,2,"100.00 (34.24, 100.00)",0,"0.00 (0.00, 65.76)",0,"0.00 (0.00, 65.76)",2,"100.00 (34.24, 100.00)"
+Ploceidae,Euplectes orix,Red Bishop,7,5,"71.43 (35.89, 91.78)",1,"14.29 (2.57, 51.31)",1,"14.29 (2.57, 51.31)",6,"85.71 (48.69, 97.43)"
+Ploceidae,Ploceus cucullatus,Village Weaver,129,79,"61.24 (52.62, 69.21)",36,"27.91 (20.89, 36.20)",47,"36.43 (28.63, 45.02)",117,"90.70 (84.44, 94.60)"
+Viduidae,Vidua paradisaea,Long-tailed Paradise Whydah,1,1,"100.00% (20.56, 100.00)",0,"0.00 (0.00, 79.35)",0,"0.00 (0.00, 79.35)",1,"100.00% (20.56, 100.00)"
+Viduidae,Vidua macroura,Pin-tailed Whydah,35,0,"0.00 (0.00, 9.89)",1,"2.86 (0.51, 14.53)",1,"2.86 (0.51, 14.53)",2,"5.71 (2.58, 18.61)"
+Viduidae,Vidua funerea,Dusky Indigobird,75,1,"1.32 (0.24, 7.17)",2,"2.67 (0.73, 9.21)",3,"4.00 (1.37, 11.11)",5,"6.67 (2.88, 14.68)"
+Viduidae,Vidua chalybeata,Village Indigobird,9,1,"11.11 (1.99, 34.50)",0,"0.00 (0.00, 29.91)",0,"0.00 (0.00, 29.91)",1,"11.11 (1.99, 34.50)"
+Columbidae,Streptopelia capicola,Cape Turtle Dove,1,0,"0.00 (0.00, 79.35)",1,"100.00 (20.65, 100.00)",0,"0.00 (0.00, 79.35)",1,"100.00 (20.65, 100.00)"
+Columbidae,Turtur chalcospilos,Emerald-spotted Wood Dove,8,0,"0.00 (0.00, 32.44)",8,"100.00 (67.56, 100.00)",4,"50.00 (21.52, 78.48)",8,"100.00 (67.56, 100.00)"
+Columbidae,Streptopelia semitorquata,Red-eyed Dove,15,0,"0.00 (0.00, 20.39)",15,"100.00 (79.61, 100.00)",8,"53.33 (30.12, 75.19)",15,"100.00 (79.61, 100.00)"
+Numidae,Guttera pucherani,Crested Guineafowl,25,0,"0.00 (0.00, 13.32)",14,"56.00 (37.07, 73.33)",15,"60.00 (40.74, 76.60)",25,"100.00 (86.68, 100.00)"
+Numidae,Numida meleagris,Helmeted Guineafowl,7,0,"0.00 (0.00, 35.34)",2,"28.57 (8.22, 64.11)",6,"85.71 (48.69, 97.43)",5,"71.43 (35.89, 91.78)"
+,,TOTAL,406,119,"29.31 (25.09, 33.92)",101,"24.88 (20.29, 29.30)",103,"25.37 (21.38, 29.82)",251,"61.82 (57.01, 66.42)"

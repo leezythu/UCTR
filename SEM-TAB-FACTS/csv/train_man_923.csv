@@ -1,0 +1,5 @@
+Class,Implements
+FieldVector,(small) vector with size known at compile time
+BVector,"(block) vector, blocks have same size"
+VariableBlockVector,Block vector where each block may vary in size
+MultiTypeBlockVector,Block vector with differing block type known at compile time

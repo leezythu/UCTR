@@ -1,0 +1,4 @@
+Method,Input data,Delineation,Rendered vol. (Mm             3            ),Advantages,Disadvantages
+Method 1,Center points,Geometric distance to centerline,1.13,Simple input data Time efficient,Cave geometry not captured Vol. accuracy dependant on morphological hetereogenity
+Method 2,Center points + LRUD,Floor and roof horizons Wall polygon,2.66,Simple input data,Cave geometry not captured Time consuming Multi-tiered systems add complexity Overestimate vol.
+Method 3,Centre points + multiple wall shots,Geometric distance to point cloud,1.55,Good geometric representation Good vol. representation,Geometric resolution reflects cave survey resolution Require “true” cave vol. to establish an optimal filter cut-off

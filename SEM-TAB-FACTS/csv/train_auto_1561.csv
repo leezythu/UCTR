@@ -1,0 +1,8 @@
+Period,Acquisition,Range
+T1,Baseline,T= 2min -> 6min
+T2,Baseline,T= 22min -> 26min
+T3,After Scopolamine,T= 1min -> 5min
+T4,After Scopolamine,T= 13min -> 17min
+T5,After Scopolamine,T= 28min -> 31min
+T6,After Scopolamine,T= 44min -> 47min
+T7,After Scopolamine,T= 55min -> 60min

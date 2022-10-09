@@ -1,0 +1,7 @@
+Type,Antibody,Dilution,Species,Manufacturer (Catalog Number)
+Primary,Anti-MYBPC3,1:200,Mouse,"Santa Cruz (Sc-137,237 (G-7))"
+Primary,Anti-TOMM20,1:200,Rabbit,Abcam (Ab186734)
+Primary,Anti-ACTN2,1:2500,Mouse,Sigma-Aldrich (A7811)
+Conjugated,Texas Red Phalloidin,1:40,,Thermo Fisher Scientific
+Secondary,Donkey anti-Mouse IgG (H + L) Alexa Fluor 488 conjugate,1:500,Donkey,Thermo Fisher Scientific (A-21202)
+Secondary,Donkey anti-Rabbit IgG (H + L) Alexa Fluor 594,1:500,Donkey,Thermo Fisher Scientific A-21207

@@ -1,0 +1,6 @@
+Time-window for analysis,"Time-window for cluster, cluster range (cluster's time point of maximum difference)",Cluster p-value,Direction,Cluster's location
+0                        –                         300 ms,15–56 ms (max. 25 ms),0.005*,Incorrect > Correct,left occipito-temporal region
+300                        –                         700 ms,300–312 ms (max. 300 ms),0.004**,Incorrect > Correct,left fronto-temporal region
+,469–494 ms (max. 480 ms),0.013*,Correct > Incorrect,right frontal region
+,467–547 ms (max. 522 ms),0.001**,Incorrect > Correct,right occipito-temporal                        region
+700                        –                         1100 ms,1000–1071 ms (max. 1052 ms),0.001**,Correct > Incorrect,right fronto-temporal region

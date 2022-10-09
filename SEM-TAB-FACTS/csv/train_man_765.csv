@@ -1,0 +1,12 @@
+Specimen designation,Longitudinal bar type,V             f            %,Retrofitting arrangement,"Total failure load, kN",Applied shear            kN,Failure mode
+SR-0,Steel,0,Stirrups,142,71,Flexure
+SG-0,GFRP,0,Stirrups,153,76.5,Flexure
+NG-0,GFRP,0,None,63,31.5,Shear
+NG-0.5,GFRP,0.5,None,75,37.5,Shear
+NG-1,GFRP,1,None,79,39.5,Shear
+UG-0,GFRP,0,U-strips,103,51.5,Flexure-shear
+UG-0.5,GFRP,0.5,U-strips,111,55.5,Flexure-shear
+UG-1,GFRP,1,U-strips,123,61.5,Flexure-shear
+FG-0,GFRP,0,Full sheets,108,54,Flexure
+FG-0.5,GFRP,0.5,Full sheets,135,67.5,Flexure
+FG-1,GFRP,1,Full sheets,170,85,Flexure

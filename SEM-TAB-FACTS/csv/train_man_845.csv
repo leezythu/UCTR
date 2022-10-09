@@ -1,0 +1,12 @@
+Papers,Demand,Recovery process,Collection effort investment,Quality improvement,Waste disposal,Rework consideration,Carbon emission,Logistical consideration
+Maiti and Giri,Price and quality dependent demand,Remanufacturing,Yes,"Manufacturing, Remanufacturing",No,No,No,No
+Moshtagh et al.,Deterministic,Remanufacturing,No,No,Yes,Yes,No,Yes
+Bai et al.,"Green technology level, selling price, and quality dependent demand",Remanufacturing and refurbishing,No,No,No,No,Carbon cap-and-trade policy,Yes
+Jauhari et al.,Deterministic,Remanufacturing,No,No,No,Yes,No,Yes
+Giri and Sharma,Deterministic,Remanufacturing,No,No,No,Yes,No,Yes
+Kundu and Chakrabarti,Deterministic,Remanufacturing,No,No,Yes,No,"Carbon tax, strict carbon cap, and carbon cap-and-trade",Yes
+Li et al.,Retail price and carbon emission reduction level,Remanufacturing,No,No,No,No,Low-carbon CLSC,No
+Konstantaras et al.,Deterministic,Remanufacturing and refurbishing,No,No,No,No,No,Yes
+Zerang et al.,Selling price and market-dependent demand,Remanufacturing,Yes,No,No,No,No,No
+Taleizadeh et al.,"Sale price, quality of the product, buy-back price, sales effort, and reference price dependent demand",Remanufacturing,Yes,"Manufacturing, Remanufacturing",No,No,No,No
+This paper,"Green technology level, selling price, and quality dependent demand",Remanufacturing and refurbishing,Yes,"Manufacturing, Remanufacturing, Refurbishing",Yes,Yes,Carbon cap-and-trade policy,No

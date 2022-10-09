@@ -1,0 +1,24 @@
+"
+","Null model
+B","Null model
+SE","Null model
+p            <","Main effects
+B","Main effects
+SE","Main effects
+p            <","Interaction model
+B","Interaction model
+SE","Interaction model
+p            <"
+Intercept,3.841,0.028,0.000,3.848,0.027,0.000,3.856,0.027,0.000
+Increasing resources,,,,0.035,0.016,0.014,0.033,0.016,0.020
+Increasing challenges,,,,0.042,0.013,0.001,0.041,0.013,0.001
+Decreasing demands,,,,−0.065,0.014,0.000,−0.067,0.014,0.000
+Playful work design,,,,0.068,0.013,0.000,0.075,0.013,0.000
+Work pressure,,,,0.037,0.012,0.001,0.040,0.012,0.000
+Increasing resources × Work pressure,,,,,,,−0.022,0.023,0.169
+Increasing challenges × Work pressure,,,,,,,−0.048,0.019,0.006
+Decreasing demands × Work pressure,,,,,,,0.030,0.020,0.067
+Playful work design × Work pressure,,,,,,,−0.045,0.019,0.009
+Variance and             SE            level 2 (person) (percentage of total variance),0.055 (28.9%),0.010,,0.050,0.015,,0.050,0.009,
+Variance and             SE            level 1 (day) (percentage of total variance),0.135 (71.0%),0.004,,0.114,0.004,,0.112,0.003,
+−2 Log likelihood,2104.153,,,1622.403,,,1593.247,,

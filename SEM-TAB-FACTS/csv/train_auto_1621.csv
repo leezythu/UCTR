@@ -1,0 +1,18 @@
+"Mix ID
+Mix ID","Proportions by Wight (%)
+Clay","Proportions by Wight (%)
+Sludge","Proportions by Wight (%)
+RSA","Proportions by Wight (%)
+SBA","Proportions by Wight (%)
+WSA","Proportions by Wight (%)
+Water to raw materials%"
+Control,50,50,–,–,–,35
+M-5RSA,50,45,5,–,–,35
+M-10RSA,50,40,10,–,–,38
+M-15RSA,50,35,15,–,–,38
+M-5SBA,50,45,–,5,–,38
+M-10SBA,50,40,–,10,–,40
+M-15SBA,50,35,–,15,–,40
+M-5WSA,50,45,–,–,5,38
+M-10WSA,50,40,–,–,10,38
+M-15WSA,50,35,–,–,15,40

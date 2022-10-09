@@ -1,0 +1,9 @@
+Layer/step,Type,Chemistry
+Resist trimming,Isotropic,HBr-O             2
+SiN,Anisotropic,CH             2            F             2            -O             2
+SiARC,Anisotropic,CF             4
+SOC,Anisotropic,HBr-O             2
+Break-Through,Anisotropic,CF             4
+a-Si,Anisotropic,Cl             2            -HBr
+SiO             2,Anisotropic,CF             4
+Si,Anisotropic,Cl             2            -HBr

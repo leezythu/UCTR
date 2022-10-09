@@ -1,0 +1,9 @@
+Experiment name,Light intensity (μmol m                         −2                        s                         −1                        ),Temperature day                        (°C),Temperature night                        (°C),Photon supply rate r                         ph                        (mol                         photons                        l                         −1                        d                         −1                        )
+CBL-CBT,150,21,21,0.58
+FBL-CBT,150,21,21,0.39
+CBL-FBT,150,21,15,0.58
+FBL-FBT,150,21,15,0.39
+FHL-FBT,600,21,15,1.68
+FHL-FHT,600,25,15,1.68
+FBL-FXT,150,30,15,0.39
+FHL-FXT,600,30,15,1.68

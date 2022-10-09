@@ -1,0 +1,16 @@
+Component,Number,Cost per unit,Cost per unit – $*,Total cost – $*,Source of materials,Material type
+Base.stl,1,42.51 DKK **,$6.31,$6.31,–,Formlabs Clear Resin
+Lid 1.3 mm.stl,1,19.22 DKK **,$2.85,$2.85,–,Formlabs Clear Resin
+Shaft.stl,1,9.81 DKK **,$1.46,$1.46,–,Formlabs Clear Resin
+Jig body.stl,1,8.95 DKK **,$1.33,$1.33,–,Formlabs Clear Resin
+Jig lid.stl,1,3.60 DKK **,$0.53,$0.53,–,Formlabs Clear Resin
+Stepper Motor ARCUS-DMX-J-SA-17,1,£220.5 ***,$286.96,$286.96,https://www.lg-motion.co.uk/products/arcus/,–
+USB A to USB Mini B Cable,1,20.78 DKK,$3.08,$3.08,https://dk.rs-online.com/web/p/usb-kabler/1862803/,–
+5 mm to 4 mm flexible beam coupling,1,289.42 DKK,$42.96,$42.96,https://dk.rs-online.com/web/p/koblinger-baelgkoblinger/3258195/,Stainless Steel
+4x50 mm cylinder pin,6,1.79 DKK,$0.26,$1.56,https://altirustfri.dk/din-7-cylindrisk-stift-4x50-rustfri-a1,Stainless Steel
+6x14 mm cylinder pin,1,1.04 DKK,$0.15,$0.15,https://altirustfri.dk/din-7-cylindrisk-stift-6x14-rustfri-a1,Stainless Steel
+8x4x3 mm ball bearing,12,6.00 DKK,$0.89,$10.68,https://arduinotech.dk/shop/kuglelejer/             Type: MR84zz,Chrome Steel
+16x8x5 mm ball bearing,2,5.00 DKK,$0.74,$1.48,https://arduinotech.dk/shop/kuglelejer/             Type: 688zz,Chrome Steel
+Countersunk M4x12 mm bolt,6,2.09 DKK,$0.31,$1.86,https://dk.rs-online.com/web/p/skruer-med-indvendig-6-kant/2328394/,Stainless Steel
+Countersunk M3x8 mm bolt,4,1.35 DKK,$0.20,$0.80,https://dk.rs-online.com/web/p/skruer-med-indvendig-6-kant/3044918/,Stainless Steel
+M4 nut,6,0.42 DKK,$0.06,$0.36,https://dk.rs-online.com/web/p/sekskantmotrikker/0527252/,Stainless Steel

@@ -1,0 +1,7 @@
+Predictor functions,GCV,R             2,AIC
+"o            (             logN                t              ,             logP                t              ) +             p            (             T                t              ,             S                t              )",0.499,37.4%,300.9
+"o            (             logN                t              ,             logP                t              ) + u(             T                t              ,)",0.510,32.0%,304.5
+"o            (             logN                t              ,             logP                t              )",0.556,23.6%,316.8
+"p            (             T                t              ,             S                t              )",0.644,14.5%,337.3
+"r(             logN                t              ) +             p            (             T                t              ,             S                t              )",0.513,32.6%,305.2
+"s(             logP                t              ) +             p            (             T                t              ,             S                t              )",0.571,26.5%,320.1

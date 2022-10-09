@@ -1,0 +1,5 @@
+Variable,RMSE,R                          2,ME,N,Variable importance order
+WCF (fraction),0.0715,0.940,0.940,"40,585","nir, blue, swir1, swir2, red, green"
+VH                        (m),3.35,0.889,0.888,"40,585","blue, nir, swir1, HV, swir2, green, red, HH, h95, h75, h50, h25, h100"
+WAGB (t ha                         −1                        )                         1/3,0.667,0.927,0.927,"16,681","Temp, VH, WCF, Rain, Rad"
+WAGB                         *                        (t ha                         −1                        ),79.8,0.519,0.494,5546,(as above)

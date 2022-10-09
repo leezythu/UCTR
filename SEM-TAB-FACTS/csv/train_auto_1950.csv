@@ -1,0 +1,18 @@
+model,"f                              (                              log                              (                              N                              )                              ,                              μ                              ,                              σ                              )","f                              (                              log                              (                                  S                                    ∞                                  )                              ,                              μ                              ,                              σ                              )",AIC
+BB,Normal,,3744
+,Weibull,,4296
+,,,
+ORFL,Normal,Normal,3211
+,Normal,Weibull,1337
+,Weibull,Normal,3330
+,Weibull,Weibull,3277
+,,,
+BRFL,Normal,Normal,3106
+,Normal,Weibull,1255
+,Weibull,Normal,3486
+,Weibull,Weibull,3136
+,,,
+GRFL,Normal,Normal,3126
+,Normal,Weibull,1267
+,Weibull,Normal,3310
+,Weibull,Weibull,3255

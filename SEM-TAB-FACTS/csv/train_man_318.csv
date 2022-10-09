@@ -1,0 +1,10 @@
+Target,Area,Operation,Result
+Channel,Center,Map (VC-channel),Map             D            to VC-channel
+Outline Node,Center,Map (chart),Map chart to             D
+,Left,Layer (front),C            ′ layered on top of             C
+,Right,Layer (back),C            ′ layered beneath             C
+,Top,Group,C            nested within             C            ′
+,Bottom,Nest,C            ′ nested within             C
+Canvas,Center,Map,Map chart to             D
+,Bottom,Map (VC-channel),Map             D            to             C            x-axis
+,Left,Map (VC-channel),Map             D            to             C            y-axis

@@ -1,0 +1,13 @@
+Disturbances,Wellbeing,Wellbeing in females,Wellbeing in males,Physical discomfort,Physical discomfort in females,Physical discomfort in males
+Too cold,0.019,0.003,0.003,0.104,0.178*,0.053
+Too warm,−0.004,0.014,−0.014,0.124*,−0.034,0.243*
+Sleepiness,−0.095,−0.087,−0.075,0.114*,0.192*,0.103
+Nausea,−0.118*,−0.228*,−0.010,0.043,0.097,−0.022
+Dry mouth,−0.027,−0.006,−0.041,0.098,0.037,0.144*
+Hunger,0.048,−0.001,0.072,−0.007,−0.007,0.007
+Pain in surgical area,−0.189*,−0.235*,−0.166*,0.246*,0.162,0.336*
+Pain in infusion area,−0.018,−0.087,0.032,0.068,0.192*,−0.027
+Headache,−0.042,0.005,−0.136,0.106,0.084,0.172*
+Urination difficulties,−0.074,−0.006,−0.111,0.194*,0.132,0.269*
+Physical discomfort,−0.272*,−0.293*,−0.240*,,,
+Wellbeing,,,,−0.272*,−0.293*,−0.240*

@@ -1,0 +1,13 @@
+"Model
+","Stimulation parameters
+Site","Stimulation parameters
+Pulse waveform","Stimulation parameters
+Pulse width (ms)","Stimulation parameters
+Frequency (Hz)","Stimulation parameters
+Train duration (s)","Stimulation parameters
+Amplitude (mA)","Stimulation parameters
+Inter-train interval (min)","Seizure properties
+Electrographic features","Seizure properties
+Duration (s)"
+Neocortical epileptic AD model,Sensorimotor cortex,"Biphasic symmetric, charge-balanced square-wave pulses",1,100,5,1.5-2,7,"Rhythmic series of focal SWDs, ≥2 mV in amplitude, at 2-5 Hz; observed immediately after end of stimulating period; occasionally followed by sharp waves",17.7 ± 3.8
+Hippocampal epileptic AD model,Angular bundle of perforant path,"Biphasic symmetric, charge-balanced square-wave pulses",1,100,2,1.5,12,"Rhythmic series of focal granule cell population spikes, 2-15 mV in amplitude, at 30-50 Hz; observed following >200 ms electrically quiescent period at the end of stimulating period",26.3 ± 6.5

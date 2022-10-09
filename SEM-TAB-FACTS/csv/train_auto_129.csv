@@ -1,0 +1,10 @@
+Type of (non-)adherence,Appropriate antibiotic coverage (%),Odds ratio,95% CI
+Adherence (                         n                        = 395),352 (89.1),1.0,(reference)
+,,,
+Non-adherence:,,,
+Undertreatment (                         n                        = 355),206 (58.0),0.18,[0.12; 0.26]
+•                              No antibiotic therapy excluded (                               n                              = 276),206 (74.6),0.27,[0.16; 0.42]
+•                              Gentamicin was omitted (                               n                              = 217),158 (72.8),0.33,[0.21; 0.51]
+"•                              If gentamicin would not have been omitted, i.e. adherence (                               n                              = 217)                                 a",199 (91.7),1.35,[0.76; 2.41]
+Overtreatment (                         n                        = 87),82 (94.3),1.66,[0.77; 4.16]
+Equivalent (                         n                        = 72),62 (86.1),0.86,[0.44; 1.82]

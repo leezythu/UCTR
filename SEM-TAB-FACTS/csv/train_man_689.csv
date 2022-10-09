@@ -1,0 +1,11 @@
+Linear Model,Intercept,F,p-value,R             2,Residual standard error,Degrees of freedom
+BI ~ Raw species richness,0.04,6.537,0.05,0.005,2.69,1145
+AC ~ Raw species richness,23.76,54.79,<0.001,0.046,517.7,1132
+AD ~ Raw species richness,−0.009,7.374,<0.001,0.006,0.562,1132
+AE ~ Raw species richness,0.007,25.74,<0.001,0.021,0.27,1145
+NDSI ~ Raw species richness,0.006,14.17,<0.001,0.012,0.295,1145
+BI ~ Time-of-day,−0.004,15.98,<0.001,0.013,2.679,1145
+AC ~ Time-of-day,−1.515,56.97,<0.001,0.047,517.2,1132
+AD ~ Time-of-day,0.0001,0.487,0.485,<0.001,0.563,1132
+AE ~ Time-of-day,−0.0002,3.508,0.061,0.003,359.4,1132
+NDSI ~ Time-of-day,0.0009,58.71,<0.001,0.049,0.289,1132

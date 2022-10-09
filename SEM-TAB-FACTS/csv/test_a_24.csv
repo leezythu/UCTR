@@ -1,0 +1,14 @@
+"
+","Global
+","FIMIX
+S             1            High environmental dynamism (             n            = 115)","FIMIX
+S             2            Low environmental dynamisms (             n            = 60)","FIMIX
+Path Coefficients Diff. (S             1            -S             2            )","FIMIX
+Welch-Satterthwait Test Diff.","FIMIX
+Parametric Test Diff."
+BDAC → Incremental Innovative Capability,0.451             ***,0.593**,0.293             ***,0.300,Sig.             ***,Sig.             ***
+BDAC → Radical Innovative Capability,0.426             ***,0.582             ***,0.312             ***,0.270,Sig.             ***,Sig.             ***
+Information governance x BDAC → Incremental Innovative Capability,0.089,0.182**,0.049,0.133,Sig.             ***,Sig.             ***
+Information governance x BDAC → Radical Innovative Capability,0.192*,0.262**,0.093,0.169,Sig. **,Sig. **
+R             2            (Incremental Innovative Capability),0.411,0.527,0.293,0.234,Sig.             ***,Sig.             ***
+R             2            (Radical Innovative Capability),0.402,0.551,0.270,0.281,Sig.             ***,Sig.             ***

@@ -1,0 +1,15 @@
+Country (number of Centers)*,Type of health system,Number of patients with GD referred in one month,Number of patients with GD on the waiting list for cholecystectomy,Average time on the waiting list for cholecystectomy (days),Number of cholecystectomies performed in one month,Number of cholecystectomies performed in ambulatory regimen
+AUSTRALIA (1),Public health system with universal coverage,>20,<50,>30,>20,<25%
+BELGIUM (3),"Mainly public health system, but without universal coverage",10-20 (2)                        >20 (1),<50 (3),<15 (1)                        15-30 (1)                        NA (1),10-20 (1)                        >20 (2),<25% (2)                        25–50% (1)
+CHILE (1),"Mainly public health system, but without universal coverage",>20,>100,15–30,>20,>75%
+FRANCE (1),Public health system with universal coverage,>20,<50,15–30,10–20,>75%
+INDIA (3),Mainly private health system,10-20 (1)                        >20 (2),<50 (3),<15 (3),10-20 (1)                        >20 (2),<25%
+ITALY (8),Public health system with universal coverage,<10 (3)                        10-20 (4)                        >20 (1),<50 (7)                        >100 (1),15-30 (3)                        >30 (5),<10 (4)                        10-20 (4),<25% (6)                        25–50% (1)                        75% (1)
+NETHERLANDS (1),Public health system with universal coverage,<10,<50,>30,10–20,>75%
+PAKISTAN (2),"Mainly public health system, but without universal coverage",>20,<50,15–30,>20,<25% (1)                        >75% (1)
+SAUDI ARABIA (2),Public health system with universal coverage,>20,<50,15-30 (1)                        >30 (1),>20,<25% (1)                        25–50% (1)
+SINGAPORE (1),Public health system with universal coverage,>20,<50,15–30,>20,25–50%
+SPAIN (2),Public health system with universal coverage,>20,50-100 (1)                        >100 (1),>30,10-20 (1)                        >20 (1),<25%
+SWITZERLAND (2),Public health system with universal coverage,>20,<50 (1)                        50-100 (1),<15 (1)                        >30 (1),10-20 (1)                        >20 (1),<25% (1)                        25–50% (1)
+UK (6),Public health system with universal coverage,>20 (6),50-100 (2)                        >100 (4),>30 (6),<10 (1)                        10-20 (1)                        >20 (4),50–75% (2)                        >75% (4)
+USA (3),Mainly private health system,<10 (1)                        10-20 (1)                        >20 (1),<50 (2)                        50-100 (1),<15 (2)                        >30 (1),<10 (1)                        10-20 (1)                        >20 (2),<25% (1)                        50–75% (1)                        >75% (1)

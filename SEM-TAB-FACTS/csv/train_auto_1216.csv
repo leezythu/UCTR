@@ -1,0 +1,30 @@
+"
+
+Medication use","
+
+Binary (yes or no)","Global FA
+Std ß
+-0.003","Global FA
+t
+-0.206","Global FA
+P
+0.837","
+
+","Tract-specific rCAB FA
+Std ß
+-0.033","Tract-specific rCAB FA
+t
+-0.845","Tract-specific rCAB FA
+P
+0.399"
+,Continuous (days),-0.010,-0.803,0.422,,-0.078,-2.039,0.042
+,,,,,,,,
+Comorbidities,Conduct disorder,-0.037,-0.714,0.480,,-0.004,-0.116,0.908
+(yes or no),Major depression,0.095,1.975,0.051,,-0.018,-0.512,0.609
+,Oppositional defiant disorder,-0.016,-1.352,0.177,,-0.059,-1.626,0.105
+,,,,,,,,
+Substance use,Alcohol,-0.003,-0.211,0.833,,-0.005,-0.142,0.887
+(yes or no),Tobacco,0.009,0.660,0.510,,0.010,0.231,0.818
+,Cannabis or hash,0.002,0.118,0.906,,0.052,1.252,0.211
+,Other drugs,-0.010,-0.719,0.473,,-0.012,-0.313,0.754
+IQ estimate,,-0.010,-0.837,0.403,,0.012,0.315,0.753

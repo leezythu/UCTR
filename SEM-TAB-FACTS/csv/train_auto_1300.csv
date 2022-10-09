@@ -1,0 +1,11 @@
+Parameter,Value,Unit,Description
+I,2 600 000,EUR,Investment cost
+K,5200,MWh,Annual production of power plant
+C                          0,8.44,EUR/MWh,Marginal production cost
+C                        (                         K                        ),"43,900",EUR/year,Total production cost
+p,35.08,EUR/MWh,Base-load electricity start price
+p                              +                              F,59.4,EUR/MWh,Feed-in-Tariff
+λ                          0,π                              200,-,
+σ,0.185,-,Electricity price volatility
+μ,0,-,Electricity price drift
+r,0.03,-,Discount rate

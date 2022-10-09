@@ -1,0 +1,11 @@
+Name,Sequence,Caenorhabditis elegans            homologue,Mammalian homologue,Number of target UTRs (mouse),Enrichment secreted material (MSL),Enrichment secreted material (adult)
+Tsp miR_68,TGAGATCACCGTGAAAGCCT,miR-80,n/a,3430,16.4,2.6
+Tsp miR 15,TGAGGTAGTAGGTTGTATAGTT,let7,let7,3815,13.5,0.25
+Tsp miR 41,TCACCGGTTACTAAAACATGCAT,n/a,n/a,606,10.3,0.0035
+Tsp miR-65,AACCCGTAGATCCGAACTTGT,miR-51,miR-100,483,8.5,34.7
+Tspi miR-19,GTGAGCAAAGTTTCAGGTGTGT,miR-87,n/a,4476,7.6,0.0067
+Tsp miR-72,TCACCGGTCCATTTTATCTTCT,n/a,n/a,606,3.7,0.80
+Tsp miR-8,CGGATAGCACTTTTGGTAGCT,n/a,n/a,2624,3.6,0.94
+Tsp miR-60,AGGCAAGATGTTGGCATAGCT,miR-72,miR-31,4568,1.8,1.5
+Tsp miR-78,TAACCGTTTCCCTCTTTCAGTGC,n/a,n/a,738,1.8,2.8
+Tsp miR-85,TCACCGGATCATTTTATCTT,n/a,n/a,824,1.7,0.088

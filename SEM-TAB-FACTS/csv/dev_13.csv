@@ -1,0 +1,11 @@
+Year,Period,Type,Nominal scale,Mode,Source
+1941,Summer,Panchromatic,"1:18,000",Stereo,Aerial photographs
+1954,Spring-Summer,Panchromatic,"1:33,000",Stereo,Aerial photographs
+1977,Spring-Summer,Colour,"1:13,000",Stereo,Aerial photographs
+1985,July,Panchromatic,"1:15,000",Stereo,Aerial photographs
+1997,April,Panchromatic,"1:20,000",Stereo,Aerial photographs
+2009,12 August,Panchromatic,GSD = 0.41 m,Stereo,GeoEye-1
+2010,March,Panchromatic,GSD = 0.50 m,Stereo,WorldView-1
+2010,27 May,Panchromatic,GSD = 0.41 m,Stereo,GeoEye-1
+2013,13 April,Panchromatic,GSD = 0.50 m,Stereo,GeoEye-1
+2014,14 April,Multispectral,GSD = 2.00 m,Stereo,WorldView-2

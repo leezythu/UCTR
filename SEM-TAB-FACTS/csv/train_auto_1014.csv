@@ -1,0 +1,28 @@
+Inputs/items/procedure,Amount (meter/weight/kg/no.),Unit price (US$),GP cost ha                         −1                        (US$),GScost ha                         −1                        (US$),CFcost ha                         −1                        (US$)
+A. Structural cost,,,,,
+Mats of bamboo (                         Bana                        ),200 m,5.00,1000.00,1000.00,1000.00
+Knotlesscot net (                         12 ft width                        ),200 m,0.63,250.00,250.00,250.00
+Bamboo,50 no.,5.00,250.00,250.00,250.00
+Rope,5 kg,5.00,25.00,25.00,25.00
+Hapa,4 no.,25.00,100.00,100.00,100.00
+Setting cost,20 days,6.25,125.00,125.00,125.00
+Total structural cost,,,1625.00,1625.00,1625.00
+Per year depreciation cost (2 years longevity),,,812.50,812.50,812.50
+Structural cost per year,,,812.50,812.50,812.50
+B. Operational cost,,,,,
+Renovation and cleaning,10 days,6.25,62.50,62.50,62.50
+H. aristata                        floating grass plantation,10 days,6.25,62.50,62.50,–
+Fish seeds,12350 no.,0.25,3087.50,3087.50,3087.50
+Commercial floating fish feed,11995.51 kg,0.63,–,–,7280.00
+Laborer (floating grass and feed supply),182 days,3.13,–,568.75,568.75
+Total operational cost,,,3212.50,3781.25,11061.25
+Ratio of total operational cost,,,1.00,1.18,3.44
+C. Total input cost (A + B),,,4025.00,4593.75,11873.75
+Ratio of total input cost,,,1.00,1.14,2.95
+D. Return,,,,,
+Fish production kg ha                         −1                        6 month                         −1,,,6960.20,5518.93,6732.80
+Return from fish (considered market price),,2.5,17400.50,13797.33,16832.00
+Gross revenue,,,17400.50,13797.33,16832.00
+E. Net benefit,,,,,
+Net benefitper ha                         −1                        6 month                         −1                        (D-C),,,13375.50,9203.58,4958.25
+F. Economic efficiency                         Benefit cost ratio (BCR)=E/C,,,3.32,2.00,0.42

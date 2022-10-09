@@ -1,0 +1,16 @@
+"Model Name (E/L*             1            , OD/ND*             2            )
+Model Name (E/L*             1            , OD/ND*             2            )","Resolution
+Horizontal","Resolution
+Vertical*             3","Model top (Layer number)
+Model top (Layer number)","Reference(s)
+Reference(s)"
+"AIST-MM(E,OD)",1 km,Δz            = 10 ~ 300 m,5400 m (35),
+"ldX(E,ND)",1 km,Δz            = 40 ~ 600 m,5000 m (17),
+"GEARN(L,OD)",1 km,Δη            = 0.003 ~ 0.019/             Δz            = 20 ~ 678 m*             1,100 hPa (30)/15000 m (43)*             1,
+"WRF-Chem-J(E,OD)",1 km,Δσ            = 0.0022 ~ 0.0073,100 hPa (49),
+"NHM-Chem(E,ND)",1 km,Δσ            = 0.002 ~ 0.03,18000 m (55),","
+"WRF-CMAQ(E,OD)",1 km,Δσ            = 0.007 ~ 0.013,100 hPa (34),
+"SCALE*             2            (E,OD)",1 km,Δσ            = 0.005 ~ 0.1              Δz            = 40 ~ 656 m*             2,10000 m (19)            20184 m (58) *             2,","
+"WRF-Chem-T(E,OD)",1 km,Δσ            = 0.0026 ~ 0.0332,100 hPa (30),
+"NICAM(E,OD)",1 km,Δz            = 13.7 ~ 780 m,22619 m (58),
+NHM-LETKF,1 km,Δz            = 40 ~ 656 m,20200 m (58),

@@ -1,0 +1,12 @@
+"
+","Education
+(primary vs. no)","Education
+(secondary vs. no)","Education
+(higher vs. no)"
+Reduced model,0.81*** (0.05),0.60*** (0.03),0.30*** (0.02)
+Full model,0.86** (0.05),0.68*** (0.03),0.37*** (0.03)
+Effect change in %,25.56%,24.22%,17.48%
+Components,,,
+Health-specific knowledge,18.73%,18.76%,13.86‬%
+Health-care utilisation,6.23‬%,5.04‬%,2.98‬%
+Female empowerment,0.60%,0.43%,0.65%

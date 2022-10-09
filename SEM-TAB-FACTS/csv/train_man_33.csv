@@ -1,0 +1,32 @@
+"
+Entry","
+Catalyst (mmol)","
+Conditions","
+Time","
+Yield      (%)"
+1,–,Solvent-Free (100 °C),24 (h),0
+2,[TEAH][OAc] (0.05 mmol),Solvent-Free (r.t.),24 (h),10
+3,[TEAH][OAc] (0.05 mmol),Solvent-Free (50 °C),24 (h),25
+4,[TEAH][OAc] (0.05 mmol),Solvent-Free (80 °C),12 (h),20
+5,[TEAH][OAc] (0.10 mmol),Solvent-Free (50 °C),5 (h),30
+6,[TEAH][OAc] (0.10 mmol),Solvent-Free (80 °C),4 (h),40
+7,[TEAH][OAc] (0.10 mmol),Solvent-Free (100 °C),3 (h),40
+8,[TEAH][OAc] (0.20 mmol),Solvent-Free (30 °C),1 (h),40
+9,[TEAH][OAc] (0.20 mmol),Solvent-Free (50 °C),40 (min),80
+10,[TEAH][OAc] (0.20 mmol),Solvent-Free (80 °C),20 (min),91
+11,[TEAH][OAc] (0.20 mmol),Solvent-Free (100 °C),20 (min),91
+12,[TEAH][OAc] (0.25 mmol),Solvent-Free (80 °C),20 (min),91
+14,[TEAH][OAc] (0.15 mmol),EtOH (80 °C),100 (min),20
+15,[TEAH][OAc] (0.15 mmol),EtOH/H             2            O (80 °C),120 (min),25
+16,[TEAH][OAc] (0.15 mmol),H             2            O (80 °C),175 (min),20
+17,[TEAH][OAc] (0.15 mmol),THF (80 °C),220 (min),Trace
+18,[TEAH][HSO             4            ] (0.10 mmol),Solvent-Free (70 °C),70 (min),52
+19,[TEAH][HSO             4            ] (0.20 mmol),Solvent-Free (80 °C),70 (min),69
+20,[TEAH][HSO             4            ] (0.25 mmol),Solvent-Free (80 °C),75 (min),70
+21,[TEAH][HSO             4            ] (0.20 mmol),Solvent-Free (90 °C),70 (min),75
+22,[TEAH][HSO             4            ] (0.20 mmol),Solvent-Free (100 °C),70 (min),75
+23,[TEAH][HCOO] (0.10 mmol),Solvent-Free (70 °C),65 (min),60
+24,[TEAH][HCOO] (0.20 mmol),Solvent-Free (80 °C),55 (min),78
+25,[TEAH][HCOO] (0.25 mmol),Solvent-Free (80 °C),55 (min),79
+26,[TEAH][HCOO] (0.20 mmol),Solvent-Free (90 °C),55 (min),78
+27,[TEAH][HCOO] (0.20 mmol),Solvent-Free (100 °C),55 (min),78

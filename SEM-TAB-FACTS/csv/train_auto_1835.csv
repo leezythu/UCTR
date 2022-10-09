@@ -1,0 +1,14 @@
+Variable,Mean Controls,Mean Predicted Vascular Cognitive Impairment (VCI),t-value,p-value
+Global Cognition,0.114,−0.375,2.922,0.005
+Attention Processing Speed,0.099,−0.326,2.433,0.018
+Memory,0.087,−0.288,2.296,0.024
+Verbal Memory,0.079,−0.260,2.097,0.039
+Language,0.083,−0.270,1.919,0.059
+Visuo Spatial Memory,0.056,−0.185,1.461,0.148
+Executive Function,0.117,−0.376,2.908,0.005
+wholeBrainWMHvol_mm3,−0.004,0.013,−0.095,0.925
+FA*,0.039,−0.130,0.795,0.431
+MD*,0.029,−0.096,0.641,0.524
+AD*,0.019,−0.053,0.351,0.727
+RD*,0.025,−0.085,0.544,0.589
+PSMD*,0.127,−0.425,2.783,0.008

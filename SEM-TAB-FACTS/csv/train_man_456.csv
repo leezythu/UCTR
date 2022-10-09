@@ -1,0 +1,17 @@
+,PC1,PC2,PC3,PC4,PC5
+Precipitation,0.40,−0.12,0.13,0.20,0.12
+Water Supply,0.39,−0.14,−0.07,0.17,0.24
+Fishing Mortality,−0.39,−0.25,0.01,0.14,0.27
+Commercial Fishery Effort,−0.35,−0.18,0.17,0.01,0.40
+Sport Fishery Effort,−0.29,0.02,−0.38,0.37,0.00
+Ice Cover Days,0.24,−0.38,0.10,−0.34,0.04
+Chlorophyll A Concentration,0.23,−0.01,−0.23,0.14,−0.48
+Southern Oscillation Index (SOI),0.22,0.15,0.16,0.35,0.38
+Pacific Decadal Oscillation (PDO),−0.22,−0.20,−0.37,−0.32,0.00
+Evaporation,−0.20,0.20,0.44,0.10,−0.11
+Abundance of Yellow Perch,0.19,0.40,−0.15,−0.19,0.15
+Ice Melt Date,0.17,−0.42,0.02,−0.26,0.07
+Water Temperature,−0.09,0.17,0.43,−0.18,−0.34
+North Atlantic Oscillation (NAO),−0.07,−0.30,−0.14,0.26,−0.34
+Pacific-North American Pattern (PNA),−0.06,0.26,−0.15,−0.44,0.15
+Abundance of Walleye,0.04,0.31,−0.37,−0.01,0.15

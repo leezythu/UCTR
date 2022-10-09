@@ -1,0 +1,6 @@
+Code,Actual value of variables
+−β,χ                         min
+−1,(χ                         max                        + χ                         min                        )/2 − (χ                         max                        − χ                         min                        )/2α
+0,(χ                         max                        + χ                         min                        )/2
+1,(χ                         max                        + χ                         min                        )/2 + (χ                         max                        − χ                         min                        )/2α
++β,χ                         max

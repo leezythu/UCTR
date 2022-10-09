@@ -1,0 +1,26 @@
+"Antibody
+Antibody","Epitope location
+Epitope location","Immunization strategy
+Immunization strategy","Binding Selectivity                           b
+Binding Selectivity                           b","Ab species and backbone isotype
+Ab species and backbone isotype","Current Status (2019-2020)
+Current Status (2019-2020)","Company
+Company","Clinical outcomes
+Last completed Trial (Phase)","Clinical outcomes
+Patient stage","Clinical outcomes
+Reduced brain Ab burden","Clinical outcomes
+Slowing of cognitive decline","Clinical outcomes
+ARIA-E or ARIA-H"
+"Bapineuzumab (AAB-001, 3D6)",1–5,A                         β                        (1–5) conjugated to immunoglobulin,"M,O,F/P",Humanized IgG1,"NCT00998764                        ,                         NCT00667810                        ,                         NCT00996918                        (III,D)",Janssen/Pfizer,"NCT00575055                        ,                         NCT00574132                        (III)",Mild to moderate AD,+,−,high
+"Solanezumab (LY2062430, m266)",16–26,A                         β                        peptide 13–28,"M++,O,F/P-",Humanized IgG1,"NCT01900665                        (III,halted),                         NCT02008357                        (III)",Eli Lilly,"NCT00904683                        ,                         NCT00905372                        (III)",Mild to moderate AD,+,+/−§,no
+Ponezumab (PF-04360365),30–40,A                         β                          40                        40,"M+,O,F (A                         β                          40                        40)",Humanized IgG2a,"NCT00945672                        (II,D)",Janssen/Pfizer,NCT00722046                        (II),Mild to moderate AD,−,−,"low ARIA-H, low ARIA-E"
+"Crenezumab (MABT5102A, RG7412)",13–24,liposome-anchored peptides,"M-,O, F/P",Humanized IgG4,"NCT02670083                        (III,D),                         NCT01998841                        (II)",Roche/Genentech,NCT01723826                        (II),Mild to moderate AD,−,−,low
+"Gantenerumab (RO4909832, RG1450)",2–11 and 18–27,N/A: human combinatorial antibody libraries,"M-, O, F/P+",human IgG1,"NCT03443973                        ,                         NCT03444870                        (III)",Hoffman-La Roche,"NCT01224106                        ,                         NCT02051608                        (III)",Prodromal to mild AD,+,−,high: 2/6 patients (200 mg dose)
+"Donanemab (N3pG, LY-3002813, mE8)",p3–7,A                         β                        pE3–42 peptide,F/P (N3pG),Humanized IgG1,"NCT02624778                        (I),                         NCT03367403                        (II)",Eli Lilly,NCT01837641                        (I),Early/mild AD,+,n/a,moderate; immunogenic
+Aducanumab (BIIB037),3–7,N/A: B-cell libraries from healthy elderly subjects,"M-,O,F/P",Human IgG1,"NCT02477800                        ,                         NCT02484547                        (III, D)",Neurimmune/Eisai/Biogen,"NCT02477800                        ,                         NCT02484547                        (III)",Early AD,+,−,high
+"SAR-228810 (SAR255952, 13C3)",N-terminus (4–20),Synthetic oligomers,"O,F/P",Humanized IgG4,NCT01485302                        (I),Sanofi,NCT01485302                        (I),Mild to moderate AD,n/a,n/a,"no ARIA-E, very low ARIA-H"
+"BAN-2401 (Lecanemab, mAb158)",N-terminus (1–16),Protofibrils of E22G mutant A                         β,"M-,O+, F/P",Humanized IgG1,NCT03887455                        (III),Biogen/Eisai/BioArctic,"NCT01230853                        (I), (Iib)",Mild to moderate AD/Early AD,+,+/−,low
+MEDI-1814,A                         β                          42                        2C-terminus (29–42),N/A: human combinatorial antibody libraries,"M++,O",Human IgG1                           a,NCT02036645                        (I),Eli Lilly/AstraZeneca/MedImmune,NCT02036645                        (I),Mild to moderate AD,n/a,n/a,no
+KHK6640,Not known/Not disclosed,Not available,"O,F/P",Humanized IgG4                           a,NCT03093519                        (I),Kyowa Hakko Kirin,"NCT02127476                        (I),                         NCT03093519                        (I)",Prodromal/Mild/Moderate AD,n/a,−,"no ARIA-E, moderate ARIA-H"
+"Plasma Exchange/Albumen replacement, IVIgs",n/a,Serum of multiple healthy young volunteers,"M,O,F/P",n/a,NCT01561053                        (II/III),Grifols Biologicals Inc.,NCT00818662                        (III),Mild to moderate AD,+/−,−,none
+NPT088,"noncontiguous −12, 17–25, and 31–40",N/A: Human IgG -viral g3p GAIM chimera                           c,"O,F/P",Human IgG1,NCT03008161                        (I),Proclara Biosciences,NCT03008161                        (I),Mild to moderate AD,n/a,n/a,−

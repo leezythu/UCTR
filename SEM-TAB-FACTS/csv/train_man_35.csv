@@ -1,0 +1,16 @@
+"Source
+","
+d.f.","H            .             perforatum
+Ξ               2              values","T            .             pratensis
+Ξ               2              values","D            .             giganteus
+Ξ               2              values","P            .             peregrina
+Ξ               2              values"
+Relative frequency [RF],1,58.67***,35.38***,0.03,34.10***
+Relative frequency – Zero inflation,1,-,21.24***,-,24.55***
+Fungicide application [F],1,0.35,0.19,0.90,8.70**
+Insecticide application [I],1,0.09,6.24*,7.83**,5.57*
+RF x F,1,0.16,0.37,0.30,9.17**
+RF x I,1,0.17,5.25*,7.21**,7.84**
+F x I,1,0.93,0.00,1.35,1.26
+RF x F x I,1,0.13,0.75,1.33,-
+Block,4,6.20,12.15*,9.95*,3.77

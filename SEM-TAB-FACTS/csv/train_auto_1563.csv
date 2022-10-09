@@ -1,0 +1,4 @@
+Property,Soil lower bound,Soil reference case,Soil upper bound
+"Effective thermal conductivity,                           λ                          [W/m/K]",0.9,2.26,3.9
+"Undisturbed ground temperature,                               T                                  0                              [                                o                              C]",8,14,18
+"Groundwater flow velocity, v [m/day]",0,0,2

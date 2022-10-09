@@ -1,0 +1,7 @@
+Membrane code,Membrane type,H                         2                        permeance [mol/s/m                         2                        /Pa],Pressure exponent [−],H                         2                        /CH                         4                        selectivity [−]
+Pd1,Pd–Ag,1.18·10                         −6,0.66,24300
+Pd2DS,Pd–Ag,1.35·10                         −6,0.63,65200
+Pd3,Pd–Ag,4.36·10                         −6,0.58,4280
+CMSM1,CMSM,7.02·10                         −8,1,527
+CMSM2,CMSM,5.23·10                         −8,1,1020
+Zhang et al.,Pd,2.45·10                         −6,n.d.,700

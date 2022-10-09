@@ -1,0 +1,9 @@
+Band,0.76 µm,1.6 µm,2.06 µm
+Spectral range (cm                                −                                1                              ),"12,950 to 13,190",6120 to 6260,4800 to 4890
+ABSCO version,5.0 / 5.1,5.0 / 5.1,5.0 / 5.1
+line shape,a                        /                         b,f                        /                         f,i                        /                         i
+line mixing,a                        /                         b,f                        /                         f,i                        /                         i
+CIA,a                        /                         b,-,j                        /                         j
+H                         2                        O broadening,c                        /                         c,g                        /                         g,g                        /                         g
+H                         2                        O continuum,d                        /                         e,d                        /                         e,d                        /                         e
+H                         2                        O lines,h                        /                         h,h                        /                         h,h                        /                         h

@@ -1,0 +1,7 @@
+parameters,System with two separate coolers,System sharing a common cooler
+Cooling capacity [kW],59.47,46.86
+Consumed power by compressor-1,9.63,3.75
+COP,1.95,2.33
+Net power output of S-CO2 [kW],20.88,16.336
+Thermal efficiency of S-CO2 [%],24.26,18.06
+Exergy efficiency [%],12.52,10.64

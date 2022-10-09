@@ -1,0 +1,12 @@
+Precursor,Precursor concentration (mM),Extract ratio (%),pH,Temperature (                         o                        C),Time (Minute),References
+KMnO                         4,1,5,–,Room,90,"(                         Moon et al., 2015                        )"
+"MnCl                         2                        , &KMnO                         4",300 & 200,0.4,–,Room,1440,"(                         Jassal et al., 2016                        )"
+KMnO                         4,100,0.8,3.7–4.0,Room,120,"(                         Sanchez-Botero et al., 2017                        )"
+KMnO                         4,1000,0.1,–,–,720,"(                         Sivanesan et al., 2017                        )"
+KMnO                         4,200,12,6,–,240,"(                         Chatterjee et al., 2017                        )"
+Mn(CH                         3                        COO)                         2                        ·4H                         2                        O,1,13.9,6.8,Room,60,"(                         Prasad and Patra, 2017                        )"
+KMnO                         4,0.3,40,2–3,Room,60,"(                         Hashem et al., 2018                        )"
+CH                         3                        COO)                         2                        Mn·6H                         2                        O,0.01,90,8,Room,60,"(                         Hoseinpour et al., 2018                        )"
+CH                         3                        COO)                         2                        Mn·6H                         2                        O,–,4,–,–,60,"(                         Manjula et al., 2019                        )"
+CH                         3                        COO)                         2                        Mn·6H                         2                        O,0.01,90,6,Room,120,"(                         Souri et al., 2019                        )"
+KMnO                         4,1.81,43.72,6.02,Room,103.42,This work

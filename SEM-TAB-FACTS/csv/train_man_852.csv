@@ -1,0 +1,4 @@
+Ego no.,4,7,"3, 6, 10",5,"8, 9","1, 2, 11, 12"
+Global centrality (shortest distance to all other alteri),17,22,23,26,31,32
+Local centrality (absolute number of adjacent alteri),5,4,3,2,2,2
+Local centrality as a relative measure of maximum possible connections,.45,.36,.27,.18,.18,.18

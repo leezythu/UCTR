@@ -1,0 +1,22 @@
+"Pairwise Tests
+Years compared","Pairwise Tests
+R value","Pairwise Tests
+Significance Level %","Permutations
+Possible","Permutations
+Actual","No. obs.
+No. obs."
+2007 vs. 2008,0.212,0.01,Very large,9999,0
+2007 vs. 2016,0.443,0.01,Very large,9999,0
+2007 vs. 2017,0.298,0.01,Very large,9999,0
+2007 vs. 2018,0.169,0.1,Very large,9999,9
+2007 vs. 2019,0.317,0.01,Very large,9999,0
+2008 vs. 2016,0.397,0.01,Very large,9999,0
+2008 vs. 2017,0.255,0.01,Very large,9999,0
+2008 vs. 2018,0.282,0.02,Very large,9999,1
+2008 vs. 2019,0.383,0.01,Very large,9999,0
+2016 vs. 2017,0.101,1.9,Very large,9999,192
+2016 vs. 2018,0.445,0.01,Very large,9999,0
+2016 vs. 2019,0.373,0.01,Very large,9999,0
+2017 vs. 2018,0.243,0.02,Very large,9999,1
+2017 vs. 2019,0.275,0.01,Very large,9999,0
+2018 vs. 2019,0.314,0.01,Very large,9999,0

@@ -1,0 +1,10 @@
+"Scoring and sum score option
+Scoring and sum score option","Performance on each question type for one text
+Orthographic knowledge","Performance on each question type for one text
+Vocabulary","Performance on each question type for one text
+Sentence-integration","Performance on each question type for one text
+Global text comprehension"
+Item scoring for first attempts,Item 1 = 0            Item 2 = 0            Item 3 = 2,Item 1 = 0            Item 2 = 0,Item 1 = 0,Item 1 = 1
+Item scoring for first and second attempts,Item 1 = 1            Item 2 = 0            Item 3 = 2,Item 1 = 1            Item 2 = 1,Item 1 = 1,No feedback
+Sum score for first attempts,2,0,0,1
+Sum score for first and second attempts,3,2,1,No feedback

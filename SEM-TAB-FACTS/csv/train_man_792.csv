@@ -1,0 +1,8 @@
+Sample number,Sample type,"Diameter, (mm)",Depth (mm),Reaction ring,Failure type
+1,Mortar,9.0,60,No,Splitting
+2,Mortar,9.0,60,No,Pull-out
+3,Mortar,8.5,60,No,Splitting
+4,Mortar,9.0,60,Yes,Pull-out
+5,Mortar,9.0,60,Yes,Pull-out
+6,Mortar,9.5,60,Yes,Pull-out
+7,Mortar,9.5,60,Yes,Pull-out

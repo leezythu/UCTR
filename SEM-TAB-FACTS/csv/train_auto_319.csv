@@ -1,0 +1,6 @@
+Range,Type of water
+<50,Excellent water for drinking
+50–100,Good water for drinking
+100.1–200,Poor water for drinking
+200.1 – 300,Very poor water for drinking
+>300.1,Water unsuitable for drinking purpose

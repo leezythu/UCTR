@@ -1,0 +1,12 @@
+,REN/TC
+f_appointment × post period,0.092*
+,(1.937)
+f_appointment,0.102*
+,(1.878)
+post period,−1.174
+,(−1.032)
+All controls,Y
+Industry dummies,Y
+Year dummies,Y
+N,128
+adj. R-sq,0.103

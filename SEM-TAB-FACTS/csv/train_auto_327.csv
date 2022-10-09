@@ -1,0 +1,43 @@
+,No depression,Incident depression,P-value
+N (%),,,χ                         2
+Women,2040 (49),258 (63),<0.001
+"Formal education, ≤9 years",187 (4),28 (7),0.080
+10–12 years,2706 (65),266 (65),
+≥13 years,1278 (31),116 (28),
+"Smoking status, never-smokers",1954 (47),155 (38),<0.001
+former smokers,1329 (32),266 (32),
+current smokers,888 (21),122 (30),
+Alcohol intake > once /day,1659 (40),152 (37),0.286
+Fruit intake > 3 days/week,2620 (63),260 (63),0.810
+Vegetable intake > 3 days/ week,3644 (87),372 (91),0.048
+Moderate to vigorous physical activity ≥ 150 min/week,2946 (71),273 (67),0.091
+Doctor-diagnosed chronic disease                           a,1473 (35),193 (47),<0.001
+Overweight or obesity                           b,2193 (53),186 (46),0.008
+Family history of depression,474 (11),103 (25),<0.001
+Daytime sleepiness                           c,3372 (88),328 (87),0.269
+"Study area, Basel",522 (12),63 (15),<0.001
+Wald,827 (20),68 (16),
+Davos,387 (9),24 (6),
+Lugano,567 (14),36 (9),
+Montana,363 (9),50 (12),
+Payerne,539 (13),56 (14),
+Aarau,676 (16),57 (14),
+Geneva,290 (7),56 (14),
+Non-movers over follow-up period,2642 (64),243 (59),0.073
+"Exposed, road Lden ≥ 45 dB",3766 (90),373 (91),0.654
+"Exposed, aircraft Lden ≥ 45 dB",761 (18),97 (24),0.007
+"Exposed, railway Lden ≥ 45 dB",698 (17),54 (13),0.063
+Mean (SD),,,t                        -test
+Age (years),52 (11),50 (11),0.023
+Body mass index (kg/m                         2                        )                           b,25.7 (4),25.6 (5),0.713
+Neighborhood socio-economic position (%),64 (10),64 (10),0.325
+Greenness index in 1 km residential buffer,0.59 (0.1),0.58 (0.1),0.408
+Nitrogen dioxide (µg/m                         3                        ),22.5 (10),22.3 (10),0.692
+Noise annoyance,2.5 (3),2.9 (3),0.004
+Road traffic Lden (dB),54.7 (8),55.1 (8),0.357
+Aircraft Lden (dB),35.0 (8),36.3 (9),0.005
+Railway Lden (dB),36.8 (9),35.8 (9),0.037
+Change in noise annoyance over follow-up                         d,−0.6 (3),−0.9 (3),0.075
+Change in road traffic Lden over follow-up (dB)                         e,−0.07 (6),−0.4 (6),0.289
+Change in aircraft Lden over follow-up (dB)                         e,0.3 (5),−0.1 (5),0.165
+Change in railway Lden over follow-up (dB)                         e,−1.7 (6),−0.9 (6),0.019

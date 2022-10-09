@@ -1,0 +1,4 @@
+Group,"Age (years), median (IQR)",% male,"FEV             1            (% predicted), median (IQR)","FVC (% predicted), median (IQR)","Pack year history, median (IQR)"
+Heathy young,27 (4),50,N/A,N/A,N/A
+Healthy elderly,N/A,50*,N/A,N/A,N/A
+COPD,77.5 (7.25),83,61.5 (29),97.5 (16),40 (33)

@@ -58,33 +58,26 @@ def gen_feed(pos_d,placeholder):
                 feed_dict[item] = value
     return feed_dict
 
-
-# def fill_in_tem(tem,feed_dict):
-#     return ds_arg(tem["logic"],feed_dict)
-
 def fill_in_template(tem,table,pd_table):
     placeholder = tem["placeholder"]
-    # print(placeholder)
     pos_d = find_pos(table)
-    # print("pos_d")
-    # print(pos_d)
     try:
         feed_dict = gen_feed(pos_d,placeholder)
     except:
         print("fail to gen feed_dict...")
         return None
-    # print("feed_dict")
-    # print(feed_dict)
-    if tem["logic"]["func"] in ["eq","str_eq"]:
-        return fill_in_eq_template(tem,feed_dict,pd_table,table)
-    # elif tem["logic"]["func"]=="greater":
-    #     return fill_in_greater_template(tem,feed_dict)
-    # elif tem["logic"]["func"]=="less":
-    #     return fill_in_less_template(tem,feed_dict)
+    #The base 'eq' func can have many sub-funcs such as count,max,min,hop ... Using these templates is enough for a good unsupervised performence on sem-tab-facts 
+    if tem["logic"]["func"] in ["eq","str_eq"] and tem["logic"]["args"][0]["func"]=="max":
+        try:
+            return fill_in_eq_template(tem,feed_dict,pd_table,table)
+        except:
+            return None
+    elif tem["logic"]["func"]=="greater":
+        return fill_in_greater_template(tem,feed_dict)
+    elif tem["logic"]["func"]=="less":
+        return fill_in_less_template(tem,feed_dict)
     else:
         pass
-    # logic_str = fill_in_tem(tem,feed_dict)
-    # return tem["logic"],logic_str
 
 def filter_blank(table):
     new_table = copy.deepcopy(table)
@@ -104,7 +97,6 @@ def rm_comma(content):
 if __name__ == "__main__":
     train_files = sorted(glob.glob('/home/lzy/data/UFTR/sem-tab-fact/csv/train_man_*.csv'))
     print(len(train_files))
-    # exit(0)
     succ_cnt = 0
     all_samples = []
     for i in range(len(train_files)):
@@ -115,7 +107,6 @@ if __name__ == "__main__":
         table = normalize(table)
         table_header = table[0]
         table_cont = table[1:]
-        # rm_comma(table_cont)
         pd_in = defaultdict(list)
         for ind, header in enumerate(table_header):
             for inr, row in enumerate(table_cont):
@@ -126,9 +117,6 @@ if __name__ == "__main__":
             print("error")
             print(e)
             continue
-        # print(pd_in)
-        # valid_table = filter_blank(pd_in)
-        # valid_table = pd_in
         templates = get_templates()
         repeat = 10
         for r in range(repeat):
@@ -140,7 +128,9 @@ if __name__ == "__main__":
                     all_samples.append({"topic":"none","sent":"none","interpret":"none","table_header":table_header,"table_cont":table_cont,"table_file":train_files[i].split("/")[-1],"logic_str":logic_str_support,"label":True,"must_have":must_have,"type":tem["type"]})
                     all_samples.append({"topic":"none","sent":"none","interpret":"none","table_header":table_header,"table_cont":table_cont,"table_file":train_files[i].split("/")[-1],"logic_str":logic_str_refute,"label":False,"must_have":must_have_wa,"type":tem["type"]})
                     succ_cnt+=1
-    out_f = open("gpt_base/data_folder/original_data/wiki_tems.json",'w')
+                    # print(all_samples)
+                    # exit(0)
+    out_f = open("no_use.json",'w')
     out_f.write(json.dumps(all_samples))
     out_f.close()
     print("succ_cnt",succ_cnt)

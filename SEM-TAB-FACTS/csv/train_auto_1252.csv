@@ -1,0 +1,6 @@
+Hypotheses,Paths,Beta,Total effect,Cohen's                         f                           2
+H1,Incongruent IT-mediated information interruption→ Interruption overload,0.428***,0.428,0.258
+H2,Congruent IT-mediated information interruption→ Interruption overload,0.442***,0.442,0.298
+H3,Interruption overload→ Emotional exhaustion,0.483***,0.483,0.315
+H4a,Preemptive processing × incongruent IT-mediated information→ Emotional exhaustion,-0.079*,-0.079,0.017
+H4b,Sequential processing × congruent IT-mediated information →Emotional exhaustion,-0.123**,-0.123,0.033

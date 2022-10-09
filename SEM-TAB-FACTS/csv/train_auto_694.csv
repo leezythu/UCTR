@@ -1,0 +1,7 @@
+Primer,Sequence (5′ 3′),Comments
+PSY_F,TGCGGCCTCAATCCAATGTTTC,
+PSY+400F,CGTGAACCATCACCCTAATCAAG,
+PSY_2R,GTCCACCAGCTCGTCA                          GTTCGCCGG,"317-bp amplicon in WT. 3′ end (9 bp) matches insert in Colony 15, gives ~480 bp amplicon with PSY_F"
+PSY+500R,CCAATCAGGGTCCAGGGAAC,Pairs with PSY_F forward primer
+PSY+1000R,TATTGCTTCCTCTGCTGGTTCG,Pairs with PSY_F or PSY+400F forward primer
+PSY+1500R,TGCAAGTCAAATCTGCAAGCAC,No priming in Colony 15 with PSY_F or PSY+400F

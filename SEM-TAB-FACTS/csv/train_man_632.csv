@@ -1,0 +1,10 @@
+Sample weight (g),Extraction technique,Solvent Volumen (mL),Purification type,No. compounds validated in other methods,LOD(ng             g              −              1            ),LOQ (ng             g              −              1            ),Recovery%,MS instrument,ME (%),Ref.
+0.5 dw*,focused USE,7,SPE,22,0.4–16,N.R.,80 - 118.,QqQ,N.R.,
+0.5 dw,USE,10,2 g of alumina            + SPE,24,0.01–19            DW,0.04–61            dw,33 - 114,QqQ,N.R.,
+1.0,PLE,4 cycles            5 min,GPC,20,0.01–0.4,0.04- 1.4,28 - 126,QqQ,4 - (−86),
+0.5,Homogenization,1,Filtration            + frozen,74**,N.R.,0.03 – 5.5,40 - 160,Q-Exactive,54 - (−327),
+1.0 dw,QuEChERS,19,EMR lipid removal,21,0.5– 91            DW,1.8 - 303            dw,10 - 139.,Q-ToF,113 - (−89),
+0.2 dw,vortex,10,filtration,42,0.01 to 2.00,0.1 - 40.2,29 - 188,QqQ,2191 -(−83),
+1,USE,NR,SPE,29,0.01–2.00,0.03 - 6.67,61 - 111,QqQ,NR,
+5,USE-McIlvain,15,SPE,27,N.R.,6–30,43 - 103,QqQ,5 - (−40),
+1 z.f.***,USE,0.250,–,9,N.R.,0.005 - 1.5,74 - 100,QqQ,51 - 106,

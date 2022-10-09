@@ -1,0 +1,11 @@
+"property
+absorptivity","property
+A","unit
+–","value
+0.4","reference
+[             40            ]"
+specific heat capacity,c             p,J/gK,0.5263,[             26            ]
+solidus temperature,T             Sol,K,1878,[             41            ]
+liquidus temperature,T             Liq,K,1928             *,[             41            ]
+heat of fusion,H,J/g,290,[             42            ]
+density,ρ,g/cm³,4.43,[             43            ]

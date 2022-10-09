@@ -1,0 +1,23 @@
+"Site Name
+Site Name","N
+N","BHOA
+Corr","BHOA
+BIAS (%)","BHOA
+RMSE (%)","BHOA
+unbRME (%)","GLDAS-Noah
+Corr","GLDAS-Noah
+BIAS (%)","GLDAS-Noah
+RMSE (%)","GLDAS-Noah
+unbRME (%)","ERA-Interim
+Corr","ERA-Interim
+BIAS (%)","ERA-Interim
+RMSE (%)","ERA-Interim
+unbRME (%)","LISFLOOD
+Corr","LISFLOOD
+BIAS (%)","LISFLOOD
+RMSE (%)","LISFLOOD
+unbRMSE (%)"
+VT,1618,0.81,−30.7,34.0,14.7,0.12,−45.1,58.7,37.5,0.63,5.2,16.0,15.1,0.48,21.3,25.7,14.3
+ANG,779,0.55,31.3,40.1,25.1,0.13,34.7,47.1,31.9,0.58,70.8,71.8,12.1,0.29,68.7,70.5,15.8
+PAR,644,0.71,−67.6,68.2,9.3,0.02,−70.1,73.2,21.2,0.57,−48.1,49.1,9.8,0.37,−16.6,21.4,13.4
+Average,,0.69,43.2,47.4,16.4,0.07,50.0,59.7,30.2,0.59,9.0,45.7,12.3,0.38,35.6,39.2,14.5

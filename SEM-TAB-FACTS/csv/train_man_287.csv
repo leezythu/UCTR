@@ -1,0 +1,9 @@
+Weld/region No.,Cr             eq            /Ni             eq,Solidification mode
+Coated/I,1.92,FA
+Coated/II,1.65,FA
+Outside-uncoated/I,0.91,A
+Outside-uncoated/II,0.88,A
+Inside-uncoated/I,0.88,A
+Inside-uncoated/II,0.74,A
+All-uncoated/I,0.09,A
+All-uncoated/II,0.08,A

@@ -1,0 +1,5 @@
+Group,Explanation,VC-channels
+Position Major,Most significant VC-channel controlling the position of the marks.,"plot x, line x, bar order, circular bar order (for the charts: polar area, sectors, tubes)"
+Size Major,Most significant VC-channel controlling the size of the marks.,"tile size, unit size, stream size, plot size, bar height"
+Position Minor,Secondary VC-channel controlling the position of the marks.,"plot y, line y"
+Size Minor,Secondary VC-channel controlling the size of the marks.,"bar width (columns), bar height (rows), tube height (tubes chart)"

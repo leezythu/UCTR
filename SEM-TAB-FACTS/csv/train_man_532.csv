@@ -1,0 +1,8 @@
+Name of architecture,BMA
+GoogLeNet Inception-v3,0.602
+GoogLeNet-V3 with STL (CASE I),0.639
+GoogLeNet-V3 with STL (CASE II),0.677
+DenseNet-201 as trained by the Winner of Challenge,0.868
+DenseNet-201 trained only on ISIC 2018 dataset,0.712
+DenseNet-201 trained only on ISIC 2018 dataset with STL (CASE II),0.734
+ResNet-101,0.675

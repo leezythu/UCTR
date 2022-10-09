@@ -1,0 +1,7 @@
+Parameter,"Before,                 (                  d                  =                  0                  )","After,                 (                  d                  =                  1                  )"
+κ                      P                    P,14/day,2/day
+κ                      P                    C,2/day,2/day
+κ                      C                    C,5/day,3/day
+κ                      C                    S,2/day,1/day
+κ                      P                    S,2/day,2/day
+μ              (COVID-19),0.1/day,0.25/day

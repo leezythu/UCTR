@@ -1,0 +1,7 @@
+,LETKF,EnKF                        (Case 1),EnKF                        (Case 2)
+"Ensemble size,                         N",20,20,200
+"Time interval of observation, Δ                         t                          obs                        [μs]",4.5,4.5,4.5
+"Spatial interval of observation,                         ΔL                        [μm]",0.01,0.01,0.01
+"SD of Gaussian random numbers added to                         D                           t                            L(                            i                            )                        ,                         σ                          par                        [m                         2                        /s]",7 × 10                         −11,3 × 10                         −12,3 × 10                         −12
+Mean of initially-estimated                         D                          0                          L(                            i                            )                        [m                         2                        /s],1.5 × 10                         −9,1.5 × 10                         −9,1.5 × 10                         −9
+SD of initially-estimated                         D                          0                          L(                            i                            )                        [m                         2                        /s],5 × 10                         −10,5 × 10                         −10,5 × 10                         −10

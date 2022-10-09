@@ -1,0 +1,9 @@
+,Flounders,Atlantic cod,Haddock
+Total number observed,425,799,7512
+Number exiting grid,75,76,3559
+Number re-enter grid,6,26,952
+Total number of grid escapes,69,50,2607
+Number transited to codend,356,749,4905
+Number observed in the catch,401,544,206
+% escape through grid,16.2%,6.3%,34.7%
+% escape through codend,–,27.3%,95.8%

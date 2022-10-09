@@ -1,0 +1,11 @@
+"Control factors
+Control factors","Notation
+Notation","Levels
+1","Levels
+2","Levels
+3"
+Spindle Speed (rpm),n,3200,3400,3600
+Feed (mm/rev),f,0.1,0.15,0.2
+Depth of Cut (mm),d,0.1,0.15,0.2
+Tool Corner Radius (mm),r,0.4,0.8,1.2
+Cutting fluid (no unit),C,C1,C2,C3

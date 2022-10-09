@@ -1,0 +1,9 @@
+"Treatment
+1","Treatment
+Women’s empowerment for non-PPT adopting households (actual = t1 and counterfactual = t0)","Actual outcome
+7.087","Counterfactual outcome
+6.758","ATT
+0.329(0.107)***"
+2,Women’s empowerment for PPT adopting households (actual = t2 and counterfactual = t3),7.532,7.338,0.194(0.070)***
+3,PPT adoption for households with disempowered women (actual = t3 and counterfactual = t0),7.335,6.969,0.366(0.073)***
+4,PPT adoption for households with empowered women (actual = t2 and counterfactual = t1),7.532,6.902,0.630(0.084)***

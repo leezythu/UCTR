@@ -1,0 +1,9 @@
+No.,RCM model,Driving GCM model,Short name combined,Organisation
+1,CCLM4,EC-EARTH,CCLM4_EC,Community Land Model (CLM) community
+2,HIRHAM5,EC-EARTH,HIRHAM5_EC,Danish Meteorological Institute (DMI)
+3,RACMO22,EC-EARTH,RACMO22_EC,Koninklijk Nederlands Meteorologisch Instituut (KNMI)
+4,RACMO22,HADGEM2,RACMO22_HAD,Koninklijk Nederlands Meteorologisch Instituut (KNMI)
+5,REMO2009,MPI-ESM-LR,REMO2009_MPI,Max Planck Institute (MPI)
+6,RCA4,EC-EARTH,RCA4_EC,Swedish Meteorological and Hydrological Institute (SMHI)
+7,RCA4,HADGEM2,RCA4_HAD,Swedish Meteorological and Hydrological Institute (SMHI)
+8,RCA4,MPI-ESM-LR,RCA4_MPI,Swedish Meteorological and Hydrological Institute (SMHI)

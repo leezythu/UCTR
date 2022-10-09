@@ -1,0 +1,3 @@
+Group,N,Means,SD,t,P
+Disease,31,0.558,0.126,8.667,<0.001
+Control,31,0.785,0.074,8,

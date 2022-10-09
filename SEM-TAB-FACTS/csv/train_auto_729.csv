@@ -1,0 +1,22 @@
+Statistic,N,Mean,St. Dev.,Min,Pctl(25),Pctl(75),Max
+Crime data,,,,,,,
+"Crime rate per 100,000",1044,7.08,8.81,0,1.7,9.9,100
+"Violent crime rate per 100,000",1044,3.77,6.17,0,0,5.5,73
+"Property crime rate per 100,000",1044,3.31,5.07,0,0,4.9,67
+Weather data,,,,,,,
+Temperarature anomalies,1044,0.12,0.97,−3.49,−0.50,0.76,3.11
+Precipitation anomalies,1044,−0.47,2.15,−9.61,−1.68,0.64,9.87
+Temperarature (                         ∘                        C),1044,5.88,5.96,−5.70,1.34,10.34,17.30
+Precipitation (mm),1044,314,110,32,241,395,614
+Grape harvest date                           a,174,43,8,19,37.2,49,59
+Socio-economic data,,,,,,,
+Seasonal migration rate,6,0.090,0.046,0.036,0.059,0.121,0.155
+Prices data,,,,,,,
+Annecy wheat prices (ag/l),76,0.68,0.17,0.42,0.55,0.81,1.16
+Chambéry wheat prices (ag/l),73,0.74,0.19,0.42,0.57,0.83,1.20
+Annecy red wine prices (ag/l),49,0.84,0.27,0.36,0.72,0.90,1.63
+Population data,,,,,,,
+Population in 1719,6,"49,724","29,190","26,123","32,831","55,958","104,022"
+Population in 1758,6,"49,070","24,449","28,124","32,182","59,109","91,443"
+Population in 1776,6,"58,708","31,197","33,682","36,632","68,227","114,917"
+Population in 1793,6,"66,770","39,207","37,863","39,757","80,556","136,650"

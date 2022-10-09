@@ -1,0 +1,39 @@
+"Algorithm
+
+","Dataset
+Air quality
+Appliances energy prediction","CPU
+25
+29","ESS
+1.80
+2.21","Memory
+29
+31"
+kmeans,EEG eye state,31,2.25,35
+,Real-time election,35,2.51,38
+,Beijing multi-site air-quality,38,2.59,40
+,Beijing PM2.5,42,2.71,45
+,Air quality,27,1.71,30
+,Appliances energy prediction,31,2.25,33
+DBSCAN,EEG eye state,32,2.28,37
+,Real-time election,37,2.35,41
+,Beijing multi-site air-quality,39,2.57,43
+,Beijing PM2.5,41,2.95,47
+,Air quality,25,1.80,29
+,Appliances energy prediction,33,2.57,39
+Fuzzy cmeans,EEG eye state,41,2.59,45
+,Real-time election,45,2.99,49
+,Beijing multi-site air-quality,49,3.11,59
+,Beijing PM2.5,55,3.05,52
+,Air quality,42,0.99,40
+,Appliances energy prediction,43,1.05,51
+CHA,EEG eye state,49,1.12,56
+,Real-time election,56,1.19,62
+,Beijing multi-site air-quality,63,1.68,66
+,Beijing PM2.5,67,1.81,71
+,Air quality,22,1.52,31
+,Appliances energy prediction,31,1.71,30
+Density peak,EEG eye state,32,1.75,40
+,Real-time election,35,1.74,51
+,Beijing multi-site air-quality,39,1.77,53
+,Beijing PM2.5,45,1.92,54

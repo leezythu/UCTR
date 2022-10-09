@@ -1,0 +1,7 @@
+Approach,Conditioning,n,FAC2,MB,NMB,MAE,FB,RMSE,NMSE
+Approach 1,Neutral,18,0.67,1.61,0.67,1.61,−0.50,1.73,0.31
+Approach 1,Stable,10,0.50,1.71,0.75,1.71,−0.54,1.90,0.39
+Approach 2,Neutral,18,0.72,−1.01,−0.42,1.01,0.54,1.22,0.45
+Approach 2,Stable,10,0.60,−1.08,−0.47,1.08,0.62,1.37,0.68
+Approach 3,Neutral,18,0.94,0.92,0.39,1.08,−0.32,1.22,0.19
+Approach 3,Stable,10,0.50,0.30,0.13,1.27,−0.12,1.57,0.44

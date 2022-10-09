@@ -1,0 +1,9 @@
+"
+","Period of birth
+Pre-monsoon season (ORs)","Period of birth
+Monsoon season (ORs)","Period of birth
+Post-monsoon season (ORs)"
+Rainfall anomaly in infancy,1.04**,1.05***,1.03
+,(0.02),(0.02),(0.02)
+Observations,"81,731","75,226","56,760"
+Pseudo R             2,0.06,0.07,0.06

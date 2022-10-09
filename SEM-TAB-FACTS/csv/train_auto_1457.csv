@@ -1,0 +1,14 @@
+"Set number
+Set number","Energy-related parameter
+Sinter speed (mm/s)","Energy-related parameter
+Lamp power (W)","Energy-related parameter
+Ink Grey level"
+1,80,750,2
+2,80,875,3
+3,80,1000,4
+4,100,750,3
+5,100,875,4
+6,100,1000,2
+7,120,750,4
+8,120,875,2
+9,120,1000,3

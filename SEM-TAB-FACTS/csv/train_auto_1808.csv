@@ -1,0 +1,11 @@
+"Absolute volume distribution
+Capsule volume (V_CS_ROI)","Absolute volume distribution
+603 mm                         3","Individual measurements
+Max. Length (Feret)","Individual measurements
+19.45 mm"
+Capsule shell volume (V_CS),56 mm                         3,Filled Height,16.09 mm
+Capsule internal volume (V_CS_InV),548 mm                         3,Filled Volume,48.39%
+Capsule void space (V_CS_Poros),279 mm                         3,"A                         S, V_CS_ROI",562.6 mm                         2
+Pellet volume (V_CP_ROI),269 mm                         3,"A                         S, V_CP_ROI",1253.9 mm                         2
+Pellet solid phase volume (V_CP),201 mm                         3,d                         c,6.55 ± 0.01 mm
+Pellet porosity volume (V_CP_Poros),68 mm                         3,s                         c,112 ± 3 μm

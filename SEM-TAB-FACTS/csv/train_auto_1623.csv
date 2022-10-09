@@ -1,0 +1,10 @@
+"
+","Detection accuracy using 14 randomly drawn tokens Mean (SD) in %
+Male","Detection accuracy using 14 randomly drawn tokens Mean (SD) in %
+Female","Tracking accuracy using 2 randomly drawn tokensMean (SD) in%
+Male","Tracking accuracy using 2 randomly drawn tokensMean (SD) in%
+Female"
+Upper lip,0.71 (0.33),0.86 (0.41),0.45 (0.10),0.77 (0.21)
+Lower lip,0.68 (0.59),0.49 (0.28),0.22 (0.21),0.49 (0.13)
+Left eyebrow,0.54 (0.21),0.61 (0.22),0.64 (0.16),0.44 (0.27)
+Nose,0.47 (0.27),0.50 (0.22),0.49 (0.223),0.24 (0.17)

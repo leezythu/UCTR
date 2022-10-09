@@ -1,0 +1,20 @@
+Authors,Optical basis,Calibration method,Measurement method,Measured accuracy (FOV),Projection technique
+Windecker et al.             [49],Stereomicroscope,Phase-height relation,Two-grating phase-shifting,2.5 μm rms            (8 × 5 mm             2            ),Ronchi grating
+roll et al.             [53],Stereomicroscope,Phase-height relation,"4, 5, 8-step phase-shifting",0.085 μm rms            (1.04 × 0.77 mm             2            ),LCoS chip
+Proll et al.             [71],Stereomicroscope,Phase-height relation,Gray-code+3-step phase-shifting,Not given,LCD chip
+Zhang et al.             [51],Stereomicroscope,Phase-height relation,3- step phase-shifting,2.6 μm p-p variation            (1.2 mm),DMD chip
+Li et al.             [52],Stereomicroscope,Pinhole model,Multi-frequency phase-shifting,3.1 μm            (3 × 3 mm             2            ),LCoS projector
+Chen et al.             [72],Stereomicroscope,Pinhole model,Triangulation,Below 1%            (of full-scale),DLP projector
+Yu et al.             [75],Stereomicroscope,Phase-height relation,4-step phase-shifting,Not given,LightCrafter
+Jeught et al.             [76],Stereomicroscope,Phase-height relation,4-step phase-shifting,17 μm isometric error            (10.7 × 8.0 mm             2            ),LightCrafter
+Hu et al.             [58],Stereomicroscope,Phase-height relation,Multi-frequency phase-shifting,1.2 μm rms            (3 × 3 mm             2            ),LightCrafter
+Quan et al.             [50],LWD lenses,Phase-height relation,4-step phase-shifting,2.5% discrepancy            (2 × 1.5 mm             2            ),LCD projector
+Wang et al.             [78],LWD lenses,Phase-height relation,4-step phase-shifting,18 μm            (768 × 576 pixel),LCD projector
+Chen et al.             [79],LWD lenses,Phase-height relation,5-step phase-shifting,18.1 μm            (Not given),DLP projector
+Yin et al.             [80],LWD lenses,General imaging model,Gray-code+16-step phase-shifting,4 μm std            (5.0 × 4.0 mm             2            ),DLP projector
+Li and Zhang             [57],LWD lenses,Pinhole+telecentric model,Multi-frequency phase-shifting,4.5 μm rms            (10.0 × 8.0 mm             2            ),LightCrafter
+Li et al.             [59],LWD lenses,Telecentric model,Multi-frequency phase-shifting,5 μm std            (30.0 × 20.0 mm             2            ),DLP projector
+"Liu et al.             [81]            ,",LWD lenses,Telecentric model,Gray-code,10 μm rms            (34.6 × 29.0 mm             2            ),LCD projector
+Peng et al.             [42],LWD lenses,Scheimpflug telecentric model,Gray-code+4-step phase-shifting,2 μm max            (1280 × 1024 pixel),DMD chip
+Wang et al.             [82],LWD lenses,General imaging model,Not given,0.6 μm std            (1280 × 1024 pixel),DMD chip
+Hu et al.             [56],LWD lenses,Telecentric model,Multi-frequency phase-shifting,1.4 μm std            (10.0 × 7.0 mm             2            ),LightCrafter

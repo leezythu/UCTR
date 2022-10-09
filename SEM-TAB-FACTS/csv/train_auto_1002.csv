@@ -1,0 +1,5 @@
+Experiment,Reference,RES in mm,FOV in mm                         2,M                        in m/m,DSR
+Atmospheric boundary layer,Heisel et al.                         [54],540,"17, 000 ×  17,000",0.00035,32 × 32
+Boundary layer (16 cameras),Cuvier et al.                         [31],2.56,3466 × 255,0.06,1354 × 100
+Boundary layer (time resolved),Willert et al.                         [174],0.15,5.08 × 25.6,0.43,3 × 170
+Free-stream turbulence,Scharnowski et al.                         [139],0.12,26 × 22,0.63,216 × 183

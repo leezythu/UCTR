@@ -1,0 +1,6 @@
+Parameter,Value
+Owl population,120
+No. of iteration,30
+α,0.25
+The range of forest for capacity,"[0, 1000]"
+The range of forest for Ratio of electric cooling to cool load,"[0,1]"

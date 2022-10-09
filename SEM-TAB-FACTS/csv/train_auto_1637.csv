@@ -1,0 +1,34 @@
+Plasmid or strain,Relevant properties or genotype,Source
+Plasmids,,
+PYLXP’,pYaliA1 vector backbone with leucine marker and Ampicillin resistance gene,Xu Peng et al
+PYLXP’-SQS,PYLXP’ carrying SQS from                         Y. lipolytica,This study
+PYLXP’-SQS-ylHMG1,PYLXP’ carrying SQS and HMG1 from                         Y. lipolytica,This study
+PYLXP’-SQS-ylt495HMG1,PYLXP’ carrying SQS and truncated HMG1 from                         Y. lipolytica,This study
+PYLXP’-SQS-SctHMG1,"PYLXP’ carrying SQS from                         Y. lipolytica                        , truncated HMG1 from                         S. cerevisiae",This study
+PYLXP’-SQS-SpHMG1,"PYLXP’ carrying SQS from                         Y. lipolytica                        , HMG1 from                         Silicibacter pomeroyi",This study
+PYLXP’-SQS-ylHMG1-ylErg8,"PYLXP’ carrying SQS, Erg8 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylErg10,"PYLXP’ carrying SQS, Erg10 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylErg12,"PYLXP’ carrying SQS, Erg12 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylErg20,"PYLXP’ carrying SQS, Erg20 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ScErg8,"PYLXP’ carrying SQS and HMG1 from                         Y. lipolytica                        , Erg8 from                         S. cerevisiae",This study
+PYLXP’-SQS-ylHMG1-ScErg12,"PYLXP’ carrying SQS and HMG1 from                         Y. lipolytica                        , Erg12 from                         S. cerevisiae",This study
+PYLXP’-SQS-ylHMG1-ylGPS,"PYLXP’ carrying SQS, GPS and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylMAE,"PYLXP’ carrying SQS, MAE and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylUGA2,"PYLXP’ carrying SQS, UGA2 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylGND2,"PYLXP’ carrying SQS, GND2 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylIDP2,"PYLXP’ carrying SQS, IDP2 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylMnDH1,"PYLXP’ carrying SQS, MnDH1 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylMnDH2,"PYLXP’ carrying SQS, MnDH2 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylPDC1-ylALD3,"PYLXP’ carrying SQS, PDC1, ylALD3 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylPDC1-ylALD4,"PYLXP’ carrying SQS, PDC1, ylALD4 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ScPDC1-ScADH,"PYLXP’ carrying SQS and HMG1 from                         Y. lipolytica                        , PDC1 and ADH from                         S. cerevisiae",This study
+PYLXP’-SQS-ylHMG1-ScPDC1-EcPuuC,"PYLXP’ carrying SQS and HMG1 from                         Y. lipolytica                        , PDC1 from                         S. cerevisiae                        , PuuC from                         E.coli.",This study
+PYLXP’-SQS-ylHMG1-ylACL1,"PYLXP’ carrying SQS, ACL1 and HMG1 from                         Y. lipolytica",This study
+PYLXP’-SQS-ylHMG1-ylACL2,"PYLXP’ carrying SQS, ACL2 and HMG1 from                         Y. lipolytica",This study
+Strains,,
+E. coli NEB5α,fhuA2 Δ(argF-lacZ)U169 phoA glnV44 Φ80 Δ(lacZ)M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17,New England Biolabs
+Y. lipolytica po1g,"matA, xpr2-332, axp-2, leu2-270",Madzak C et al
+HLYaliS01,Y. lipolytica po1g with vector PYLXP’-SQS-ylHMG,This study
+HLYaliS02,Y. lipolytica po1g with vector PYLXP’-SQS-ylHMG1-ylMnDH2,This study
+HLYaliS03,Y. lipolytica po1g with vecto PYLXP’-SQS-ylHMG1-ylACL2,This study
+HLYaliS04,Y. lipolytica po1g with vecto PYLXP’-SQS-ylHMG1- ylMnDH2-ylACL2,This study

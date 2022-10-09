@@ -1,0 +1,26 @@
+"material constants used for PZT
+parameter","material constants used for PZT
+value","material constants used for PZT
+units","material constants used for PZT
+source"
+G                          0,7.0·                             10                                −                                11,Vm                         3                        /C,this work
+α                          1,-8.499 · 10                         8,Vm/C,Völker et al. (2011)
+α                          11,1.950 · 10                         8,Vm                         5                        /C                         3,Völker et al. (2011)
+α                          12,-9.750 · 10                         8,Vm                         5                        /C                         3,Völker et al. (2011)
+α                          111,2.117 · 10                         9,Vm                         9                        /C                         5,Völker et al. (2011)
+α                          112,1.687 · 10                         10,Vm                         13                        /C                         7,Völker et al. (2011)
+α                          123,4.823 · 10                         9,Vm                         9                        /C                         5,Völker et al. (2011)
+Q                          11,-2.3386 · 10                         10,Vm/C,Völker et al. (2011)
+Q                          12,-3.1528 · 10                         9,Vm/C,Völker et al. (2011)
+Q                          44,-1.892 · 10                         10,Vm/C,Völker et al. (2011)
+μ                              e,123,GPa,Völker et al. (2011)
+λ                              e,115,GPa,Völker et al. (2011)
+a                              cub.,4.0119 · 10                                −                                10,m,Völker et al. (2011)
+a                              tetr.,4.0047 · 10                                −                                10,m,Völker et al. (2011)
+c                              tetr.,4.0602 · 10                                −                                10,m,Völker et al. (2011)
+κ                          0,8.854 · 10                                −                                12,F/m,"(                         Haynes, 2014                        )"
+k                              B,1.380 · 10                                −                                23,J/K,"(                         Haynes, 2014                        )"
+θ                              C,650,K,"(                         Jaffe et al., 1971                        )"
+μ,1.0 · 10                         9,kg m                         3                        /C                         2                        s,this work
+Δ                         x,4.0047 · 10                                −                                10,m,this work
+Δ                         y,4.0047 · 10                                −                                10,m,this work

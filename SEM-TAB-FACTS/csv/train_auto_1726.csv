@@ -1,0 +1,25 @@
+Gender,Women (                         n                        = 1087),Men (                         n                        = 783),P
+Age - years,,,
+"Median (25                         th                        ,75                         th                        percentile)",73 (56−84),71 (55−81),0.025
+Priority at dispatch centre -                         n                        (%)                           a,,,0.001
+Prio 1,334 (30.8),302 (38.6),
+Prio 2,698 (64.3),448 (57.2),
+Prio 3,53 (4.9),33 (4.2),
+Triage colour RETTS -                         n                        (%),,,0.002
+Red,11 (1.0),13 (1.7),
+Orange,224 (20.6),195 (24.9),
+Yellow,587 (54.0),423 (54.0),
+Green,265 (24.4),152 (19.4),
+Level of care -                         n                        (%),,,0.170
+To hospital,849 (78.1),632 (80.7),
+Stay at the scene,238 (21.9),151 (19.3),
+Seek medical advice within 72 h. -                         n                        (%)                           b,29 (12.2),15 (9.9),0.517
+Mode of transport -                         n                        (%)                           c,,,0.605
+Ambulance,764 (90.0),584 (92.4),
+"PTS, immobile                           d",33 (3.9),17 (2.7),
+"PTS, seated",32 (3.8),18 (2.8),
+Single-responder unit,8 (0.9),9 (1.4),
+Transport by own means,12 (1.4),4 (0.6),
+Type of condition -                         n                        (%),,,
+Non-time critical,1040 (95.7),734 (93.7),0.062
+Time critical,47 (4.3),49 (6.3),

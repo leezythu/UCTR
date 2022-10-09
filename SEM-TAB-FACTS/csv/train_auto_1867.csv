@@ -1,0 +1,40 @@
+"PID
+PID","Institution
+Institution","Sex
+Sex","Age at Onset (Years)
+Age at Onset (Years)","Age at Last Examination (Years)
+Age at Last Examination (Years)","BCVA
+OD","BCVA
+OS","Fishmann Classification                           a
+Fishmann Classification                           a","Foveal Photoreceptors
+Foveal Photoreceptors","Extent of FAF abn. with Regard to Vascular Arcades
+Extent of FAF abn. with Regard to Vascular Arcades","Clinical Diagnosis
+Clinical Diagnosis","Age at ERG (Years)
+Age at ERG (Years)","ffERG Group
+ffERG Group","PERG
+PERG"
+1,MEH,F,55,60,6/9,6/6,2,spared,beyond,STG,–,–,–
+2,MEH,F,22,43,3/60,2/60,4,atrophy,beyond,CRD,41,3,A
+3                           #,MEH,M,22,39,3/60,3/60,4,atrophy,beyond,STG,36,1,A
+4                           #,MEH,F,23,30,6/24,6/24,3,atrophy,beyond,STG,–,–,–
+5,MEH,F,41,64,6/18,CF,4,atrophy,beyond,CRD,61,3,A
+6                           #,MEH,M,12,12,–,–,0,early changes,within (minimal),STG,–,–,–
+7,MEH,M,33,44,6/60,6/92,4,atrophy,beyond,STG,42,1,A
+8,MEH,F,10,26,6/36,6/36,2,early changes,within (minimal),STG,21,1,A
+9,MEH,F,24,43,6/60,6/60,4,atrophy,beyond,CRD,36,3,A
+10                           #,MEH,F,15,21,6/36,6/36,2,atrophy,beyond,STG,15,1,A
+11,MEH,M,46,61,6/60,6/60,3,atrophy,beyond,STG,–,–,–
+12                           #,MEH,F,22,62,HM,6/60,4,atrophy,beyond,CRD,52,3,A
+13,MEH,M,46,56,6/18,6/12,4,spared,beyond,STG,47,1,A
+14,MEH,F,25,30,6/6,6/19,2,atrophy,beyond,STG,26,1,N
+15,MEH,F,39,51,6/9,6/9,2,early changes,beyond,STG,40,1,A
+16                           #,MEH,F,24,50,2/60,6/6,3,atrophy,beyond,STG,39,1,A
+17,MEH,F,33,43,3/60,6/12,3,atrophy,beyond,CRD,39,3,A
+18,MEH,F,55,62,6/6,6/36,3,spared,beyond,STG,57,1,N
+19,MEH,F,10,20,6/48,6/30,2,atrophy,beyond,STG,17,1,A
+20,MEH,M,40,72,3/60,3/60,4,atrophy,beyond,STG,68,1,A
+21,PAH,F,35,35,6/9,6/9,3,spared,beyond,STG,35,1,N
+22a,RUMC,F,13,29,6/60,3/60,3,atrophy,beyond,STG,25,1,A
+22b,RUMC,M,27,35,20/60,24/60,2,atrophy,beyond,STG,27,1s,–
+23                           #,RUMC,F,4,41,1/60,1/60,4,atrophy,beyond,STG,34,1s,–
+24                           #,RUMC,M,15,43,1/60,1/60,4,atrophy,beyond,STG,18,1,–

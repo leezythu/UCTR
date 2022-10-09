@@ -1,0 +1,8 @@
+Name,Domain,Entity recognition,Relation extraction,Entity alignment,ER/OWL mapping,File types/raw data,Human
+myDIG             Kejriwal and Szekely (2019),General,✓,✓,✕,✕,"CSV, JSON,...",✕
+IBM Watson Discovery             Chen et al. (2016b),General,✓,✓,✓,N/A,N/A,✕
+cTAKES             Savova et al. (2010),Medical,✓,✓,✓,✕,UMLS             Nelson et al. (2017),✕
+SemTK             Cuddihy et al. (2017),General,✕,✕,✕,✓,"CSV,...",✕
+I-KAT             Ali et al. (2017),Medical,✕,✕,✕,✓,"SNOMED CT,...",✓
+RDR             Hyeon et al. (2016),Medical,N/A,N/A,N/A,N/A,N/A,✓
+HKGB,Medical,✓,✓,✓,✓,"UMLS             Nelson et al. (2017)            ,...",✓

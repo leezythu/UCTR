@@ -1,0 +1,7 @@
+Approach,Conditioning,n,FAC2,MB,NMB,MAE,FB,RMSE,NMSE
+Approach 1,Near-field,18,0.67,1.65,0.70,1.65,−0.52,1.81,0.35
+Approach 1,Far-field,10,0.50,1.63,0.69,1.63,−0.51,1.76,0.33
+Approach 2,Near-field,18,0.72,−0.92,−0.39,0.92,0.49,1.18,0.41
+Approach 2,Far-field,10,0.60,−1.24,−0.52,1.24,0.71,1.43,0.77
+Approach 3,Near-field,18,0.72,0.83,0.35,1.29,−0.30,1.49,0.30
+Approach 3,Far-field,10,0.90,0.47,0.20,0.90,−0.18,1.08,0.17

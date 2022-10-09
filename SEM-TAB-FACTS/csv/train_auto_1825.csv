@@ -1,0 +1,4 @@
+Datasets,# of RNAs,# of proteins,Positive samples,Negative samples,References
+RPI369,332,338,369,369,[13]
+RPI1807,1078,1807,1807,1807,[14]
+RPI488,25,247,243,245,[25]

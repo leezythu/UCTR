@@ -1,0 +1,17 @@
+Identification,Mole fraction of alanine (or xylene) in solution as prepared,12                        C/TIC of alanine (or xylene) within mass window
+alanine standard A1,1,0.89
+alanine solution A2,1,0.56
+3:1 alanine-to-amide,0.72,0.69
+1:1 alanine-to-amide,0.47,0.48
+1:3 alanine-to-amide,0.26,0.28
+alanine standard G1,1,0.92
+alanine solution G2,1,0.81
+3:1 alanine-to-glutamate,0.80,0.73
+11142017_xylene,0.61,0.31
+11142017_xylene + decane,0.61,0.19
+11152017_xylene,0.35,0.39
+11152017_xylene + decane,0.35,0.27
+01112018_xylene,0.35,0.38
+01112018_xylene + decane,0.35,0.28
+01112018_60 K_xylene,0.35,0.40
+01112018_60 K_xylene + decane,0.35,0.28

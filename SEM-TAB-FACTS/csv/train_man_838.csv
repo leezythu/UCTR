@@ -1,0 +1,13 @@
+"Method
+","Drug extracted
+Tissue","Drug extracted
+Luminal content","Drug extracted
+Delivery system","Drug release indicated by
+","Applicable for drugs that are not absorbed
+"
+i,X,,,Presence of drug,
+iia,X,X,X,Incomplete recovery,
+iib,X,X,,Presence of drug,X
+iiia,,X,X,Incomplete recovery,
+iiib,,X,,Presence of drug,X
+iv,,,X,Incomplete recovery,X

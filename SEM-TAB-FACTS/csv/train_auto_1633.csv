@@ -1,0 +1,14 @@
+Component,Ionization mode,Parent (                         m/z                        ),Daughter (                         m/z                        ),Cone (V),Collision (V)
+Phenacetin,ESI+,180.05,109.94,35,20
+4-acetamidophenol,ESI+,151.97,110.01,35,15
+Bupropion,ESI+,240.13,184.09,24,12
+Hydroxybupropion,ESI+,256.01,238.17,20,12
+Tolbutamide,ESI+,271.2,155.1,30,15
+Hydroxytolbutamide,ESI+,286.99,107.01,30,26
+Dextromethorphan,ESI+,272.19,147.01,45,30
+Dextrorphan,ESI+,258.09,157.09,50,36
+Midazolam,ESI+,326.02,290.99,50,28
+α-hydroxymidazolam,ESI+,342.03,324.02,40,22
+Chloraoxazone,ESI-,168.09,132.05,48,20
+6-hydroxychlorzoxazone,ESI-,184.08,120.08,36,20
+Diazepam,ESI+,285.1,193.1,35,30

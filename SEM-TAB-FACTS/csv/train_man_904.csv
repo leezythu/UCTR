@@ -1,0 +1,20 @@
+"Fuel
+Fuel","Pollutant species
+CO             2             t/TJ","Pollutant species
+CO            kg/TJ","Pollutant species
+CH             4             kg/TJ","Pollutant species
+NMVOC            kg/TJ","Pollutant species
+NO             X            (as NO             2            )            kg/TJ","Pollutant species
+NH             3             kg/t","Pollutant species
+PM             10             kg/t","Pollutant species
+PM             2.5             kg/t","Pollutant species
+BC            kg/t","Pollutant species
+OC            kg/t"
+Charcoal,92.8               a,4328               b,222               d,236               b,70               b,0.97               b,2.38               c,2.38               c,1.19               d,0.85               d
+Wood,101.7               a,4260               e,663               d,1763               b,73               e,0.87               a,8.3               e,6.64               a,0.83               a,2.89               a
+Vegetal wastes,100.0               f,5730               e,300               f,600               g,47               e,1.29               b,8.05               e,6.44               h,1.0               i,3.3               i
+Animal wastes,88.9               j,3392               j,383               j,2057               j,65.5               k,4.75               a,3.0               j,3.0               j,0.12               j,1.8               j
+Coal,94.6               f,2610               e,300               f,484               g,34               e,1.17               l,14.8               m,13.3               n,2.2               m,5.93               m
+Natural gas,56.1               f,26               g,5               f,1.9               g,5               g,0.01               o,0.061               g,0.061               g,0.0033               g,0.027               p
+LPG,63.1               f,26               g,5               f,1.9               g,51               g,0.01               q,0.32               j,0.31               n,0.01               j,0.06               j
+Kerosene,71.9               f,57               g,10               f,0.69               g,25               e,0.005               l,0.134               e,0.081               g,0.017               r,0.013               s

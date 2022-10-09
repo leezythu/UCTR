@@ -1,0 +1,6 @@
+,Peak Load,Hole Depth,Hole Diameter,Compressive Strength,Screw Diameter
+Peak load,1.00,,,,
+Hole depth,0.044 (>0.05),1.00,,,
+Hole diameter,0.108 (>0.05),−0.155 (>0.05),1.00,,
+Compressive strength,0.433 (<0.05),−0.442 (<0.05),0.569 (<0.05),1.00,
+Screw diameter,0.260 (<0.05),−0.122 (>0.05),0.926 (<0.05),0.567 (<0.05),1.00

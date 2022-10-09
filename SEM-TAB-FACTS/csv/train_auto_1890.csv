@@ -1,0 +1,30 @@
+PDB ID,6Q92,6Q9P,6QAF
+Ligand,ABH,ABH,CB-1158
+pH,7.0,9.0,9.0
+Data collection                            a,,,
+Beamline,ID30A-1 (ESRF),ID30A-1 (ESRF),ID30A-1 (ESRF)
+Wavelength (Å),0.966,0.966,0.966
+Space group,P 3,P 3,P 3
+Unit cell parameters,,,
+"a, b, c                        (Å)","90.4, 90.4, 69.3","90.0, 90.0, 69.1","90.1, 90.1, 69.1"
+"α, β, γ                        (°)","90, 90, 120","90, 90, 120","90, 90, 120"
+Resolution limits (Å)                           b,39.14 – 1.50 (1.53 – 1.50),44.99 – 1.66 (1.69 – 1.66),51.74 – 1.61 (1.64 – 1.61)
+Total reflections,"238,075 (9936)","174,685 (8764)","160,083 (8063)"
+Unique reflections,"99,464 (4790)","73,201 (3621)","79,090 (3888)"
+Mean                         I/σ(I),6.9 (1.8),6.0 (1.2),6.9 (1.1)
+Completeness (%),98.2 (96.4),98.9 (97.5),96.9 (96.0)
+R                          merge,0.097 (0.608),0.098 (0.736),0.058 (0.658)
+R                          pim,0.074 (0.508),0.077 (0.587),0.049 (0.561)
+CC                         1/2                            c,0.987 (0.293),0.971 (0.385),0.996 (0.368)
+Wilson B-factor (Å                         2                        ),12.2,21.6,20.7
+Refinement                            d,,,
+R                          work                        /                         R                          free                        (%),13.5/14.7,14.8/17.8,14.7/17.7
+No. of test reflections,4377 (4.3%),3816 (5.2%),4210 (5.2%)
+No. of atoms,5486,5184,5254
+Average B-factor (Å                         2                        ),17,25,25
+Ramachandran plot (%),,,
+Favored,96.7,96.9,96.8
+Allowed,3.0,2.6,2.8
+Outliers,0.3,0.5,0.3
+RMSD bond lengths (Å),0.007,0.011,0.009
+RMSD bond angles (°),1.306,1.524,1.357

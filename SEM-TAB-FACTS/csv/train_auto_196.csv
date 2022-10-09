@@ -1,0 +1,5 @@
+Device,Subjects (n),Mean Age (years),Average Operative Time (minutes),Perioperative Complication Rate (%),Postoperative Complication Rate (%),Average length of stay (days),
+Clip,1091,30.09,47.7,3.32,3.55,2.17,
+Endoloop,4894,30.05,54.8,2.52,4.61,2.65,
+Suture,117,29.50,68.2,6.57,7.83,1.84,
+Staple,4585,36.70,55.0,3.56,8.34,2.98,

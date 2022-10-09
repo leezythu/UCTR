@@ -1,0 +1,15 @@
+Case #,Sex,Age,Quetiapine concentration in femoral blood (mg/L),Other toxicological findings (mg/L except where noted otherwise),Post mortem interval,Cause of death
+1,F,29,7.7,"Ethanol 6.6                        mg/100                        mL (vitreous fluid), amphetamine 0.31, valproate 1.8, fluoxetine 2.5, norfluoxetine 2.5, levomepromazine 0.014, ibuprofen (+)",Uncertain,Mixed intoxication
+2,F,51,0.24,"Morphine 0.057, codeine 1.2, morphine-3-glucuronide 0.97, morphine-6-glucuronide 0.35, oxazepam 0.01, diazepam 0.06, desmethyldiazepam 0.15, paracetamol 89, venlafaxine 0.39, o-desmethylvenlafaxine 1.2, mirtazapine 0.32, pregabalin 0.021, zopiclone 1.9",Hours,Mixed intoxication
+3,F,55,0.012,"Ethanol 13                        mg/100                        mL, diazepam 0.010, desmethyldiazepam 0.017, 7-aminoclonazepam 0.040, paracetamol 10, tramadol 0.40, mirtazapine 0.082",Hours,Other cause of death
+4,M,26,18,Ethanol 8.8                        mg/100                        mL,2 days,Mixed intoxication
+5,M,36,10,"Methamphetamine 0.63, amphetamine 0.026, ethanol 16                        mg/100                        mL, lamotrigine 18",Uncertain,Mixed intoxication
+6,M,59,0.049,"Oxazepam 0.25, mianserin 0.16, desmethylmianserin 0.015, tramadol 0.34, zopiclone 0.028",Uncertain,Other cause of death
+7,M,60,0.016,"Oxazepam 0.012, paracetamol 48, metoprolol 0.27",Hours,Other cause of death
+8,M,77,0.032,"Morphine 0.043, morphine-3-glucuronide 0.24, morphine-6-glucuronide 0.06, midazolam 0.098, mirtazapine 0.19",Hours,Other cause of death
+9,M,64,0.012,,Hours,Other cause of death
+10,M,39,7.3,Olanzapine 0.0040,2 days,Mixed intoxication
+11,M,20,0.18,Olanzapine 2.2,Hours,Mixed intoxication
+12,M,57,0.15,"Citalopram 0.32, alimemazine 0.095, hydroxyzine 0.45, metformin (+), cetirizine (+)",Uncertain,Other cause of death
+13,F,48,0.088                         *,"Ethanol 2.3                        mg/100                        mL (vitreous), amphetamine 0.091, methamphetamine 1.2, diazepam 0.043 (spleen), desmethyldiazepam 0.009 (spleen)",5 days,Other cause of death
+14,M,32,**,"Ethanol 11                        mg/100                        mL, paracetamol (+)",Hours,Other cause of death

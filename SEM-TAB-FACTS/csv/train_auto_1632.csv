@@ -1,0 +1,7 @@
+CYP,Substrates,Metabolism,IC                         50                        (μM),Inhibition Model,Ki,αKi,α
+1A2,Phenacetin,O-deethylation,3.63,Mixed,1.73,11.61,0.15
+2B1,Bupropion,Hydroxylation,4.12,Competitive,1.9,–,–
+2C11,Tolbutamide,Hydroxylation,4.54,Competitive,3.33,–,–
+2D1,Dextromethorphan,O-demethylation,83.93,–,–,–,–
+2E1,Chloraoxazone,6-hydroxylation,12.46,Competitive,8.32,–,–
+3A2,Midazolam,1-hydroxylation,5.95,Mixed,3.58,13.03,0.27

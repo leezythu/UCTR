@@ -1,0 +1,9 @@
+,Panel A,Panel B,Panel C
+Stiffener Design Pressure [kPa],103.6,60.6,59.75
+Web Design Pressure [kPa],103.6,33.6,33.89
+Plate Thickness [mm],11,9,8.1
+H                         web                        ×  T                         web                        [mm],150  ×  9,160  ×  6.2,154.4  ×  6
+H                         flange                        ×  T                         flange                        [mm],90  ×  14,120  ×  9.8,101.8  ×  8.9
+Stiffener Spacing [mm],700,672,500
+Bottom Cross-Section Modulus [                         m                          3                        ],4.60,3.77,4.14
+Longitudinal Structure Weight [kg],"21,121","16,520","19,276"

@@ -1,0 +1,6 @@
+Sub-group (designation),Post-processing parameters
+As-processed (AP),L-PBF Ti6Al4V with a diamond unit cell of 1.5 mm.
+Hot isostatic pressing (HIP),Heated at 920 °C under 100 MPa pressure for 120 min in an argon atmosphere followed by furnace cooling at a rate of 10 °C/min.
+Sand blasting (SB),Sandblasting with abrasive Al                         2                        O                         3                        particles (50 μm) for 90 s with a nozzle pressure of 4.5 bar and a sample rotation speed of 20 RPM.
+Chemical etching (CE1),"Immersing in a solution made by mixing 50 mL H                         2                        O, 25 mL HNO                         3                        , and 5 mL HF for 120 s in an ultrasonic bath."
+Chemical etching (CE2),"Immersing in a solution made by mixing 50 mL H                         2                        O, 25 mL H                         2                        SO                         4                        , and 25 mL HCl for 60 min in an ultrasonic bath."

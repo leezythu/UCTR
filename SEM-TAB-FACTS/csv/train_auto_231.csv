@@ -1,0 +1,7 @@
+Parameter,Point-wise sensitivity loss,95% CI,p
+Mesopic FCP,,,
+Baseline (intercept),-1.67 dB,-2.22/-1.12,<0.001
+change/year,-0.35 dB,-0.43/-0.28,<0.001
+Scotopic FCP,,,
+Baseline (intercept),-2.34 dB,-2.85/-1.84,<0.001
+change/year,+0.20 dB,+0.12/+0.29,<0.001

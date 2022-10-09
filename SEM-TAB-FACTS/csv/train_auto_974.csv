@@ -1,0 +1,20 @@
+Item,Run I,Run II,Run III
+1. I learned a great deal from the lecturer,0.933,0.926,0.931
+2. I had strong desire to take this course delivered by the lecturer,0.916,0.911,0.897
+3. The lecturer taught in a certain manner to serve students,0.874,0.866,X
+4. The lecturer gave clear explanations,0.927,0.935,0.931
+5. The lecturer was enthusiastic,0.919,0.913,0.920
+6. The lecturer responded all students’ questions,0.939,0.933,0.933
+7. The lecturer treated students with respect,0.903,0.932,0.947
+8. The lecturer was willing to meet and help students outside of class,0.870,X,X
+9. The lecturer kept students informed of their progress,0.928,0.929,0.922
+10. The lecturer used class time well,0.913,0.900,0.896
+11. The lecturer seemed well prepared for each class,0.927,0.934,0.928
+12. Work requirements and grading system were clear from the beginning,0.905,0.947,0.938
+13. The amount of work required was appropriate for the credit received,0.925,0.913,0.891
+14. The lecturer set high standards for students,0.828,X,X
+15. The lecturer used a certain technique that motivated students’ participation in the class,0.883,0.872,0.910
+Number of Loading Factor,3,2,1
+Eigen Value 1,6.476,6.009,5.623
+Eigen Value 2,1.326,1.091,-
+Eigen Value 3,1.020,-,-

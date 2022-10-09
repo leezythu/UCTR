@@ -1,0 +1,21 @@
+"Method - 69
+","Base case                                 P                                    l                                  o                                  s                                  s                                     (                                k                                W                                )
+","1 PV-DG
+Bus No.","1 PV-DG
+P                                    l                                  o                                  s                                  s                                     (                                k                                W                                )","2 PV-DG
+Bus No.","2 PV-DG
+P                                    L                                  o                                  s                                  s                                     (                                k                                W                                )","Time (s)
+1 DG","Time (s)
+2 DG"
+"ELF (                         Hung et al., 2013                        )",219.28,61,81.33,61 and 17,70.30,7.75,15.53
+"ELF (                         Acharya et al., 2006                        )",219.28,61,81.33,–,–,–,–
+"LSF (                         Hung et al., 2013                        )",219.28,65,109.77,65 and 27,98.74,0.15,0.30
+"LSF (                         Acharya et al., 2006                        )",219.28,61,81.33,–,–,–,–
+"IA (                         Hung et al., 2013                        )",219.28,61,81.33,61 and 17,70.30,0.28,0.52
+"IA (                         Acharya et al., 2006                        )",219.28,61,81.44,–,–,–,–
+"GA (                         Pisica et al., 2009                        )",225,61,88.21,62 and 61,83.91,262.12,864.83
+"GA (                         Hassan et al., 2017                        )",224.6,61,83.18,0,0,85.097,–
+"LSF-ALOAA (                         Ali et al., 2016a                        )",224.94,61,81.776,17 and 61,70.750,–,–
+"ABC (                         Abu-Mouti and El-Hawary, 2011                        )",224.8,61,83.24,–,–,–,–
+"KHA (                         ChithraDevi et al., 2017                        )",220.534,61,81.6003,51 and 61,77.0354,11.2187,11.1014
+"IV-WOA (                         Reddy et al., 2017                        )",225.023,61,83.228,–,–,–,–

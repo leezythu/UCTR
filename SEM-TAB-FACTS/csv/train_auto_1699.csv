@@ -1,0 +1,16 @@
+"Mesh Model
+Mesh Model","Num. of Node
+Num. of Node","Num. of Elem.
+Num. of Elem.","Serial (/ms)
+Find Node","Serial (/ms)
+Find Elem.","Parallel (/ms)
+Find Node","Parallel (/ms)
+Find Elem.","Speedup
+Find Node","Speedup
+Find Elem."
+Armadillo,172 k,346 k,2527,1732,50.0,22.1,50.5,78.4
+Angel,237 k,474 k,3635,2580,66.7,29.4,54.5,87.8
+Hand,327 k,655 k,4806,3305,89.1,38.3,53.9,86.3
+Dragon,437 k,871 k,6543,4488,112.7,48.5,58.1,92.5
+Buddha,543 k,1088 k,8577,6072,138.5,60.6,61.9,100.2
+Blade,882 k,1765 k,"13,931","10,000",221.3,93.3,63.0,107.2

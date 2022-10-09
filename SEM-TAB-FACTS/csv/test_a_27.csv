@@ -1,0 +1,14 @@
+,parts,electricity,traffic,ec-sub,ec
+#              of time series,1046,370,963,39700,534884
+time granularity,month,hourly,hourly,week,week
+domain,N,R                      +,"[                  0                  ,                  1                  ]",N,N
+encoder length,8,168,168,52,52
+decoder length,8,24,24,52,52
+#              of training examples,35K,500K,500K,2M,2M
+item input embedding dimension,1046,370,963,5,5
+item output embedding dimension,1,20,20,20,20
+batch size,64,64,64,512,512
+learning rate,1e−3,1e−3,1e−3,5e−3,5e−3
+#              of LSTM layers,3,3,3,3,3
+#              of LSTM nodes,40,40,40,120,120
+running time,5 min,7h,3h,3h,10h

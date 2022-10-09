@@ -1,0 +1,23 @@
+"
+","Engineer
+(n = 14)","Physicist
+(n = 51)","Nurse
+(n = 231)","Physician
+(n = 32)","Other
+(n = 4)","Total
+(n = 332)"
+Booking,0%,4%,35%,9%,75%,27%
+Mould,0%,37%,28%,16%,25%,27%
+Imaging,0%,31%,26%,13%,25%,24%
+Simulation,0%,0%,5%,6%,0%,4%
+Contouring,0%,24%,21%,100%,0%,28%
+Treatment planning,7%,88%,25%,84%,0%,39%
+Patient QA,14%,86%,48%,3%,0%,48%
+Machine QA,50%,71%,48%,3%,0%,47%
+Maintenance,93%,14%,2%,0%,0%,7%
+Treatment,0%,82%,84%,88%,25%,80%
+Rounds,7%,67%,31%,69%,0%,39%
+Investigation,21%,59%,2%,47%,0%,16%
+Development,71%,94%,39%,69%,0%,52%
+Education,29%,71%,28%,69%,25%,39%
+Research,14%,33%,4%,53%,0%,14%

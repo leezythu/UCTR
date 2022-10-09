@@ -1,0 +1,10 @@
+"Prognostic factor
+","
+p-value","
+HR","95% CI
+Lower","95% CI
+Upper"
+Age,0.001,0.120,0.035,0.410
+Clinical T-stage,0.019,4.758,1.287,17.589
+Pathological grading,0.014,3.883,1.323,11.397
+Anterior commissure involvement,0.002,18.081,2.983,109.596

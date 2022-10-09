@@ -1,0 +1,9 @@
+No.,Layer type,Kernel size/Stride,Kernel number,Output Size
+1,Convolution1 (C1),3/1,32,38 × 32
+2,Convolution2 (C2),3/1,32,36 × 32
+3,Pooling1 (P1),2/2,32,18 × 32
+4,Convolution3 (C3),3/1,32,16 × 32
+5,Convolution4 (C4),3/1,32,14 × 32
+6,Pooling2 (P2),2/2,32,7 × 32
+7,Fully-connected (F2),256,1,100 × 1
+8,Softmax,4,1,4

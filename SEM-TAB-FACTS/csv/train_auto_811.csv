@@ -1,0 +1,16 @@
+No,Analyte,eLOD                           b                          (ng mL                         −1                        ),C                         val                            c                          (ng mL                         −1                        ),CCβ,Sensitivity                           d                          (%)
+1,AC-262536,0.02,1,<C                         val,100
+2,Andarine (S-4)                           a,0.05,2,<C                         val,100
+3,Bicalutamide                           a,0.006,1,<C                         val,100
+4,BMS-564929,0.19,5,<C                         val,100
+5,GLPG0492,0.12,1,≤C                         val,95
+6,LGD-2226,0.04,1,>C                         val,N/A
+7,LGD-4033,0.004,1,<C                         val,100
+8,Ly2452473,0.002,1,<C                         val,100
+9,Ostarine (S-22)                           a,0.005,1,≤C                         val,95
+10,PF-06260414,0.05,1,<C                         val,100
+11,RAD140,0.09,1,<C                         val,100
+12,S-1                           a,0.006,1,<C                         val,100
+13,S-6                           a,0.04,1,<C                         val,100
+14,S-9                           a,0.02,1,<C                         val,100
+15,S-23                           a,0.02,1,<C                         val,100

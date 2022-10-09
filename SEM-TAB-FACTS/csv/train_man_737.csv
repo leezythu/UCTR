@@ -1,0 +1,7 @@
+Vector name,Value range,Created by function,Used by function,Comment
+rbr,0 – r             b            *,Setup,Launch,"Launch position polar coordinate, radius in light beam"
+rba,0 – 2π,Setup,Launch,"Launch position polar coordinate, angle"
+rmv,0 – 1,Randomize,Move,Length of straight segment of trajectory
+rabs,0 – 1,Randomize,Absorb,Photon survival decision is made after interaction
+"rx1, rx2",−1 – +1,Randomize,Scatter,New direction coordinates after scattering
+rmu,0 – 1,Randomize,Scatter,Anisotropic scattering by Henyey-Greenstein function

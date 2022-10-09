@@ -1,0 +1,19 @@
+"
+Model","
+Num. par.","Absolute fit
+χ              2","Absolute fit
+RMSE","Absolute fit
+SRMR","Absolute fit
+MFI","Absolute fit
+CFI","Absolute fit
+G-hat","Relative fit
+χ              2              p","Relative fit
+RMSE","Relative fit
+SRMR","Relative fit
+MFI","Relative fit
+CFI","Relative fit
+G-hat"
+,(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),(13)
+Configural,120,4595.9,0.0815,0.0969,0.8640,0.8325,0.9495,,,,,,
+Threshold + Loading Inv,87,5204.7,0.0795,0.1003,0.8477,0.8427,0.9433,0.0000,−0.0020,0.0035,−0.0163,0.0102,−0.0062
+Thr. + Load. + Intercept Inv,60,"10,192.8",0.1057,0.1049,0.7194,0.6811,0.8931,0.0000,0.0241,0.0080,−0.1446,−0.1514,−0.0565

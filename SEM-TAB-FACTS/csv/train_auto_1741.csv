@@ -1,0 +1,13 @@
+Strain,Description,Aerobic lag phase (h),Aerobic specific growth rate (h                         −1                        ),Aerobic growth                           a,Anaerobic growth                           a,Anaerobic ethanol produced by parent (g l                         −1                        ),Anaerobic ethanol produced by                         ΔPdr12                        mutant (g l                         −1                        ),Ethanol produced                         ΔPdr12                        mutant compared to parent                           b
+CEN.PK113-7D,Haploid lab strain,16.8,0.10,+,0,27.6 ± 0.3,29.8 ± 2,0
+S288C,Haploid lab strain,n.a.,n.a.,0,−,28 ± 1,28.2 ± 04,0
+Ethanol Red,Diploid industrial strain,3.4,0.16,−,0,28.4 ± 1.1,30.7 ± 0.5,+
+DGI 342,Diploid industrial strain,5.1,0.21,0,0,29 ± 0.3,30.9 ± 1.1,+
+PE-2,Diploid industrial strain,21.8,0.04,0,+,33 ± 0.7,31.1 ± 2.1,0
+KE 6–12,Diploid industrial strain,8.4,0.13,−,+,33.1 ± 0.2,38.3 ± 1,+
+LBCM67,Wild type isolate,8.4,0.08,0,+,31.3 ± 2.4,28.3 ± 1.8,0
+LBCM97,Wild type isolate,6.8,0.13,+,0,29.5 ± 2,29.9 ± 1,0
+LBCM103,Wild type isolate,8.4,0.12,−,−,28.4 ± 0.9,28 ± 0.4,0
+LBCM109,Wild type isolate,10.1,0.11,0,+,27.3 ± 0,27.6 ± 0,+
+LBCM110,Wild type isolate,20.1,0.09,0,−,26.9 ± 0.6,26.9 ± 1,0
+LBCM126,Wild type isolate,10.1,0.07,−,+,26 ± 0,26.3 ± 0.1,+

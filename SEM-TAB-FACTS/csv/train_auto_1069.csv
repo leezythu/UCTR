@@ -1,0 +1,30 @@
+,HAZ (OLS coef.),,HAZ (OLS coef.),
+Average rainfall anomalies,−0.10***,(0.02),−0.11***,(0.02)
+Individual characteristics,,,,
+Sex (ref. = female),,,,
+male,,,−0.07***,(0.01)
+Twin (ref. = no),,,,
+yes,,,−0.39***,(0.06)
+Birth order,,,−0.06***,(0.01)
+Maternal characteristics,,,,
+Age at giving birth,,,0.02***,(0.002)
+Education (ref. = no),,,,
+primary,,,0.07***,(0.02)
+secondary,,,0.19***,(0.02)
+higher,,,0.37***,(0.02)
+Household characteristics,,,,
+Wealth (ref. = poorest),,,,
+poorer,,,0.14***,(0.02)
+middle,,,0.28***,(0.02)
+richer,,,0.43***,(0.02)
+richest,,,0.66***,(0.03)
+Number of under 5 children,,,−0.04***,(0.01)
+Household head (ref. = male),,,,
+female,,,−0.01,(0.02)
+Caste (ref. = other),,,,
+scheduled caste and tribe,,,−0.19***,(0.02)
+other backward class,,,−0.09***,(0.02)
+Residence (ref. = urban),,,,
+rural,,,0.05*,(0.02)
+Observations,"220,823",,"220,823",
+R                         2,0.11,,0.14,

@@ -1,0 +1,16 @@
+"
+Sample","Melting process
+T                                    m                                  1                                (°C)","Melting process
+Δ                            H                         1                        (J/g)","Melting process
+T                                    m                                  2                                (°C)","Melting process
+Δ                            H                         2                        (J/g)","Crystallization process
+T                                    s                                  1                                (°C)","Crystallization process
+Δ                            H                         1                        (J/g)","Crystallization process
+T                                    s                                  2                                (°C)","Crystallization process
+Δ                            H                         2                        (J/g)","
+Supercooling degree (°C)"
+SAT,58.1,298.6,58.2,269.3,−11.3,240.5,−5.3,230.2,63.5
+SAT-SPM-0.5 wt%,56.9,297.1,56.5,256.1,54.7,251.7,54.2,249.6,2.3
+SAT-SPM-1 wt%,55.8,292.3,55.1,267.2,54.9,261.3,54.9,260,0.2
+SAT-SPM-2 wt%,55.7,290.3,54.1,261.8,53.9,261.2,53.8,260.6,0.3
+SAT-SPM-3 wt%,55.6,288.4,54.5,261.6,54.35,262.1,53.8,259.5,0.7

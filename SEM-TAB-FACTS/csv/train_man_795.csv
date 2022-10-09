@@ -1,0 +1,22 @@
+"
+","Received CWS-interventions
+IHS            (n = 141)","Received CWS-interventions
+p-value","Received CWS-interventions
+FC            (n = 155)","Received CWS-interventions
+p-value"
+Ever used illicit drugs,,,,
+"- Unadjusted, OR (95% CI)","3.49 (2.40, 5.08)",<0.001,"2.14 (1.42, 3.22)",<0.001
+"- Partially adjusted, OR (95% CI)","3.44 (2.31, 5.11)",<0.001,"2.10 (1.36, 3.23)",0.001
+"- Fully adjusted, AOR (95% CI)","2.97 (1.70, 5.17)",<0.001,"1.75 (1.13, 2.72)",0.013
+Frequent alcohol intoxication,,,,
+"- Unadjusted, OR (95% CI)","1.80 (1.26, 2.59)",0.001,"0.95 (0.63, 2.59)",0.789
+"- Partially adjusted, OR (95% CI)","2.66 (1.80, 3.94)",<0.001,"1.38 (0.89, 2.13)",0.144
+"- Fully adjusted, AOR (95% CI)","1.97 (1.31, 2.95)",0.001,"1.12 (0.72, 1.75)",0.618
+Positive CRAFFT score,,,,
+"- Unadjusted, OR (95% CI)","2.69 (1.92, 3.78)",<0.001,"1.52 (1.06, 2.16)",0.023
+"- Partially adjusted, OR (95% CI)","2.52 (1.76, 3.60)",<0.001,"1.74 (1.20, 2.53)",0.004
+"- Fully adjusted, AOR (95% CI)","1.81 (1.24, 2.63)",0.014,"1.42 (0.96, 2.10)",0.076
+Alcohol consumption,,,,
+"- Unadjusted, mean difference (95% CI)","1.69 (1.17, 2.22)",<0.001,"0.39 (-0.13, 0.90)",0.141
+"- Partially adjusted, adj mean diff (95% CI)","2.00 (1.50, 2.52)",<0.001,"0.65 (0.13, 1.17)",0.015
+"- Fully adjusted, adj mean diff (95% CI)","1.49 (0.98, 2.01)",0.004,"0.41 (-0.09, 0.92)",0.111

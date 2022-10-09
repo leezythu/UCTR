@@ -1,0 +1,6 @@
+Label,Description
+A: B9 Baseline,"B9 algorithm, using ABSCO v5.0 (includes EOFs)"
+B: B9 No EOF,"B9 algorithm, using ABSCO v5.0 (no EOFs included in fits to OCO-2 spectra)"
+C: H             2            O continuum update,"As above, with update to H             2            O continuum only"
+D: O             2            and H             2            O updates,"As above, with updates to both H             2            O continuum and O             2            spectroscopy (ABSCO v5.1)"
+E: B9 with ABSCO v5.1 and EOFs,"As above, after re-calculation of EOFs and including these EOFs in the fits to OCO-2 spectra"

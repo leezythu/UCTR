@@ -1,0 +1,12 @@
+Studies [Ref],Year,Approach used for reasoning or diagnoses,Domain of Application,Accuracy (%)
+Proposed framework,2020,"CBR and NLP, and Semantic Web",Detection and diagnosis of COVID-19 (Novel Coronavirus),94.54
+Rahim et al. [                         44                        ],2019,Traditional CBR,Diagnosis of psychological disorders,–
+Zhong et al. [                         45                        ],2018,Text-CBR and ontology,Non-medical: Fault diagnosis and predication by cloud computing,–
+Zhang et al. [                         46                        ],2017,Traditional CBR,Non-medical: Theory of inventive problem solving for inventive design,–
+El-Sappagh et al. [                         42                        ],2015,"Fuzzy-CBR, and Ontologies",Diabetics,97.67
+Shen et al. [                         47                        ],2015,CBR with ontology approach,Diagnosis of gastric cancer,–
+Heras et al. [                         43                        ],2013,CBR with ontology approach,Non-medical: multi-agent systems,–
+Li and Ho [                         48                        ],2009,CBR and fuzzy logic,Non-medical: Prediction of financial activity,92.36
+Petrovic et al. [                         49                        ],2011,Traditional CBR,Radiotherapy planning,84.72
+Fan et al. [                         50                        ],2009,"CBR, Fuzzy decision tree",Medical data classification: breast cancer and liver disorders,98.40 and 81.60
+Begum et al. [                         51                        ],2009,CBR and fuzzy logic,Medical data for diagnosis of stress,90.00

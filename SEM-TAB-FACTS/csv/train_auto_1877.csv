@@ -1,0 +1,6 @@
+Plant extracts,Total phenol content (mg GAE/g AT),Total flavonoid content (mg QE/g AT),Total flavonol content (mg GAE/g AT)
+MEATL,40.19 ± 0.69,46.67 ± 0.23,118.91 ± 0.99
+NFATL,69.68 ± 0.67,53.69 ± 0.35,153.26 ± 0.75
+MEATS,13.69 ± 1.85,10.62 ± 0.55,26.00 ± 1.94
+NFATS,23.44 ± 1.04,12.85 ± 0.28,37.19 ± 1.19
+Regression equation,y = 0.0039x + 0.0406                        R                         2                        = 0.9981,y = 0.0102x - 0.0637                        R                         2                        = 0.9693,y = 0.0039x + 0.0406                        R                         2                        = 0.9981

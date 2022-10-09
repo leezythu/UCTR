@@ -1,0 +1,6 @@
+,Week 1,Week 2,Week 3,Week 4,Week 5
+Order 1,Peat,Straw,Silage,Control,Combo
+Order 2,Straw,Silage,Control,Combo,Peat
+Order 3,Silage,Control,Combo,Peat,Straw
+Order 4,Control,Combo,Peat,Straw,Silage
+Order 5,Combo,Peat,Straw,Silage,Control

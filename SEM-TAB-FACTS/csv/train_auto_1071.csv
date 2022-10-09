@@ -1,0 +1,10 @@
+Variable,Description,Range
+Health-specific knowledge,,
+HIV knowledge,Respondent has heard of HIV (yes = 1; no = 0),0–1
+Mosquito net use,Household has mosquito bed net for sleeping (yes = 1; no = 0),0–1
+Hygiene,Proper disposal of child’s stool (yes = 1; no = 0),0–1
+Health-care utilisation,,
+Antenatal care visits,Made at least 1 antenatal care visit during latest pregnancy (yes = 1; no = 0),0–1
+Delivery,Gave birth in a health facility under the supervision of a trained professional (yes = 1; no = 0),0–1
+Child vaccination,Child has received full vaccination (yes = 1; no = 0),0–1
+Female empowermen                        t,"Respondent participates in decision making concerning health-care, large household purchases and visits to friends and relatives and does not justify wife beating in any situation (yes = 1; no = 0)",0–1

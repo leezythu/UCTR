@@ -1,0 +1,22 @@
+"Subgroup
+Subgroup","Primary Sjögren's syndrome
+Event","Primary Sjögren's syndrome
+Total","Control Cohort
+Event","Control Cohort
+Total","Compared to the control cohort
+Adjusted HR (95% CI)                           a","Compared to the control cohort
+P-value","Compared to the control cohort
+P                         interaction"
+Sex,,,,,,,<0.001
+Female,870,15 836,2645,79 180,1.57 (1.45–1.70),<0.001,
+Male,138,1669,528,8345,1.10 (0.91–1.34),0.33,
+"Age, years",,,,,,,<0.001
+18-29,26,810,25,6050,7.73 (4.3–13.9),<0.001,
+30-39,64,2046,97,12 419,3.84 (2.75–5.35),<0.001,
+40-49,130,3941,324,22 740,2.07 (1.66–2.57),<0.001,
+50-59,236,5416,659,22 669,1.44 (1.23–1.68),<0.001,
+≥60,552,5292,2068,23 647,1.24 (1.13–1.37),<0.001,
+"Comorbid condition, n",,,,,,,<0.001
+0,487,12 111,1371,68 007,1.95 (1.74–2.16),<0.001,
+1-2,402,4595,1301,15 995,1.14 (1.02–1.28),0.02,
+≥3,119,799,501,3523,1.03 (0.84–1.27),0.78,

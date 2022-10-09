@@ -1,0 +1,28 @@
+"Temperature (°C)
+Temperature (°C)
+Temperature (°C)","Effective yield strength (N/mm                         2                        )
+f                                  0.2                                  ,                                  θ
+f                                  0.2                                  ,                                  θ","Effective yield strength (N/mm                         2                        )
+f                                  0.5                                  ,                                  θ
+f                                  0.5                                  ,                                  θ","Effective yield strength (N/mm                         2                        )
+f                                  1.5                                  ,                                  θ
+f                                  1.5                                  ,                                  θ","Effective yield strength (N/mm                         2                        )
+f                                  2                                  ,                                  θ
+f                                  2                                  ,                                  θ","Modulus of elasticity (N/mm                         2                        ) × 10                         3
+Average of series 1, 2 and 3
+E                                  L                                  ,                                  θ","Modulus of elasticity (N/mm                         2                        ) × 10                         3
+Using series 3
+E                                  L                                  ,                                  s                                  3                                  ,                                  θ","Modulus of elasticity (N/mm                         2                        ) × 10                         3
+Using series 3
+E                                  HL                                  ,                                  θ","Modulus of elasticity (N/mm                         2                        ) × 10                         3
+Using series 3
+E                                  H                                  ,                                  θ","Proportional limit (N/mm                         2                        )
+f                                  p                                  ,                                  θ
+f                                  p                                  ,                                  θ"
+20,764,759,781,785,216,216,214,200,530
+200,691,690,712,720,223,216,216,200,456
+400,576,578,603,606,208,202,203,187,366
+500,415,415,433,435,135,127,158,144,294
+600,247,250,261,257,109,112,151,133,138
+700,145,148,141,137,89,73,110,80,83
+800,63,65,62,63,46,62,50,60,46

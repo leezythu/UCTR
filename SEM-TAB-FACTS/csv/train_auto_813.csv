@@ -1,0 +1,47 @@
+Outcome,Source,Cases,Controls,Sample size,Population
+Inflammatory disease,,,,,
+Rheumatoid arthritis,GARNET consortium,29 880,73 758,103 638,Mix
+Inflammatory bowel disease,UK IBD consortium,25 042                         *,34 915,59 957,European
+Cardiovascular disease,,,,,
+Cerebrovascular disease,,,,,
+Overall stroke,MEGASTROKE consortium,67 162,454 450,521 612,Mix
+Overall stroke,UKBB,9652,357 991,367 643,European
+Any ischaemic stroke,MEGASTROKE consortium,60 341,NA,NA,Mix
+Any ischaemic stroke,UKBB,3554,364 089,367 643,European
+Large artery stroke,MEGASTROKE consortium,6688,146 392,153 080,Mix
+Small vessel stroke,MEGASTROKE consortium,11 710,192 662,204 372,Mix
+Cardioembolic stroke,MEGASTROKE consortium,9006,204 570,213 576,Mix
+Intracerebral haemorrhage,UKBB,1064,366 579,367 643,European
+Subarachnoid haemorrhage,UKBB,1084,366 559,367 643,European
+Heart and valvular disease,,,,,
+Coronary artery disease,CARDIoGRAMplusC4D consortium,60 801,123 504,184 305,Mix
+Coronary artery disease,UKBB,24 531,343 112,367 643,European
+Heart failure,UKBB,7382,387 652,395 034,European
+Atrial fibrillation,AFGen,65 446,522 000,587 446,Mix
+Atrial fibrillation,UKBB,16 945,350 698,367 643,European
+Abdominal aortic aneurysm,UKBB,1094,366 549,367 643,European
+Aortic valve stenosis,UKBB,2244,365 399,367 643,European
+Vessel disease,,,,,
+Peripheral artery disease,UKBB,3415,364 228,367 643,European
+Venous thromboembolism,UKBB,15 602,352 041,367 643,European
+Cancer,,,,,
+Bladder cancer,UKBB,2588,365 055,367 643,European
+Breast cancer,BCAC,122 977,105 974,228 951,Mix
+Breast cancer ER-,BCAC,21 468,NA,NA,Mix
+Breast cancer ER+,BCAC,69 501,NA,NA,Mix
+Breast cancer,UKBB,13 666,353 977,198 838,European
+Cervical cancer,UKBB,1928,365 715,198 838,European
+Colorectal cancer,UKBB,5486,362 157,367 643,European
+Endometrial cancer,UKBB,1520,366 123,198 838,European
+Head-neck cancer,UKBB,1615,366 028,367 643,European
+Kidney cancer,UKBB,1310,366 333,367 643,European
+Leukaemia,UKBB,1403,366 240,367 643,European
+Lung cancer,ILCCO,11 348,"15,861",27 209,European
+Melanoma,UKBB,4869,362 774,367 643,European
+Non-Hodgkin's lymphoma,UKBB,2296,365 347,367 643,European
+Ovarian cancer,UKBB,1520,366 123,198 838,European
+Ovarian cancer,OCAC,22 406,40 941,63 347,Mix
+Overall cancer,UKBB,75 037,292 606,367 643,European
+Pancreatic cancer,UKBB,1264,366 379,367 643,European
+Prostate cancer,PRACTICAL,79 194,61 112,140 306,European
+Prostate cancer,UKBB,7872,359 771,168 748,European

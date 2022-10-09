@@ -1,0 +1,79 @@
+Variables,Home-based business,Non-home-based business
+Sales from e-commerce,,
+None,0.66,0.72
+Less than half,0.14,0.21
+About half,0.06,0.02
+More than half,0.10,0.05
+All,0.04,(-)
+,(n=387),(n=607)
+Business location,,
+City,0.18,0.29
+Town,0.29,0.44
+Village/rural,0.53,0.27
+,(n=383),(n=606)
+Location of majority of sales/customers,,
+Local,0.22,0.36
+Region/Scotland,0.36,0.42
+UK,0.29,0.17
+International,0.12,0.06
+,(n=385),(n=605)
+Industry (SIC07),,
+"Agriculture, forestry, fishing (A)",0.05,0.02
+"Manufacturing, energy, water (C–E)",0.06,0.13
+Construction (F),0.12,0.12
+Wholesale and retail (G),0.06,0.30
+Transportation (H),0.02,0.02
+Accommodation and food (I),0.23,0.13
+Information and Communication (J),0.05,0.02
+"Finance, insurance, real estate (K, L)",0.03,0.04
+"Professional, scientific, technical (M)",0.13,0.06
+Education (P),0.04,0.02
+Health and Social (Q),0.03,0.04
+"Arts, entertainment (R)",0.09,0.05
+Other services (S),0.07,0.04
+Other,0.02,0.01
+,(n=387),(n=606)
+Business is part-time,0.17,0.07
+,(n=386),(n=606)
+Employed people in business,,
+Owner only,0.35,0.15
+2–3 (incl. owner),0.38,0.21
+4–9 (incl. owner),0.18,0.39
+10+ (incl. owner),0.08,0.24
+,(n=387),(n=607)
+Turnover in last year,,
+"Less than £25,000",0.27,0.09
+"£25,000 - £50,000",0.19,0.08
+"£50,001 - £100,000",0.27,0.16
+"£100,001 - £250,000",0.18,0.22
+"£250,001 - £500,000",0.07,0.19
+"£500,001+",0.02,0.26
+,(n=373),(n=595)
+Years of trading,,
+0–<2,0.09,0.05
+2–<5,0.15,0.14
+5–<10,0.22,0.17
+10–<15,0.20,0.18
+15–24,0.21,0.20
+25+,0.13,0.25
+,(n=382),(n=592)
+Type of customers,,
+Other businesses,0.41,0.35
+Individuals,0.51,0.56
+Other,0.09,0.10
+,(n=386),(n=603)
+Women owners,0.33,0.33
+,(n=383),(n=605)
+Age of owner,,
+<=40,0.08,0.11
+41–54,0.39,0.45
+55–64,0.37,0.29
+65+,0.16,0.15
+,(n=383),(n=606)
+Owner has disability/long-term health condition,0.14,0.13
+,(n=384),(n=605)
+Number of children in household,,
+0,0.74,0.69
+1 child,0.11,0.13
+2 and more children,0.15,0.18
+,(n=387),(n=607)

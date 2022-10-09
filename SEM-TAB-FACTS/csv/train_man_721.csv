@@ -1,0 +1,12 @@
+Graphics processing units (GPU),4× Tesla V100
+TFLOPS               2              (mixed precision),500
+GPU memory,128 GB total system
+NVIDIA tensor cores,"2,560"
+NVIDIA CUDA               3              cores,"20,480"
+Central processing unit,Intel Xeon E5–2698 v4 2.2 GHz (20-Core)
+System memory,256 GB RDIMM DDR4
+Storage,Data: 3X 1.92 TB SSD RAID 0 OS: 1X 1.92 TB SSD
+Network,Dual 10GBASE-T (RJ45)
+Maximum power requirements,"1,500 W"
+Operating system,Ubuntu Desktop Linux OS
+Software,DGX Recommended GPU Driver CUDA Toolkit Docker Python 3.5 Pytorch (GPU) Previously developed SRUC-EGENES Deep Learning pipelines               4

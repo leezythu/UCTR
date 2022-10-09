@@ -1,0 +1,11 @@
+,Hexachloroiridate,Hexacyanoferrate
+Reaction,IrCl             6              3−            ⇌ IrCl             6              2−            + e             −,Fe(CN)             6              4−            ⇌ Fe(CN)             6              3−            + e             −
+Redox potential,+0.8665 V             /SHE            [             4            ],+0.358 V             /SHE            [             4            ]
+Reduction plateau (Pt),+0.75 V             /SHE            to −0.25 V             /SHE,+0.2 V             /SHE            to −0.6 V             /SHE
+Oxidation plateau (Pt),+0.95 V             /SHE            to +1.1 V             /SHE,+0.5 V             /SHE            to +1.1 V             /SHE
+Diffusion coefficient,8.38 * 10             −10            m             2            /s,6.09 * 10             −10            m             2            /s
+Solution pH,pH < 5,Avoid strong acids
+Stability in solution:,A few days to weeks [             18            ],Refresh daily [             12            ]
+Stability during reduction (RDE),39.2% loss after 16 h,19.5% loss after 16 h
+Loss of concentration due to:,Spontaneous reduction            Hydroxide formation,Electrode poisoning            Photosensitivity
+UV-VIS Extinction coefficient,4.06 mM             −1            cm             −1            at 488 nm,1.064 mM             −1            cm             −1            at 420 nm

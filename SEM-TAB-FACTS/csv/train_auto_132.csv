@@ -1,0 +1,4 @@
+Groups,Cut-off points of the groups (average SE report scores),Reported SEs,Average of SE report score,StdDev of SE report score
+Low (n = 20),"24.0, 64.9",188,572,185
+Middle (n = 40),"64.9, 76.5",355,715,155
+High (n = 20),"76.5, 89.8",188,808,107

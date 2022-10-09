@@ -1,0 +1,11 @@
+No.,Application,Technologies/algorithms used,Results,Reference
+1.,Pesticide Spraying,"Wireless Sensor Networks, Gyroscope and Accelerometer sensors",N/A,Garre and Harish (2018)
+2.,"Crop Monitoring, Mapping, and Spraying",DJI Phantom 3 Advanced UAV and other softwares,UAVs could be used in order to detect abnormalities and identify potential problems.,Psirofonia et al. (2017)
+3.,Crop Monitoring,Multispectral sensor,"Linear regressions between NDVI and plant nitrogen, aerial biomass, etc. were significant. This has the potential to provide insight to good management practices and techniques.",Vega et al. (2015)
+4.,Pesticide Spraying,Spray motor,Worked satisfactorily when tested on groundnuts and paddy crops,Yallappa et al. (2017)
+5.,Remote Sensing,Multispectral camera,The UAV remote sensing system was tested on a turf grass field and was capable of monitoring the temporal changes in the field.,Xiang and Tian (2011)
+6.,Remote Sensing,"Spectral Spatial classification, Bayesian information criterion (BIC)","Manual Tomato detection is difficult so using this technology, the areas could be classified into tomato and non tomato regions. Detection was carried out successfully on two representative images.",Senthilnath et al. (2016)
+7.,Crop Monitoring,Hyperspectral Frame Camera,Camera flight campaign successfully delivered the hyperspectral data. This enables the monitoring of the leaf nitrogen concentration in rice.,Zheng et al. (2016)
+8.,Crop Monitoring,Camera and Softwares,"Accurate way to monitor various aspects of the farm like creating digital map of field, detecting problems with crop health, etc.","Reinecke and Prinsloo (2017a, 2017b)"
+9.,Precision Agriculture Monitoring,–,Provides an approach for the segregation of sparse and dense areas within a sugarcane field.            It makes use of satellite data. Accuracy was 87% for testing.,Murugan et al. (2017)
+10.,Spraying Fertilizers and Pesticides,"Accelerometer and Gyroscope Sensors, Arduino",It has the ability to reduce time and human effort.,Pharne et al. (2018)

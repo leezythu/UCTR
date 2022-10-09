@@ -1,0 +1,20 @@
+"Compound
+Compound","Yeast estrogen bioassay (REA)
+Agonist","Yeast estrogen bioassay (REA)
+EC                         50                        E2 antagonist","Yeast estrogen bioassay (REA)
+EC                         max                        E2 antagonist","Yeast estrogen bioassay (REA)
+Comment","Yeast androgen bioassay (RAA)
+Agonist","Yeast androgen bioassay (RAA)
+EC                         50                        T antagonist","Yeast androgen bioassay (RAA)
+EC                         max                        T antagonist","Yeast androgen bioassay (RAA)
+Comment","DR CALUX bioassay
+Agonist","DR CALUX bioassay
+Comment"
+17β-Estradiol,+,NA,NA,Strong agonist,NA,NA,NA,,NA,
+17β-Testosterone,NA,NA,NA,,+,NA,NA,Strong agonist,NA,
+"2,3,7,8-TCDD",NA,NA,NA,,NA,NA,NA,,+,Strong agonist
+Indole-3-carbinol,–,+,+,Weak antagonist,–,+,+,Weak antagonist,–,
+Diindolylmethane (DIM),+,+,+,Agonist < EC                         50                        ;                        Antagonist ≥ EC                         50,–,+,+,Complete antagonist at both EC                         50                        & max,–,
+"Indolo[3,2-b] carbazole (ICZ)",–,–,–,,–,–,–,,+,Strong agonist
+RXM,+,–,–,Weak agonistic,–,+,–,Strong antagonistic,+,Strong agonistic
+Fractions (1–9),"+ (2, 6)",NT,–,"Fractions 2 & 6 weak agonistic, other fractions inactive",–,NT,"+ (2, 6)",Fraction 2 (strong) & 6 (weak) antagonistic at T ECmax,"+ (4, 6, 8, 9)","Fractions 4, 6, 8 & 9 strong agonistic activity, other fractions weak"

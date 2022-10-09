@@ -1,0 +1,13 @@
+Target                        Gene,Sequences (5′ – 3′),Product                        size                        (bp),Annealing                        temperature                        °C,References
+16S rRNA                         for                         Campylobacter                        spp.,F - ATCTAATGGCTTAACCATTAAAC                        R - GGACGGTAACTAGTTTAGTATT,857,58,Wieczorek and Osek (2005)
+mapA                         for                         C. jejuni,F - CTATTTTATTTTTGAGTGCTTGTG                        R - GCTTTATTTGCCATTTGTTTTATTA,589,58,Wieczorek and Osek (2005)
+ceuE                         for                         C. coli,F - AATTGAAAATTGCTCCAACTATG                        R - TGATTTTATTATTTGTAGCAGCG,462,58,Wieczorek and Osek (2005)
+flaA,F - AATAAAAATGCTGATAAAACAGGTG                        R - TACCGAACCAATGTCTGCTCTGATT,855,53,Datta et al. (2003)
+cadF,F - TTGAAGGTAATTTAGATATG                        R - CTAATACCTAAAGTTGAAAC,400,45,Konkel et al. (1999)
+virB11,F - TCTTGTGAGTTGCCTTACCCCTTTT                        R - CCTGCGTGTCCTGTGTTATTTACCC,494,53,Datta et al. (2003)
+iam,F - GCGCAAAATATTATCACCC                        R - TTCACGACTACTATGCGG,518,52,Carvalho et al. (2001)
+racR,F - GATGATCCTGACTTTG                        R - TCTCCTATTTTTACCC,584,45,Datta et al. (2003)
+pldA,F - AAGCTTATGCGTTTTT                        R - TATAAGGCTTTCTCCA,913,45,Datta et al. (2003)
+cdtA,F - CCTTGTGATGCAAGCAATC                        R - ACACTCCATTTGCTTTCTG,370,49,Datta et al. (2003)
+cdtB,F - CAGAAAGCAAATGGAGTGTT                        R - AGCTAAAAGCGGTGGAGTAT,620,51,Datta et al. (2003)
+cdtC,F - CGATGAGTTAAAACAAAAAGATA                        R - TTGGCATTATAGAAAATACAGTT,182,47,Datta et al. (2003)

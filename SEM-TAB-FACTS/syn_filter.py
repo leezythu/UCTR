@@ -1,4 +1,3 @@
-#把产生的syn再过滤一下
 import json,csv
 input_folder = "syn"
 src_f = open("gpt_base/"+input_folder+"/results/wiki_tems/wiki_tems_text.res.txt")

@@ -1,0 +1,16 @@
+Parameter,Estimates                         (as z-score),95% CI,p,Estimates                         (as thickness deviation)
+FRET thickness,,,,
+Baseline (intercept),0.07 SD,-0.14 – 0.27,0.519,1.83 μm
+Follow-up time,0.01 SD/year,-0.02 – 0.03,0.565,0.21 μm/year
+IRET thickness,,,,
+Baseline (intercept),-0.06 SD,-0.23 – 0.12,0.525,-1.43 μm
+Follow-up time,0.00 SD/year,-0.02 – 0.02,0.974,0.01 μm/year
+ONL thickness,,,,
+Baseline (intercept),-0.49 SD,-0.70 – -0.28,<0.001,-4.94 μm
+Follow-up time,-0.03 SD/year,-0.07 – 0.00,0.045,-0.32 μm/year
+IS+OS thickness,,,,
+Baseline (intercept),0.10 SD,-0.14 – 0.33,0.417,0.21 μm
+Follow-up time,-0.34 SD/year,-0.40 – -0.27,<0.001,-0.76 μm/year
+RPEDC thickness,,,,
+Baseline (intercept),3.22 SD,2.27 – 4.17,<0.001,7.93 μm
+Follow-up time,0.51 SD/year,0.28 – 0.74,<0.001,1.23 μm/year

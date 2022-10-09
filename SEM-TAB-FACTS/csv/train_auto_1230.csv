@@ -1,0 +1,10 @@
+"
+","MALS
+r                         h,mode","ICP-MS
+r                         h,mode1","ICP-MS
+r                         h,mode2","Mass-based PSD
+d                         10","Mass-based PSD
+d                         50","Mass-based PSD
+d                         90"
+u                            c                          (%),12.7,8.6,9.4,10.4,35.8,52.2
+U                        (%),25.3,17.1,18.7,20.8,71.5,104.5

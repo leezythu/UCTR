@@ -1,0 +1,21 @@
+,Method,E10(A),E10(B),Gasoline
+Research octane number,GB/T 5487–2015,95.5,95.5,93.0
+Motor octane number,GB/T 503–2016,83.5,83.3,82.5
+Anti-knock index,Calculated,89.5,89.2,87.8
+"Density at 20 °C, g/cm                                3",ASTM D4052–2015,0.754,0.755,0.744
+"Lower heating value, MJ/kg",Calculated,41.62,41.42,44.00
+"10% evaporated at, °C",GB/T 6536–2010,47.9,47.2,51.6
+"50% evaporated at, °C",GB/T 6536–2010,68.8,67.2,95.4
+"90% evaporated at, °C",GB/T 6536–2010,159.4,157.7,157.5
+"Final boiling point, °C",GB/T 6536–2010,187.7,187.9,187.2
+"Residue, %(v/v)",GB/T 6536–2010,1.0,1.0,1.0
+"Vapor pressure, kPa",ASTM D5191–12,73.6,73.6,63.0
+"Ethanol, %(v/v)",SH/T 0663–2014,9.92,10.77,<                          0.01
+"Benzene, %(v/v)",ASTM D6839–15,0.25,0.26,0.27
+"Paraffins, %(v/v)",ASTM D6839–15,43.8,43.6,44.6
+"Aromatics, %(v/v)",ASTM D6839–15,15.8,15.6,22.5
+"Naphthene, %(v/v)",ASTM D6839–15,6.6,6.5,7.0
+"Olefins, %(v/v)",ASTM D6839–15,24.6,24.2,25.8
+"Manganese, g/L",SH/T 0711–2002,0.011,0.011,0.0117
+"Iron, g/L",SH/T 0712–2002,<                          0.002,<                          0.002,<                          0.002
+"Lead, g/L",GB/T 8020–2015,<                          0.0025,<                          0.0025,<                          0.0025

@@ -1,0 +1,4 @@
+Geometry,Test setup,n,Cross-head speed [mm/min],Fracture force [N],Dissipated energy [J]
+Entire endocarp,Longitudinal,10,5,3487 (IQR: 1123),6.74 (IQR: 3.28)
+Arch-shaped samples,"Quasi-static, equatorial, constrained",19,1,275 (IQR: 134),0.38 (IQR: 0.20)
+Rectangular samples,"Normal, natural",10,1,4201 (IQR: 746),2.65 (IQR: 0.52)

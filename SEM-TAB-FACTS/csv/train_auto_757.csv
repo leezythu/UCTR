@@ -1,0 +1,15 @@
+Sl. No.,Location,Gender,Firm Size (No. of employees),Industry,Experience,Interview Length (in minutes)
+1,France,Male,>1000,Large Vehicle Manufacturing,12,38
+2,France,Male,100–500,Dairy,15,40
+3,France,Male,500–1000,Electrical Products,22,48
+4,France,Male,0–100,Supply Chain Consulting,18,44
+5,France,Male,0–100,Supply Chain Consulting,16,60
+6,France,Female,>1000,Heating and Ventilation,19,45
+7,France,Male,>1000,Passenger Auto,21,44
+8,France,Male,0–100,Food Products,24,42
+9,France,Male,>1000,Medical Products,18,44
+10,France,Male,>1000,Product Packaging,18,42
+11,India,Male,>1000,Retail,14,52
+12,India,Male,>1000,Electrical Products,13,50
+13,India,Female,500–1000,Electrical Products,10,49
+14,India,Female,>1000,Auto Manufacturing,11,65

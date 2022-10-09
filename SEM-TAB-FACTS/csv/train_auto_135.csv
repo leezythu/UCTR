@@ -1,0 +1,4 @@
+Method,Mean,Standard deviation,14 day risk,99                              %                            confidence date,Sample size
+Standard Intervals,4.84,2.79,0.0081,14,162
+Wide Intervals,4.21,2.56,0.0041,13,162
+Narrow Intervals,5.55,2.86,0.0112,15,162

@@ -1,0 +1,14 @@
+,Inhibitor,"a                            ,                            b                          AspH inhibition at 20 μM [%]",b                          IC                         50                        [μM],Reported biochemical target
+1,"Pyridine-2,4-dicarboxylic acid (2,4-PDCA)",100.0 ± 0.6                           c,0.02 ± 0.01                           d,–
+2,(                         R                        )-Gossypol (AT-101),101.2 ± 2.3,0.25 ± 0.01,Broad-spectrum inhibitor of anti-apoptotic Bcl-2 proteins                           37-39
+3,"Bleomycin A                         2                            e                            ,                            f",97.5 ± 1.3,1.47 ± 0.42                           g,Antitumor antibiotic promoting DNA-degradation                           40–42
+4,Venetoclax (ABT-199)                           f,97.2 ± 0.2,1.40 ± 0.14                           g,"Selective inhibitor of the anti-apoptotic protein Bcl-2                           43,44"
+5,Belinostat (PXD101)                           f,97.1 ± 0.2,7.49 ± 1.26                           g,Broad-spectrum HDAC inhibitor                           45
+6,Midostaurin (PKC412)                           f,91.7 ± 0.9,9.43 ± 3.07,"Inhibitor of activating mutations of the FMS-like tyrosine kinase-3 (FLT3)                           46,47"
+7,Tubacin,90.3 ± 3.5,4.12 ± 0.50,Selective inhibitor of HDAC6                           48
+8,Navitoclax (ABT-263),90.1 ± 0.1,1.03 ± 0.12,"Inhibitor of anti-apoptotic proteins Bcl-2, Bcl-X                         L                        , and Bcl-w                           49"
+9,Mithramycin A                           h,86.9 ± 2.1,9.50 ± 0.28                           g,Antitumor antibiotic inhibiting gene transcription                           50
+10,Plicamycin                           h,85.4 ± 3.9,–,–
+11,"Obatoclax (GX15-070)                           f                            ,                            i",82.0 ± 0.6,13.2 ± 3.1,"Broad-spectrum inhibitor of anti-apoptotic Bcl-2 proteins                           51,52"
+12,Vemurafenib (PLX4032)                           f,81.1 ± 0.5,12.9 ± 1.6                           g,"Selective inhibitor of mutant (V600E) BRAF kinase                           53,54"
+13,ABT-737,–,3.38 ± 0.34,"Inhibitor of anti-apoptotic proteins Bcl-2, Bcl-X                         L                        , and Bcl-w                           55"

@@ -1,0 +1,16 @@
+"Stock
+Code","Stock price
+Min","Stock price
+Max","Stock returns
+Mean","Stock returns
+Median","Stock returns
+Std.Dev","Stock returns
+MAD","Stock returns
+Skewness","Stock returns
+Kurtosis"
+S1,3500,8375,0.046,0.00,0.022,0.019,0.066,3.311
+S2,5050,9250,−0.013,0.00,0.021,0.017,0.069,5.226
+S3,3450,9950,0.001,0.00,0.020,0.017,0.216,5.331
+S4,3175,8250,0.008,0.00,0.019,0.015,0.102,5.769
+S5,3100,7500,0.073,0.00,0.019,0.013,0.196,4.185
+S6,4680,9200,0.019,0.00,0.021,0.014,0.102,5.049

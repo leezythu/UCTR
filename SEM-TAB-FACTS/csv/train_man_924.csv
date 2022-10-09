@@ -1,0 +1,10 @@
+Class,Implements,s/p,Recursive
+Richardson,Richardson (multiplicate with a scalar),s,No
+SeqJac,Jacobi method,s,Yes
+SeqSOR,Successive overrelaxation (SOR),s,Yes
+SeqSSOR,Symmetric SOR,s,Yes
+SeqOverlappingSchwarz,Overlapping Schwarz for arbitrary subdomains,s,No
+SeqILU,Incomplete LU decomposition,s,No
+SeqILDL,Incomplete LDL decomposition,s,No
+Pamg::AMG,Algebraic multigrid solver based on aggregation,s/p,No
+BlockPreconditioner,Wraps sequential preconditioner to parallel hybrid one,p,No

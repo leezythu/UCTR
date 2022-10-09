@@ -1,0 +1,10 @@
+Land cover,Train,Test,Description
+Forest,195,108,Deciduous broadleaf forest
+Grassland,213,112,Herbaceous vegetation (> 50 % cover)
+Shrubland,180,73,Open and closed shrublands
+Barren\Fallow,186,80,Exposed surface soil or harvested area
+Road,123,51,Road with impervious surface
+Shadow,184,89,Tree shadow
+Wetland-clear,220,156,Wetland with freshwater
+Wetland-algae,169,121,Wetland with algae dominance
+Total,1470,790,–

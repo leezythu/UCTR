@@ -1,0 +1,18 @@
+Compound,Acronym,MW                           a                          (g mol                         −1                        ),"VP                           b                            ,                            c                          (mTorr)","log k                         ow                            b                            ,                            d",Ret. time (min),MS/MS transitions(identification),MS/MS transitions(quantification),CE (eV)
+Pyridine,PYR,79.04,19.3 × 10                         3,0.65,5.89,52 → 39,79 → 52,30
+,,,,,,79 → 52,,
+"2,3-Dimethylpyrazine",23MPRZ,108.07,2.74 × 10                         3,0.54,6.41,40 → 39,108 → 93,25
+,,,,,,67 → 52,,
+,,,,,,108 → 93,,
+4-Chlorobenzyl alcohol,4BZOH,142.02,0.268,0.82,14.13,77 → 75,142 → 125,20
+,,,,,,107 → 90,,
+,,,,,,142 → 125,,
+"2,6-Dichlorobenzyl alcohol",26BZOH,175.98,0.254,1.07,14.82,113 → 77,113 → 77,20
+,,,,,,141 → 123,,
+,,,,,,176 → 159,,
+4-Methoxybenzyl alcohol,4METBZOH,138.07,0.082,0.71,16.47,109 → 95,138 → 107,25
+,,,,,,121 → 90,,
+,,,,,,138 → 107,,
+"3,4-Dimethoxybenzyl alcohol",34METBZOH,168.08,0.0696,0.62,17.27,139 → 95,168 → 137,25
+,,,,,,151 → 120,,
+,,,,,,168 → 137,,

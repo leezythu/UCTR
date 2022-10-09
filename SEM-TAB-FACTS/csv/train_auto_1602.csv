@@ -1,0 +1,32 @@
+"Structural attribute:
+Structural attribute:
+Model name","A Abundance
+Poisson mixed model (log link)
+Null model","A Abundance
+Poisson mixed model (log link)
+Full model","B                                 q                                = 0
+Poisson mixed model (log link)
+Null model","B                                 q                                = 0
+Poisson mixed model (log link)
+Full model","C log                                 e                                (                                 q                                = 1)
+Gaussian mixed model
+Null model","C log                                 e                                (                                 q                                = 1)
+Gaussian mixed model
+Full model","D log                                 e                                (                                 q                                = 2)
+Gaussian mixed model
+Null model","D log                                 e                                (                                 q                                = 2)
+Gaussian mixed model
+Full model","E SingScore
+Gaussian mixed model
+Null model","E SingScore
+Gaussian mixed model
+Full model"
+Fixed effects,b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI],b                                [95 % CI]
+Intercept,"3.76 [3.12, 4.41]","3.75 [3.13, 4.38]","1.70 [1.50, 1.91]","1.70 [1.55, 1.84]","1.03 [0.86, 1.19]","1.02 [0.88, 1.16]","0.80 [0.63, 0.97]","0.80 [0.64, 0.95]","78.8 [63.0, 94.6]","79.1 [70.0, 88.2]"
+PC1,-,"0.31 [0.23, 0.40]",-,"0.10 [0.04, 0.16]",-,"0.06 [0.00, 0.12]",-,"0.05 [-0.01, 0.11]",-,"-8.86 [-12.5, -5.23]"
+Random effects,VC,VC,VC,VC,VC,VC,VC,VC,VC,VC
+Stream (Intercept),1.184,1.111,0.070,0.010,0.050,0.026,0.048,0.032,598.0,121.3
+Residuals,-,-,-,-,0.121,0.123,0.145,0.146,454.8,447.9
+AIC                                 C,783.32,730.25,185.04,179.07,48.53,47.52,54.82,55.13,411.74,401.51
+R                                  2                                  (m),-,0.349,-,0.234,-,0.127,-,0.077,-,0.460
+R                                  2                                  (c),0.989,0.993,0.268,0.271,0.291,0.282,0.249,0.245,0.568,0.575

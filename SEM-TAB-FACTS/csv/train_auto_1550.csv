@@ -1,0 +1,18 @@
+# Semantic,Learner,PAN (Age),PAN (Gender),MBTI,BBC News,Drugs (effect),Drugs (side)
+0,HILSTM,0.422,0.752,0.407,0.833,0.443,0.514
+0,SVM (Martinc et al.),0.417,0.814,Image 1,0.983,0.468,0.503
+0,SVM (generic),0.424,0.751,0.556,0.967,0.445,0.462
+256 (doc2vec),SVM (Martinc et al.),0.422,Image 2,0.675,0.979,0.416,Image 3
+30 (tax2vec),DNN,0.400,0.511,0.182,0.353,0.400,0.321
+10 (tax2vec),SVM (Martinc et al.),0.445,0.815,0.679,Image 4,Image 5,0.506
+,SVM (generic),Image 6,0.781,0.556,0.972,0.445,0.469
+25 (tax2vec),SVM (Martinc et al.),0.454,0.814,0.681,0.984,0.468,0.500
+,SVM (generic),0.484,0.755,0.554,0.967,0.449,0.466
+50 (tax2vec),SVM (Martinc et al.),0.439,0.814,0.681,0.983,0.462,0.499
+,SVM (generic),0.444,0.751,0.554,0.963,0.446,0.463
+100 (tax2vec),SVM (Martinc et al.),0.424,0.816,0.678,0.984,0.466,0.496
+,SVM (generic),0.422,0.749,0.551,0.958,0.443,0.460
+500 (tax2vec),SVM (Martinc et al.),0.383,0.797,0.662,0.975,0.450,0.470
+,SVM (generic),0.400,0.724,0.532,0.909,0.424,0.438
+1000 (tax2vec),SVM (Martinc et al.),0.368,0.783,0.647,0.964,0.436,0.466
+,SVM (generic),0.373,0.701,0.512,0.851,0.407,0.420

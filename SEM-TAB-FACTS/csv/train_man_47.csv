@@ -1,0 +1,13 @@
+No.,Name,Indonesian Name,Description
+1,Division box,Bagi,Irrigation structure used to divide water between two or more canals
+2,Division-turnout box,Bagi-sadap,Irrigation structure used to divide the water and divert water to subsequent canals
+3,Turnout,Sadap,Irrigation structure used to divert water to the smaller canal
+4,Culvert,Gorong-gorong,Irrigation structure used to carry water across the road and located underground
+5,Cross-Culvert,Gorong-gornong Silang,"Similar to general culvert, the only different is in placement arrangement."
+6,Pedestrian Bridge,Jembatan Orang,Bridge over irrigation canal (only for pedestrian)
+7,Road Bridge,Jembatan Desa,Bridge over irrigation canal (for vehicles)
+8,Flume,Talang,Irrigation structure used to carry water across gullies or ravines
+9,Measuring Flume,Bangunan Ukur,Irrigation structure used to measure water flow
+10,Siphon,Siphon,Irrigation structure used to transfer water over a barrier
+11,Oncoran,Oncoran,Irrigation structure used to transfer water from sewer to farmland
+12,Side Weir,Pelimpah Samping,Irrigation structure used to drain water from the central canal when the water surface exceeds the maximum level

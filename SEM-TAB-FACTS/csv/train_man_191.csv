@@ -1,0 +1,13 @@
+Model,Estimate,SE,z-value,P
+Finland,,,,
+(Intercept),3.487,0.500,6.965,< 0.001
+Day,0.431,0.079,5.473,< 0.001
+Habitat: Shoreline,-1.288,0.394,-3.268,0.001
+Habitat: Wetland,-0.056,0.366,-0.153,0.878
+High %Field,-2.053,0.378,-5.435,< 0.001
+Denmark,,,,
+(Intercept),3.862,0.747,5.172,< 0.001
+Day,0.567,0.086,6.620,< 0.001
+Habitat: Shoreline,-1.420,0.617,-2.301,0.021
+Habitat: Wetland,-1.664,0.626,-2.658,0.008
+High %Field,-1.253,0.480,-2.606,0.009

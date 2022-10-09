@@ -1,0 +1,26 @@
+"Study
+Study","BD patients
+N","BD patients
+Age","BD patients
+%males","BD patients
+Mood state","Healthy controls
+N","Healthy controls
+Age","Healthy controls
+%males","Chemokines included in meta-analysis
+Chemokines included in meta-analysis","Assay
+Assay","Serum/plasma
+Serum/plasma","Medications
+Medications"
+Bai et al. (2014),130,44.5 ± 11.8,32.1,"Mania/hypomania, depression and euthymia",130,41.8 ± 9.7,35.4,MCP-1,ELISA,Serum,"Li, ACs and APs"
+Barbosa et al. (2013),70,49.8 ± 11.8,28.0,Mania and euthymia,50,46.7 ± 9.1,35.7,"IL-8, IP-10, MCP-1, eotaxin-1 and eotaxin-2",ELISA,Plasma,"Li, ACs and APs"
+Benedetti et al. (2017),37,45.9 ± 14.5,27.0,Depression,24,27.5 ± 10.0,37.5,"IL-8, IP-10 and MCP-1",CBA,Serum,Li
+Brietzke et al. (2009),30,43.2 ± 11.9,27.6,Euthymia,30,43.2 ± 14.5,17.2,"IL-8, MCP-1, eotaxin-1, eotaxin-2 and IP-10",ELISA,Serum,Medicated
+Drexhage et al. (2011),38,41.6 ± 9.6,24.0,Euthymia,22,41.3 ± 9.5,14.0,MCP-1,CBA,Serum,"Li, ACs, ADs, APs and BDZ"
+Fiedorowicz et al. (2015),37,39.7 ± 13.4,64.9,"Mania, depression and euthymia",29,43.0 ± 13.0,66.0,MCP-1,ELISA,Plasma,"Li, ACs, ADs, APs and sedatives/hypnotics"
+Jacoby et al. (2016),60,42.7 ± 11.7,61.7,"Mania, depression, mixed state and euthymia",35,36.7 ± 11.6,57.1,IL-8,ELISA,Plasma,"Li, ACs, ADs and APs"
+Jakobsson et al. (2015),221,36 [28 – 47],38.0,Euthymia,112,34 [27 – 44],44.6,MCP-1,ELISA,Serum,"Li, ACs, ADs, APs and BDZ"
+"Lu et al., (2019)",26,32.5 ± 5.4,38.5,Mania/mixed state and depression,20,33.7 ± 3.8,40.0,IL-8,ELISA,Serum,Medicated
+O’Brien et al. (2006),21,39.3 ± 18.2,42.9,Mania and depression,21,36.5 ± 11.5,42.9,IL-8,ELISA,Plasma,"Li, ACs, APs and ADs"
+Panizzutti et al.(2015),31,45.8 ± 14.0,25.8,Euthymia,27,45.7 ± 9.9,29.6,Eotaxin-1 and eotaxin-2,ELISA,Serum,"Li, ACs, APs, ADs and BZD"
+Poletti et al. (2019),26,48.0 ± 13.0,30.8,Depression,23,27.5 ± 10.0,34.8,"IL-8, IP-10 and MCP-1",CBA,Serum,Medicated
+Wang et al. (2016),494,32.5 ± 12.0,50.6,"Mania/hypomania, depression and euthymia",140,31.9 ± 8.2,57.8,IL-8,ELISA,Plasma,Medicated

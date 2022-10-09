@@ -1,0 +1,22 @@
+"Organ/tissue
+Organ/tissue","Human
+Developing","Human
+Adult","Mouse
+Developing","Mouse
+Adult"
+Brain,NB [             47            ],,,
+PNS,,,IF [             50            ],IF [             50            ]
+Cornea,,"IHC [             76            ,             99            ]            IF [             63            ]",IF [             100            ],
+Heart,"ISH, IF [             49            ]            NB [             47            ]","NB [             47            ,             48            ]",IF [             50            ],NB [             22            ] IF [             50            ]
+Skeletal muscle,,"ISH, IF [             49            ]            NB [             47            ,             48            ]",IF [             50            ],NB [             22            ] IF [             50            ]
+Lung,"ISH, IF [             49            ]            NB [             47            ]",NB [             48            ] IF [             51            ],IF [             50            ],NB [             22            ]
+Pancreas,"ISH, IF [             49            ]            NB [             101            ]","NB [             47            ,             48            ]",,
+Intestine,,IG [             39            ] NB [             48            ]            IF [             51            ],,
+Adrenal gland,NB [             101            ],,,
+Kidney,"ISH, IF [             49            ]            NB [             47            ,             101            ]","IG [             39            ] NB [             47            ,             48            ]            IF [             51            ]",IF [             50            ],NB [             22            ] IF [             50            ]
+Placenta,,"IG [             39            ] ISH [             49            ]            NB [             47            ,             48            ]            IF [             49            ,             51            ]",,
+Skin,,"IHC [             79            ] ISH, IF, [             49            ,             51            ]",,
+Ovary,,NB [             48            ],,
+Testis,,NB [             48            ],,NB [             22            ]
+Prostate,,NB [             48            ],,
+Cartilage and Bones,,IHC [             53            ],IF [             50            ],

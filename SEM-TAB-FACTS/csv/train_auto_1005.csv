@@ -1,0 +1,18 @@
+Study,Country (N),Technology,Percentage with willingness-to-pay = 0,Subsample for willingness-to-pay,Mean willingness-to-pay,Median willingness-to-pay,Possible to derive demand function
+Payre et al. (2014),France (421),Fully automated,22,WTP > 0,EURO 1624,No data,No
+"Schoettle and Sivak, 2014",Australia (505),SAE level 4,55,Full sample,No data,USD 0,No
+,China (610),SAE level 4,22,Full sample,No data,USD 1600,No
+,India (527),SAE level 4,30,Full sample,No data,USD 160,No
+,Japan (585),SAE level 4,68,Full sample,No data,USD 0,No
+,United Kingdom (501),SAE level 4,60,Full sample,No data,USD 0,No
+,United States (527),SAE level 4,55,Full sample,No data,USD 0,No
+Kyriakidis et al. (2015),109 countries (4886),Fully automated,22,Full sample,USD 6820,USD 519,Yes
+Shin et al. (2015),South Korea (675),SAE level 3,No data,Full sample,USD 3727,No data,No
+Bansal et al. (2016),United States (347),SAE level 4,19 (see text),WTP > 0,USD 7253,USD 2570,Yes
+"Bansal and Kockelman, 2017",United States (2167),SAE level 4,59,Full sample,USD 5857,USD 0,Yes
+Daziano et al. (2017),United States (1260),Partial automation,No data,Full sample,USD 3538,No data,No
+,United States (1260),Full automation,No data,Full sample,USD 4917,No data,No
+"Bansal and Kockelman, 2018",United States (1088),SAE level 4,31 (see text),WTP > 0,USD 7589,USD 3470,Yes
+Liu et al. (2019),China (441),Fully automated,31,Full sample,USD 3577,USD 763,Yes
+Liu et al. (2019),China (1135),Fully automated,26,Full sample,USD 4454,USD 1114,Yes
+Shin et al. (2019),Japan (188089),Fully automated,No data,Full sample,USD 1650,No data,No

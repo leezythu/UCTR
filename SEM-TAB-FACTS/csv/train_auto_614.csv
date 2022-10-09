@@ -1,0 +1,5 @@
+Test run,Number of quadrants,Video time location (min),Discretization period (µm),Speed (mm/s),Power ramp (% of 50 mW)
+1,2 and a partial 3rd,0:0–7:33,0.5,1,1–57
+2,3 and a partial 4th,7:44–15:27,1,1,1–76
+3,3,15:28–21:53,2.5,1,1–75
+4,4,21:54 to end,1,10,1–100

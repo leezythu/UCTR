@@ -1,0 +1,12 @@
+Beam denotation,Type of flexural rod,Steel fiber content (V                         f                        ) %,Shear strengthening arranging                         *
+SR-0,Steel,None,Stirrups
+SG-0,GFRP,None,Stirrups
+NG-0,GFRP,None,None
+NG-0.5,GFRP,0.5,None
+NG-1,GFRP,1,None
+UG-0,GFRP,0,U-stripes
+UG-0.5,GFRP,0.5,U-stripes
+UG-1,GFRP,1,U-stripes
+FG-0,GFRP,0,Full sheets
+FG-0.5,GFRP,0.5,Full sheets
+FG-1,GFRP,1,Full sheets

@@ -1,0 +1,11 @@
+Line,Distance (m),Height (m)
+n-outside,6,3.2
+e-outside,4,3.2
+s-outside,3,3.2
+w-outside,3,3.2
+n-inside,4,3.2
+e-inside,8,3.2
+s-inside,4,3.2
+w-inside,8,3.2
+m-inside,17,3.2
+m-inside-up,17,6.8

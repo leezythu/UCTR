@@ -1,0 +1,9 @@
+Column Name,Description
+System,Multibeam echosounder system
+Date,"Date of survey, yyyymmdd."
+Time,"Time of survey (UTC), hhmmss."
+Easting,"Easting Cartesian coordinate, UTM Zone 27 N projection, WGS84."
+Northing,"Northing Cartesian coordinate, UTM Zone 27 N projection, WGS84."
+Depth,"Corrected and processed depth, m."
+Latitude,"Geographical latitude, DD;MM.mm, WGS1984."
+Longitude,"Geographical longitude, DD;MM.mm, WGS1984."

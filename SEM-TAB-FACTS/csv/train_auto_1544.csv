@@ -1,0 +1,12 @@
+"Learning method
+","Hoeffding’s inequality
+Lower","Hoeffding’s inequality
+Upper","Binomial tail inversion
+Lower","Binomial tail inversion
+Upper"
+L2-regularized logistic regression,88.7%,92.7%,89.8%,91.5%
+FDA,89.5%,93.5%,90.7%,92.3%
+SVM,89.9%,93.9%,91.1%,92.7%
+Random forest,90.6%,94.7%,91.8%,93.4%
+XGBoost,90.9%,95.0%,92.2%,93.7%
+Siamese LSTM,93.9%,97.9%,95.3%,96.4%

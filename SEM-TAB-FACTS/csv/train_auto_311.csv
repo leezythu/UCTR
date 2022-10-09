@@ -1,0 +1,62 @@
+ID,Authors,Article title and link (last accessed 2020-03-10),Published
+G01,Adam Matan,How to Make It Fa(a)ster?,2018-02-07
+G02,Adir Shemesh,Is Azure Functions 3.0 Ready For Production?,2019-12-17
+G03,Alessandro Morandi,Investigating the effect of VPC on AWS Lambda cold-start,2019-03-28
+G04,Alex DeBrie,AWS API Performance Comparison: Serverless vs. Containers vs. API Gateway integration,2019-02-20
+G05,Algirdas Grumuldis,Evaluation of ‘‘Serverless’’ Application Programming Model : How and when to start Serverles,2019-04-25
+G06,Andre Luckow and Shantenu Jha,Performance Characterization and Modeling of Serverless and HPC Streaming Applications,2019-09-13
+G07,Andrew Hoang,Analysis of microservices and serverless architecture for mobile application enablement,2017-06-13
+G08,Andrew Smiryakhin et al.,Java vs NodeJS on AWS Lambda: Benchmark Survey,Unknown
+G09,Andy Warzon,How Reliable is Lambda Cron?,2017-01-06
+G10,Bernd Strehl,The largest benchmark of Serverless providers.,2018-09-07
+G11,Bernd Strehl,λ                            Serverless Benchmark (Serverless Benchmark2.0),Live
+G12,Bruno Schionato et al.,What We Learned by Serving Machine Learning Models Using AWS Lambda,2018-10-30
+G13,Can Tepakidareekul,Serverless Platform Comparison: Google Cloud Function vs. AWS Lambda,2018-11-26
+G14,"Cloudflare, Inc.",How Can Serverless Computing Improve Performance? | Lambda Performance,Unknown
+G15,Driss Amri,How to minimize AWS Lambda Java cold starts,2019-05-19
+G16,Erica Windisch,Understanding AWS Lambda Coldstarts,2017-02-09
+G17,Erwin Van Eyk,"The Design, Productization, and Evaluation of a Serverless Workflow-Management System",2019-06-21
+G18,Frederik Willaert,The Serverless Promise: AWS and Azure Function Performance and Scaling,2018-01-14
+G19,Ingo Müller et al.,Lambada: Interactive Data Analytics on Cold Data using Serverless Cloud Infrastructure,2019-12-02
+G20,James Randall,Azure Functions - Significant Improvements in HTTP Trigger Scaling,2018-03-09
+G21,James Randall,Azure Functions - Significant Improvements in HTTP Trigger Scaling,2018-03-09
+G22,Jannik Kollmann,Serverless Architecture with AWS Lambda,2018-02-06
+G23,Jim Conning,AWS Lambda: Faster Is Cheaper,2017-01-26
+G24,John Chapin,The Occasional Chaos of AWS Lambda Runtime Performance,2017-02-24
+G25,Josef Spillner,FaaS: Function hosting services and their technical characteristics,2019-10-31
+G26,Jun Sung Park,AWS Lambda Triggers: Kinesis vs SQS,2019-05-06
+G27,Kevin S Lin,Benchmarking Lambda’s Idle Timeout Before A Cold Start,2019-02-05
+G28,Leonardo Zanivan,Serverless Native Java Functions using GraalVM and Fn Project,2018-06-24
+G29,Luke Demi,Exploring serverless technology by benchmarking AWS Lambda,2019-03-28
+G30,Mark Fowler,Battle of the Serverless --- Part 2: AWS Lambda Cold Start Times,2019-10-28
+G31,Matthieu Napoli,Serverless and PHP: Performances,2018-05-24
+G32,Mikhail Shilkov,Serverless at Scale: Serving StackOverflow-like Traffic,2019-01-20
+G33,Mikhail Shilkov,"Comparison of Cold Starts in Serverless Functions across AWS, Azure, and GCP",2019-09-26
+G34,Mikhail Shilkov,"Azure Functions V2 Is Released, How Performant Is It?",2018-10-10
+G35,Mikhail Shilkov,From 0 to 1000 Instances: How Serverless Providers Scale Queue Processing,2018-11-19
+G36,Mustafa Akin,How does proportional CPU allocation work with AWS Lambda?,2018-01-25
+G37,Mustafa Akin,sing GraalVM to run Native Java in AWS Lambda with Golang,2018-11-06
+G38,Nathan Malishev,How to manage Lambda VPC cold starts and deal with that killer latency,2018-07-14
+G39,Nathan Malishev,"AWS Lambda Cold Start Language Comparisons, 2019 edition",2019-09-04
+G40,Paul Batum,"Processing 100,000 events per second on Azure Functions",2017-09-19
+G41,Pranjal Gupta and Shreesha Addala,Experimental Evaluation of Serverless Functions,2019-09-13
+G42,Ran Ribenzaft,The right way to distribute messages effectively in serverless applications,2018-03-31
+G43,Ran Ribenzaft,How to make Lambda faster: memory performance benchmark,2018-02-15
+G44,Remy Chantenay,Blazing Fast Microservice with Go and Lambda,2018-02-28
+G45,Robert Vojta,AWS journey - API Gateway & Lambda & VPC performance,2016-10-30
+G46,Rodric Rabbah,How to see performance details for cloud functions (FaaS),2018-02-28
+G47,Ryan Chard et al.,Serverless Supercomputing: High Performance Function as a Service for Science,2019-08-14
+G48,Sachin Shrestha,Comparing Programming Languages used in AWS Lambda for Serverless Architecture,2019-06-19
+G49,Sebastián Quevedo et al.,Evaluating Apache OpenWhisk-FaaS,2020-02-05
+G50,Tai Nguyen Bui,Benchmarking AWS Lambda runtimes in 2019 (Part I),2019-07-04
+G51,Tai Nguyen Bui,Benchmarking AWS Lambda runtimes in 2019 (Part II),2019-07-15
+G52,Tim Nolet,AWS Lambda Go vs. Node.js performance benchmark: updated,2018-01-15
+G53,Vlad Holubiev,My Accidental 3--5x Speed Increase of AWS Lambda Functions,2016-12-12
+G54,Wojciech Gawroński,Functional Programming in Serverless World,2018-10-18
+G55,Yan Cui,"aws lambda - compare coldstart time with different languages, memory and code sizes",2017-06-13
+G56,Yan Cui,How long does AWS Lambda keep your idle functions around before a cold start?,2017-07-04
+G57,Yan Cybulski,FaaS Benchmarking Made Easy: Introducing FaaStest.com and Faasbenchmark,2019-10-02
+G58,Yun Zhi Lin,"Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go",2018-03-08
+G59,Zac Charles,NET Core 3.0 AWS Lambda Benchmarks and Recommendations,2019-10-25
+G60,Zack Bloom,Comparing Serverless Performance for CPU Bound Tasks,2018-07-09
+G61,Zack Bloom,"Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge",2018-07-02

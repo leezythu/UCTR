@@ -1,0 +1,29 @@
+,Effect of leniency (λ),Relative likelihood,Observations
+Full population,0.973 (0.018)***,1,51047
+Man,0.894 (0.038)***,0.96,17372
+Women,1.012 (0.025)***,1.04,33675
+Healthcare spending last year,,,
+1 st quartile (lowest),0.782 (0.042)***,0.80,12414
+2nd quartile,1.014 (0.046)***,1.04,12452
+3rd quartile,1.058 (0.052)***,1.09,12447
+4th quartile (highest),1.054 (0.054)***,1.08,12446
+Age,,,
+65−69,0.776 (0.118)***,0.80,1746
+70−79,0.920 (0.044)***,0.95,13916
+80−89,1.038 (0.031)***,1.07,27748
+90 and over,0.851 (0.062)***,0.87,7637
+Home care user,,,
+Yes,0.901 (0.028)***,0.93,14158
+No,1.140 (0.055)***,1.17,36889
+Prior nursing home admission,,,
+Yes,0.968 (0.019)***,0.99,2947
+No,1.080 (0.100)***,1.11,48100
+Applicant,,,
+Patient,1.446 (0.051)***,1.49,15097
+LTC provider,0.724 (0.039)***,0.74,14989
+Other,0.774 (0.034)***,0.80,20961
+Standardized household income,,,
+1 st quartile (lowest),1.040 (0.050)***,1.07,12761
+2nd quartile,0.959 (0.048)***,0.99,12761
+3rd quartile,1.051 (0.044)***,1.08,12763
+4th quartile (highest),0.839 (0.045)***,0.86,12762

@@ -1,0 +1,5 @@
+,Bereitschaftspotential,Myoclonus
+EMG filters,10–250 Hz,10–250 Hz
+EEG filters,0.01–50 Hz,1–70 Hz
+Sampling rate,At least 1000 Hz,At least 1000 Hz
+Behavioral recording,Record involuntary and voluntary movements.,"Record involuntary movements during rest, posture and action depending on how the myoclonus is evoked."

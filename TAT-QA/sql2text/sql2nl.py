@@ -1,6 +1,6 @@
 import json
 def step1():
-    #step 1 抽取出syn_out中的sql，用于inference
+    #step 1 extracts sqls from syn_out.json for inference
     input_f = open("syn_out.json")
     input = json.load(input_f)
     print(len(input))
@@ -19,7 +19,7 @@ def step1():
 def step2():
     cnt = 0
     succ_cnt = 0
-    #step 2 将inference后的加入，形成最终训练文件
+    #step 2 generate the final training file
     final_samples = []
     src_f = open("syn_out.json")
     src = json.load(src_f)
@@ -49,8 +49,6 @@ def step2():
             print(nl)
             print()
             cnt+=1
-            # if cnt>10:
-            #     exit(0)
         sample["questions"] = filtered_q
         final_samples.append(sample)
 
@@ -59,5 +57,5 @@ def step2():
         f.write(json.dumps(final_samples))
 
 if __name__ == '__main__':
-    # step1()
+    step1()
     step2()

@@ -1,0 +1,9 @@
+"LC                         50                        values (μg/mL) of Brine shrimp
+Chemicals/Plant extracts","LC                         50                        values (μg/mL) of Brine shrimp
+LC                         50","LC                         50                        values (μg/mL) of Brine shrimp
+Regression equation"
+Vincristine sulfate,2.16,"y = 7.6315x + 33.536, R                         2                        = 0.8585"
+MEATL,607.70,y = 0.0596x + 13.781; R                         2                        = 0.9629
+NFATL,616.85,y = 0.0346x + 28.657; R                         2                        = 0.821
+MEATS,328.02,y = 0.0455x + 35.075; R                         2                        = 0.7897
+NFATS,362.00,y = 0.0498x + 31.972; R                         2                        = 0.9053

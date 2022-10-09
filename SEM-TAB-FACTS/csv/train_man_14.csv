@@ -1,0 +1,22 @@
+Feature,Description,Origin,Anon.,Domain
+_id,It contains the user’s ID               ?              .,Twitter,✔,UUID
+scores.categories.content,Score indicating an analysis of the content and language of the user’s tweets             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.categories.friend,Score expressing how the user behaves with other users in terms of follower-friend relations and types of tweets             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.categories.network,Score representing the interconnections with other users             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.categories.sentiment,Score focusing on the emotion and attitude of the user’s tweets             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.categories.temporal,Score studying the behavior of the user along time             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.categories.user,Score analyzing the user’s metadata             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.scores.english,Overall classification results             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.scores.universal,Overall classification results without English-based features             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.cap.english,Probability that the user’s account is completely automated. It uses all six feature categories             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.cap. universal,Probability that the user’s account is completely automated. It excludes             sentiment            and             content            feature            categories             †            .,Botometer,✘,"R              ∈ [0,1]"
+scores.display_scores.english,Value of             scores.scores.english            multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.universal,Value of             scores.scores.universal            multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.content,Value of             scores.categories.content            multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.friend,Value of             scores.categories.friend            multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.network,Value of             scores.categories.network            multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.sentiment,Value of scores.categories.sentiment multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.temporal,Value of scores.categories.temporal multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+scores.display_scores.user,Value of             scores.categories.user            multiplied by 5             †            .,Botometer,✘,"R              ∈ [0,5]"
+followers,List of Twitter users’ ID representing the followers of the user               ?              .,Twitter,✔,UUID
+friends,"List of Twitter users’ ID representing the friends (i.e., followings) of the user               ?              .",Twitter,✔,UUID

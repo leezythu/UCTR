@@ -1,0 +1,19 @@
+"Independent variables
+Independent variables","Local concern
+B","Local concern
+SE","Local concern
+Beta","Local concern
+p-values","Local concern
+95% CI"
+Constant,5.036,0.231,,0.000,"[4.583, 5.489]"
+Affective evaluation (average),−0.339,0.022,−0.417,0.000,"[-0.383, −0.295]"
+Place of residence,−0.01,0.034,−0.007,0.774,"[-0.076, 0.056]"
+Political orientation,−0.34,0.088,−0.1,0.000,"[-0.513, −0.167]"
+Gender,0.033,0.077,0.011,0.663,"[-0.117, 0.184]"
+Education level,−0.111,0.08,−0.037,0.167,"[-0.268, 0.047]"
+Familiarity with wind energy,−0.217,0.04,−0.148,0.000,"[-0.297, −0.138]"
+Awareness planned wind project,−0.009,0.131,−0.002,0.944,"[-0.266, 0.248]"
+Age group,0.021,0.036,0.015,0.561,"[-0.049, 0.091]"
+Language regions,0.579,0.084,0.179,0.000,"[0.413, 0.744]"
+R                         2                        adjusted,0.281,,,,
+F,47.805,,,0.000,

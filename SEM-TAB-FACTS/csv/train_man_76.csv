@@ -1,0 +1,11 @@
+"
+Taxa","Sampling area
+Global R","Sampling area
+P-value","Year
+Global R","Year
+P-value","Geographical position
+Global R","Geographical position
+P-value"
+Fishes,0.494,0.0001,0.19,0.0001,0.078,0.012
+Crustaceans,0.68,0.0001,0.161,0.0001,0.034,0.122
+Echinoderms,0.552,0.0001,0.152,0.0001,0.055,0.056

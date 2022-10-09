@@ -1,0 +1,15 @@
+,FITC,PE,PerCP,APC
+Tube 1,–,–,–,–
+,–,–,–,–
+Tube 2,Zombie,–,,
+Heat Treated,–,–,–,–
+Tube 3,Zombie,CD16,–,–
+,–,(3G8),–,–
+Tube 4,Zombie,–,CD14,–
+,–,–,(M5E2),–
+Tube 5,Zombie,CD16,CD14,–
+,–,(3G8),(M5E2),–
+Tube 6,Zombie,CD16,CD14,CD120a
+,–,(3G8),(M5E2),(W15099A)
+Tube 7,Zombie,CD16,CD14,CD120b
+,–,(3G8),(M5E2),(3G7A02)

@@ -1,0 +1,5 @@
+PM type,Virtual CPUs,RAM,Power [idle],Power [100%]
+M1,32 (16 × Opteron 8356),32 GB,501 W,840 W
+M2,40 (10 × Xeon E5-2690v2,128 GB,164.2 W,382 W
+M3,32 (8 × Xeon E5-2660,32 GB,90 W,310 W
+M4,32 (8 × Xeon E5-2660,32 GB,105 W,340 W

@@ -1,0 +1,12 @@
+Unit in IGCC,I                                  ̇                              (MW) before co-optimization,I                                  ̇                              (MW) after co-optimization,Ratio
+Coal gasification,19,18.2,−4.2%
+Purification,5.8,5.6,−3.4%
+Compressor,5.1,4.9,−3.9%
+Combustion chamber,21.2,20.3,−4.2%
+Steam turbine (ST),4.4,4.2,−4.5%
+Gas turbine (GT),2.9,2.8,−3.4%
+ASU,8.8,8.4,−4.5%
+CCS,2.2,2.1,−4.5%
+WWR,1.5,1.4,−6.7%
+HRSG,2.2,3.1,−4.5%
+Total IGCC,73.1,70,−4.2%

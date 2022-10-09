@@ -1,0 +1,22 @@
+Variable,Description,Note
+cnty_rte,Road identifier,
+Begmp,Begin milepost,
+Endmp,End milepost,
+ilrdR2U                         X                        _aadt,AADT,Separate variable for each year (X)
+ilrdR2U                         X                        _county,County,Separate variable for each year (X)
+ilrdR2U                         X                        _curv_rad,Curve radius (ft.),Separate variable for each year (X)
+ilrdR2U                         X                        _dir_curv,Curve direction,Separate variable for each year (X)
+ilrdR2U                         X                        _lanewid,Lane width (ft.),Separate variable for each year (X)
+ilrdR2U                         X                        _med_type,Median type,Separate variable for each year (X)
+ilrdR2U                         X                        _outshtp1,Outside shoulder 1 Type,Separate variable for each year (X)
+ilrdR2U                         X                        _outshtp2,Outside shoulder 2 Type,Separate variable for each year (X)
+ilrdR2U                         X                        _outshwd1,Outside shoulder 1 width (ft.),Separate variable for each year (X)
+ilrdR2U                         X                        _outshwd2,Outside shoulder 2 width (ft.),Separate variable for each year (X)
+ilrdR2U                         X                        _spd_limt,Speed limit (mi/hr),Separate variable for each year (X)
+ilrdR2U                         X                        _spln_typ,Special lane type,Separate variable for each year (X)
+ilrdR2U                         X                        _surf_typ,Surface type,Separate variable for each year (X)
+ilcrR2U                         X                        _K,Crash severity K,Separate variable for each year (X)
+ilcrR2U                         X                        _A,Crash severity A,Separate variable for each year (X)
+ilcrR2U                         X                        _B,Crash severity B,Separate variable for each year (X)
+ilcrR2U                         X                        _C,Crash severity C,Separate variable for each year (X)
+ilcrR2U                         X                        _O,Crash severity O,Separate variable for each year (X)

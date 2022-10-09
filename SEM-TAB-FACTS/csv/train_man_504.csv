@@ -1,0 +1,12 @@
+Parameter,Value,Annotation
+n,4096*2,The number of pyramidal neurons in whole network
+Cm,0.5,Membrane capacitance (nF)
+g_L,0.025,Leak conductance (mS)
+V_L,−70,Resting potential (mV)
+Vm_thre,−50,Threshold potential (mV)
+Vm_reset,−60,Reset potential after an action potential (mV)
+τ,2,Refractory period (ms)
+f_ext,1,Frequency of external Poisson noise (kHz)
+g_ext,0.00248,Synaptic conductance of external Poisson noise (mS)
+σ,11.25,Gaussian parameter of selective weight in TPN
+J+,3.62,Gaussian parameter of selective weight in TPN

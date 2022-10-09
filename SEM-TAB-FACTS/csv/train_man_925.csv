@@ -1,0 +1,13 @@
+Class,Implements,Direct
+LoopSolver,Simply applies preconditioner in each step,No
+GradientSolver,Simple gradient solver,No
+CGSolver,Conjugate gradient method,No
+BiCGSTABSolver,Biconjugate gradient stabilized method,No
+MINRESSolver,Minimal Residual method,No
+RestartedGMResSolver,Restarted GMRes solver,No
+RestartedFlexibleGMResSolver,Flexible restarted GMRes solver (for non-static preconditioners),No
+GeneralizedPCGSolver,Flexible conjugate gradient solver (for non-static preconditioners),No
+RestartedFCGSolver,Flexible conjugate gradient solver proposed by Notay (for non-static preconditioners),No
+CompleteFCGSolver,Flexible conjugate gradient method reusing old orthogonalizations when restarting,No
+SuperLU,Wrapper for SuperLU library,Yes
+UMFPack,Wrapper for UMFPack direct solver library,Yes

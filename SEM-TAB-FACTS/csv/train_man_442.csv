@@ -1,0 +1,8 @@
+Term,Description
+SKU,stock keeping unit
+order line,one SKU with the ordered quantity
+item,a physical unit of one SKU
+pick order,a set of order lines from a customer’s order
+split order,a pick order that is separated into several parts
+replenishment order,a number of physical units of one SKU
+backlog,all unfulfilled orders

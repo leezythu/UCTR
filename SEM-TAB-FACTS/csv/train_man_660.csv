@@ -1,0 +1,6 @@
+Longitudinal tensile modulus,E              11,142000 MPa
+Transverse tensile modulus,E              22            =             E              33,9100 MPa
+In-plane shear modulus,G              12            =             G              13,5200 MPa
+Transverse shear modulus,G              23            =             E              33            /(2(1+             ν              23            )),3500 MPa
+In-plane Poisson ratio,ν              12            =             ν              13,0.27
+Transverse Poisson ratio,ν              23,0.30

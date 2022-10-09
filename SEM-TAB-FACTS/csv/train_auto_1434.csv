@@ -1,0 +1,4 @@
+No.,Caliber,Bullet Weight,Bullet Description,Muzzle Velocity,Muzzle Energy,Classification
+1,9 mm,8.0 g,FMJ,342 m/s,468 N.m,Low Impact Energy
+2,11 mm                        (.44 Magnum),15.6 g,SJHP,499 m/s,1942 N.m,Medium Impact Energy
+3,7.62 mm,9.6 g,FMJ,824 m/s,3259 N.m,High Impact Energy

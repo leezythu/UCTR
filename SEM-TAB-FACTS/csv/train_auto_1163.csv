@@ -1,0 +1,22 @@
+"
+Statistic","Polish (L1)                          N                        = 195
+Mean","Polish (L1)                          N                        = 195
+SD","Polish (L1)                          N                        = 195
+Min","Polish (L1)                          N                        = 195
+Max","English (L2)                          N                        = 195
+Mean","English (L2)                          N                        = 195
+SD","English (L2)                          N                        = 195
+Min","English (L2)                          N                        = 195
+Max","Additional languages (L3-L5)                           a                             N                        = 66
+Mean","Additional languages (L3-L5)                           a                             N                        = 66
+SD","Additional languages (L3-L5)                           a                             N                        = 66
+Min","Additional languages (L3-L5)                           a                             N                        = 66
+Max"
+Overall proficiency,8.90,0.48,4.25,9.00,7.84,0.87,4.50,9.00,5.55,1.84,2.00,9.00
+Listening,8.95,0.37,5,9,7.89,0.88,5,9,5.76,1.87,2,9
+Reading,8.92,0.60,2,9,8.03,0.86,5,9,6.05,1.87,2,9
+Speaking,8.90,0.52,5,9,7.78,1.11,3,9,5.10,2.08,1,9
+Writing,8.82,0.72,3,9,7.67,1.19,3,9,5.29,2.07,2,9
+Age of acquisition                           b,0.06,0.46,0,5,6.65,3.19,0,26,13.79,6.02,0,29
+Age of active use                         b,1.16,2.09,0,12,11.74,5.05,0,35,17.60,5.79,0,37
+% of daily use,54,18,4,96,42,18,4,96,11,9,1,39

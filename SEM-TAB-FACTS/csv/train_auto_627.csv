@@ -1,0 +1,9 @@
+Sample,1st curing time,2nd curing time
+Number,x (min),y (min)
+1 (ANI-0),0.0,300.0
+(ANI-2.5),2.5,297.5
+(ANI-5),5.0,295.0
+(ANI-7.5),7.5,292.5
+(ANI-10),10.0,290.0
+(ANI-20),20.0,280.0
+(ISO),20.0,0.0

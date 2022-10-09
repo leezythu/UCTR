@@ -1,0 +1,35 @@
+"PID
+PID","Institution
+Institution","Allele 1
+cDNA","Allele 1
+Protein","Allele 2
+cDNA","Allele 2
+Protein","Segregating
+Segregating","Allele 1 haplotype
+Allele 1 haplotype","Moorfields ID
+Moorfields ID"
+1,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.5714+5G>A,"p.[=,E1863Lfs∗33]",ND,A,21567
+2,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.293A>G,p.(N98S),Y,B,4646
+3                           #,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.4469G>A,p.(C1490Y),Y,C,4988
+4                           #,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.2160+2T>G,p.(?),ND,B,20160
+5,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.2063A>T,p.(N688I),ND,B,20122
+6                           #,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.2564G>A,p.(W855∗),ND,–,25804
+7,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.[4216C>T;6148G>C],p.[(H1406Y);(V2050L)],Y,C,21670
+8,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.4468T>C,p.(C1490R),Y,U,20567
+9,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.4139C>T,p.(P1380L),Y,A,19004
+10                           #,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.3364G>A,p.(G1122K),Y,B,20522
+11,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.4139C>T,p.(P1380L),ND,A,4198
+12                           #,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.2239del,p.(L747Cfs∗40),Y,A,4617
+13,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.4319T>C,p.(F1440S),Y,A,16063
+14,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.1804C>T,p.(R602W),Y,A,20898
+15,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.[1715G>A;2588G>C],"p.[(R572Q;G863A,G863del]",Y,U,20546
+16                           #,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.3329-1G>A,p.(?),Y,U,17478
+17,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.161G>A,"p.[C54Sfs∗14,C54Y]",ND,A,20655
+18,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.6079C>T,p.(L2027F),ND,U,21317
+19,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",unknown,unknown,NA,A,21659
+20,MEH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.[4126C>T; 6148G>C],p.[(H1406Y);(V2050L)],ND,–,21257
+21,PAH,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.5196+1137G>A,"p.[=,M1733Efs∗78]",NA,–,NA
+22a,RUMC,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.859-506G>C,"p.[F287Tfs∗32,=]",Y,A,NA
+22b,RUMC,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.859-506G>C,"p.[F287Tfs∗32,=]",Y,(A),NA
+23                           #,RUMC,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.[2918+775_3328+640del; 4462T>C],p.[(S974Qfs∗64;C1488R)],Y,A,NA
+24                           #,RUMC,c.5196+1137G>A,"p.[=,M1733Efs∗78]",c.3874C>T,p.(Q1292∗),Y,A,NA

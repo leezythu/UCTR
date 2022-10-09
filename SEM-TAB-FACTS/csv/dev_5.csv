@@ -1,0 +1,17 @@
+Class,Previous classification,Conserved domain(s),Description (PDB codes)
+Cry,Cry,"pfam03945, pfam00555, cd04085",Proteins originally isolated from             B. thuringiensis              cry            stals in which the active form normally consists of three domains. Examples include Cry1Aa (1CIY) and Cry3Aa (1DLC)
+Cyt,Cyt,pfam01338,"Cyt            olytic, normally single domain, proteins such as Cyt2Aa (1CBY)"
+Vip,Vip3,"pfam12495, pfam02018",Multi-domain proteins originally identified as being             V            egetative             I            nsecticidal             P            roteins such as Vip3Bc (6V1V)
+Tpp,"Cry, Bin",pfam05431,Beta pore-forming             p            esticidal             p            roteins containing the             T            oxin_10 (Bin-like) domain. Examples include Tpp35Aa (previously Cry35Aa 4JP0) and Tpp1Aa (previously BinA 5FOY)
+Mpp,"Cry, Mtx2, Sip",pfam03318,Beta pore-forming             p            esticidal             p            roteins from the ETX/             M            tx2 family. Examples include Mpp51Aa (previously Cry51Aa 4PKM) and Mpp2Aa (previously Mtx2)
+Gpp,Cry,pfam06355,Ae             g            erolysin like             p            esticidal             p            roteins such as Gpp34Aa (previously Cry34 4JOX)
+App,"Cry, Pax, Xax, Yax",,Predominantly             a            lpha helical             p            esticidal             p            roteins such as App6Aa (previously Cry6Aa 5KUD) and App1Ca (previously YaxA 6EK7)
+Spp,,"pfam01289, pfam17440",S            phaericolysin like             p            esticidal             p            roteins
+Mcf,,pfam12920,Proteins related to the “             M            akes             C            aterpillars             F            loppy” toxins originally described from             Photorhabdus            .
+Mtx,Mtx1,,Proteins related to the             Mtx            1 toxin (2VSE) originally isolated from             Lysinibacillus sphaericus
+Vpa,Vip2,cd00233,Proteins related to the ADP-ribosyltransferase             a            ctive component of binary toxins such as             V            i             p            2 (1QS2) (from the Vip1 / Vip2 toxin)
+Vpb,"Vip1, Vip4","pfam07691, pfam03495, pfam17475, pfam17476","Proteins related to the             b            inding component of binary toxins such as             V            i             p            1 (6SMS), Vip4."
+Pra,PirA,,Proteins related to the               P                hotorhabdus            Insect-             R            elated toxin             A            component.
+Prb,PirB,pfam03945,Proteins related to the               P                hotorhabdus            Insect-             R            elated toxin             B            component.
+Mpf,PluMACPF GNIP,pfam01823,Pesticidal proteins that are part of the             M            embrane Attack Complex /             P            er             f            orin superfamily.
+Xpp,,,A holding class for pesticidal proteins with currently uncharacterized structures.

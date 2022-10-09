@@ -1,0 +1,17 @@
+,Median/n,IQR/%
+Length of Stay in the Hospital (days),3,5
+Admission in ICU,41,12%
+Length of stay in ICU (days),1,2
+Admission in HDU,3,0.9%
+Complications,36,11%
+Type of Complications,,
+Any infection,14,39%
+Infected prosthesis and collection,3,8%
+Bleeding and Hematoma,5,14%
+Hoarseness,3,8%
+Pulmonary,2,6%
+Adrenal and Kindney related,2,6%
+Neurology complications,3,8%
+Urology Complications,4,11%
+Mortality,3,0.9%
+Readmission in one month,6,2%

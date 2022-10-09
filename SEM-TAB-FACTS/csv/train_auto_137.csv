@@ -1,0 +1,5 @@
+Quantity,Results
+Mean (time 800 capacity reached),13.9 days
+Mean (time 8000 capacity reached),22.5 days
+Hitting probability (800),81.2%
+Hitting probability (8000),76.8%

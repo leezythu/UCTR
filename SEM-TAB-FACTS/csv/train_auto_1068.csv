@@ -1,0 +1,13 @@
+variable,unit,Equipment,accuracy,precision
+Air temperature,T                         a                        (°C),"Testo Ltd, model 453 & 435-2 Alton, Hampshire, UK (high precision probe)",0.2 °C,0.1 °C
+PCS outlet temperature,T                         pcs                          (°C),"Thermistors; Grant Instruments, Cambridge, UK",0.1 °C,0.1 °C
+Microclimate temperature,T                         mc                        (°C),"Thermistors; Grant Instruments, Cambridge, UK & Testo Ltd, model 453 & 435-2 Alton, Hampshire, UK",0.1/0.2 °C,0.1 °C
+Relative Humidity,rh (%),"Testo Ltd, model 453 & 435-2 Alton, Hampshire, UK & Vaisala",1 %,0.1 %
+Air speed,m.s                         −1,"Testo Ltd, model 453 & 435-2 Alton, Hampshire, UK                        & TSI, Biral, Bristol, UK",0.03 m s                         −1                        /2%,0.01 m s                         −1
+Radiation,W.m                         −2,Pyranometer CM11; Kipp & Zonen,,
+Mean Radiant Temperature,T                         mrt                        (°C),"Thermistor, derived from 15 cm Black Globe; Testo Ltd, model 453 using CBE comfort calculator",0.5 °C,0.1 °C
+Skin Temperature,T                         sk                        (°C),"Thermistors; Grant Instruments, Cambridge, UK & iButtons DS1922T",0.1 °C/0.5 °C (0.2 °C after local calibration),0.1 °C/0.06 °C
+Tympanic body core temperature,T                         ty                        (°C),"ThermoScan Pro 4000, Braun, Germany",0.2 °C,0.1 °C
+Body Mass,kg,Mettler Toledo model CC150,5 g,1 g
+Height,cm,Marsden Stadiometer UK,0.5 cm,0.5 cm
+Heart Rate,HR,"Polar, Tampere, Finland",2bpm,1bpm

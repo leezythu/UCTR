@@ -1,0 +1,9 @@
+case,floe shape,c                                i                              [%],α [                         o                        ]
+SS_90_sq_10,square,90,10
+SS_70_sq_10,square,70,10
+SS_70_tr_10,Trapezoid*,70,10
+SS_90_tr_10,trapezoid*,90,10
+SS_90_sq_0,Square,90,0
+SS_70_sq_0,Square,70,0
+SS_70_tr_0,trapezoid*,70,0
+SS_90_tr_0,trapezoid*,90,0

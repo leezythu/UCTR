@@ -1,0 +1,7 @@
+Calibrator,"CA, DCA, and TCA concentration in each Calibrator (ng/mL)",Source Solution,Volume of Source Solution (µL),Volume of Working IS-B Solution (µL)
+F,1000,Working Analyte Solution,10,990
+E,250,F,100,300
+D,62.5,E,100,300
+C,15.6,D,100,300
+B,3.90,C,100,300
+A,0.977,B,100,300

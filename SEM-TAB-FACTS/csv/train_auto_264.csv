@@ -1,0 +1,7 @@
+Parameter,Definition,Range
+β,transmission coefficient,"[                              5                              ×                                10                                  −                                  7                                  ,                                10                                  −                                  4                                  ]"
+η,attenuation of transmission for incubating individuals,"[                              0,0.2                              ]"
+ξ,attenuation of transmission for asymptomatic individuals,"[                              0,1                              ]"
+π,fraction of asymptomatic cases,"[                              0,1                              ]"
+Incubation time,mean duration of incubation,"[                              1,14                              ]"
+Infectious period,mean duration of infectious period,"[                              2,14                              ]"

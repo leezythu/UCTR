@@ -1,0 +1,17 @@
+"Learning method
+Learning method","Gold
+F                          1","Gold
+Precision","Gold
+Recall","Gold
+Accuracy","Gold-New
+F                          1","Gold-New
+Precision","Gold-New
+Recall","Gold-New
+Accuracy"
+Baseline (simple logistic regression),81.1%,77.5%,85.1%,74.4%,75.1%,73.2%,77.2%,70.7%
+L2-regularized logistic regression,93.5%,92.9%,94.2%,91.6%,92.0%,90.9%,93.1%,90.7%
+FDA,94.2%,92.5%,95.9%,92.3%,92.8%,90.5%,95.2%,91.5%
+SVM,94.3%,92.9%,95.7%,92.5%,93.1%,91.0%,95.3%,91.9%
+Random forest,95.2%,94.3%,96.1%,93.7%,93.7%,92.1%,95.3%,92.6%
+XGBoost,95.4%,94.6%,96.2%,94.0%,94.0%,92.3%,95.7%,93.0%
+Siamese LSTM,99.2%,99.4%,99.1%,99.0%,96.4%,96.5%,96.4%,95.9%

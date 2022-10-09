@@ -1,0 +1,5 @@
+Parameter,Value
+No. of Krill herd population,50
+No. of iteration,500
+explore to find food,0.05
+motivated motion,0.005

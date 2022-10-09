@@ -1,0 +1,15 @@
+Variables,Definition,Source
+ESG score,The overall firm score derived from the self-disclosed information combining ESG pillar scores.,Thomson Reuters (TR) EIKON
+Environmental Pillar score,"The Environmental Pillar assesses a firm's influence on living and non-living natural ecosystems, including the land, water, and air.",TR EIKON
+Social Pillar score,"The Social Pillar measures a firm's competence to create faith and devotion with its customers, employees, and society.",TR EIKON
+Governance Pillar score,The Corporate Governance Pillar evaluates a firm's processes and systems and its executives' and board of directors' acts to guarantee long-term shareholder value.,TR EIKON
+Tobin Q (Tobin's Q ratio),The ratio of total debt and market capitalization to total assets,Author's calculations
+Board Size,The number of board of directors,TR EIKON
+Board Gender Diversity,The percentage of the female board of directors,TR EIKON
+Board Independence,Indicating the existence of policy about the independence of its board,TR EIKON
+CEO Board Chair Separation,Indicating either the CEO instantaneously leads the board or the board chairperson is the CEO of the company,TR EIKON
+Sustainability Committee,Indicating whether the CSR or sustainability committee or team exist in the company,TR EIKON
+Free Float Percentage,The percentage of shares outstanding,TR EIKON
+Total Assets,The total assets owned by the company,TR EIKON
+Leverage,The ratio of total liabilities to total assets,Author's calculations
+ROA (Return on assets),The ratio of net income (minus taxes) to total assets,Author's calculations

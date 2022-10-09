@@ -1,0 +1,21 @@
+,HC (             n            = 16),D+ (             n            = 12),D− (             n            = 34),
+Variable,Mean (             SD            )/category,Mean (             SD            )/category,Mean (             SD            )/category,Group comparisons
+Demographics,,,,
+Age (years),71.53 (10.62),69.72 (6.96),69.46 (9.13),"F            (2,59) = 0.29,             p            = 0.75"
+Sex (female/male),11/5,3/9,9/25,"χ               2              (2) = 9.27,             p            = 0.01"
+Handedness (right/left),16/0,11/1,33/1,"χ               2              (2) = 1.55,             p            = 0.47"
+Vascular risk factors,,,,
+ECG (normal/sinus rhythm/atrial fibrillation),n/a,1/10/1,1/23/10,"χ               2              (2) = 2.55,             p            = 0.28"
+Hypertension (no/yes             a            /yes             b            ),n/a,5/7/0,15/15/4,"χ               2              (2) = 1.8,             p            = 0.41"
+Diabetes mellitus (no/yes             c            /yes             d            /yes             e            /yes             f            ),n/a,10/0/1/1,28/3/3/0,"χ               2              (3) = 3.9,             p            = 0.27"
+Smoking (never/previously/current),n/a,5/6/1,19/10/5,"χ               2              (2) = 1.7,             p            = 0.43"
+Ischemic heart disease (no/yes),n/a,10/2,27/7,"χ               2              (1) = 0.09,             p            = 0.77"
+Statins (no/yes             g            /yes             h            ),n/a,1/7/4,2/21/11,"χ               2              (2) = 0.1,             p            = 0.95"
+Vascular disease,,,,
+Small vessel disease (no/yes),n/a,7/5,22/12,"χ               2              (1) = 0.16,             p            = 0.69"
+WMH (Fazekas: 0/1/2/3)             i,n/a,0/6/5/1,0/14/13/7,"χ               2              (3) = 0.95,             p            = 0.62"
+Lesion characteristics,,,,
+Hemisphere (left/right),,5/7,19/15,"χ               2              (1) = 0.72,             p            = 0.4"
+Arterial territory (MCA             ant            /MCA             pos            /MCA             str            /PCA/lacunar/thalamic),,2/3/3/2/1/1,7/7/5/8/5/2,"χ               2              (5) = 1.24,             p            = 0.94"
+Volume (ml),,7175.64 (12081.03),7947.09 (11917.81),"t            (44) = 0.73,             p            = 0.47"
+Time since lesion (days),,68.17 (13.39),79.88 (54.63),"t            (44) = 0.19,             p            = 0.85"

@@ -1,0 +1,12 @@
+Component,Description
+pods,"movable shelves, on which inventory is stored"
+storage area,the inventory area where the pods are stored
+workstations:,
+picking stations,where pickers pick the order items
+packing stations,where packers pack the pick order items and
+,the split orders are consolidated
+replenishment stations,where replenishment items are stored to pods
+robots,moving underneath pods and carrying them to
+,workstations
+conveyors,transporting the pick orders between picking and
+,packing stations to finish packing

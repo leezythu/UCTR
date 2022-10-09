@@ -1,0 +1,11 @@
+,Subjects with normal LV function Study IDs #1 to #11,Patients with low LV function Study IDs #12 to #15
+CT Scanner,Toshiba Aquilion ONE,GE Revolution CT
+Gantry rotation,275–350 ms,280 ms
+Wide-area detector,320 slices,256 slices
+Acquisition mode,“Half-scan”,"Cardiac, 16 cm slab in the Z direction"
+X-ray energy,100–120 kVp,80–100 kVp
+Timeframes in cardiac cycle,20,13–16
+Reconstruction method,"AIDR 3D STD, FC03 filter","ASIRv = 0.5, STANDARD kernel"
+Pixels (axial planes),512 × 512,512 × 512
+Pixel size (axial planes),0.334 × 0.334 – 0.432 × 0.432 mm             2,0.415 × 0.515 – 0.528 × 0.528 mm             2
+Slice spacing,0.25–1.0 mm,0.625 mm

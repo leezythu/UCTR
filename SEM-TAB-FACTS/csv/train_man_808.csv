@@ -1,0 +1,34 @@
+ROI,Index,Category,How this feature is computed
+Head,1,Distance,Maximum displacement of the head while head-raising from its starting position
+Head,2,Distance,Maximum displacement of the head while head-lowering from its starting position
+Head,3,Distance,Average distance head moved during the utterance
+Head,4,Distance,Total distance traveled by head during the utterance
+Eyebrow,5,Distance,Maximum displacement of the eyebrow keypoint from its starting position
+Eyebrow,6,Distance,Maximum displacement of the eyebrow while eyebrow-lowering from its starting position
+Eyebrow,7,Distance,Average distance eyebrow moved during utterance
+Eyebrow,8,Distance,Total distance eyebrow moved during the utterance
+Lips,9,Distance,Maximum lip-opening distance
+Lips,10,Distance,Maximum lip-closing distance
+Lips,11,Distance,Average distance lips moved during utterance
+Lips,12,Distance,Total distance lips moved during the utterance
+Head,13,Time,The relative time at which the displacement of the head while head-raising was maximum
+Head,14,Time,The relative time at which the displacement of the head while head-lowering was maximum
+Head,15,Time,The relative time at which the head velocity was maximum during head-raising
+Head,16,Time,The relative time at which the head velocity was maximum during head-lowering
+Eyebrow,17,Time,The relative time at which the displacement of the eyebrow while eyebrow-raising was maximum
+Eyebrow,18,Time,The relative time at which the displacement of the eyebrow while eyebrow-lowering was maximum
+Eyebrow,19,Time,The relative time at which the eyebrow keypoint reached maximum velocity during eyebrow-raising
+Eyebrow,20,Time,The relative time at which the eyebrow keypoint reached maximum velocity during eyebrow-lowering
+Lips,21,Time,The relative time at which the amount of lip-opening reached maximum
+Lips,22,Time,The relative time at which the amount of lip-closing reached maximum
+Lips,23,Time,The relative time at which the lip velocity during lip-opening was maximum
+Lips,24,Time,The relative time at which the lip velocity during lip-closing was maximum
+Head,25,Kinematic,Maximum head velocity during head-raising
+Head,26,Kinematic,Maximum head velocity during head-lowering
+Head,27,Kinematic,Maximum absolute acceleration of the head
+Eyebrow,28,Kinematic,Maximum eyebrow velocity during eyebrow-raising
+Eyebrow,29,Kinematic,Maximum eyebrow velocity during eyebrow-lowering
+Eyebrow,30,Kinematic,Maximum absolute acceleration of the eyebrow
+Lips,31,Kinematic,Maximum lip velocity during lip opening
+Lips,32,Kinematic,Maximum lip velocity during lip closing
+Lips,33,Kinematic,Maximum absolute acceleration of the lips

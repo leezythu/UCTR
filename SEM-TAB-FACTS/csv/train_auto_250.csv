@@ -1,0 +1,7 @@
+,ETOH + THC (n = 166),No Substance (n = 688),Diff. Actual,Diff. Hodges-Lehmann,U,p-value
+Age,34,56,22,18,32251,<0.001
+LOS (days),2,3,1,1,47726,<0.001
+ICU (days),1,1,0,0,54997,0.443
+Ventilator (days),0,0,0,0,52852,0.082
+GCS,14,15,1,0,46779,<0.001
+ISS,9,10,1,0,54378,0.337

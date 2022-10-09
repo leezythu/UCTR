@@ -1,0 +1,10 @@
+Variable,Odds Ratio,95% Cl,p-            value
+No treatment with ARB (yes/no),2.72,1.33–5.58,.006
+Having depression (no/yes),2.99,1.17–7.62,0.02
+"Gender, male",1.98,1.08–3.64,0.03
+Worse NYHA functional class,1.92,1.05-3.52,0.04
+Dose of diuretics ≥40 mg/day (no/yes),1.92,1.02-3.64,0.04
+"Age, years",0.98,0.96–1.002,0.07
+"NTproBNP, pg/mL",1.00,0.99–1.01,0.19
+Having renal failure (no/yes),1.49,0.69–3.21,0.31
+Treatment with antidepressants (no/yes),1.38,0.69–2.76,0.36

@@ -1,0 +1,11 @@
+Variable,W                                  ±                                    W                                  ±,W                            Z
+Leptons,"2 leptons,                         p                          T                        > 25/20 GeV","3 leptons,                         p                          T                        > 25/10/20 GeV"
+p                                  T                                  j,>50 GeV,>50 GeV
+|                                m                                  ℓ                                ℓ                                −                                m                                  Z                                |,>15 GeV (                           e                            e                          ),<15 GeV
+m                            ℓℓ,>20 GeV,—
+m                            ℓℓℓ,—,>100 GeV
+p                                  T                                  miss,>30 GeV,>30 GeV
+b quark veto,Required,Required
+max                            ⁡                            (                                z                                  ℓ                                  ⁎                                ),<0.75,<1.0
+m                          jj,>500 GeV,>500 GeV
+|Δ                         η                          jj                        |,>2.5,>2.5

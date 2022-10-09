@@ -1,0 +1,13 @@
+Feature,Description
+Number of reads used in the assembly,"45,085,168"
+Mean read length,195 bp
+Genome size,"4,875,097 bp"
+Number of contigs,74
+G+C content (%),49.7
+N50 contig length,"237,553 bp"
+Mean contig length,"65,880 bp"
+Number of CDSs,"4,473"
+Number of rRNAs,4
+Number of tRNAs,94
+Number of CRISPRs,5
+Genome coverage depth,"1,718-fold"

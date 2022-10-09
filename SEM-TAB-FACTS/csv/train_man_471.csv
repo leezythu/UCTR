@@ -1,0 +1,5 @@
+Target/OAR,Dosimetric parameter,Prescribed dose             or            constraint
+CTV/PTV*,D95%            D90%,≥ 19.0 Gy            ≥ 17.0 Gy
+Urethra,D10%,< 17.7 Gy
+Rectum,D1cm             3,< 12.0 Gy
+Bladder,D1cm             3,< 12.0 Gy

@@ -1,0 +1,16 @@
+Item,Description
+Classification,Animalia; Chordata; Salmoniformes; Salmonidae;             Salmo salar
+Investigation type,Eukaryote
+Project name,Atlantic salmon blood transcriptome
+Geographic location            (latitude and longitude),64°58′56.4”N 25°36′15.4″E
+"Geographic location            (country and/or sea, region)","Oulujoki, Finland"
+Collected by,"Samuel C. Andrew, Jukka-Pekka Verta"
+Collection date,2018-08-08
+Environment (biome),aquarium (ENVO:00002196)
+Environment (feature),fresh water aquarium (ENVO:00002198)
+Environment (material),fresh water (ENVO:00002011)
+Environmental package,Water
+Sequencing method,"Illumina NextSeq 500, paired-end"
+Estimated Size,3–7 g
+BioProject number,PRJNA626461
+SRA accession numbers,"SRR11570046, SRR11570047, SRR11570048, SRR11570049, SRR11570050, SRR11570051, SRR11570052, SRR11570053, SRR11570054, SRR11570055, SRR11570056, SRR11570057"

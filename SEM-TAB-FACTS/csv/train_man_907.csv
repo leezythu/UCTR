@@ -1,0 +1,9 @@
+No.,Algorithms,Method of evapotranspiration / desired calculation,Other Technologies,Advantages/Results,References
+1.,PLSR and other regression            Algorithms,Evapotranspiration model,"Sensors for data collection, IOT Hardware Implementation",Increased efficiency and economic feasibility,Choudhary et al. (2019)
+2.,Artificial Neural Network based control system,Evapotranspiration model,"Sensors for measurement of soil,temperature,wind speed, etc.",Automation,Umair and Usman (2010)
+3.,Fuzzy Logic,FAO Penman- Monteith method,–,Optimization,Kia et al. (2009)
+4.,"ANN (multilayer neural model), Levenberg Marquardt, Backpropagation",Penman–Monteith method,–,Evaporation decreased due to schedule and savings observed in water and electrical energy,Karasekreter et al. (2013)
+5.,Fuzzy Logic,–,"WSN, Zigbee",Experimental results verification. Can be applied to home gardens and grass,Al-Ali et al. (2015)
+6.,"ANN            Feed Forward, Backpropogation",–,–,Optimization of water resources in a smart farm.,Dela Cruz et al. (2017)
+7.,Fuzzy Logic Controller,Penman–Monteith method,Wireless sensors,Drip irrigation prevents wastage of water and evaporation,Anand et al. (2015)
+8.,Machine Learning algorithm,–,"Sensors, Zigbee, Arduino microcontroller",Prediction and tackles drought situations,Arvind et al. (2017)

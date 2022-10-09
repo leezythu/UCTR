@@ -1,0 +1,16 @@
+"Parameter                           a
+Parameter                           a","Descrip                           b
+Descrip                           b","Plasmodium                         Best-performing model's β, confidence intervals and pMCMC
+β (LCI, UCI)                           c","Plasmodium                         Best-performing model's β, confidence intervals and pMCMC
+pMCMC                           e","Haemoproteus                         Best-performing model's beta, confidence intervals and pMCMC
+β (LCI, UCI)","Haemoproteus                         Best-performing model's beta, confidence intervals and pMCMC
+pMCMC","Leucocytozoon                         Best-performing model's beta, confidence intervals and pMCMC
+Β (LCI, UCI)","Leucocytozoon                         Best-performing model's beta, confidence intervals and pMCMC
+pMCMC"
+Order                           f,,3.10e-1 (6.56e-4-9.96e-1),NA,"2.58e-3 (7.59e-4, 5.32e-3)",NA,"2.44e-3 (7.92e-4, 4.71e-3)",NA
+Nest care,none,"−4.33 (−5.84, −3.12)",>                         1.00e-3,"−2.46 (−3.79, −1.19)",>                         1.00e-3,"−1.99 (−3.18, −0.83)",1.00e-3
+,shared,"−2.90 (−3.74, −2.06)",>                         1.00e-3,"9.60e-1 (3.00e-1, 1.51)",>                         1.00e-3,"4.82e-1 (−2.45e-1, 1.17)",2.22e-1
+Nest type,open,NA,NA,"1.68 (9.70e-1, 2.26)",>                         1.00e-3,NA,NA
+Nest height,shrub,NA,NA,NA,NA,"3.45 (2.30e-1, 7.07)",1.43e-                        2
+,canopy,NA,NA,NA,NA,"−1.79 (−4.21, 0.15)",5.71e-2
+Body size,tarsus length,NA,NA,NA,NA,"9.49e-2 (3.14e-2, 1.79e-1)",1.00e-3

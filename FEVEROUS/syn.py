@@ -14,9 +14,7 @@ def normalize(row):
         item = row[i]
         res = re.findall(r".*(\[\[(.*)\|(.*)\]\]).*",item)
         if res!=[]:
-            # print(res[0][0],res[0][2])
             row[i] = item.replace(res[0][0],res[0][2])
-        # exit(0)
     return row
 
 def get_templates():
@@ -30,7 +28,6 @@ def get_templates():
     return all_tems
 
 def find_pos(table):
-    # print(table)
     d = {}
     i = 0
     for key in table:
@@ -48,8 +45,6 @@ def gen_feed(pos_d,placeholder):
         else:
             l = len(placeholder[key])
             pos_set = set(pos_d[key])
-            # print(len(pos_set))
-            # print(len(pos_d[key]))
             if len(pos_set)!= len(pos_d[key]):
                 raise RuntimeError
             sampled_values = random.sample(pos_d[key],l)
@@ -58,32 +53,24 @@ def gen_feed(pos_d,placeholder):
     return feed_dict
 
 
-# def fill_in_tem(tem,feed_dict):
-#     return ds_arg(tem["logic"],feed_dict)
-
 def fill_in_template(tem,table,pd_table):
     placeholder = tem["placeholder"]
-    # print(placeholder)
     pos_d = find_pos(table)
-    # print("pos_d")
-    # print(pos_d)
     try:
         feed_dict = gen_feed(pos_d,placeholder)
     except:
         print("fail to gen feed_dict...")
         return None
-    # print("feed_dict")
-    # print(feed_dict)
+    #The base 'eq' func can have many sub-funcs such as count,max,min,hop ... Using these templates is enough for a good unsupervised performence on sem-tab-facts 
     if tem["logic"]["func"] in ["eq","str_eq"]:
         return fill_in_eq_template(tem,feed_dict,pd_table,table)
+    #the compare type only occupies a small fraction of the feverous dataset
     # elif tem["logic"]["func"]=="greater":
     #     return fill_in_greater_template(tem,feed_dict)
     # elif tem["logic"]["func"]=="less":
     #     return fill_in_less_template(tem,feed_dict)
     else:
         pass
-    # logic_str = fill_in_tem(tem,feed_dict)
-    # return tem["logic"],logic_str
 
 def filter_blank(table):
     new_table = copy.deepcopy(table)
@@ -130,7 +117,6 @@ if __name__ == "__main__":
         if len(header_content_set)!=len(header_content):
             print("duplicate headers!")
             continue
-        # print("header_row:",header_row[0])
         is_header = []
         for i,row in enumerate(table.get_rows()):
             is_header.append([])
@@ -158,12 +144,8 @@ if __name__ == "__main__":
         try:
             pd_table = pd.DataFrame(pd_in)
         except Exception as e:
-            # print(pd_in)
             continue
-        # pd_table = pd_table.applymap(lambda x: x.replace(',', ''))
         valid_table = filter_blank(pd_in)
-        # print("valid_table")
-        # print(valid_table)
         templates = get_templates()
         for tem in templates:
             fill_res = fill_in_template(tem,valid_table,pd_table)
@@ -176,11 +158,3 @@ if __name__ == "__main__":
     out_f = open("gpt_base/data_folder/original_data/wiki_tems.json",'w')
     out_f.write(json.dumps(all_samples))
     out_f.close()
-
-    # rows = table.get_rows()
-    # for row in rows:
-    #     print("row:",row)
-    # print("caption is:",table.get_table_caption())
-    # context = [current_page._get_section_context(tab.get_id()) for tab in all_tables]
-    # tables = [current_page.get_title_content()  + '; ' +  '; '.join(str(c) for c in context[i]) + '. ' + str(tab) for i,tab in enumerate(all_tables)]
-    # sentence_ids = [sent.get_id() for sent in all_tables]

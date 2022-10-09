@@ -1,0 +1,12 @@
+"
+","Received CWS-interventions
+IHS(n = 141)","Received CWS-interventions
+p-value                           1","Received CWS-interventions
+FC(n = 155)","Received CWS-interventions
+p-value                           1"
+"Unadjusted, OR (95% CI)","3.23 (2.35, 4.45)",<0.001,"1.56 (1.11, 2.17)",0.010
+"Adjusted for sex, AOR (95% CI)","3.22 (2.34, 4.43)",<0.001,"1.56 (1.11, 2.18)",0.010
+"(+) adjusted for age, AOR (95% CI)","3.54 (2.56, 4.89)",<0.001,"1.72 (1.22, 2.43)",0.002
+"(+) adjusted for ethnicity, AOR (95% CI)","3.89 (2.80, 5.40)",<0.001,"1.92 (1.35, 2.73)",<0.001
+"(+) adjusted for internalizing problems, AOR (95% CI)","3.55 (2.55, 4.94)",<0.001,"1.89 (1.32, 2.69)",<0.001
+"(+) adjusted for externalizing problems, AOR (95% CI)","2.31 (1.72, 3.38)",<0.001,"1.51 (1.05, 2.18)",0.027

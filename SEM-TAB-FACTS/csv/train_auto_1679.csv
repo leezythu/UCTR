@@ -1,0 +1,12 @@
+Sample,Burning rate (kg/h),K wt% content (db),VM wt% (db),Reference
+WS 093,2.0,5053,79.6,This work
+WS 123,1.3,5495,78.6,This work
+BS 423,1.4,"20,649",75.1,This work
+BS 433,1.5,"16,464",74.2,This work
+BS 723,1.3,"12,394",76.6,This work
+Bagasse,1.9,2645,87.5,This work
+Miscanthus,1.8,"11,112",87.0,This work
+"Wood briquette, Heatlogs",1.6,1326,90.1,This work
+"Wood briquette, Hotmax",1.7,–,76.0,This work
+"Wood logs (spruce, 18% moisture)",1.3,840,77.0,[                         17                        ]
+"Wood logs (willow, 10% moisture",1.4,2660,82.0,[                         17                        ]

@@ -1,0 +1,3 @@
+Database,Search strategy,Articles found in first search,Articles found in second search                           a,Articles considered                           b,Articles included                           c
+PUBMED,(laryngeal diseases/congenital) AND (laryngeal diseases/surgery) (laryngeal membrane) OR (laryngeal atresia) OR (laryngeal web) OR (laryngeal webs) AND (children),232,44,10,5
+LILACS,(laryngeal) AND (congenital malformations),5,−,0,0

@@ -1,0 +1,12 @@
+First author (year),Sex                           a,Genetic factors,Biomarkers,Age,Smoking,Prediction type,Study type,Setting summary,Country(s),TRIPOD                           b,Reported performance measures
+Frantzi (2014)                         [24],Both,,,,,Current,CC,Hospital,UK and USA,1b,"AUC, sensitivity, specificity"
+Kim (2013)                         [25],Both,,×,×,,Current,CC,Mixed/unclear,Korea,2b,"AUC, sensitivity, specificity, PPV, NPV"
+Kim (2013)                         [25],Both,,×,,,Current,CC,Mixed/unclear,Korea,2b,"AUC, sensitivity, specificity, PPV, NPV"
+Morrissey (2015)                         [26],Both,,×,,,Current,CC,Hospital,USA,1a,"AUC, sensitivity, specificity"
+Scelo (2018)                         [27],Both,,,×,×,Current (potential for predicting future),NCC,General population,"Denmark, France, Germany, Greece, Italy, the Netherlands, Norway, UK, and Spain",1a,"AUC, sensitivity, specificity"
+Scelo (2018)                         [27],Both,,×,×,×,Current (potential for predicting future),NCC,General population,"Denmark, France, Germany, Greece, Italy, the Netherlands, Norway, UK, and Spain",1a,"AUC, sensitivity, specificity"
+Shephard (2013)                         [28],Both,,×,,,Current,CC,General population,UK,1a,PPV
+Usher-Smith (2019)                         [29],M,,,×,×,Future,Ch,General population,UK,3,AUC
+Usher-Smith (2019)                         [29],F,,,×,×,Future,Ch,General population,UK,3,AUC
+Wu (2016)                         [30],Both,,×,,,Current,CC,Hospital,China,2a,"AUC, ACC, sensitivity, specificity"
+Wu (2016)                         [31],Both,×,,,,Future,CC,Hospital,China,1a,AUC                        χ² mentioned but not presented

@@ -1,0 +1,6 @@
+Condition,Value
+Heating load (W),"100, 200, 300, 400, 500, 600"
+Mass flux (kg m                         −2                        s                         −1                        ),45                           ∼                          820
+Coolant temperature of condenser (K),288.15
+Test section inlet sub-cooling (K),0.5
+R1233zd Charge amount (g),800

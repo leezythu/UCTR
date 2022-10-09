@@ -1,0 +1,7 @@
+Intensity of Importance,Definition
+1,Equal importance of both elements
+3,Weak importance of one element over another
+5,Essential or strong importance of one element over another
+7,Demonstrated importance of one element over another
+9,Absolute importance of one element over another
+"2,4,6,8",Intermediate values between two adjacent judgments

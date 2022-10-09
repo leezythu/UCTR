@@ -1,0 +1,27 @@
+"
+","Interviewer characteristics
+(1)","Interviewer characteristics
+(2)"
+Respondent characteristics,Female (=1),Female with headscarf (=1)
+Group 2 (=1),0.02,-0.05*
+,(0.02),(0.03)
+Male (=1),-0.01,-0.02
+,(0.01),(0.01)
+Married (=1),0.01,0.04
+,(0.02),(0.02)
+Age (years),0.00,0.00
+,(0.00),(0.00)
+No education (=1),Ref.,Ref.
+Primary education (=1),0.02,0.02
+,(0.03),(0.03)
+Secondary education (=1),-0.04,0.08*
+,(0.03),(0.03)
+Tertiary or higher educ. (=1),0.02,0.08
+,(0.03),(0.04)
+HH lives in rural area (=1),-0.02,-0.03
+,(0.03),(0.03)
+Constant,0.09,0.00
+,(0.05),(0.05)
+Governorate FE,YES,YES
+Observations,"2,288","1,217"
+Adj. R-squared,0.55,0.65

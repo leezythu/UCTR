@@ -1,0 +1,17 @@
+"
+
+","Average Performance (SD)
+APF-ind-ind
+(1)","Average Performance (SD)
+RPF-ind-ind
+(2)","Average Performance (SD)
+RPF-team-team
+(3)","Mann-Whitney z-Statistics
+(             p            -value)
+(1) vs. (3)","Mann-Whitney z-Statistics
+(             p            -value)
+(2) vs. (3)"
+Stage 1,25.31 (4.90),25.49 (6.06),24.35 (6.81),1.20 (0.230),0.81 (0.420)
+Stage 2,28.97 (5.32),29.53 (6.11),29.52 (6.23),0.01 (0.994),0.10 (0.923)
+All stages,32.43 (6.06),32.29 (7.11),32.60 (7.63),0.46 (0.648),−0.09 (0.926)
+N,68,51,54,122,105

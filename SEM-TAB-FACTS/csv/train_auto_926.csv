@@ -1,0 +1,11 @@
+Q1 (                         m/z                        ),Q3 (                         m/z                        ),Dwell Time (mS),ID,Collision energy (CE) (V)
+407.3,343.3,50,Cholic acid 407 > 343,−47
+407.3,289.3,50,Cholic acid 407 > 289,−52
+411.3,347.3,50,Cholic acid-D4 411 > 347,−47
+411.3,290.3,50,Cholic acid-D4 411 > 290,−52
+391.3,345.3,50,Deoxycholic acid 391 > 345,−47
+391.3,355.3,50,Deoxycholic acid 391 > 355,−46
+395.3,349.3,50,Deoxycholic acid-D4 395 > 349,−47
+395.3,359.3,50,Deoxycholic acid-D4 395 > 359,−46
+514.3,124.1,50,Taurocholic acid 514>124,−64
+514.3,107.0,50,Taurocholic acid 514 > 107,−64

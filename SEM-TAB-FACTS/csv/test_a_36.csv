@@ -1,0 +1,7 @@
+Comparison,Condition,Metric,M               Difference,t,p               perm
+FNL no-case – FNL with-case,Viewing,FD             MeanFilterd,0.008 (−0.005 0.021),1.186,0.244
+FNL no-case – FNL with-case,Viewing,FD             MedianExcluded,0.009 (−0.005 0.021),1.33,0.192
+FNL no-case – Sherlock,Viewing,FD             MeanExcluded,−0.011 (−0.025 0.002),−1.541,0.134
+FNL no-case – Sherlock,Viewing,FD             MedianExcluded,−0.018 (−0.032 −0.004),−2.368,0.022
+Sherlock – FNL with-case,Viewing,FD             MeanExcluded,0.019 (0.005 0.034),2.43,0.022
+Sherlock – FNL with-case,Viewing,FD             MedianExcluded,0.026 (0.012 0.042),3.319,0.002

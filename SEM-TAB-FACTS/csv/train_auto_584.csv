@@ -1,0 +1,10 @@
+Shape,Minimal perimeter (pixel),Maximal perimeter (pixel),Minimal area(pixel),Maximal area (pixel),Number of samples
+Triangle,51.96,389.71,129.90,7 307,10 000
+Square,56.57,424.26,200.00,11 250,10 000
+Pentagon,58.78,440.84,237.76,13 374.23,10 000
+Hexagon,60.00,450.00,259.80,14 614.18,10 000
+Heptagon,60.75,455.58,272.00,15 300.06,10 000
+Octagon,61.23,459.22,282.84,15 909.90,10 000
+Nonagon,61.56,461.73,289.25,16 270.56,10 000
+Circle,62.83,471.24,314.16,17 671.46,10 000
+Star,126.29,947.18,112.26,6 314.46,10 000

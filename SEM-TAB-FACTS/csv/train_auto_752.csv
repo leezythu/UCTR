@@ -1,0 +1,6 @@
+Pure components,T                                 g                                (°C),Δc                                 p                                (J·g                                 −1                                K                                 −1                                ),Mw (g·mol                                 −1                                ),Reference
+Trehalose,113,0.65,342,Kawai et al. (2005)
+Xylose,13,0.95,150,Kalichevsky et al. (1993)
+Whey proteins,76,0.58,"18,200","(                                 Nicolai et al., 2011                                ;                                 Yang et al., 2010                                )"
+Maltodextrin DE19,130,0.43,4978,"(                                 Castro et al., 2016                                ;                                 Van Der Sman &; Meinders, 2011                                )"
+Maltodextrin DE5,171,0.43,"25,847","(                                 Castro et al., 2016                                ;                                 Van Der Sman &; Meinders, 2011                                )"

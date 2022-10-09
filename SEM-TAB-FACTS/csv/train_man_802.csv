@@ -1,0 +1,37 @@
+"Factor
+F1: Violations
+F2: Errors
+F3: Positive behaviors
+CV             a            : Risk perception
+CV             b            : Road distractions","F1
+1
+0.523**
+−0.154**
+0.005
+0.084**","F2
+
+1
+−0.054
+−0.044
+0.279**","F3
+
+
+1
+0.273**
+0.008","CV
+
+
+
+1
+0.058","CV
+
+
+
+
+1","CV
+
+
+
+
+"
+CV             c            : Traffic accidents as a pedestrian (5 years),0.022,0.110**,−0.061*,−0.126**,0.005,1

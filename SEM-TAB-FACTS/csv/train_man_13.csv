@@ -1,0 +1,6 @@
+Filename,Main goal
+Phase1.ipynb,"Processing, refining, completing, and formating the raw collected data."
+Phase2.ipynb,Data augmentation with calculated features and anonymization of personal properties.
+Phase3.ipynb,Statistical analysis of the data regarding the social bots’ activities.
+Phase4.ipynb,"Feature engineering, analysis, and representation of users political classification."
+Phase5.ipynb,Analysis and characterization of classified social bots activity and behavior.

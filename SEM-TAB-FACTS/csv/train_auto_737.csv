@@ -1,0 +1,42 @@
+"
+","Summed absolute values (R method)
+1%","Summed absolute values (R method)
+2.5%","Summed absolute values (R method)
+5%","Summed absolute values (R method)
+10%","Summed absolute values (R method)
+Total","
+","Summed squares (SQ method)
+1%","Summed squares (SQ method)
+2.5%","Summed squares (SQ method)
+5%","Summed squares (SQ method)
+10%","Summed squares (SQ method)
+Total"
+RW-125,0,0,0,0,0,,0,0,0,0,0
+RW-250,0,0,0,0,0,,0,0,0,0,0
+RW-500,0,0,0,0,0,,0,0,0,0,0
+GARCH-N,0,0,0,0,0,,0,0,0,0,0
+GARCH-Skt,0,0,0,0,0,,0,1,0,0,1
+HAR-Skt-RV5,0,0,0,0,0,,0,0,0,0,0
+HEAVY-N-RV5,0,0,0,0,0,,0,1,2,1,4
+HEAVY-Skt-RV5,3,3,3,2,11,,3,3,3,2,11
+AL-CAViaR-Sym,2,1,0,0,3,,2,2,0,0,4
+GAS-2F,0,0,0,0,0,,0,0,0,0,0
+GAS-1F,0,0,0,0,0,,0,0,0,0,0
+GARCH-FZ,2,1,0,0,3,,2,1,0,0,3
+Hybrid,1,1,1,0,3,,1,1,1,0,3
+GAS-2F-RV5,4,1,3,3,11,,4,2,3,2,11
+GAS-1F-RV5,4,2,3,2,11,,4,3,3,2,12
+GARCH-FZ-RV5,2,3,3,3,11,,3,3,3,2,11
+Hybrid-RV5,1,1,2,1,5,,2,2,2,1,7
+GAS-2F-RV10,3,2,4,2,11,,3,2,4,2,11
+GAS-1F-RV10,2,3,2,2,9,,2,3,2,2,9
+GARCH-FZ-RV10,2,2,1,1,6,,3,3,3,1,10
+Hybrid-RV10,2,2,2,1,7,,2,2,3,1,8
+GAS-2F-RN5,2,2,4,2,10,,2,3,4,2,11
+GAS-1F-RN5,4,2,2,0,8,,4,3,3,1,11
+GARCH-FZ-RN5,2,2,2,2,8,,2,2,2,2,8
+Hybrid-RN5,2,3,3,0,8,,2,3,3,0,8
+GAS-2F-RN10,2,4,4,2,12,,3,4,4,2,13
+GAS-1F-RN10,2,2,3,1,8,,3,3,3,1,10
+GARCH-FZ-RN10,1,2,3,1,7,,2,2,3,2,9
+Hybrid-RN10,3,3,2,0,8,,3,3,2,0,8

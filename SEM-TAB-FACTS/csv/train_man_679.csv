@@ -1,0 +1,8 @@
+Hypotheses,Decisions
+H1            : Board size has a positive association with ESG performance in the logistics sector.,Rejected
+H2            : Board gender diversity has a positive association with ESG performance in the logistics sector.,Accepted for composite ESG score and Governance Pillar
+H3            : Board independence has a positive association with ESG performance in the logistics sector.,Accepted for Governance Pillar
+H4            : CEO and board chair separation has a positive association with ESG performance in the logistics sector.,Rejected
+"H5            : The existence of a sustainability committee (i.e., CSR) has a positive association with ESG performance in the logistics sector.",Accepted for composite ESG score and Social Pillar
+H6            : Ownership diffusion has a positive association with ESG performance in the logistics sector.,Accepted only for Social Pillar
+H7            : Sustainability performance has a positive association with the firm value in the logistics sector.,Rejected

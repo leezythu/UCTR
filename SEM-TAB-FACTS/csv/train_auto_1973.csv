@@ -1,0 +1,9 @@
+"material constants used for normalization
+composite","material constants used for normalization
+spontaneous polarization                               p                                0                                  (                                0                                K                                )","material constants used for normalization
+Curie temperature                             θ                              C"
+[                              −                              ],[C/m                         2                        ],[K]
+PZT-5A,"0.32 (                         Hooker, 1998                        )","643 (                         CeramTec, 2020                        )"
+PZT-500,"0.43 (                         Zhang et al., 1994                        )","650 (                         CeramTec, 2020                        )"
+PZT-52/48,"0.34 (                         Zhang et al., 1994                        )","640 (                         Jaffe et al., 1971                        )"
+PIC 151,"0.35 (                         Kaeswurm et al., 2018                        )","523 (                         PICeramic, 2020                        )"

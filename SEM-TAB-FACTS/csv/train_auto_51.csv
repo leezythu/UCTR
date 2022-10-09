@@ -1,0 +1,4 @@
+Sample,Time (min),Temperature (°C),Voltage (kV),Corona electrode distance (cm),d                         33                        with electrodes (pC/N),d                         33                        without electrodes (pC/N)
+PZT,3,70,20,5,595 ± 11,587 ± 3
+BCZT,3,70,20,5,440 ± 22,421 ± 20
+KNN,30,330,30,2.3,53 ± 17,43 ± 28

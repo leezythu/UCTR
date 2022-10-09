@@ -1,0 +1,7 @@
+Parameter,Predictor Variable,Mean,SD
+θ              1,Intercept,1.183,0.058
+θ              2,Areal ratio between secondary/satellite and primary islands within a given spatial complex,0.857,0.064
+θ              3,Trend in time,-0.021,0.002
+θ              4,"Peary caribou abundance at the primary island, when the number of animals is higher on the secondary location",0.949,0.016
+θ              5,"Peary caribou abundance at the primary island, when the number of animals is lower on the secondary location",0.741,0.075
+σ,Standard error,1.919,0.205

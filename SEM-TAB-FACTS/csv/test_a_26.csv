@@ -1,0 +1,8 @@
+"
+","electricity
+ND","electricity
+RMSE","traffic
+ND","traffic
+RMSE"
+MatFact,0.16,1.15,0.20,0.43
+DeepAR,0.07,1.00,0.17,0.42

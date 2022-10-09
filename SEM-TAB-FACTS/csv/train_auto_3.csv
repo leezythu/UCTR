@@ -1,0 +1,4 @@
+variable,mean,sd,min,max
+Own price elasticity,−4.40,3.59,−64.81,−1.30
+Markup in data                                       (                                          p                                          −                                          m                                          c                                          )                                        /                                      p,0.72,0.09,0.40,0.99
+Markup (backed out)                                       (                                          p                                          −                                                m                                                c                                                ˆ                                              )                                        /                                      p,0.29,0.11,0.02,0.77

@@ -1,0 +1,6 @@
+Component,Information displayed,Functions
+Canvas,Result visualization.,"Receive drops, mapping data to chart or VC-channels."
+Data,"Data mappings, dimensions and aggregates.",Initialize drags.
+Outline,"Hierarchy of charts (a VC-tree) & data and chart type of each node, selected node.","Receive drops (map data to chart), rearrange hierarchy (group, nest, layer), changing chart type of node, selecting a node."
+Channels,VC-channels of selected chart.,"Receive drops (map data to VC-channel), edit individual VC-channels."
+Guides,Guides (legends and axes) of selected chart.,Edit guide by editing channels.

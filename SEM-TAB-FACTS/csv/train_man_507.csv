@@ -1,0 +1,8 @@
+Parameter,Units,Description
+I             SC max,A,Maximum current of a short circuit stage
+I             SC mean,A,Mean current of a short circuit stage
+I             arc mean,A,Mean current of an arcing stage
+I             cycle mean,A,Mean current of the cycle
+E             SC,J,Total energy of a short circuit stage
+E             arc,J,Total energy of an arcing stage
+E             SC            / E             arc,–,Ratio of short circuit energy to arcing energy

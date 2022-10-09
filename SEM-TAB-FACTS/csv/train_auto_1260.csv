@@ -1,0 +1,12 @@
+Paths,Research model (without marker variable),Research model (with marker variable)
+Incongruent IT-mediated information interruption→ Interruption overload,0.428***,0.410***
+Congruent IT-mediated information interruption→ Interruption overload,0.442***,0.424***
+Interruption overload→ Emotional exhaustion,0.483***,0.483***
+Preemptive processing × incongruent IT-mediated information→ Emotional exhaustion,-0.079*,-0.074*
+Sequential processing × congruent IT-mediated information →Emotional exhaustion,-0.123**,-0.116**
+Marker variable→ Incongruent IT-mediated information interruption,,-0.001
+Marker variable→ Congruent IT-mediated information interruption,,-0.015
+Marker variable→Preemptive processing,,-0.112
+Marker variable→Sequential processing,,-0.110
+Marker variable→ Interruption overload,,-0.001
+Marker variable→ Emotional exhaustion,,-0.054

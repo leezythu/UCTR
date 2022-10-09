@@ -1,0 +1,9 @@
+"Share of payoffs for:
+","lender.....
+f               l              (1, .)","borrower...
+f               b              (1, .)","middlemen
+f               m              (1, .)"
+Number of middlemen             m,∂                          f                          l                            ∂                        m                        >                    0,∂                          f                          b                            ∂                        m                        >                    0,∂                          f                          m                            ∂                        m                        <                    0
+,"f               l              (., 0)","f               b              (., 0)","f               m              (., 0)"
+Level of competition             δ,∂                          f                          l                            ∂                        δ                        >                    0,∂                          f                          b                            ∂                        δ                        >                    0,∂                          f                          m                            ∂                        δ                        <                    0
+,"f               l              (., 1)","f               b              (., 1)","f                    m                      (                    .                    ,                    1                    )                    =                  0"

@@ -1,0 +1,18 @@
+"
+","Log of wheat prices (ag/l)
+(1)","Log of wheat prices (ag/l)
+(2)","Log of wheat prices (ag/l)
+(3)","Log of wine prices (ag/l)
+(4)","Log of wine prices (ag/l)
+(5)"
+Temperature,0.013,0.031,0.032,−0.061,−0.077
+,(0.010),(0.014),(0.014),(0.033),(0.033)
+,[0.208],[0.023],[0.020],[0.062],[0.019]
+Temperature                         t-1,,0.053,0.053,,−0.075
+,,(0.014),(0.013),,(0.033)
+,,[0.0001],[0.0001],,[0.023]
+Spring temperature,Yes,Yes,Yes,Yes,Yes
+Spring temperature                         t                        −                         1,No,Yes,Yes,No,Yes
+Province FE,No,No,Yes,No,No
+Observations,149,149,149,49,49
+R                         2,0.013,0.172,0.198,0.071,0.171

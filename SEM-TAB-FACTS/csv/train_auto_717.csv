@@ -1,0 +1,6 @@
+Required analysis accuracy,ab,aa,ar,ad
+Minimum,0,0.5,8,0
+Fast,0,0.2,32,32
+Accurate,2,0.15,128,512
+Maximum,8,0.0,0,4096
+Value used in simulations,2,0.1,300,1000

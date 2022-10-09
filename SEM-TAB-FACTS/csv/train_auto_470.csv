@@ -1,0 +1,18 @@
+Histidine Tagged Protein,Molecular Weight (KDa),Expression Cell Line,Yield (%),Monomer Purity (%)
+Fab #1,50,HEK-293,72,95
+Fab #2,50,CHO,79,82
+Fab #3,50,CHO,85,76
+Fab #4,50,CHO,70,81
+Fab #5,50,CHO,75,91
+Fab #6,50,CHO,72,82
+Fab #7,50,CHO,68,79
+Fab #8,50,CHO,73,83
+Hormone,6,HEK-293,60,86
+Fusion #1,120,CHO,78,75
+Fusion #2,71,HEK-293,80,78
+Exotoxin,39,CHO,75,89
+Receptor,136,CHO,80,74
+Receptor,150,HEK-293,82,73
+Bispecific T Cell Engager #1,52,HEK-293,85,92
+Bispecific T Cell Engager #2,52,HEK-293,84,88
+Bispecific T Cell Engager #2,52,HEK-293,78,74

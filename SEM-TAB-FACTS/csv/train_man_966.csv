@@ -1,0 +1,16 @@
+"
+","Cube
+V              cube","Cube
+ζ              cube              2","S
+V             S","S
+ζ              S              2","Goss
+V              Goss","Goss
+ζ              Goss              2","Brass
+V              Brass","Brass
+ζ              Brass              2","Copper
+V              Copper","Copper
+ζ              Copper              2","Random
+V              Random"
+Texture A,6%,11 deg             2,29%,7 deg             2,5%,7 deg             2,15%,7 deg             2,15%,7 deg             2,30%
+Texture B,5%,14 deg             2,41%,9 deg             2,4%,6 deg             2,22%,9 deg             2,16%,11 deg             2,12%
+Texture C,18%,13 deg             2,8%,8 deg             2,10%,12 deg             2,2%,13 deg             2,4%,5 deg             2,58%

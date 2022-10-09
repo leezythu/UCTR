@@ -1,0 +1,27 @@
+"Tracers
+
+","
+Linearity
+Range                           a","
+Linearity
+R                         2","
+
+LoQ                           a","Precision (% RSD)
+Intra-day precision
+0.50                           a","Precision (% RSD)
+Intra-day precision
+2.5                           a","Precision (% RSD)
+Intra-day precision
+10                           a","Precision (% RSD)
+Inter-day precision
+0.50                           a","Precision (% RSD)
+Inter-day precision
+2.5                           a","Precision (% RSD)
+Inter-day precision
+10                           a"
+PYR,0.50 – 10,0.9995,0.35,7.9,6.6,6.2,9.4,7.4,7.3
+23MPRZ,0.30 – 50,0.9970,0.20,4.7,5.3,4.2,7.1,7.2,5.3
+4BZOH,0.10 – 20,0.9962,0.08,8.2,7.0,4.7,10,"8,5",5.7
+26BZOH,0.10 - 20,0.9971,0.10,6.2,7.1,4.2,8.1,7.8,5.6
+4METBZOH,0.40 – 25,0.9974,0.25,9.4,7.4,5.9,12,9.1,5.4
+26METBZOH,0.40 – 25,0.9984,0.25,10,6.4,3.9,12,11,7.5

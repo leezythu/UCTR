@@ -1,0 +1,4 @@
+Sample orientation,n,Compressive strength [MPa],Fracture force [N],Dissipated energy [J]
+Normal,10,166 (IQR: 29),4201 (IQR: 746),2.65 (IQR: 0.52)
+parallel-equatorial,10,123 (IQR: 6),3158 (IQR: 222),1.75 (IQR: 0.22)
+parallel-meridional,10,126 (IQR: 18),3035 (IQR: 883),1.82 (IQR: 0.89)

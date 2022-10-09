@@ -1,0 +1,14 @@
+Type of assessment,Time administered,Healthy controls,MDD,BD,Neurocognitive disorder
+HAM-D,Every visit,✓,✓,✓,
+MADRS,Every visit,✓,✓,✓,
+YMRS,Every visit,✓,✓,✓,
+BDI-II,Every visit,✓,✓,✓,
+PSQI,Every visit,✓,✓,✓,
+MMSE,"Screening, every visit",✓,,,✓
+CDR,Every visit,✓,,,✓
+LM (Immediate/Delayed),Every visit,✓,,,✓
+CDT (copying/free-drawing),Every visit,✓,,,✓
+NPI,Every visit,✓,,,✓
+GDS,Every visit,✓,,,✓
+M.I.N.I.,Screening,✓,,,✓
+SCID,Once during the follow up,✓,✓,✓,✓

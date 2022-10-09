@@ -1,0 +1,6 @@
+Item,Overall accuracy of ten-fold cross validation,Average KIA of ten-fold cross validation,The number of samples
+1st Classification,96.1%,91.5%,3069
+2nd Classification,–,–,–
+3rd Classification,94.0%,79.8%,1874
+4th Classification,90.7%,82.2%,1581
+5th Classification,84.3%,76.3%,823

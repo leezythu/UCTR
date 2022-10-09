@@ -1,0 +1,4 @@
+,Average monthly mortality risk,Proportion that would die after one year,Justification
+Lower bound,0.10%,1.24%,This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly.
+Medium,0.24%,2.91%,The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART                         [13]                        . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART                         [14]                        .
+Upper bound,0.44%,5.28%,This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly.

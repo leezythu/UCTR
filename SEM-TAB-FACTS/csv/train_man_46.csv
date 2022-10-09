@@ -1,0 +1,5 @@
+No,Name,Description,Code,Geometry point
+1,Primary canal,Irrigation canal connected directly to a water source,Primcanal_name,line
+2,Secondary canal,Irrigation canal below the primary canal,Seccanal_name,line
+3,Irrigated Farmland,The area of irrigated farmland in each village,farmland_village,polygon
+4,Village Border,The administrative border of each village,villborder_village,polygon

@@ -1,0 +1,12 @@
+"
+Variable","Shock
+Credit demand shock","Shock
+Credit supply shock","Shock
+Sovereign risk shock"
+Output,-,-,-
+Prices,•,•,•
+Loan volume,-,-,-
+Retail lending rate,-,+,+
+Banks’ home bias,•,0,+
+Government bond spread,•,•,+
+Short rate,•,•,-

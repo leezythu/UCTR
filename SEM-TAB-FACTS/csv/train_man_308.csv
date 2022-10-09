@@ -1,0 +1,11 @@
+Authors,Projection technique,System complexity,Year of publication,Measurement FOV
+Leonhardt et al.,Ronchi grating,High,1994,0.10 × 0.10 mm             2            – 2.50 × 2.50 mm             2
+Windecker et al.,Ronchi grating,High,1997,1.40 × 1.00 mm             2            – 12.0 × 6.50 mm             2
+Proll et al,LCD chip,High,2000,1.40 × 1.00 mm             2            – 16.5 × 12.0 mm             2
+Zhang et al.,DMD chip,High,2002,1.20 × 0.90 mm             2            – 7.60 × 5.70 mm             2
+Proll et al.,LCoS chip,High,2003,0.83 × 0.62 mm             2            – 21.2 × 15.7 mm             2
+Li et al.,LCoS projector,Medium,2013,3.0 × 3.0 mm             2            (adjustable)
+Chen et al.,DLP projector*,Medium,2005,Not given
+Yu et al.,LightCrafter**,Medium,2014,5.0 × 5.0 mm             2            (adjustable)
+Jeught et al.,LightCrafter,Low,2015,10.7 × 8.0 mm             2            (adjustable)
+Hu et al.,LightCrafter,Low,2017,8.0 × 6.0 mm             2            (adjustable)

@@ -1,0 +1,19 @@
+"
+
+","Bone marrow (BM)
+R              2
+Kif23              WT/WT","Bone marrow (BM)
+R              2
+Kif23              P909R/WT","Bone marrow (BM)
+R              2
+Kif23              P909R/P909R","Bone marrow (BM)
+Direction
+Kif23              WT/WT","Bone marrow (BM)
+Direction
+Kif23              P909R/WT","Bone marrow (BM)
+Direction
+Kif23              P909R/P909R"
+KIF23-FL,0.516,0.655,0.499,+,+,+
+KIF23-Δ18,0.877,0.441,0.152,+,+,n/a
+KIF23            -Δ17–18,0.732,0.874,0.158,−,+,n/a
+KIF23-total,0.006,0.7518,0.499,n/a,+,+

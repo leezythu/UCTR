@@ -1,0 +1,10 @@
+IGCC parameters,Values using FSPC
+Ambient air temperature                               T                                  0                              (K),288.2
+Ambient air pressure                               P                                  0                              (kPa),101.3
+Purity of oxygen,95 mol%
+Purity of nitrogen,50 ppm                               O                                  2
+"Inlet pressure of OC                               P                                  O                                C                                ,                                i                                n                              (kPa)",637
+"Outlet pressure of OC                               P                                  O                                C                                ,                                o                                u                                t                              (kPa)",6737
+"Inlet pressure of NC                               P                                  N                                C                                ,                                i                                n                              (kPa)",1827
+"Outlet pressure of NC                               P                                  N                                C                                ,                                o                                u                                t                              (kPa)",3190
+Compressor efficiency                               η                                  C,0.85

@@ -1,0 +1,16 @@
+"Classifier
+Classifier","Training Datasets
+Acc (%)","Training Datasets
+MCC","Training Datasets
+Sn (%)","Training Datasets
+Sp (%)","Training Datasets
+AUC","Testing Datasets
+Acc (%)","Testing Datasets
+MCC","Testing Datasets
+Sn (%)","Testing Datasets
+Sp (%)","Testing Datasets
+AUC"
+RF,71.77,0.44,75.99,67.56,0.79,78.30,0.57,73.90,82.70,0.85
+SVM                           a,72.72,0.46,65.46,79.98,0.80,79.90,0.60,79.40,80.40,0.88
+AdaBoost,71.19,0.42,68.33,74.04,0.78,80.45,0.61,77.10,83.80,0.88
+NB,66.60,0.34,55.08,78.12,0.71,69.82,0.40,73.00,66.63,0.77

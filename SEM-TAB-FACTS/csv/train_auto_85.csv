@@ -1,0 +1,16 @@
+"Reader 2
+
+Reader 1","Reader 2
+
+UIP","Reader 2
+UIP
+12","Reader 2
+Probable UIP
+0","Reader 2
+Indeterminate for UIP
+1","Reader 2
+Alternative diagnosis
+1"
+,Probable UIP,1,2,2,0
+,Indeterminate for UIP,5,1,5,6
+,Alternative diagnosis,1,1,2,86

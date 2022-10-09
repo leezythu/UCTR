@@ -1,0 +1,20 @@
+ISIC rev 3.1 code,Short description,Long description
+AtB,Agriculture,"Agriculture, hunting, forestry and fishing"
+15t16,Food products,"Food, beverages and tobacco"
+17t18,Textiles,Textiles and textile
+19,Leather,"Leather, leather and footwear"
+20,Wood products,Wood and products of wood and cork
+21t22,Paper,"Pulp, paper, printing and publishing"
+23,Petroleum,"Coke, refined petroleum and nuclear fuel"
+24,Chemical,Chemicals and chemical
+25,Plastic,Rubber and plastics
+26,Non-metallic mineral,Other non-metallic mineral
+27t28,Metal,Basic metals and fabricated metal
+29,Machinery,"Machinery, not elsewhere classified (n.e.c.)"
+30t33,Electronics,Electrical and optical equipment
+34t35,Automotive,Transport equipment
+36t37,Other,Manufacturing n.e.c.; recycling
+C,Mining,Mining and quarrying
+E,Utilities,"Electricity, gas and water supply"
+F,Construction,Construction
+M,"Education, and R&D","Education, and R&D"

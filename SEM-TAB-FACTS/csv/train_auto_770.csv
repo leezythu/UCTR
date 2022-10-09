@@ -1,0 +1,15 @@
+"Localities
+Localities","Hazard Parameters
+Fuel Load [ton ha                         −1                        ] [A]","Hazard Parameters
+Spread Potential [m hr                         −1                        ] [B]","Hazard Parameters
+Horizontal Continuity [C]","Hazard Parameters
+Vertical Continuity [D]","Hazard Parameters
+Danger Condition [E]"
+1. Cuesta Barriga,38,0.008147: Medium/High,Medium,Low,High
+2. San José de Maipo,125,0.007603: Medium,High,High,Very High
+3. Rodelillo,75,0.01266: High/Very High,Medium,High,Very High
+4. Limache,45,0.008337: Medium/High,Medium,Low,High
+5. Pichidegua,60,0.00771: Medium,High,Medium,High
+6. La Estrella,18,0.00452:                        Low,Low,Low,Medium
+7. Ovejería,55,0.00779: High,Medium,Medium,High
+8. Nirivilo,40,0.01334: High/Very High,Medium,Low,Medium

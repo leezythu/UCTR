@@ -1,0 +1,7 @@
+,HAZ (OLS coef.),Stunted (OR),Severely stunted (OR)
+Average rainfall anomalies,−0.09***,1.14***,1.18***
+,(0.02),(0.03),(0.04)
+Average rainfall anomalies                         2,0.01,0.98,0.97
+,(0.01),(0.015),(0.02)
+Observations,"220,823","220,823","220,823"
+(Pseudo) R                         2,0.11,0.06,0.05

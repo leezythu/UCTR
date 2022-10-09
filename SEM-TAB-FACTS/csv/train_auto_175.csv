@@ -1,0 +1,21 @@
+"
+Unmet need/Intention status","
+N","Cumulative percent adopting by month
+6 months","Cumulative percent adopting by month
+12 months","Cumulative percent adopting by month
+18 months","Cumulative percent adopting by month
+24 months","Cumulative percent adopting by month
+30 months","Cumulative percent adopting by month
+36 months","
+Significance level"
+Unmet need status,747,,,,,,,p                        <.01
+No unmet need,212,20.0,30.1,32.5,35.9,35.9,39.3,
+Unmet need,535,11.7,19.0,21.5,25.3,27.7,29.1,
+Intention to use,747,,,,,,,
+No intention to use,312,8.6,13.8,15.2,15.7,15.7,15.7,p                        <.01
+Intention to use,435,18.0,28.1,31.4,37.5,41.2,45.5,
+Unmet need and intention concordance,747,,,,,,,
+Unmet need and intention to use,307,14.0,23.4,26.4,32.8,37.7,41.0,p                        <.01
+Unmet need and no intention to use,228,8.6,13.1,15.0,15.7,15.7,15.7,
+No unmet need and intention to use,128,28.0,40.2,44.2,49.9,49.9                         ⁎⁎,58.3                         ⁎⁎,
+No unmet need and no intention to use,84,8.4,15.7,15.7,15.7,15.7,15.7,

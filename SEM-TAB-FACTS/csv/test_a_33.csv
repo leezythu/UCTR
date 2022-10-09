@@ -1,0 +1,14 @@
+"Liquid
+Liquid","Plastron in liquid
+UMB","Plastron in liquid
+SMB","Liquid uptake at 1 min (wt%)/(%)
+UMB","Liquid uptake at 1 min (wt%)/(%)
+SMB","Liquid uptake at 30 min (wt%)/(%)
+UMB","Liquid uptake at 30 min (wt%)/(%)
+SMB","Liquid uptake at 24 h (wt%)/(%)
+UMB","Liquid uptake at 24 h (wt%)/(%)
+SMB"
+Water,No,Yes,14            (19),4            (5),44            (59),20            (27),75            (100),71            (95)
+Ethylene glycol,No,Yes,15            (26),0.3            (0.5),30            (53),0.6            (1),57            (100),19            (33)
+Hexadecane,No,Yes,17            (46),0.3            (0.8),26            (70),0.9            (2),37            (100),3            (8)
+Ethanol,No,No,26            (34),19            (25),43            (56),31            (40),77            (100),64            (83)

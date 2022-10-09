@@ -1,0 +1,17 @@
+Parameter,Setting
+Number of slices,250
+Slice gap (mm),−0.35
+Slice orientation,Sagittal
+Field-of-view (mm                         3                        ),230                        ×                        230                        ×                        182
+Acquisition voxel size (mm                         3                        ),0.7                        ×                        0.7                        ×                        0.7
+Reconstruction voxel size (mm                         3                        ),0.45                        ×                        0.45                        ×                        0.35
+Sensitivity encoding,Yes
+Stacks,1
+Fold-over direction,Anterior-posterior
+Flip angle (°),15
+TR (ms),21
+TE (ms) (in-phase),4.61
+Echo-spacing (ms),4.6
+Shim,Default
+Water-fat-shift (pixels),0.492
+Bandwidth (Hz),882.2

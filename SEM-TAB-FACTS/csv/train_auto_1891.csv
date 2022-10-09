@@ -1,0 +1,11 @@
+Inhibitor,Human Arginase-1,Human Arginase-2,Method (reference)
+ABH,K                          D                        = 5 nM,,"ITC at pH 8.5 (                         Di Costanzo et al., 2005                        )"
+,K                          D                        = 18 nM,,"SPR at pH 8.5 (                         Ilies et al., 2011                        )"
+,IC                         50                        = 1.45–1.55 µM,IC                         50                        = 1.92–2.55 µM,"Enzyme assay at pH 7.4 (                         Golebiowski et al., 2013; Van Zandt et al., 2013; Golebiowski et al., 2013; Van Zandt et al., 2019                        )                           a"
+,,K                          i                        = 0.25 µM,"Enzyme assay at pH 7.5 (                         Colleluori and Ash, 2001                        )"
+,,K                          i                        = 8.5 nM,"Enzyme assay at pH 9.5 (                         Colleluori and Ash, 2001                        )"
+Nor-NOHA,K                          D                        ≈ 50 nM,,"ITC at pH 8.5 (                         Di Costanzo et al., 2010                        )"
+,K                          D                        = 517 nM,,"SPR at pH 8.5 (                         Di Costanzo et al., 2010                        )"
+,,K                          i                        = 51 nM,"Enzyme assay at pH 7.5 (                         Colleluori and Ash, 2001                        )"
+,IC                         50                        = 1.36 µM,IC                         50                        = 1.26 µM,"Enzyme assay at pH 7.4 (                         Van Zandt et al., 2019                        )"
+CB-1158,IC                         50                        = 86 nM,IC                         50                        = 296 nM,"Enzyme assay at pH 7.4 (                         Oberlies et al., 2009                        )"

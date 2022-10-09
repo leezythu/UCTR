@@ -1,0 +1,4 @@
+Method,Mean,Standard deviation,14 day risk,99                              %                            confidence date,Sample size
+"Wuhan - January 20, 2020",4.69,2.78,0.0075,14,65
+"Wuhan - February 09, 2020",4.84,2.79,0.0081,14,162
+Non-Wuhan,4.84,3.22,0.016,16,52

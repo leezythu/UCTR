@@ -1,0 +1,27 @@
+"Mix
+Mix
+Mix","Component consumption, kg/m             3
+CEM I 42,5 R
+CEM I 42,5 R","Component consumption, kg/m             3
+CEM I 32,5 R
+CEM I 32,5 R","Component consumption, kg/m             3
+Granite dust
+Granite dust","Component consumption, kg/m             3
+Sand
+Sand","Component consumption, kg/m             3
+Coarse aggregate (granite, fraction)
+6−8 mm","Component consumption, kg/m             3
+Coarse aggregate (granite, fraction)
+8−11 mm","Component consumption, kg/m             3
+Coarse aggregate (granite, fraction)
+11−16 mm","Component consumption, kg/m             3
+SP
+SP","Component consumption, kg/m             3
+Water
+Water"
+"42,5-G0",350,–,0,730,400,400,400,"3,5",180
+"32,5-G0",–,350,0,730,400,400,400,"3,5",180
+"42,5-G200",350,–,200,530,400,400,400,"3,5",180
+"32,5-G200",–,350,200,530,400,400,400,"3,5",180
+"42,5-G300",350,–,300,430,400,400,400,"3,5",180
+"32,5-G300",–,350,300,430,400,400,400,"3,5",180

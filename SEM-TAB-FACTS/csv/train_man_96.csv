@@ -1,0 +1,16 @@
+"Land cover
+Land cover","Area (million ha)
+1992","Area (million ha)
+2000","Area (million ha)
+2015","Equivalent biome
+Equivalent biome","ESV (US$ ha             −1            year             −1            )
+ESV (US$ ha             −1            year             −1            )"
+Cropland,425,439,445,Cropland,5568
+Evergreen forest,203,200,198,Tropical forest,5263
+Deciduous forest,447,445,453,Tropical forest,5263
+Shrubland,470,461,450,Woodlands,1588
+Grassland,298,299,299,Grasslands,2872
+Wetland,46,47,47,Inland wetlands,"25,681"
+Urban,2,2,4,Urban,–
+Bareland,444,444,439,Desert,–
+Waterbodies,30,30,30,Rivers/lakes,4267

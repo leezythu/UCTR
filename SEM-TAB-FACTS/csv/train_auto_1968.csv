@@ -1,0 +1,17 @@
+"Temperature (°C)
+Temperature (°C)","Effective yield strength
+f                                      0.2                                      ,                                      θ                                          f                                      0.2                                      ,                                      20","Effective yield strength
+f                                      0.5                                      ,                                      θ                                          f                                      0.2                                      ,                                      20","Effective yield strength
+f                                      1.5                                      ,                                      θ                                          f                                      0.2                                      ,                                      20","Effective yield strength
+f                                      2                                      ,                                      θ                                          f                                      0.2                                      ,                                      20","Modulus of elasticity
+E                                      L                                      ,                                      θ                                          E                                      L                                      ,                                      20","Modulus of elasticity
+E                                      HL                                      ,                                      θ                                          E                                      HL                                      ,                                      20","Modulus of elasticity
+E                                      H                                      ,                                      θ                                          E                                      H                                      ,                                      20","Proportional limit
+f                                      p                                      ,                                      θ                                          f                                      0.2                                      ,                                      20"
+20,1.000,0.994,1.022,1.028,1.000,1.000,1.000,0.694
+200,0.904,0.903,0.932,0.942,1.035,1.007,1.000,0.597
+400,0.754,0.757,0.789,0.794,0.966,0.949,0.935,0.479
+500,0.543,0.543,0.566,0.569,0.627,0.736,0.700,0.385
+600,0.323,0.327,0.341,0.337,0.509,0.653,0.625,0.181
+700,0.190,0.193,0.184,0.180,0.415,0.515,0.400,0.109
+800,0.082,0.085,0.082,0.082,0.213,0.232,0.300,0.060

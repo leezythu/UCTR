@@ -1,0 +1,31 @@
+IPC codes,Description
+A01H 1/00,Processes for modifying genotypes
+A01H 4/00,Plant reproduction by tissue culture techniques
+A61K 38/00,Medicinal preparations containing peptides
+A61K 39/00,Medicinal preparations containing antigens or antibodies
+A61K 48/00,Medicinal preparations containing genetic material which is inserted into cells of the living body to treat genetic diseases; Gene therapy
+C02F 3/34,"Biological treatment of water, waste water, or sewage: characterized by the microorganisms used"
+C07G 11/00,Compounds of unknown constitution: antibiotics
+C07G 13/00,Compounds of unknown constitution: vitamins
+C07G 15/00,Compounds of unknown constitution: hormones
+C07K 4/00,Peptides having up to 20 amino acids in an undefined or only partially defined sequence; Derivatives thereof
+C07K 14/00,Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof
+C07K 16/00,"Immunoglobulins, e.g. monoclonal or polyclonal antibodies"
+C07K 17/00,Carrier-bound or immobilized peptides; Preparation thereof
+C07K 19/00,Hybrid peptides
+C12M,Apparatus for enzymology or microbiology
+C12N,Micro-organisms or enzymes; compositions thereof
+C12P,Fermentation or enzyme-using processes to synthesize a desired chemical compound or composition or to separate optical isomers from a racemic mixture
+C12Q,Measuring or testing processes involving enzymes or micro-organisms; compositions or test papers therefor; processes of preparing such compositions; condition-responsive control in microbiological or enzymological processes
+C12S,"Processes using enzymes or micro-organisms to liberate, separate or purify a pre-existing compound or composition processes using enzymes or micro-organisms to treat textiles or to clean solid surfaces of materials"
+G01N 27/327,"Investigating or analysing materials by the use of electric, electro-chemical, or magnetic means: biochemical electrodes"
+G01N 33/53*,Investigating or analysing materials by specific methods not covered by the preceding groups: immunoassay; biospecific binding assay; materials therefore
+G01N 33/54*,Investigating or analysing materials by specific methods not covered by the preceding groups: double or second antibody: with steric inhibition or signal modification: with an insoluble carrier for immobilizing immunochemicals: the carrier being organic: synthetic resin: as water suspendable particles: with antigen or antibody attached to the carrier via a bridging agent: Carbohydrates: with antigen or antibody entrapped within the carrier.
+G01N 33/55*,Investigating or analysing materials by specific methods not covered by the preceding groups: the carrier being inorganic: Glass or silica: Metal or metal coated: the carrier being a biological cell or cell fragment: Red blood cell: Fixed or stabilized red blood cell: using kinetic measurement: using diffusion or migration of antigen or antibody: through a gel
+G01N 33/57*,Investigating or analysing materials by specific methods not covered by the preceding groups: for venereal disease: for enzymes or isoenzymes: for cancer: for hepatitis: involving monoclonal antibodies: involving limulus lysate
+G01N 33/68,"Investigating or analysing materials by specific methods not covered by the preceding groups: involving proteins, peptides or amino acids"
+G01N 33/74,Investigating or analysing materials by specific methods not covered by the preceding groups: involving hormones
+G01N 33/76,Investigating or analysing materials by specific methods not covered by the preceding groups: human chorionic gonadotropin
+G01N 33/78,Investigating or analysing materials by specific methods not covered by the preceding groups: thyroid gland hormones
+G01N 33/88,Investigating or analysing materials by specific methods not covered by the preceding groups: involving prostaglandins
+G01N 33/92,"Investigating or analysing materials by specific methods not covered by the preceding groups: involving lipids, e.g. cholesterol"

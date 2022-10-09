@@ -1,0 +1,5 @@
+Cancer Type,Circadian Gene,Cancer,Reference
+Leukemia,BMAL1,Increase,Rahman et al. (2017)
+Breast Cancer,"CLOCK, CRY1, CRY2, PER1, PER2, PER3",Decrease,Lesicka et al. (2018)
+Lung Cancer,"CLOCK, PER1, PER2, PER3",Decrease,Liu et al. (2014)
+Ovarian Cancer,CLOCK,Decrease,Xu et al. (2018)

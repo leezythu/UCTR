@@ -1,0 +1,9 @@
+Chromosome,NRRL3 ID,CBS513.88 ID,Gene description,Gene orientation,WT SNP,RD15.4#55 SNP,Alteration in gene product
+chr_3_1,NRRL3_03052,An12g08790,Phospholipid translocating ATPase (flippase),−,G,A,Ser                         1426/1519                        → Phe                         1426/1519
+chr_3_2,NRRL3_03881,An12g04630,Oxalate decarboxylase,+,C,CT,Insertion at the +21 position of intron 2 (129 bp)
+chr_5_2,NRRL3_06613,An16g09230,Putative fungal transcription factor,−,G,GA,Insertion at the +32 position of intron 7 (85 bp)
+chr_6_1,N/A,An04g04020,Unknown protein,−,T,A,Phe                         77/136                        → Ile                         77/136
+chr_7_1,NRRL3_09002,An12g02450,α-glucan synthase C (                         agsC                        ),+,C,T,Gln                         1599/2407                        → Stop                         1599/2407
+chr_7_2,NRRL3_09595,An11g06750,BYE1                        orthologue (Transcription elongation factor SII),−,CGCGGAGGA,G,Frameshift → stop                         642/943
+chr_8_2,NRRL3_10506,An18g04180,40S ribosomal protein S19,+,G,GA,insertion at the +31 position of intron 3 (78 bp)
+chr_8_2,NRRL3_11411,An08g08570,Hypothetical protein (DNA binding prediction),−,G,A,Synonymous Valine substitution: GTC to GTT

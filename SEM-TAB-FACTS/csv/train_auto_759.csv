@@ -1,0 +1,12 @@
+Spine ID,Primary,Age,Race,Sex,Height [cm],Weight [kg]
+A,Prostate,55,C,M,183,68
+B,Prostate,71,C,M,188,68
+C,Lung,53,C,M,175,86
+D,Breast,59,C,F,170,79
+E,Lung,60,B,M,183,82
+F,Lung,49,B,M,178,68
+G,Esophageal,52,C,M,170,127
+H,Breast,60,C,F,165,68
+I,Kidney,71,C,M,170,54
+J,Kidney,56,C,M,180,79
+K,Breast,60,C,F,163,41

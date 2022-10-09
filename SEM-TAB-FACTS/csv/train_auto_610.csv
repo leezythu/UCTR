@@ -1,0 +1,16 @@
+"Depth
+","Pump Code
+","Table of Column
+TOC (m)","Water Column
+WC (m)"
+Shallow,SP1,6.4,1.1
+,SP2,5.4,1.7
+,SP3,8.9,2.0
+,,,
+Medium,MP1,22.2,5.8
+,MP2,24.2,2.3
+,MP3,17.4,19.4
+,,,
+Deep,DP1,30.4,11.9
+,DP2,42.5,6.7
+,DP3,35.5,14.9

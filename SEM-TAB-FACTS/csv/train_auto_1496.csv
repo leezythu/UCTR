@@ -1,0 +1,15 @@
+Variables,Obs.,Mean,Std. deviation,Minimum,Maximum
+ESG score,519,50.02,17.38,10.82,87.63
+Environmental Pillar score,519,50.87,23.46,6.21,96.15
+Social Pillar score,519,51.08,21.31,7.63,94.58
+Governance Pillar score,519,47.82,21.00,2.76,93.69
+Tobin Q,519,1.27,0.76,0.18,5.39
+Board Size,519,10.03,3.40,4,23
+Board Gender Diversity,504,11.49,11.69,0,50
+Board Independence,519,0.56,0.50,0,1
+CEO Board Chair Separation,519,0.44,0.50,0,1
+Sustainability Committee,519,0.50,0.50,0,1
+Free Float Percentage,519,75.08,25.42,0,100
+Total Assets,519,"11,700,000,000","21,600,000,000","334,000,000","243,000,000,000"
+Leverage,519,59.37,22.13,0,160.55
+ROA,519,4.25,6.84,−39.00,66.60

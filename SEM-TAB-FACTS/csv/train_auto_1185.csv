@@ -1,0 +1,11 @@
+Parameter,RCT,WBCT,T-test; p
+Patient number,885,853±                        68,
+"Radiographs (series, n per year)","1,85",,
+WBCT (n per year),,"1,935±                        94",
+CT (n per year),254,10.7                        ±                        2.9,
+Radiation dose per patient (uSv),4.8                        ±                        4.3,4.3                        ±                        1.5,<                        .01
+Time spent radiology technician (hours in total per year),493,113                        ±                        19.6,<                        .01
+Time spent radiology technician (minutes.seconds per patient),15.59                        ±                        8.04,3.29                        ±                        2.56,<                        .01
+Private insurance / self-payers (%),15.1,15.5,
+Profit (Euros in total per year),-723,"53,543                        ±                        6,834",<                        .01
+Profit (Euros per patient),.82,57.26                        ±                        12.34,<                        .01

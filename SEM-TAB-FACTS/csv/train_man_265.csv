@@ -1,0 +1,36 @@
+,Mean HAZ,% stunted,% severely stunted
+Sex of child,,,
+female,−1.41,38.28,16.02
+male,−1.47,39.16,17.25
+Caste,,,
+other,−1.18,31.26,12.00
+SC & ST,−1.60,43.13,19.46
+OBC,−1.44,38.89,16.71
+Residence,,,
+urban,−1.18,31.54,12.38
+rural,−1.54,41.46,18.29
+Education,,,
+no,−1.86,50.57,25.10
+primary,−1.63,43.29,18.05
+secondary,−1.26,33.16,12.46
+higher,−0.75,21.10,7.67
+Wealth,,,
+poorest,−1.89,51.47,25.96
+poorer,−1.63,43.67,18.81
+middle,−1.39,36.94,14.04
+richer,−1.15,29.72,10.71
+richest,−0.82,22.44,7.94
+Education and wealth group,,,
+low education and poor,−1.88,51.33,25.42
+high education and poor,−1.52,40.35,16.68
+low education and rich,−1.53,40.15,16.15
+high education and rich,−1.03,27.43,9.68
+Water,,,
+not on premise,−1.57,41.79,18.36
+on premise,−1.37,37.01,15.70
+Sanitation,,,
+unimproved,−1.66,44.74,20.40
+improved,−1.12,29.78,22.09
+Hygiene,,,
+low,−1.57,42.66,19.23
+high,−1.19,30.82,11.49

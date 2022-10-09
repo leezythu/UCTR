@@ -1,0 +1,14 @@
+"Additional points of differentiation
+Nutrient Index                         1","Additional points of differentiation
+Weighting basis","Additional points of differentiation
+Capping basis","Additional points of differentiation
+Group-specific or across-the-board"
+"ONQI                         3                        (                         Katz et al., 2010                        )",Proprietary; based on relationship between nutrients and health outcomes.,Nutrients in fortified and processed foods are capped; nutrients from raw food products are uncapped.,Across-the-board
+"WNDS                         4                        (                         Arsenault et al., 2012                        )",Based on regression coefficients estimated by the relationships between nutrients and the Healthy Eating Index.,Qualifying nutrients are capped at 100% of recommended intake.,Across-the-board
+"NRF9.3                         5                        (                         Fulgoni et al., 2009                        )",None,Nutrients are capped at 100% of daily values.,Across-the-board
+NRF9                         5.1,None,Nutrients are capped at 100% of daily values.,Across-the-board
+LIM3                         5.2,None,None,Across-the-board
+"NBC                         6                        (                         Fern et al., 2015                        )",See QI,Capped if QI is above 1,Across-the-board
+NBC- QI                         6.1,By energy needs of population / energy in food or meal,Capped if above 1,Across-the-board
+NBC- DI                         6.2,By contribution to total energy,None,Across-the-board
+"DNS                         7                        (                         Chaudhary et al., 2018a                        )",None,Capping is optional,Across-the-board

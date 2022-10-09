@@ -1,0 +1,27 @@
+Group,Super Kingdom / Genus,E.C number,Uniprot,PDB ID,Chain
+ArNat,Archaea,2.3.1.-,,,
+,Sulfolubus,,Q980R9,"2x7b                          [88]                        , 4lx9                         [36]                        , 4r3k                         [34]                        , 4r3l                         [34]                        , 5c88                         [89]","A, A, A, A, A"
+,Thermoplasma,,Q97CT7,4pv6                          [90],A
+Naa10,Eukaryota,2.3.1.255,,,
+,Schizosaccharomyces,,Q9UTI3,"4kvm                          [18]                        , 4kvo                         [18]                        , 4kvx                         [18]","E, E, B"
+,Saccharomyces,,P07347,"4xnh, 4xpd, 4y49, 4hnw, 4hnx, 4hny","B, B, B, B, B, B"
+Naa20,Eukaryota,2.3.1.254,,,
+,Candida,,C4YDZ9,"5k04                         [53]                        ,                         5k18                          [53]","B, B"
+Naa40,Eukaryota,2.3.1.257,,,
+,Schizosaccharomyces,,Q9USH6,4ua3                          [20],A
+,Homo sapiens,,Q86UY6,"4u9v                          [20]                        , 4u9w                         [20]","A, B"
+Naa50,Eukaryota,2.3.1.258,,,
+,Homo sapiens,,Q9GZZ1,"2ob0, 2psw,                         3tfy                          [17]                        , 4x5k","A, A, C, A"
+Naa60,Eukaryota,2.3.1.259,,,
+,Homo sapiens,,Q9H7X0,"5hgz                         [19]                        ,                         5hh0                          [19]                        , 5hh1                         [19]                        ,                         5icv                          [55]                        , 5icw                         [55]","A, A, A, B, A"
+Naa80,Eukaryota,–,,,
+,Drosophila,,Q59DX8,"5wjd                          [37]                        , 5wje                         [37]",
+RimI,Bacteria,2.3.1.128,,,
+,Salmonella,,Q8ZJW4,"2cnm                         [56]                        ,                         2cns                          [56]                        , 2cnt                         [56]","A, A, A"
+,Escherichia,,P0A946,5isv,A
+RimJ,Bacteria,2.3.1.128,,,
+,Aliivibrio,,Q5DZH6,3igr,A
+RimL,Bacteria,2.3.1.128,,,
+,Salmonella,,Q8ZPC0,"1s7f                         [91]                        , 1s7k                         [91]                        ,                         1s7l                          [91]                        , 1s7n                         [91]                        , 1z9u","A, A, A, A, B"
+,Thermus,,Q5SHD1,"2z0z                          [92]                        , 2zxv                         [92]","A, A"
+,,,Q72HN8,"2z10                         [92]                        , 2z11                         [92]","A, A"

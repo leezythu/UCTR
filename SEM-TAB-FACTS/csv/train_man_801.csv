@@ -1,0 +1,14 @@
+"Model
+Model","X              2
+X              2","df             1
+df             1","p
+p","CMIN/df             2
+CMIN/df             2","RMSEA             3
+RMSEA             3","90% CI for RMSEA
+Lower","90% CI for RMSEA
+Upper","CFI             4
+CFI             4","NFI             5
+NFI             5"
+Unifactorial solution,4105.954,389,<0.001,10.555,0.095,0.092,0.097,0.710,0.691
+Three-factor baseline model,2078.188,388,<0.001,5.356,0.064,0.061,0.067,0.868,0.853
+Three-factor final (retained) model,1244.058,370,<0.001,3.362,0.047,0.044,0.050,0.932,0.906

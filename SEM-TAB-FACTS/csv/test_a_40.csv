@@ -1,0 +1,8 @@
+Treatment,Df,F            value,
+Food (F),4,493.3,***
+Earthworm species (E),1,83.0,*
+Plant part (P),1,0.0,
+F × E,4,124.3,***
+F × P,4,135.7,***
+E × P,1,25.3,
+E × F × P,4,0.9,

@@ -1,0 +1,20 @@
+"Antibody
+Antibody","Epitope location
+Epitope location","Immunization strategy
+Immunization strategy","Binding Selectivity
+Binding Selectivity","Ab species and backbone isotype
+Ab species and backbone isotype","Current Status (2019–2020)
+Current Status (2019–2020)","Company
+Company","Clinical outcomes
+Last completed Trial (Disease,Phase)","Clinical outcomes
+Patient stage","Clinical outcomes
+Reduced tau burden"
+"Gosuranemab, BIIB092, BMS-986168, IPN007/IPN002)",15–24,In vitro aggregated full-length tau,"M, NFT?, eTau",humanized IgG4,"NCT03352557            (AD,II)",iPerian/Bristol-Meyers Squibb/Biogen,"NCT02460094            (PSP,I),             NCT03068468            (PSP,II,d      )",MCI/Mild AD,+
+"ABBV-8E12 (C2N-8E12, HJ8.5)",25–30 (within 22–34),recombinant full-length tau,"M, NFT, eTau",humanized IgG4,"NCT03712787            (AD,II),             NCT02880956            (AD,II)",C2N Diagnostics/Abbvie,"NCT02494024            (PSP,I)             NCT03391765            (PSP,I,d)",Early AD,+
+"Zagotenemab (LY3303560, MC-1 IgG1)",7–9/312–322 (discontiguous),Immunopurified PHFs,"M-,O,NFT",humanized IgG4,"NCT03518073            (AD,II)",Eli Lilly,"NCT02754830            ,             NCT03019536            (AD,I)","healthy, mild to moderate AD",–
+"Semorinemab (RO7105705, MTAU9937A, RG6100)",2–24 (C-terminal portion),recombinant oligomers,"M,NFT,eTau",humanized IgG4,"NCT03828747            (AD,II),             NCT03289143            (AD,II)","AC Immune, Genentech, Hoffmann-La Roche","NCT02820896            (AD,I)",Mild to moderate AD,+
+BIIB076 (NI-105.6C5 huIgG1             λ            ),probably −131,N/A: B-cells from healthy subjects,"M, PFF, NFT",human IgG1,"NCT03056729            (AD,I)",Biogen/Neurimmune,"NCT03056729            (AD,I)",Healthy/MCI AD,+
+RG7345 (RO6926496),416–430 (pS422),416–430 (pS422) peptide,"phospho M, PHF",humanized IgG1 or IgG4,"NCT02281786            (I,d)",Hoffmann-La Roche,"NCT02281786            (I,d)",healthy males,−
+UCB0107 (D IgG4),235–246,Recombinant tau fibrils,"M,O,PHF",humanized IgG4 or IgG1,"NCT03464227            (AD,I),             NCT03605082            (AD,I)             NCT04185415            (PSP,I,s)",UCB Biopharma,"NCT03464227            (I),             NCT03605082            (I)","Healthy males, healthy m/f",−
+"JNJ-63733657 (B296, PT3)",204–225 (pT212/pT217),PHF from AD patients,"M,PHF (ptau)","humanized, likely IgG1","NCT03375697            (prodromal, mild AD,I)",Janssen,NCT03689153            (I),healthy m/f,+
+NPT088,"noncontiguous 11–12, 17–25 and 31–40",N/A: Human IgG -viral g3p GAIM chimera,"O,F/P",Human IgG1,NCT03008161            (I),Proclara Biosciences,NCT03008161            (I),Mild to moderate AD,−

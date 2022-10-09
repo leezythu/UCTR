@@ -1,0 +1,4 @@
+Annotator,Genes (total),CDS (total),"rRNA (5S, 16S, 23S)",tRNA,other ncRNA
+RAST,5573,5468,8; 8; 8,81,0
+PGAP 4.11,5014,4905,8; 8; 8,81,4
+Prokka 1.4.15,5070,4919,8; 8; 8,83,44

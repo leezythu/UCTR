@@ -1,0 +1,7 @@
+Measure,Degree centralization,Clustering
+Graph type,,
+Star,.83,.00
+Ring,.00,.00
+Full,.00,1.00
+Tree,.11,.00
+Vessel,.23,.47

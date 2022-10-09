@@ -1,0 +1,17 @@
+"
+","Mean
+","95% CI
+","p-value
+","k
+","n
+","Heterogeneity
+Q-value","Heterogeneity
+I             2"
+Hedonic well-being,,,,,,,
+Adaptive strategies,0.23,[0.11; 0.35],< 0.001,8,680,16.99*,58.81
+Maladaptive strategies,−0.21,[−0.30; −0.11],< 0.001,15,1568,46.37***,69.81
+Overall deficits in emotion regulation,−0.40,[−0.51; −0.28],< 0.001,5,323,5.97,33.03
+Eudaimonic well-being,,,,,,,
+Adaptive strategies,0.34,[0.18; 0.49],< 0.001,3,132,0.14,0.00
+Maladaptive strategies,−0.18,[−0.38; 0.04],0.10,15,933,114.05***,90.08
+Overall deficits in emotion regulation,−0.50,[−0.62; −0.35],< 0.001,4,267,6.09,50.76

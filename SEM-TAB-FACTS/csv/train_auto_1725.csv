@@ -1,0 +1,10 @@
+Type of condition,Time-critical condition (                         n                        = 96),Without time-critical condition (                         n                        = 1774),P
+Age - year                           a,,,
+"Median (25th, 75th percentile)",78 (66−85),72 (54−82),0.001
+"Vital signs - Median (25th, 75th percentile)",,,
+Respiratory rate/min                           b,16 (16−18),16 (16−18),0.863
+Oxygen saturation - %                           c,98 (96−98),98 (97−99),0.026
+Systolic blood pressure - mm/Hg                           d,160 (140−174),140 (125−160),<0.001
+Diastolic blood pressure - mm/Hg                           e,90 (75−100),80 (75−90),0.008
+Heart rate/min                           f,78 (70−90),80 (70−90),0.603
+Temperature °C                           g,36.6 (36.1−36.9),36.7 (36.3−37.0),0.093

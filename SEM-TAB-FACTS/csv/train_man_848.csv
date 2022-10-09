@@ -1,0 +1,7 @@
+Category,More likely to be salient,Less likely to be salient
+Loudness,Word intensity of 80 dB,Word intensity of 60 dB
+Acoustic Prominence,/t/pronounced as [p],/t/pronounced as [t]
+Grammatical Gender,Violation of grammatical gender,Correct grammatical gender
+Frequency,High frequency word,Low frequency word
+Conscious Sound Change,/r/pronounced as [ɹ],/r/pronounced as [r]
+Subconscious Sound Change,/v/pronounced as [v] (=voiced),/v/pronounced as [f] (=voiceless)

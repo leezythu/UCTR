@@ -1,0 +1,15 @@
+Level,Hearth,Sample label,Sample number,Lab number,Botanical identification,%Ro,%Ro SD,%Ro temp (°C),Morphology type,FTIR type,PyMS
+L4,a,(5–8)3,2,–,Angiosperm,–,–,–,–,–,–
+L4,A,01,70,AP 1,Pinus,0.835,0.155,450,I,A,–
+L4,A,01,66,AP 2,Angiosperm,1.521,0.168,440,III,A,–
+L4,E,03,41–59,–,Pinus,0.716,0.095,440,I,–,–
+L5,K2,H301,36–40,AP 3,Angiosperm,0.970,0.117,390,II,C,–
+L7,Y,01,3,AP 4,Rhamnaceae,1.010,0.163,390,I,A,–
+L7,Y,2–03,77,AP 5,Salix,1.058,0.095,390,I,A,–
+L7,W2b,2–03,74–78,–,Salix,0.801,0.124,360,II,–,–
+L8,A,0,27–28,–,Rhamnaceae,0.686,0.104,360,III,–,–
+L8,A,0,24,AP 6,Rhamnaceae,0.911,0.122,385,III,B,–
+L11,I,(1–2)1,60,AP 7,Angiosperm,0.808,0.178,370,II,B,m            /             z            28; 44
+L11,L,(5–8)6,–,–,Not known,0.763,0.128,370,IV,–,–
+L14,V,03,61,–,Betula,0.656,0.113,360,II,–,–
+L14,Ω,01,1,AP 8,Not known,0.476,0.119,350,IV,A,–

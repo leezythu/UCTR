@@ -1,0 +1,8 @@
+Parameter,C1,C2,Unit
+Stator inlet blade angle,0,0,[                         ∘                        ]
+Total inlet reduced temperature,2.3,2.3,[-]
+Expansion ratio,1.5,1.9,[-]
+Isentropic work coefficient,0.9,2.2,[-]
+Inlet turbulence intensity,5%,5%,[-]
+Turbulent viscosity ratio,100,100,[-]
+Reynolds number,5 ⋅ 10                         6,6 ⋅ 10                         6,[-]

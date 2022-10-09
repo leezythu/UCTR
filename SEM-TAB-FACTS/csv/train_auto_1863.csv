@@ -1,0 +1,11 @@
+Symbol,Description,Score,PubMed IDs
+BRCA2,"BRCA2, DNA repair associated","1,422.74","20301425                        ,                         15604628                        ,                         18163131"
+CHEK2,checkpoint kinase 2,"1,366.3","20301425                        ,                         15604628                        ,                         18163131"
+RAD51,RAD51 recombinase,"1,320.91","10807537                        ,                         20301425                        ,                         15604628"
+PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha","1,300.3","17954709                        ,                         23917950                        ,                         23970019"
+BRIP1,BRCA1-interacting protein C-terminal helicase 1,"1,253.24","11301010                        ,                         17954709                        ,                         23917950"
+CDH1,cadherin 1,"1,166.03","17660459                        ,                         17954709                        ,                         23917950"
+PALB2,partner and localizer of BRCA2,"1,047.25","20301425                        ,                         15604628                        ,                         18163131"
+ATM,ATM serine/threonine kinase,"1,037.36","10571946                        ,                         20301425                        ,                         15604628"
+BARD1,BRCA1-associated ring domain 1,"1,021.62","20301425                        ,                         15604628                        ,                         18163131"
+TP53,tumor protein P53,996.4,"20301425                        ,                         15604628                        ,                         18163131"

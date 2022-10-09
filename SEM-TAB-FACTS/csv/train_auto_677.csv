@@ -1,0 +1,13 @@
+"Scaffold type
+Scaffold type","Pore size (μm)
+Designed","Pore size (μm)
+Fabricated","Strut size (μm)
+Designed","Strut size (μm)
+Fabricated","Solid core (mm)
+Solid core (mm)","Porosity
+Porosity","Surface area /Volume ratio
+Surface area /Volume ratio"
+PT,400,413 ± 19,200,193 ± 10,None,75%,18.09
+PT-1.2,400,416 ± 17,200,191 ± 14,1.2,68%,13.59
+PT-1.8,400,420 ± 21,200,189 ± 12,1.8,60%,9.86
+PT-2.4,400,418 ± 16,200,193 ± 9,2.4,50%,6.60

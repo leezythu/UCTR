@@ -1,0 +1,14 @@
+"Primary source
+","CO2 emission (tonnes/GWh)
+Low","CO2 emission (tonnes/GWh)
+High","CO2 emission (tonnes/GWh)
+Mean"
+Lignite,790,1372,1054
+Coal,756,1310,888
+Oil,547,935,733
+Natural Gas,362,891,499
+Solar PV,13,731,85
+Biomass,10,101,45
+Nuclear,2,130,29
+Hydro,2,237,26
+Wind,6,124,26

@@ -1,0 +1,14 @@
+Invalidity reason,Number of invalid cases
+Non-parallel (slope ratio < 0.80),26                           a
+Non-parallel (slope ratio > 1.25),7
+10/126 low (<72.7 IU mL                         −1                        ),2
+10/126 high (>163.5 IU mL                         −1                        ),4
+10/126 non-parallel (slope ratio < 0.80),0
+10/126 non-parallel (slope ratio > 1.25),0
+Sample H low (<66.7 IU mL                         −1                        ),0
+Sample H high (>150 IU mL                         −1                        ),4
+H non-parallel (slope ratio < 0.80),1
+H non-parallel (slope ratio > 1.25),2
+No convergence (cannot fit model),4
+Poor plate precision (wide CI),3
+Total of invalid cases,53 (out of 474                           b                          )

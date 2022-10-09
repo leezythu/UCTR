@@ -1,0 +1,5 @@
+Entry,Crystal system,Resolution/Å,Matthews coefficient,Publication year,Refinement software                           a,Reference
+2VB1,Triclinic,0.65,1.69,2007,"SHELXL-97 (                         Sheldrick, 2008                        )",Wang et al. (2007)
+1IEE                           b,Tetragonal,0.94,1.67,2001,"SHELXL-97 (                         Sheldrick, 2008                        )",Sauter et al. (2001)
+3WL2                           b,Monoclinic,0.96,1.79,2014,"REFMAC (                         Kovalevskiy et al., 2018                        )",N.A.
+6F1O,Orthorhombic,0.96,2.2,2018,"PHENIX (                         Liebshner et al., 2019                        )",Plaza-Garrido et al. (2018)

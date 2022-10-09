@@ -1,0 +1,8 @@
+Buyer,Animal produce,Crop produce,Total
+Local middleman,20,22,42
+Cooperative,0,2,2
+Wholesaler,3,24,27
+Retailer,5,12,17
+Local market,6,38,44
+Supermarket,2,0,2
+Final consumer,34,69,105

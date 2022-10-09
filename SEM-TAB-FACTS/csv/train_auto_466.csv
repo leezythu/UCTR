@@ -1,0 +1,16 @@
+Sample ID,Bioactive compound,Molecular formula,Retention time (Minutes),Molecular weight
+1,Sorbic acid,C                         6                        H                         8                        O                         2,10.67,112
+2,Rhodopsin,C                         40                        H                         58                        O,48.10,554
+3,1-Heptatriacotanol,C                         37                        H                         76                        O,48.56,536
+4,"Oxiraneundecanoic acid, 3-pentyl-, methyl ester, trans",C                         19                        H                         36                        O                         3,48.72,312
+5,"Cholestan-3-ol, 2-methylene-, (3á,5à)",C                         28                        H                         48                        O,39.44,400
+6,"Hexanoic acid, 2-ethyl-, oxybis(2,1-ethanediyloxy-2,1-ethanediyl) ester",C                         24                        H                         46                        O                         7,35.08,446
+7,"2-Octadecenoic acid, methyl ester",C                         19                        H                         36                        O                         2,30.72,296
+8,"Uridine, 2′-deoxy-3-methyl-3′,5′-di-O-methyl",C                         12                        H                         18                        N                         2                        O                         5,30.16,270
+9,"3,4-Altrosan",C                         6                        H                         10                        O                         5,24.35,162
+10,"á-D-Glucopyranose, 1,6-anhydro",C                         6                        H                         10                        O                         5,23.66,162
+11,D-Allose,C                         6                        H                         12                        O                         6,23.66,180
+12,"Glucosamine, N-acetyl-N-benzoyl",C                         15                        H                         19                        NO                         7,25.60,325
+13,"D-Ribo-hexose, 2,6-dideoxy-3-O-methyl",C                         7                        H                         14                        O                         4,15.74,162
+14,Benzoic acid,C                         7                        H                         6                        O                         2,14.09,122
+15,"Imidazole-4-carboxylic acid, 2-fluoro-1-methoxymethyl-, ethyl ester",C                         8                        H                         11                        FN                         2                        O                         3,11.21,202

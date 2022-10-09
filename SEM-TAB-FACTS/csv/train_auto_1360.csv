@@ -1,0 +1,15 @@
+S. No,Plant description,Match Coverage (%),Total Coverage (%),RIP activity reported,RIP gene identified,Type of RIP,References
+1,Populus trichocarpa,2 + 3 + 3 + 5,13,Yes,Yes,Type 2 (B domain only),Peumans and Vandamme (2010)
+2,Brachypodiumdistachyon,1,1,Yes,Yes,Type 3,Peumans and Vandamme (2010)
+3,Morusnatabilis,2,2,No,No,–,–
+4,Solanum lycopersicum,4,4,Yes,No,–,Barbieri et al. (2006)
+5,Arabidopsis thaliana,2 + 2,4,Yes,No,–,Pena et al. (2008)
+6,Arabidopsis lyrata sub                        sp.,2,2,Yes,No,–,–
+7,Canavalia ensiformis,4,4,Yes,No,–,Carlini and Guimarães (1991)
+8,Amborella trichopoda,15,15,No,No,–,–
+9,Mimulus guttatus,2,2,No,No,–,–
+10,Triticum urartu,5,5,Yes,No,–,–
+11,Seteria italica,1,1,Yes,Yes,–,Uniprot
+12,Fagopyrum esculentum,3,3,No,No,–,–
+13,Lotus japonicus,5 + 5,10,No,No,–,–
+14,Volvox carteri,1,1,No,No,,Peumans and Vandamme (2010)

@@ -1,0 +1,23 @@
+Name,Genotype,Reference
+N402,"cspA1, amdS-","Bos et al., 1988"
+MA169.4,"cspA1, ΔkusA::DR-amdS-DR, pyrG-","Carvalho et al., 2010"
+RD15.4,"cspA1, pyrG-, PagsA-H2B-GFP-TtrpC-pyrG*,                           PagsA-amdS-TamdS + pAN7-1                        (                         hph+                        )","Damveld et al., 2008"
+RD15.8,"cspA1, pyrG-, PagsA-H2B-GFP-TtrpC-pyrG*,                           PagsA-amdS-TamdS + pAN7-1                        (                         hph+                        )","Damveld et al., 2008"
+RD15.4#55,UV-mutant RD15.4,"Damveld et al., 2008"
+RD15.8#16,UV-mutant RD15.8,"Damveld et al., 2008"
+RD15.8#35,UV-mutant RD15.8,"Damveld et al., 2008"
+RD15.8#36,UV-mutant RD15.8,"Damveld et al., 2008"
+RD6.13#6,UV-mutant RD6.13,"Damveld et al., 2008"
+RD6.13#7,UV-mutant RD6.13,"Damveld et al., 2008"
+RD6.13#8,UV-mutant RD6.13,"Damveld et al., 2008"
+RD6.13#16,UV-mutant RD6.13,"Damveld et al., 2008"
+RD6.47#56,UV-mutant RD6.47,"Damveld et al., 2008"
+TLF55,"RD15.4UV#55,                         pyrG-                        (5'-FOA selected)",This study
+TLF51,"RD15.4UV#55,                         pyrG-                        (5'-FOA selected)                         , ΔbrnA",This study
+JN6.2,"cspA1, nicB::hygB, olvA::AOpyrG","Niu et al., 2016"
+TLF91,Diploid strain: JN6.2xTLF51(3),This study
+MA841.1,"cspA1, ΔkusA::DR-amdS-DR, pyrG-,                        ΔAn04g04020                         ::AOpyrG",This study
+MA842.1,"cspA1, ΔkusA::DR-amdS-DR, pyrG-,                        ΔNRRL3_03052                         ::AOpyrG",This study
+MA843.1,"cspA1, ΔkusA::DR-amdS-DR, pyrG-,                        ΔNRRL3_09002                         ::AOpyrG",This study
+MA844.1,"cspA1, ΔkusA::DR-amdS-DR, pyrG-,                        ΔNRRL3_09595                         ::AOpyrG",This study
+TLF83,"RD15.4UV#55,                         pyrG-                        (5'-FOA selected), restored NRRL3_09595",This study

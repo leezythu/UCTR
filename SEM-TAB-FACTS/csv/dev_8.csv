@@ -1,0 +1,17 @@
+Characteristics,Diclofenac,Reference,Naproxen,Reference
+LC             50            (96 h) Rainbow trout (             Onchorhynchus mykiss            ),167 mg/L (DCF-Na),,690 mg/L (NPX-Na),
+LogP (Log K             O:W            ),4.0,,3.1,
+H             T            PC (Human therapeutic plasma concentration),0.5 mg/L,,20 mg/L,
+T             ½            (half-life),1−2 h,,10−20 h,
+V             D            (Volume of distribution),0.1−0.2 L/kg,,0.1−0.2 L/kg,
+BCF             Plasma            (P             B:W            ; predicted from the” fish plasma model”),110,,24,
+BCF             Whole-Body            (Measured),0.3,,0.07,This study
+"Volume sold (Sweden 2016-2017, mean)",4 398 kg,,22 046.5 kg,
+DDD (Daily defined dose),0.1 g,,0.5 g,
+"Number of sold DDDs (Volume sold/DDD, Sweden 2016-2017, mean)",43 980 000,,44 093 000,
+Excreted fraction unchanged/easily hydrolysable pharmaceutical,17 %,,70 %,
+"PEC (Predicted effluent concentration, based on volume sold)",0.6 μg/L,This study,3.0 μg/L,This study
+CEC (critical environmental concentration),4.56 μg/L,,828 μg/L,
+"WWTP influent (Sweden 2016-2017, mean)",196 ng/L,,1674 ng/L,
+"WWTP effluent (Sweden 2016-2017, mean)",149 ng/L,,121 ng/L,
+"WWTP removal rate (Sweden 2016-2017, mean)",16 %,,94 %,

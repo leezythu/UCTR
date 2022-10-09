@@ -1,0 +1,11 @@
+"
+","Homogeneous
+","Heterogeneous
+Geometry","Heterogeneous
+Material","Heterogeneous
+Topology"
+Feature Consistency,Yes,Yes,Yes,No
+Detection Label Consistency,Yes,Yes,Yes,Yes
+Localisation Label Consistency,Yes,Yes,Yes,No
+Classification Label Consistency,Yes,Yes,Yes/No,Yes/No
+Assessment Label Consistency,Yes,Yes,Yes/No,Yes/No

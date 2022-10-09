@@ -1,0 +1,12 @@
+Species,Units,This study,This study adjusted (i.e. without emissions from savannah and other vegetation fires and road dust),EDGAR (v4.3.2),GAINS Eclipse v5a
+SO             2,Gg yr             −1,33.0,25.8,18.0,33.3
+NO             X,Gg yr             −1,187,133,45.7,58.1
+CO,Tg yr             −1,2.82,1.57,1.48,1.83
+NMVOC,Gg yr             −1,511,426,1307,296
+NH             3,Gg yr             −1,91.5,79.8,79.7,68.8
+PM             10,Gg yr             −1,565,155,262,185
+PM             2.5,Gg yr             −1,232,95.8,87.9               a,168
+BC,Gg yr             −1,20.2,12.6,12.1,28.6
+OC,Gg yr             −1,99.6,44.5,33.5,68.9
+CH             4,Gg yr             −1,414,351,398,319
+CO             2,Tg yr             −1,12.8,12.8,6.78,

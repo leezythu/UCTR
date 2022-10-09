@@ -1,0 +1,11 @@
+Number of Intervals,Overlap Percentage,Number of Bins,Hidden States Distribution - Pearson Correlation with original distribution,Average Path Length
+7,50,6,0.9449133,5.167059
+7,45,6,0.9408602,5.596531
+8,55,6,0.934875,5.828645
+7,60,6,0.9291068,5.517241
+7,40,6,0.9231947,5.682504
+7,55,6,0.9135777,5.167677
+7,60,8,0.9076339,5.308756
+8,60,6,0.8985553,5.930751
+7,55,8,0.877915,5.523086
+8,60,8,0.8769934,5.983423

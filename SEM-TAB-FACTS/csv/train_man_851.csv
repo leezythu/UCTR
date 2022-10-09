@@ -1,0 +1,8 @@
+,Parametric coefficients:,Estimate,Std.error,t            -value,Pr(>|t|),
+1,(Intercept),−0.08520,0.01260,−6.761,1.37e-11,***
+2,ConditionSalient,0.03462,0.01752,1.977,0.0481,*
+,Smooth terms:,Edf,Ref.df,F,p              -value,
+3,s(Time):ConditionNonSalient,8.294,8.404,9.285,4.46e-12,***
+4,s(Time):ConditionSalient,8.356,8.458,11.399,< 2e-16,***
+5,"s(Time, Event)",2372.991,2446.000,278.799,< 2e-16,***
+6,"s(XGazePositionRightEye, YGazePositionRightEye)",28.753,28.989,1962.118,< 2e-16,***

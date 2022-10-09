@@ -1,0 +1,5 @@
+Process,Number of firms/firm-month observations
+Firms listed in the US between 1980 and 2018,"35,318 firms"
+Selecting firms with the ratios of R&D expense to Sales (R&D) that are less than unity and firms for which we can calculate standard deviations of R&D during the sample period,"5,178 firms"
+Matching with monthly stock return data,"886,601 firm-month observations (unbalanced sample)"
+Considering the main variable of interest R&D expenditure volatility,"435,624 firm-month observations (unbalanced sample)"

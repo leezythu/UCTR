@@ -1,0 +1,6 @@
+Method,Input,Peak RAM (GB),Runtime (min)
+MANTIS,T–N,3.712,119
+MSIsensor,T–N,0.576,15
+mSINGS,T,2.592,94
+MSIsensor-pro (all),T,0.032,4
+MSIsensor-pro (DMS),T,0.032,3

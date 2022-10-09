@@ -1,0 +1,22 @@
+"No of pixels
+Classified data","Reference data
+Barren","
+Forest","
+Grassland","
+Road","
+Shadow","
+Shrubland","
+Wet-clear","
+Wet-algae","
+Total","User acc. (%)
+"
+Barren,77,0,1,0,0,0,2,0,80,96.3
+Forest,0,98,0,0,2,3,0,0,103,95.1
+Grassland,2,0,108,0,0,6,0,0,116,93.1
+Road,0,0,0,51,0,0,1,0,52,98.1
+Shadow,0,4,0,0,84,0,4,0,92,91.3
+Shrubland,0,6,3,0,1,64,0,1,75,85.3
+Wetland-clear,1,0,0,0,2,0,143,1,147,97.3
+Wetland-algae,0,0,0,0,0,0,6,119,125,95.2
+Total,80,108,112,51,89,73,156,121,790,
+Prod. acc. (%),96.3,90.7,96.4,100.0,94.4,87.7,91.7,98.3,,

@@ -1,0 +1,11 @@
+"
+Model","
+Anaesthetic","Stimulation parameters
+Pulse waveform","Stimulation parameters
+Pulse width (ms)","Stimulation parameters
+Frequency (Hz)","Stimulation parameters
+Train duration (s)","Stimulation parameters
+Amplitude (mA)","Stimulation parameters
+Inter-train interval (min)"
+Neocortical epileptic AD model,"α-chloralose, fentanyl-isoflurane","Biphasic symmetric, biphasic asymmetric and monophasic square-wave pulses",0.1-2,"8, 50, 100",0.5-15,0.1-15,7-20
+Hippocampal epileptic AD model,Fentanyl-isoflurane,Biphasic symmetric square-wave pulses,"0.1, 1",100,"2, 5",0.5-2,7-20

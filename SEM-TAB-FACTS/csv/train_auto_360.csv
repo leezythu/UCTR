@@ -1,0 +1,12 @@
+"CPU type
+","Package size (mm                         2                        )
+Min","Package size (mm                         2                        )
+Max","Thermal Design Power TDP (W)
+Min","Thermal Design Power TDP (W)
+Max","T (°C)
+Min","T (°C)
+Max"
+Desktop,24                           ×                          31,37.5                           ×                          37.5,6,165,80,105
+Mobile,12                           ×                          12,42                           ×                          24,2.2,57,80,105
+Server,34                           ×                          28,88                           ×                          56.5,11.7,320,40,100
+Embedded,25                           ×                          27,45                           ×                          42.5,3,105,40,110

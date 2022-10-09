@@ -1,0 +1,20 @@
+"Model
+Model
+Model","C-Index
+C-Index
+C-Index","Absolute calibration error
+Moderate or higher
+Mean","Absolute calibration error
+Moderate or higher
+90th percentile","Absolute calibration error
+Severe/life-threatening
+Mean","Absolute calibration error
+Severe/life-threatening
+90th percentile"
+Multivariable (BAT),0.991,0.5,0.9,0.3,0.3
+Multivariable (no BAT),0.985,0.3,1,0.5,0.3
+SPT,0.985,0.5,1.6,0.5,0.6
+Ara h 2–specific IgE,0.951,4.1,7.3,0.3,0.1
+BAT,0.951,1.6,4,0.3,0.2
+IgE to peanut,0.914,4.4,14.3,0.6,1.7
+IgG4 to peanut,0.563,1.1,1.7,0.4,1

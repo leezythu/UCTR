@@ -1,0 +1,4 @@
+Instance set,Sequential,Integrated,Split,Timesplit
+50,0.01,0.03,0.03,0.08
+150,0.01,0.21,0.4,0.62
+250,0.01,0.48,1.06,1.34

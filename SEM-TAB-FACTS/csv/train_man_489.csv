@@ -1,0 +1,5 @@
+Alignment score               a,Mapping quality score               b,Interpretation
+HIGH,HIGH,Read maps unambiguously and is very similar to reference sequence at that position               c
+HIGH,LOW,"Read is very similar to reference sequence at that position, but maps at several positions"
+LOW,HIGH,"Read maps unambiguously, but aligns with several mismatches to reference sequence at that position               c"
+LOW,LOW,Reads aligns with several mismatches at this and several other positions in the reference sequences

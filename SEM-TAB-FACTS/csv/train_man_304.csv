@@ -1,0 +1,18 @@
+Equation pair used to calculate eGFR             cystatin C            /eGFR             creatinine            -ratio,Study period (years),Mortality (%),Reference (no. in list)
+CAPA/LMrev,,,
+eGFR > 60 ml/min/1.72 m             2,5,26,Dardashti et al. (64)
+eGFR < 60 ml/min/1.72 m             2,5,47,Dardashti et al. (64)
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,,,
+eGFR > 60 ml/min/1.72 m             2,5,24,Dardashti et al. (64)
+eGFR < 60 ml/min/1.72 m             2,5,40,Dardashti et al. (64)
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,,,
+eGFR: all values,4,42,Purde et al. (65)
+CAPA/LMrev,,,
+mGFR > 60 ml/min/1.72 m             2,5,56,Sällman-Almén et al. (68)
+mGFR < 60 ml/min/1.72 m             2,5,74,Sällman-Almén et al. (68)
+CAPA/LMrev,,,
+eGFR: all values,3,27,Herou et al. (70)
+CKD-EPI             cystatin C            /CKD-EPI             creatinine,,,
+eGFR: all values,3,16,Herou et al. (70)
+CAPA/LMrev,,,
+mGFR: all values,7,62,Åkesson et al. (71)

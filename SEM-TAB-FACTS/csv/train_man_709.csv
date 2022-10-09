@@ -1,0 +1,13 @@
+Identifier,Building type,Number of apartments,Number of interviewees,Measures undertaken
+C1,Detached houses,5,1,GSHP
+C2,Terraced house,11,1,GSHP
+C3,Detached and semi- detached houses,22,1,GSHP
+C4,Apartment block,36,1,GSHP + EAHR
+C5,Apartment block,64,1,GSHP + EAHR
+C6,Apartment block,24,2,GSHP + MAE
+C7,Apartment block,36,4,GSHP + EAHR
+C8,Apartment block,105,4,GSHP + EAHR + PV
+C9,Apartment block,19,1,GSHP
+C10,Apartment block,54,2,GSHP + EAHR + PV + ST + WWHR + insulation (various)
+C11,Apartment block,23,2,GSHP + GSC
+C12,Apartment block,55,1,GSHP

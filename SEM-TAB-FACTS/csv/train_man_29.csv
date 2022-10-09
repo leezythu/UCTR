@@ -1,0 +1,23 @@
+Variables in models,Research Questions
+Dependent variable,
+"Proportion of sales from e-commerce (no sales, less than half, half and more)",
+Key co-variates,
+Home-based business (yes/no),1st research question
+"Business location (city, town, village/rural)",
+(Broadband speed at postcode district level),
+Interaction term between home-based business and business location,2nd research question
+Location of customers (local; regional (Scotland); national (UK); international),
+Interaction term between home-based business and location of customers,3rd research question
+Controls,
+Business characteristics,
+Number of employees,
+Turnover last year,
+Part-time business,
+Type of majority of customers,
+Industry (selected sectors),
+(Age of business),
+Entrepreneur characteristics,
+Age of owner,
+Sex of owner,
+Lives with children,
+Disability of owner,

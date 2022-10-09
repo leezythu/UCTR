@@ -1,0 +1,30 @@
+Type,Variable,Description,Source,Reference
+M,ELEV             μ,Terrain elevation mean,10 m × 10 m DEM,1
+M,ELEV             σ,Terrain elevation st.dev.,10 m × 10 m DEM,1
+M,SLOPE             μ,Terrain slope mean,10 m × 10 m DEM,2
+M,SLOPE             σ,Terrain slope st.dev.,10 m × 10 m DEM,2
+M,ENES             μ,Eastness mean,10 m × 10 m DEM,3
+M,ENES             σ,Eastness st.dev.,10 m × 10 m DEM,3
+M,NNES             μ,Northness mean,10 m × 10 m DEM,3
+M,NNES             σ,Northness st.dev.,10 m × 10 m DEM,3
+M,PLCR             μ,Planar curvature mean,10 m × 10 m DEM,4
+M,PLCR             σ,Planar curvature st.dev.,10 m × 10 m DEM,4
+M,PRCR             μ,Profile curvature mean,10 m × 10 m DEM,4
+M,PRCR             σ,Profile curvature st.dev.,10 m × 10 m DEM,4
+M,RSP             μ,Relative slope position mean,10 m × 10 m DEM,5
+M,RSP             σ,Relative slope position st.dev.,10 m × 10 m DEM,5
+M,TWI             μ,Topographic wetness index mean,10 m × 10 m DEM,6
+M,TWI             σ,Topographic wetness index st.dev.,10 m × 10 m DEM,6
+L,AD_R,Alluvial sediment,"Lithological map, 1:10,000",7
+L,C_R,Clay,"Lithological map, 1:10,000",7
+L,G_R,Gravel,"Lithological map, 1:10,000",7
+L,L_R,Limestone,"Lithological map, 1:10,000",7
+L,M_R,Marl,"Lithological map, 1:10,000",7
+L,S_R,Sand,"Lithological map, 1:10,000",7
+L,SGC_R,"Gravel, sand, clay","Lithological map, 1:10,000",7
+L,SS_R,Sandstone,"Lithological map, 1:10,000",7
+L,T_R,Travertine,"Lithological map, 1:10,000",7
+S,AS_R,Anaclinal slope,"Bedding map, 1:10,000",7
+S,CS_R,Cataclinal slope,"Bedding map, 1:10,000",7
+S,OS_R,Orthogonal slope,"Bedding map, 1:10,000",7
+S,US_R,Unbedded sediment,"Bedding map, 1:10,000",7

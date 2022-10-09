@@ -1,0 +1,23 @@
+decision problems,publications
+Strategic level                        :,
+"storage area dimensioning,","Lamballais, Roy, and De Koster (2017)                        ,"
+workstation placement,"Lamballais, Roy, and De Koster (2019)"
+Tactical level                        :,
+number of robots,"Yuan, Dong, and Li (2016)                        ,                         Yuan and Gong (2017)                        ,"
+,"Zou, Xu, De Koster et al. (2018)                        ,                         Otten, Krenzler, Xie, Daduna, and Kruse (2019)"
+Operational level                        :,
+decisions for each incoming order about,
+which robot carries,"Zhang, Yang, and Weng (2019)                        ,                         Roy, Nigam, de Koster, Adan, and Resing (2019)"
+which pod,Boysen et al. (2017)
+along which path,"Cohen, Uras, and Koenig (2015)                        ,                         Cohen, Wagner, Kumar, Choset, and Koenig (2017)                        ,"
+,Merschformann et al. (2017)
+to which station,
+decisions about where to,
+put the used pod back to,"Merschformann (2017)                        ,"
+,"Weidinger, Boysen, and Briskorn (2018)                        ,"
+,"Krenzler, Xie, and Li (2018)"
+decision rules,"Wurman et al. (2008)                        ,"
+,Merschformann et al. (2019)
+simulation,Merschformann et al. (2018)
+demonstration,Xie et al. (2019)
+performance characteristics,"Hanson, Medbo, and Johansson (2018)"

@@ -1,0 +1,8 @@
+"Case
+Case","VMAT
+Reason(s) for failing robustness assessment","PBS
+Reason(s) for failing robustness assessment"
+2,Lung V20 tolerance exceeded on one worst-case scenario from robustness analysis,Spinal canal tolerance exceeded on one worst-case scenario from robustness analysis
+4,Lung V20 tolerance exceeded on one worst-case scenario from robustness analysis,Maximum percentage difference in CTV coverage on robustness analysis >5%
+7,Lung V20 tolerance exceeded on one worst-case scenario from robustness analysis,Maximum percentage difference in CTV coverage on robustness analysis >5%
+9,Maximum percentage difference in CTV coverage on robustness analysis >5%,Maximum percentage difference in CTV coverage on robustness analysis >5%

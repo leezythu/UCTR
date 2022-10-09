@@ -1,0 +1,5 @@
+Utility,"Frequency, Hz","Duration, ms"
+Serial data transfer,14,2.5
+Motor parameters recalculation,2,0.1
+Reading user input and LCD display update,4.5,50
+Two pressure sensors readings,14,1.5

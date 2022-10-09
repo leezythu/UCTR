@@ -1,0 +1,7 @@
+Rheometer,Measuring system,Diameter                         d                        [mm],Gap size                         s                        [mm],Angle                           α                          [°],Impeller height                         h                        [mm]
+Cultivation broths,,,,,
+"Kinexus lab+, Malvern Panalytical",Plate-Plate,60 (upper plate)/65 (lower plate),1…1.5,[-],–
+,Cone-Plate,60 (upper plate)/65 (lower plate),0.03,1,–
+,Impeller,25 Cup diameter: 27.5,[-],[-],60
+Model fluids,,,,,
+"MCR 301, Anton Paar",Cone-Plate,59.978,0.117,1.008,–

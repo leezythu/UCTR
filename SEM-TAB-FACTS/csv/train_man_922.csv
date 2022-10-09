@@ -1,0 +1,9 @@
+Class,Implements
+FieldMatrix,(small) matrix with size known at compile time
+DiagonalMatrix,Storage optimal representation of a diagonal matrix with size known at compile time
+ScaledIdentityMatrix,Storage optimal representation of a scaled identity matrix with size known at compile time
+BCRSMatrix,(block) compressed row storage matrix
+BDMatrix,(block) diagonal matrix
+BTDMatrix,(block) tri-diagonal matrix
+Matrix,Generic dynamic dense (block) matrix
+MultiTypeBlockMatrix,Dense block matrix with differing block type known at compile time

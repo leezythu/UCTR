@@ -1,0 +1,50 @@
+Variable,Unit,Mean (Proportion),Std. Dev.
+Outcome variables,,,
+HAZ,z-score,−1.43,1.78
+Stunted,0/1,0.38,0.49
+Severely stunted,0/1,0.17,0.37
+Climate variable,,,
+Average rainfall anomalies,z-score,−0.02,0.61
+Individual characteristics,,,
+Sex,,,
+Female,0/1,0.48,0.50
+male,0/1,0.52,0.50
+Twin,,,
+No,0/1,0.99,0.12
+yes,0/1,0.01,0.12
+Birth order,number,2.27,1.47
+Maternal characteristics,,,
+Age at giving birth,years,25.13,4.94
+Education,,,
+no,0/1,0.31,0.46
+primary,0/1,0.15,0.35
+secondary,0/1,0.45,0.50
+higher,0/1,0.09,0.29
+Household characteristics,,,
+Wealth,,,
+poorest,0/1,0.26,0.44
+poorer,0/1,0.23,0.42
+middle,0/1,0.20,0.40
+richer,0/1,0.17,0.37
+richest,0/1,0.14,0.34
+Number of under 5 children,number,1.76,0.93
+Household head,,,
+male,0/1,0.88,0.33
+femal            e,0/1,0.12,0.33
+Caste,,,
+other,0/1,0.19,0.39
+SC & ST,0/1,0.40,0.49
+OBD,0/1,0.41,0.49
+Residence,,,
+urban,0/1,0.24,0.43
+rural,0/1,0.76,0.43
+WASH variables,,,
+Water,,,
+not on premise,0/1,0.38,0.49
+on premise,0/1,0.62,0.49
+Sanitation,,,
+unimproved,0/1,0.59,0.49
+improved,0/1,0.41,0.49
+Hygiene,,,
+low,0/1,0.67,0.47
+high,0/1,0.33,0.47

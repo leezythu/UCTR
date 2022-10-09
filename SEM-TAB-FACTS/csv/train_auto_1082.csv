@@ -1,0 +1,15 @@
+"Sample Label
+Sample Label","Monomer Type
+Monomer Type","PEGDA:MA (molar ratio)
+PEGDA:MA (molar ratio)","Conversion                         i                        (%)
+Conversion                         i                        (%)","EWC                         ii                        (wt%)
+EWC                         ii                        (wt%)","PAA                         iii
+M                            n                          (kDa)","PAA                         iii
+PDI","PAA                         iii
+n(PAA)","NMR relaxometry
+T                          2,                           short                              sw                          (μs)","NMR relaxometry
+M                            c                          +                           p                          (g/mol)","DQ NMR
+D                            avg                          (kHz)"
+PEG-HA,HA,1:1,92 ± 5,25.8,9.7,2.6,135,176,195,1.70
+PEG-HBA,HBA,1:1,91 ± 5,31.1,9.9,2.1,139,165,182,1.82
+PEG-BAC,BAC,1:1,90 ± 5,29.9,10.2,2.7,142,168,186,1.77

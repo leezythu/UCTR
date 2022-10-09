@@ -1,0 +1,11 @@
+Plant species,Plant part used,NPs tested,Species,References
+Catharanthus roseus,Leaf,ZnO,"B. thuringiensis, E. coli, S. aureus, P. aeruginosa","Bhumi and Savithramma, 2014"
+Brassica oleraceae,Leaf,ZnO,"E. coli, V. cholera, C. Botulinum, S. aureus, B. subtilis","Raj et al., 2015"
+Trifolium pratense,Flower,ZnO,"S. aureus, P. aeruginosa, E. coli","Dobrucka and Dugaszewska, 2016"
+Bauhinia tomentosa,Leaf,ZnO,"B. thuringiensis, E. coli, S. aureus, P. aeruginosa","Sharmila et al., 2018"
+Pandanus odorifer,Leaf,ZnO,"B. subtilis, E. coli","Hussain et al., 2019"
+Aloe vera,Leaf,ZnO,E. coli,"Izwanie Rasli et al., 2020"
+Psidium guajava,Leaf,TiO             2,"E. coli, S. aureus","Santhoshkumar et al., 2014"
+Cynodon dactylon,Leaf,TiO             2,E. coli,"Hariharan et al., 2017"
+Glycosmis,Leaf,TiO             2,"S. saprophyticus, B. subtilis, E. coli, cochinchinensis P. aeruginosa","Rosi and Kalyanasundaram, 2018"
+Cassia fistula,Leaf,TiO             2,"E. coli, S. aureus","Swathi et al., 2019"

@@ -1,0 +1,11 @@
+,Minimum,Maximum,Mean,SD
+Similarity in cobranding (SCB),0,6,4.13,1.48
+SCB                           2,.016,17.0,2.18,2.95
+Total cobranding,2.67,14,10.5,2.33
+Decreasing network distance (DND),1,4,2.57,.691
+DND                           2,.188,2.45,.478,.635
+Difference in closeness (DCL),.021,13.2,3.87,2.84
+Structural equivalence,–.146,.677,.042,.133
+Same destination dummy,0,1,.138,.345
+Combined closeness (CCL),57.9,83.9,69.8,4.69
+CCL × DCL,−52.1,44.6,2.05,11.0

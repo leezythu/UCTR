@@ -1,0 +1,24 @@
+"Country
+Country","N
+N","Board network
+mean","Board network
+SD","Board network
+max","Family network
+mean","Family network
+SD","Family network
+max","State network
+mean","State network
+SD","State network
+max","Political network
+mean","Political network
+SD","Political network
+max"
+Hong Kong,133,5.12,6.1,33,2.62,4.51,26,1.00,1.41,6,0.67,1.37,6
+Indonesia,169,1.64,3.31,23,0.95,2.64,17,0.14,0.38,2,0.22,1.09,9
+Japan,126,1.84,2.33,15,0.07,0.42,3,0.09,0.31,2,0.00,0.00,0
+South Korea,133,2.5,2.8,21,1.09,1.37,6,0.15,0.40,2,0.02,0.15,1
+Malaysia,281,7.35,6.61,37,1.07,1.94,8,2.15,3.09,18,0.36,0.74,5
+Philippines,98,8.52,8.91,38,5.33,6.16,21,0.71,1.59,10,0.20,0.81,6
+Singapore,116,3.52,3.24,15,0.59,1.66,12,1.28,2.40,11,0.57,1.90,14
+Taiwan,107,1.6,2.22,12,0.21,1.11,7,0.14,0.46,3,0.00,0.00,0
+Thailand,127,5.11,5.04,23,1.58,3.15,19,0.73,1.99,11,0.29,1.16,8

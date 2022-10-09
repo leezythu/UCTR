@@ -1,0 +1,21 @@
+"
+
+","Attitudes towards domestic violence (index)
+(1)
+Full sample","Attitudes towards domestic violence (index)
+(2)
+Men","Attitudes towards domestic violence (index)
+(3)
+Women"
+Male (=1),0.21***,,
+,(0.05),,
+Audio priming (=1),-0.09,-0.12*,-0.09
+,(0.05),(0.06),(0.05)
+Male × Priming,-0.04,,
+,(0.06),,
+Constant,1.83***,2.29***,1.47***
+,(0.21),(0.30),(0.25)
+Controls,YES,YES,YES
+Governorate FE,YES,YES,YES
+Observations,"2,186","1,033","1,153"
+Adj. R-squared,0.09,0.08,0.08

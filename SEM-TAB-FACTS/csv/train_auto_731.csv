@@ -1,0 +1,20 @@
+"
+","Physical violence against persons
+(1)","Physical violence against persons
+(2)","Physical violence against persons
+(3)","Theft of edible products
+(4)","Theft of edible products
+(5)","Theft of edible products
+(6)"
+Temperature,−0.067,−0.034,0.011,0.034,0.056,0.098
+,(0.040),(0.021),(0.047),(0.018),(0.019),(0.027)
+,[0.099],[0.101],[0.822],[0.064],[0.004],[0.0003]
+Temperature  ×  Migration dummy,,−0.099,,,−0.066,
+,,(0.065),,,(0.019),
+,,[0.131],,,[0.001],
+Temperature  ×  Migration rate,,,−0.009,,,−0.007
+,,,(0.007),,,(0.002)
+,,,[0.202],,,[0.0001]
+Province FE,Yes,Yes,Yes,Yes,Yes,Yes
+Year FE,Yes,Yes,Yes,Yes,Yes,Yes
+Observations,1044,1044,1044,1044,1044,1044

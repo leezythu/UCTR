@@ -1,0 +1,16 @@
+"Parameter
+","
+","Symbol
+","Unit
+","Case I
+x                                    EG                                  ≈                              0","Case II
+x                                    EG                                  <                              0","Case III
+x                                    EG                                  >                              0"
+Heave frequency,sim.,"f                                    h                                    1-DOF, sim, exp. values",Hz,7.21,7.21,7.21
+,,"f                                    h                                    1-DOF, sim, updated values",,7.25,7.25,7.25
+,exp.,"f                                    h                                    1                                  -                                  DOF                                  ,                                  exp",,7.26,7.26,7.26
+Relative error,,ε                                        f                                        h,%,0.14,0.14,0.14
+Pitch frequency,sim.,"f                                    α                                    1-DOF, sim, exp. values",Hz,8.28,7.45,7.45
+,,"f                                    α                                    1-DOF, sim, updated values",,8.33,7.50,7.50
+,exp.,"f                                    α                                    1-DOF, exp",,8.33,7.49,7.49
+Relative error,,ε                                        f                                        α,%,0.00,0.13,0.13

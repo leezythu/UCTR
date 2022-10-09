@@ -1,0 +1,13 @@
+S. No,Plant description,Match Coverage (%),Total Coverage (%),RIP activity reported,RIP gene identified,Type of RIP,References
+1,Populus trichocarpa,2 + 1 + 1 + 3 + 3,10,Yes,Yes,Type 2 (B domain only),Peumans and Vandamme (2010)
+2,Astragalus membranaceus,10,10,No,No,–,–
+3,Polygala tenuifolia,1,1,No,No,–,–
+4,Vitis vinifera,0 + 2,2,Yes,No,–,Peumans and Vandamme (2010)
+5,Triticum aestivum,2,2,Yes,Yes,Type 1,Raj and Vennila (2013)
+6,Glycine                        max,2 + 1,3,Yes,No,–,Peumans and Vandamme (2010)
+7,Brachypodiumdistachyon,1,1,Yes,Yes,Type 3,Peumans and Vandamme (2010)
+8,Hordeum vulgare,3,3,Yes,Yes,Type 1,Raj and Vennila (2013)
+9,Ricinus communis,2,2,Yes,Yes,Type 2,–
+10,Micromonaspusilla,1,1,Yes,No,–,Peumans and Vandamme (2010)
+11,Musa acuminata                        subsp.,11,11,No,No,–,–
+12,Arabidopsis lyrata                        subsp.,3,3,No,No,–,Peumans and Vandamme (2010)

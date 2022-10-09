@@ -1,0 +1,4 @@
+,board network,political network,family network
+Political network,0.3300*,,
+Family network,0.7417*,0.3021*,
+State network,0.2665*,0.2620*,0.0872*

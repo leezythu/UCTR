@@ -1,0 +1,14 @@
+"Fitness level
+Fitness level","Crude Model
+OR","Crude Model
+95% CI","Crude Model
+p","Model 2
+OR","Model 2
+95% CI","Model 2
+p","Model 3
+OR","Model 3
+95% CI","Model 3
+p"
+Low,1,-,-,1,-,-,1,-,-
+Medium,0.88,0.81–0.97,0.011,0.91,0.81–1.00,0.063,0.99,0.89–1.11,0.975
+High,0.86,0.77–0.95,0.005,0.83,0.73–0.95,0.012,1.01,0.88–1.16,0.827

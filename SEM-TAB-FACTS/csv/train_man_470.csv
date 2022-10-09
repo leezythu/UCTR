@@ -1,0 +1,21 @@
+"
+Parameter","
+Reference dose","FS-HDR-BT
+Median (n = 30)","FS-HDR-BT
+Range","MR-Linac
+Median (n = 30)","MR-Linac
+Range","
+p-value"
+Target coverage,,,,,,
+D95% CTV/PTV*,≥19 Gy,18.8 Gy,14.0–21.7 Gy,19.0 Gy,15.5–21.7 Gy,0.053
+D90% CTV/PTV*,≥17 Gy,20.3 Gy,15.9–23.8 Gy,20.2 Gy,16.7–22.6 Gy,0.484
+High dose volumes,,,,,,
+V100% CTV/PTV*,–,95%,73–99%,95%,69–100%,0.894
+V150% CTV/PTV*,–,55%,25–77%,1%,0–38%,<0.001
+V200% CTV/PTV*,–,25%,9–54%,0%,0–0%,<0.001
+OAR dose,,,,,,
+Urethra D10%,<17.7 Gy,16.0 Gy,6.7–18.2 Gy,17.5 Gy,8.2–17.7 Gy,<0.001
+Rectum D1cm             3,<12 Gy,10.2 Gy,4.1–12.0 Gy,12.0 Gy,9.4–12.0 Gy,<0.001
+Rectum D2cm             3,–,8.6 Gy,1.6–10.8 Gy,10.7 Gy,8.4–11.3 Gy,<0.001
+Bladder D1cm             3,<12 Gy,8.5 Gy,1.8–12.1 Gy,8.4 Gy,0.4–12.0 Gy,0.102
+Bladder D2cm             3,–,7.0 Gy,1.6–10.8 Gy,6.6 Gy,0.5–11.1 Gy,0.090

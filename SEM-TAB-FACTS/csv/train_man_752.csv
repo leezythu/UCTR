@@ -1,0 +1,13 @@
+"VOI
+EBV_62","Constraints
+V58.9 Gy","Constraints
+>","Constraints
+99%"
+PTV_57,V54.15 Gy,>,99%
+Rectum,V62Gy,<,1 cm             3
+,V60Gy,⩽,5%
+,V40Gy,⩽,50%
+Bladder,V62Gy,<,1 cm             3
+,V60Gy,⩽,10%
+,V40Gy,⩽,50%
+Femur heads,V40Gy,⩽,50%

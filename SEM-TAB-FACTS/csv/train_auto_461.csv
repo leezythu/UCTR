@@ -1,0 +1,11 @@
+IGCC parameters,Before using FSPC,After using FSPC,Ratio
+Coal flow rate                                   m                                      ̇                                      c                                o                                a                                l                              (kg.s                         −1                        ),30,30,0
+CO conversion rate,90 mol%,0,−100%
+CO                         2                        absorption rate,94 mol%,0,−100%
+Integration ratio                           β,28.6%,35.5%,24.1%
+Nitrogen supply ratio                           γ,71.2%,70%,−1.7%
+GT efficiency                               η                                  G                                T,42.1%,50.6%,20.2%
+GT power output                               E                                  G                                T                              (MW),469.5,508.3,8.3%
+Efficiency of water recovery                               η                                  w                                a                                t                                e                                r,40.7%,62.1%,52.6%
+Net efficiency of IGCC system                               η                                  n                                e                                t,37.6%,41.7%,10.9%
+Exergy efficiency of IGCC system                               η                                  e                                x                                e                                r                                g                                y,36.5%,39.2%,7.4%

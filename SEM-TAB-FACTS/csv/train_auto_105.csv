@@ -1,0 +1,11 @@
+"
+Personality trait (per 1-SD increase)","Generalized anxiety disorder
+OR (95%CI)","Generalized anxiety disorder
+P-value","Physical activity
+OR (95%CI)","Physical activity
+P-value"
+Neuroticism,2.335 (1.945 to 2.803),<0.001,0.961 (0.897 to 1.030),0.257
+Extraversion,0.700 (0.563 to 0.797),<0.001,1.160 (1.087 to 1.237),<0.001
+Openness,1.079 (0.903 to 1.289),0.405,1.113 (1.043 to 1.188),0.001
+Agreeableness,0.842 (0.703 to 1.007),0.060,0.973 (0.911 to 1.038),0.406
+Conscientiousness,0.826 (0.693 to 0.985),0.033,1.083 (1.015 to 1.155),0.016

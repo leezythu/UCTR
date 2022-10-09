@@ -1,0 +1,45 @@
+"Variable
+Variable
+Variable","First-stage
+WOBP
+(1)","Second-stage
+REN/TC
+(2)"
+Female_male_ratio,0.189**,ˉ
+,(2.172),ˉ
+WOBP-Fitted,ˉ,1.002**
+,ˉ,(2.112)
+WCEO,1.131,0.132
+,(1.032),(1.121)
+Board size,0.091**,1.341**
+,(2.011),(2.179)
+Duality,0.922,−1.123*
+,(0.123),(−1.921)
+%_Board independence,0.121**,3.122**
+,(2.120),(2.117)
+B_meeting,1.122,−3.183*
+,(1.134),(−1.924)
+Tobin's q,0.023**,2.103
+,(2.081),(−1.629)
+ROA,0.023**,1.121*
+,(2.019),(1.899)
+Cash/net assets,1.121,0.214
+,(1.022),(1.463)
+Leverage,−0.132,−19.123
+,(−0.731),(−1.638)
+IO,1.211*,−1.120*
+,(1.891),(−1.881)
+%_Insider owner,−0.014,−0.531
+,(−1.125),(−1.448)
+Firm size,2.128*,6.132**
+,(1.092),(2.134)
+Constant,3.174***,3.134***
+,(2.453),(2.331)
+Industry effects,Y,Y
+Year effects,Y,Y
+N,"11,677","11,677"
+Model fits,,
+F-statistic,10.241***,
+,[0.001],
+Cragg-Donald Wald F-statistic,202.170,
+Stock-Yogo weak ID test critical values at 10% IV size,13.121,
