@@ -1,4 +1,5 @@
 .DS_Store
+.vscode
 *__pycache__*
 #TAT-QA
 TAT-QA/tatqa/dataset_tagop/roberta.large
