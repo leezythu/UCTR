@@ -1,0 +1,2 @@
+python tableqa/run_model.py train --dataset-dir  dataset/wikisql_syn/tapex.base --model-path tapex.base/model.pt --model-arch bart_base \
+--gradient-accumulation 4 --max-tokens 7000 --exp-dir checkpoints_syn
