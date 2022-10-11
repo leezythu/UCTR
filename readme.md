@@ -16,7 +16,7 @@ We experiment on three benchmarks: FEVEROUS, TAT-QA, and SEM-TAB-FACTS, and prov
 ----|----
 TAT-QA | [tatqa_syn.jsonl](https://drive.google.com/file/d/1mpcTMqgG_YdfYIxnOHfBUfawNhXuLWwC/view?usp=sharing)
 WiKiSQL | [wikisql_syn.jsonl](https://drive.google.com/file/d/1-xHnOV81Eg5RiT3G-ur6C67nhnbu-_JA/view?usp=sharing)
-SEM-TAB-FACTS | [sem-tab-facts-syn.tsv](https://drive.google.com/file/d/1ZcF1NFlrKvXB_3NB1HBBIited81gGjOs/view?usp=sharing)
+SEM-TAB-FACTS | [sem_tab_facts_syn.tsv](https://drive.google.com/file/d/1ZcF1NFlrKvXB_3NB1HBBIited81gGjOs/view?usp=sharing)
 FEVEROUS | [feverous_syn.jsonl](https://drive.google.com/file/d/1S4NHfeb2lw8jnDIfWDOFRk8heTPxdeiU/view?usp=sharing) 
 
 We release our synthetic data on four benchmark:TAT-QA, WiKiSQL, SEM-TAB-FACTS, FEVEROUS.
