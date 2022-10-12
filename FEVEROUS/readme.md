@@ -28,8 +28,9 @@ sh generate.sh
 
 #### Model Training&Inference
 
-We use the baseline model from the official repository of [FEVEROUS](https://github.com/Raldir/FEVEROUS), so you can first clone the training scripts. For training and inference, please run:
+We use the baseline model from the official repository of [FEVEROUS](https://github.com/Raldir/FEVEROUS), so you can first clone the training scripts. Then download the FEVEROUS data using `./scripts/download_data.sh` and replace the training file with the synthetic file.
 
+For training and inference, please run:
 ```python
 sh train_verdict.sh
 sh infer_verdict.sh

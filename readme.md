@@ -6,7 +6,9 @@ This is the repository for our paper *Toward a Unified Framework for Unsupervise
 
 ## ⚡️ Quickstart
 
-We experiment on four benchmarks: TAT-QA, WiKiSQL, SEM-TAB-FACTS and FEVEROUS, and we provide scripts for data generation and model training in the corresponding directory.
+We experiment on four benchmarks: TAT-QA, WiKiSQL, SEM-TAB-FACTS and FEVEROUS, and we provide scripts for data generation and model training in the corresponding directory. 
+
+Since some of the open-source repositories we use have no license, we can't upload them here directly. You may need to clone them yourself following the instructions.
 
 ##  🏰 Resources
 
@@ -27,7 +29,7 @@ Coming soon!
 ## 🤗 Docker
 We also provide a docker environment. You can reproduce our results in it easily.
 
-Coming soon!! (we will release it before 12, October)
+Coming soon!! (we will release it before 14, October)
 
 ## 📝 License
 

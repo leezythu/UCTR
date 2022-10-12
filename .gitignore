@@ -15,7 +15,9 @@ TAT-QA/sql2text/tat_samples_gen.json
 #no_use
 no_use
 #FEVEROUS
-FEVEROUS/
+FEVEROUS/src
+FEVEROUS/data
+FEVEROUS/*.log
 #SEM-TAB-FACTS
 SEM-TAB-FACTS/sem-tab-fact
 SEM-TAB-FACTS/checkpoint
