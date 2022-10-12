@@ -33,4 +33,4 @@ Finally, we aggregate the all samples generated above to form the final data fil
 cd Table-Pretraining/examples
 sh process.sh #process data
 sh train_syn.sh
-'''
+```
