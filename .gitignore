@@ -21,3 +21,5 @@ SEM-TAB-FACTS/sem-tab-fact
 SEM-TAB-FACTS/checkpoint
 #WiKiSQL
 WiKiSQL/Table-Pretraining/examples/dataset
+WiKiSQL/Table-Pretraining/examples/tapex.large
+WiKiSQL/Table-Pretraining/examples/tapex.base

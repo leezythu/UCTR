@@ -20,7 +20,7 @@ PROCESSED_DATASET_FOLDER = "dataset"
 
 TABLE_PROCESSOR = get_default_processor(max_cell_length=15, max_input_length=1024)
 # Options: bart.base, bart.large, tapex.base, tapex.large
-MODEL_NAME = "tapex.large"
+MODEL_NAME = "tapex.base"
 logger = logging.getLogger(__name__)
 
 
