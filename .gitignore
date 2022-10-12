@@ -23,3 +23,4 @@ SEM-TAB-FACTS/checkpoint
 WiKiSQL/Table-Pretraining/examples/dataset
 WiKiSQL/Table-Pretraining/examples/tapex.large
 WiKiSQL/Table-Pretraining/examples/tapex.base
+WiKiSQL/Table-Pretraining/examples/raw_dataset/wikisql_syn/data/train.db
