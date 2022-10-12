@@ -5,15 +5,14 @@
 #tf transfer
 # python train_task_a/tapas_tf_stf.py -n 0605_tf_meta+train
 
-# #unsupervised
-# python train_task_a/tapas_stf.py -n 0616_stf_eq_count_on_man_reproduce_to_ensure > 0616_stf_eq_count_on_man_reproduce_to_ensure.log
+# unsupervised
+python train_task_a/tapas_stf.py -n 1007_stf_syn > 1007_stf_syn.log
 
 # stf
 # python train_task_a/tapas_stf.py -n 0705_stf_50 > 0705_stf_50.log
 
 #aug_50
 # python train_task_a/tapas_stf.py -n 0705_stf_50_aug > 0705_stf_50_aug.log
-
 
 # aug
 # python train_task_a/tapas_stf.py -n 0705_stf_aug > 0705_stf_aug.log
@@ -23,4 +22,4 @@
 
 
 #tf directly
-python train_task_a/tapas_tf.py -n tmp
+# python train_task_a/tapas_tf.py -n tmp

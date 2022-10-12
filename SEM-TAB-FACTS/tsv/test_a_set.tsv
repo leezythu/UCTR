@@ -1,0 +1,654 @@
+id	annotator	position	question	table_file	answer_coordinates	answer_text	aggregation	float_answer
+1	0	0	Tow time is always more than 25 mins.	test_a_1.csv	[]	0		
+1	0	0	The dates range from March 01, 2018 to March 05, 2018.	test_a_1.csv	[]	0		
+1	0	0	Haul #1's Marks is Gentle codend.	test_a_1.csv	[]	0		
+1	0	0	Catch damage was evaluated for 750 cod.	test_a_1.csv	[]	2		
+1	0	0	The highest catch is 524.19.	test_a_1.csv	[]	0		
+1	0	0	There are some tow times longer than 119 minutes.	test_a_1.csv	[]	1		
+1	0	0	There are more than 25 hauls in the given table.	test_a_1.csv	[]	0		
+1	0	0	The earliest date is March 01, 2019	test_a_1.csv	[]	1		
+1	0	0	Examination of the CI's indicate that this sample size was sufficient to provide conclusive results.	test_a_1.csv	[]	2		
+1	0	0	Each time is different from each other.	test_a_1.csv	[]	1		
+1	0	0	The Lat. for Haul #1 is 7151.94 N	test_a_1.csv	[]	1		
+1	0	0	There are 25 different hauls in the given table.	test_a_1.csv	[]	1		
+2	0	0	There are 8 weeks mentioned in the table.	test_a_2.csv	[]	0		
+2	0	0	Order 1 had Straw for week 1.	test_a_2.csv	[]	0		
+2	0	0	Order 1 had Peat for week 1.	test_a_2.csv	[]	1		
+2	0	0	Under Order 6 , Week 8 we have Straw.	test_a_2.csv	[]	2		
+2	0	0	Order ranges from Order 1 to Order 8.	test_a_2.csv	[]	0		
+2	0	0	Order ranges from Order 1 to Order 5.	test_a_2.csv	[]	1		
+2	0	0	There are four conditions - silage, straw, peat, and combo	test_a_2.csv	[]	0		
+2	0	0	Control condition appears five times in the table.	test_a_2.csv	[]	1		
+2	0	0	A total of 10 L of silage, straw, peat or combo was distributed in three similar-sized piles (triangularly arranged, 0.3 to 0.5 m apart, one pile/material in combo) on the solid floor of the nest area, twice daily at approximately 09:00 and 14:00 h, after the morning and afternoon cleaning, respectively.	test_a_2.csv	[]	2		
+2	0	0	The order for the five conditions were different for each week.	test_a_2.csv	[]	1		
+2	0	0	There are five conditions - control , silage, straw, peat, and combo	test_a_2.csv	[]	1		
+2	0	0	There are 5 weeks mentioned in the table.	test_a_2.csv	[]	1		
+3	0	0	Method 2 has an disadvantage of Cave geometry not captured Vol. accuracy dependant on morphological hetereogenity.	test_a_3.csv	[]	0		
+3	0	0	When the input data is just center points, the rendered volume is 2.66.	test_a_3.csv	[]	0		
+3	0	0	Method 1 and Method 2 have the same input data.	test_a_3.csv	[]	0		
+3	0	0	Most of these steps are fully automated and do not require significant manual effort.	test_a_3.csv	[]	2		
+3	0	0	Method 1 has an advantage of Good geometric representation and Good vol. representation.	test_a_3.csv	[]	0		
+3	0	0	Method 1 has an advantage of Simple input data Time efficient .	test_a_3.csv	[]	1		
+3	0	0	There are more than 3 methods in the table.	test_a_3.csv	[]	0		
+3	0	0	Method 2 has the disadvantage of cave geometry not captured Time consuming Multi-tiered systems add complexity Overestimate vol.	test_a_3.csv	[]	1		
+3	0	0	It does, however, provide a significantly improved geocellular rendering of cave morphology.	test_a_3.csv	[]	2		
+3	0	0	Centre points+multiple wall shots has a Rendered vol. (Mm 3 ) is of 1.55.	test_a_3.csv	[]	1		
+3	0	0	When the input data is center points, the delineation is geometric distance to centerline.	test_a_3.csv	[]	1		
+3	0	0	In terms of time-consumption and complexity, our new method is significantly quicker and easier than Method 2, but not as fast and easy as Method 1.	test_a_3.csv	[]	2		
+3	0	0	Method 2 has the largest rendered volume.	test_a_3.csv	[]	1		
+4	0	0	4 m MD* is the smallest thickness drilled in the table.	test_a_4.csv	[]	0		
+4	0	0	The lithology description for the borehole 6407/10-4 is Fractured granite basement.	test_a_4.csv	[]	0		
+4	0	0	"The rock sample ""Cuttings"" belongs to a borehole with the name 6306/6-2."	test_a_4.csv	[]	0		
+4	0	0	Boreholes 6306/6-1 and 6306/6-2 penetrate SF2 reporting rocks of granitic composition.	test_a_4.csv	[]	2		
+4	0	0	3169 m MD* is the highest top depth when compared to all.	test_a_4.csv	[]	1		
+4	0	0	There exists thickness drilled less than or equal to 5 m MD*.	test_a_4.csv	[]	1		
+4	0	0	The highest top depth belongs to the borehole named 6407/10-3.	test_a_4.csv	[]	0		
+4	0	0	There are fourteen types under Borehole name	test_a_4.csv	[]	0		
+4	0	0	There are four borehole names in the table.	test_a_4.csv	[]	1		
+4	0	0	The borehole with the name 6306/6-1 has a base depth of 1312 m MD*.	test_a_4.csv	[]	2		
+4	0	0	The rock sample called cuttings belongs to the borehole with the name 6306/6-1.	test_a_4.csv	[]	1		
+4	0	0	The lithology description for the borehole with the name 6407/10-3 is Fractured granite basement.	test_a_4.csv	[]	1		
+5	0	0	Section A-A' has the highest degrees at the angles at the top fault scarp.	test_a_5.csv	[]	0		
+5	0	0	Sections A-A' and D-D' have different zones.	test_a_5.csv	[]	0		
+5	0	0	The section A-A' has less lateral length of eroded fault scarp than all other sections.	test_a_5.csv	[]	0		
+5	0	0	Consequently, we calculated a minimum syn-rift basement thinning of c. 13 km to the west in the northern structural salient area.	test_a_5.csv	[]	2		
+5	0	0	There are five unique sections.	test_a_5.csv	[]	0		
+5	0	0	The three types of zones in the table are single, inner and outer.	test_a_5.csv	[]	1		
+5	0	0	There are five unique zone types.	test_a_5.csv	[]	0		
+5	0	0	The Heave and Chalk are both highest for C-C'.	test_a_5.csv	[]	2		
+5	0	0	Section B-B' has two types of zones.	test_a_5.csv	[]	1		
+5	0	0	There are 6 sections.	test_a_5.csv	[]	0		
+5	0	0	A-A' has a displacement of 19.8 km.	test_a_5.csv	[]	1		
+5	0	0	The section D-D' has the highest angle degree at the top fault scarp.	test_a_5.csv	[]	1		
+5	0	0	The continental crust has a thickness of c. 26.4 km on the Frya High and c. 13.5 km in the hanging wall cut-off .	test_a_5.csv	[]	2		
+5	0	0	Section E-AX has a Heave of 25 Km.	test_a_5.csv	[]	2		
+6	0	0	There is no velocity provided for the Palaeozoic unit in Terrace.	test_a_6.csv	[]	1		
+6	0	0	The average. velocities from VSP reports from the Cenozoic and Upper Cretaceous succession are calculated.	test_a_6.csv	[]	2		
+6	0	0	Seawater has the lowest velocity(m/s) in  this work.	test_a_6.csv	[]	1		
+6	0	0	The unit continental crust has the same velocity for terrace and deep basin.	test_a_6.csv	[]	1		
+6	0	0	Modern is a unit in the table.	test_a_6.csv	[]	0		
+6	0	0	The velocities reported for the Vring and Mre basins for the Lower Cretaceous and older rocks were also used .	test_a_6.csv	[]	2		
+6	0	0	The velocity analysis to quantify the uncertainty of the depth conversions is conducted for this work.	test_a_6.csv	[]	2		
+6	0	0	The unit seawater has the same velocity for terrace, deep basin and this work.	test_a_6.csv	[]	1		
+6	0	0	There is more than one unit with a velocity of 6000 m/s in this work.	test_a_6.csv	[]	1		
+6	0	0	The Aobest-fit depth conversionAo shows good match (5%) with well tops in the Frya High and the Rs Basin.	test_a_6.csv	[]	2		
+6	0	0	Triassic and Palaeozoic units have different velocities in this work.	test_a_6.csv	[]	0		
+6	0	0	There are eight units under consideration in the table.	test_a_6.csv	[]	1		
+6	0	0	The unit Upper Cretaceous have the same velocities for terrace and deep basin.	test_a_6.csv	[]	0		
+6	0	0	The seawater velocity is different for Terrace, Deep basin and this work.	test_a_6.csv	[]	0		
+7	0	0	The lowest average water temperature is below 0 in this table.	test_a_7.csv	[]	0		
+7	0	0	The highest maximum water temperature was during 07/2017.	test_a_7.csv	[]	0		
+7	0	0	June and July 2017 received high rainfall (74.2 and 85.6 mm respectively).	test_a_7.csv	[]	0		
+7	0	0	The highest Precipitation (mm) is 103.4.	test_a_7.csv	[]	1		
+7	0	0	The precipitation is lowest in 12/2016 at 9.2 mm.	test_a_7.csv	[]	1		
+7	0	0	The lowest minimum air temperature is 0.7.	test_a_7.csv	[]	1		
+7	0	0	The max temperature is always higher than the min temperature.	test_a_7.csv	[]	1		
+7	0	0	There are two years in the table, 2016 and 2017.	test_a_7.csv	[]	1		
+7	0	0	Every month between 08/2016 to 09/2017 has an entry in the table.	test_a_7.csv	[]	1		
+7	0	0	06/2017 has both the highest average water and air temperature.	test_a_7.csv	[]	0		
+7	0	0	The precipitation decreased between 08/2016 and 09/2016.	test_a_7.csv	[]	0		
+7	0	0	If the monitored  18 O water values are considered when interpreting the dataset, it would appear that the pond is highly evaporated, however, it is clear that pond water was equivalent to groundwater or local precipitation during June and July.	test_a_7.csv	[]	2		
+7	0	0	The monitored waters (-1.19A for April 2017 and + 4.85A for June 2017), however, suggest a considerable degree of evaporative enrichment and/or significant seawater input.	test_a_7.csv	[]	2		
+8	0	0	The salinity PSU value for Ramsgate is given in the table.	test_a_8.csv	[]	0		
+8	0	0	The monitored 18O  (-1.19A for April 2017 and + 4.85A for June 2017), however, suggest a considerable degree of evaporative enrichment and/or significant seawater input.	test_a_8.csv	[]	1		
+8	0	0	The highest Electrical conductivity is 55.2 dated 04-Aug-16.	test_a_8.csv	[]	0		
+8	0	0	All the values given in the table are negative values.	test_a_8.csv	[]	0		
+8	0	0	The date column ranges from Aug 4th, 2016 to Sept 28th 2017.	test_a_8.csv	[]	1		
+8	0	0	The composition of the pond can therefore shift quickly (on a less than monthly timescale).	test_a_8.csv	[]	2		
+8	0	0	The lowest Electrical conductivity is 33.3 and it was on 28-Sep-17.	test_a_8.csv	[]	1		
+8	0	0	There are 10 different columns in the given table.	test_a_8.csv	[]	0		
+8	0	0	The earliest date in the table is 05-Aug-16.	test_a_8.csv	[]	0		
+8	0	0	All electrical conductivity values, when given, are positive.	test_a_8.csv	[]	1		
+8	0	0	Values are only given for 18 O (% VSMOW) and 2 H (% VSMOW) in the Ramsgate entry.	test_a_8.csv	[]	1		
+8	0	0	It would appear that the pond is highly evaporated, however, it is clear that pond water was equivalent to groundwater or local precipitation during June and July.	test_a_8.csv	[]	2		
+8	0	0	June and July 2017 received high rainfall (74.2 and 85.6 mm respectively compared with a mean of 42.7 and 47.6 mm between 1934 and 2016; Table 4 ).	test_a_8.csv	[]	2		
+8	0	0	There are 8 different columns in the given table.	test_a_8.csv	[]	1		
+9	0	0	The description occupation metal, machinery and related trade work has ISCO88 code of 74.	test_a_9.csv	[]	0		
+9	0	0	The highest code number does not have the highest global average RII.	test_a_9.csv	[]	1		
+9	0	0	The lowest RII (Global average) is 0.952.	test_a_9.csv	[]	0		
+9	0	0	The highest RTI value is 2.589.	test_a_9.csv	[]	1		
+9	0	0	All description occupations are unique.	test_a_9.csv	[]	1		
+9	0	0	ISCO88 code 71 has an RTI value of 0.815.	test_a_9.csv	[]	1		
+9	0	0	For ISCO88 code 93, RII(Germany) is higher than RII(U.S).	test_a_9.csv	[]	1		
+9	0	0	ISCO88 code 93 has RII(U.S.) value of 0.626.	test_a_9.csv	[]	0		
+9	0	0	The highest RTI has code 74.	test_a_9.csv	[]	0		
+9	0	0	Hence, an occupation with mean routine intensity gets a weight of 1, a below-average routine intensity occupation a lower weight, and an above-average routine intensity occupation a weight above 1.	test_a_9.csv	[]	2		
+9	0	0	We added +1 to the measure.	test_a_9.csv	[]	2		
+9	0	0	The ISCO88 code with RTI 2.589 is 71.	test_a_9.csv	[]	0		
+10	0	0	Every industrial code has the same short description.	test_a_10.csv	[]	0		
+10	0	0	We observe a (slightly) stronger reduction in the routine share for industries that invested more in robots.	test_a_10.csv	[]	2		
+10	0	0	For each code, its short and long descriptions are always different.	test_a_10.csv	[]	0		
+10	0	0	Industrial code C does not contain a long description.	test_a_10.csv	[]	0		
+10	0	0	Industry Code F has the same short and long description.	test_a_10.csv	[]	1		
+10	0	0	Every code contains a short and long description.	test_a_10.csv	[]	1		
+10	0	0	Rubber is a short description for ISIC rev 3.1 code C.	test_a_10.csv	[]	0		
+10	0	0	Rubber is present in both the short and long description for code 25.	test_a_10.csv	[]	0		
+10	0	0	All short descriptions are unique.	test_a_10.csv	[]	1		
+10	0	0	Petroleum is the short description for code 23.	test_a_10.csv	[]	1		
+10	0	0	Sectors such as paper and utilities experienced a decline in the share of routine jobs with only a relatively small increase in robotization.	test_a_10.csv	[]	2		
+10	0	0	The short and long description for M are both Education, and R&D.	test_a_10.csv	[]	1		
+11	0	0	The West Bank has more than 1 year of education than Israel.	test_a_11.csv	[]	0		
+11	0	0	Rural is higher for West Bank than Urban.	test_a_11.csv	[]	0		
+11	0	0	There are more than 8 variables analyzed in the table.	test_a_11.csv	[]	0		
+11	0	0	For instance, 0.18 of Israel had at least a high school (or above) qualification, while only 0.01 earned a bachelor's degree or above	test_a_11.csv	[]	1		
+11	0	0	Age is higher in Israel than West Bank.	test_a_11.csv	[]	0		
+11	0	0	There are two places of work shown in the table, West Bank and Israel.	test_a_11.csv	[]	1		
+11	0	0	The daily wage in Israel is 66.	test_a_11.csv	[]	0		
+11	0	0	The daily wage is higher is Israel than in the West Bank.	test_a_11.csv	[]	1		
+11	0	0	Elementary school or below is higher for West Bank than Israel.	test_a_11.csv	[]	2		
+11	0	0	High school degree or above is higher than higher education for both West Bank and Israel.	test_a_11.csv	[]	1		
+11	0	0	Although higher education is higher in the West Bank, the daily wage is higher in Israel.	test_a_11.csv	[]	1		
+11	0	0	The years of schooling distributions reveal stark differences between academics and non-academics.	test_a_11.csv	[]	2		
+11	0	0	The West Bank has 9.8 years of education.	test_a_11.csv	[]	1		
+12	0	0	TLC and TLC/t are the same for rank 6 and 7.	test_a_12.csv	[]	0		
+12	0	0	TLC for rank 4 is 13.	test_a_12.csv	[]	0		
+12	0	0	There are 10 in the ranking of most influential articles in this table.	test_a_12.csv	[]	1		
+12	0	0	We have divided our influential articles into two categories based on total local citation per year (TLC/t) and total global citation per year (TGC/t) .	test_a_12.csv	[]	1		
+12	0	0	TLC values are higher than TLC/t values for every rank. .	test_a_12.csv	[]	1		
+12	0	0	Some ranks have the same TLC value.	test_a_12.csv	[]	1		
+12	0	0	The highest TGC value is 558.	test_a_12.csv	[]	1		
+12	0	0	Rank 4 with TLC value 26 has the highest TLC value.	test_a_12.csv	[]	1		
+12	0	0	Rank ranges from 1 to 9 in the table.	test_a_12.csv	[]	0		
+12	0	0	The table shows the top 10 articles.	test_a_12.csv	[]	1		
+12	0	0	Rank 7 has a lower TGC value than all other rankings.	test_a_12.csv	[]	0		
+12	0	0	The lowest TLC value is 4.	test_a_12.csv	[]	0		
+12	0	0	As a result, we recommend that management and international business journals should consider publishing on the topic of corruption in banks while considering managerial challenges.	test_a_12.csv	[]	2		
+12	0	0	The top-ranked articles have been taken from finance journals only.	test_a_12.csv	[]	2		
+13	0	0	All TLC Values are identical.	test_a_13.csv	[]	0		
+13	0	0	We ranked the authors, their countries of origin, and institutional affiliations.	test_a_13.csv	[]	1		
+13	0	0	Qiu Jiaping is a country.	test_a_13.csv	[]	0		
+13	0	0	USA has the highest PCORB at 109.	test_a_13.csv	[]	0		
+13	0	0	USA is the top ranking influential country with 262 P CORB.	test_a_13.csv	[]	1		
+13	0	0	P CORB is a measure for influential countries and influential institutions, but not for influential authors.	test_a_13.csv	[]	1		
+13	0	0	The TGC value for the 1st ranking journal is 810.	test_a_13.csv	[]	0		
+13	0	0	The rank ranges from 1 to 9.	test_a_13.csv	[]	0		
+13	0	0	The World Bank has the most P CORB under influential institutions.	test_a_13.csv	[]	1		
+13	0	0	The lowest Influential institutions is Top of Form Australian National University with 6 P CORB.	test_a_13.csv	[]	1		
+13	0	0	The ranking of authors based on highest citations during the last 50 years will be useful to start the future projects with them.	test_a_13.csv	[]	2		
+13	0	0	Austria has a P CORB of 36.	test_a_13.csv	[]	2		
+13	0	0	Li Si, Qiu Jiaping have the same TGC.	test_a_13.csv	[]	1		
+14	0	0	There are 5 different types of Cryptos in the given table.	test_a_14.csv	[]	1		
+14	0	0	BTC has no value shown for standard deviation.	test_a_14.csv	[]	0		
+14	0	0	Se has a range between 0.003 to 0.004.	test_a_14.csv	[]	1		
+14	0	0	LTC and BTC have the same number in the given table.	test_a_14.csv	[]	1		
+14	0	0	XRP has the highest median value in the given table.	test_a_14.csv	[]	1		
+14	0	0	All max values are 0.195 or higher.	test_a_14.csv	[]	1		
+14	0	0	There are more than 5 crypto-currency in the table.	test_a_14.csv	[]	0		
+14	0	0	EOS has a unique value in skew.	test_a_14.csv	[]	1		
+14	0	0	The lowest median in the table is -0.001.	test_a_14.csv	[]	0		
+14	0	0	BTC has a higher n than all other crypto-currencies.	test_a_14.csv	[]	0		
+14	0	0	se is at its highest for ATP.	test_a_14.csv	[]	2		
+14	0	0	BTC has a higher v value than EOS.	test_a_14.csv	[]	2		
+15	0	0	In fact, for ATC, the minimum daily log-return is -130.2%.	test_a_15.csv	[]	2		
+15	0	0	The highest number of skewness of returns is 5.99.	test_a_15.csv	[]	0		
+15	0	0	Just after the top 5 are Bitcoin Cash (2.33 Billions USD) and Tether (2.04 Billions USD).	test_a_15.csv	[]	2		
+15	0	0	There is no median above 0%.	test_a_15.csv	[]	0		
+15	0	0	The maximum daily returns of XRP is 0.50.	test_a_15.csv	[]	0		
+15	0	0	The highest number of observations is 2132.	test_a_15.csv	[]	1		
+15	0	0	The mean of EOS is 0.70%.	test_a_15.csv	[]	1		
+15	0	0	The minimum daily returns of LTC is 42.97%.	test_a_15.csv	[]	0		
+15	0	0	There are 8 crypto-currencies represented in the table.	test_a_15.csv	[]	0		
+15	0	0	The standard error is 0.00 for all 5 crypto is the same.	test_a_15.csv	[]	1		
+15	0	0	The lowest sample standard deviation of the returns is 4.36%.	test_a_15.csv	[]	1		
+15	0	0	We use simple returns because log-returns might give unreliable estimates for assets with extremely high volatility.	test_a_15.csv	[]	2		
+15	0	0	The crypto-currency NMM has a high mean but low median.	test_a_15.csv	[]	2		
+15	0	0	The 5 crypto-currencies are BTC, EOS, ETH, LTC, XRP.	test_a_15.csv	[]	1		
+16	0	0	Software & Services has 3020 as the 4 GICS code.	test_a_16.csv	[]	0		
+16	0	0	Bench and Bench&Over have the same value for Materials.	test_a_16.csv	[]	0		
+16	0	0	All Bench&Over values are unique.	test_a_16.csv	[]	0		
+16	0	0	All data were derived from the Capital IQ database.	test_a_16.csv	[]	2		
+16	0	0	There are 8 industries sampled in the table.	test_a_16.csv	[]	0		
+16	0	0	The total industry Firm- Years for all firms is 1149.	test_a_16.csv	[]	1		
+16	0	0	Food, Beverage & tobacco has the highest Bench (%) .	test_a_16.csv	[]	0		
+16	0	0	All bench values are at least 3.	test_a_16.csv	[]	1		
+16	0	0	Over values are larger than Bench&Over values for every industry., including total	test_a_16.csv	[]	1		
+16	0	0	Consumer Durables & Apparel has the least Bench&Over (%) .	test_a_16.csv	[]	1		
+16	0	0	The Biomedical industry has the 4 GICS CODE of 1211.	test_a_16.csv	[]	2		
+16	0	0	Bench (%) and Bench& Over(%) are the same for Capital Goods.	test_a_16.csv	[]	1		
+17	0	0	The code for unemployment rate is une_rt_m.	test_a_17.csv	[]	1		
+17	0	0	Employment rate is one of the names described in the table.	test_a_17.csv	[]	0		
+17	0	0	Consumer prices have a seasonal adjustment.	test_a_17.csv	[]	0		
+17	0	0	There is only one frequency type depicted in the table.	test_a_17.csv	[]	1		
+17	0	0	Most adjustments are seasonally adjusted.	test_a_17.csv	[]	0		
+17	0	0	The unit for Government bond yield and swap rate are both percent (p.a.)	test_a_17.csv	[]	1		
+17	0	0	The description for Industrial production is Unemployment rate of total population.	test_a_17.csv	[]	0		
+17	0	0	Industrial production and unemployment rate have different reference areas.	test_a_17.csv	[]	0		
+17	0	0	The frequency is month for all rows in the table.	test_a_17.csv	[]	1		
+17	0	0	The reference area ES, IE, IT, PT is the most common in the table.	test_a_17.csv	[]	1		
+18	0	0	At least one of the shocks of loan volume is 0.	test_a_18.csv	[]	0		
+18	0	0	As in the baseline model, the VAR model includes a consumer price index, volume of loans to non-financial corporations, ratio of banksAo holdings of domestic to foreign government debt, the retail lending rate on new loans, the government bond spread for each country and a proxy for the policy rate.	test_a_18.csv	[]	2		
+18	0	0	There are more - signs than + in sovereign risk shock.	test_a_18.csv	[]	0		
+18	0	0	The credit supply shock is 1 for Banks' home bias.	test_a_18.csv	[]	0		
+18	0	0	The credit supply shock is 0 for Banks' home bias.	test_a_18.csv	[]	1		
+18	0	0	Prices and Output are both variables. 	test_a_18.csv	[]	1		
+18	0	0	There are five types of shock in the table.	test_a_18.csv	[]	0		
+18	0	0	The Output for credit demand shock is A.	test_a_18.csv	[]	0		
+18	0	0	Examples of shocks are credit demand shock, credit supply shock and sovereign risk shock.	test_a_18.csv	[]	1		
+18	0	0	Short rate and prices are both variables in the table.	test_a_18.csv	[]	1		
+18	0	0	The impulse response functions and the historical decompositions of the identified shocks are qualitatively similar to those obtained in the baseline models and do not alter the conclusion drawn from the baseline model.	test_a_18.csv	[]	2		
+18	0	0	The sign restrictions used to identify the three shocks are the same as in the baseline model, with the exception that the effects on the unemployment rate are assumed to be positive	test_a_18.csv	[]	2		
+18	0	0	There are three types of shock.	test_a_18.csv	[]	1		
+19	0	0	There are 7 different types of treatment in the given table.	test_a_19.csv	[]	0		
+19	0	0	The highest number of subjects is 67 in the APF-teamleader treatment.	test_a_19.csv	[]	0		
+19	0	0	All individual compensation schemes also have individual level of feedback.	test_a_19.csv	[]	0		
+19	0	0	Recall that the reference for comparison is not exactly the same for subjects in the two different individual RPF treatments.	test_a_19.csv	[]	2		
+19	0	0	There are more relative feedback type than absolute.	test_a_19.csv	[]	1		
+19	0	0	The highest number of subjects is 93 in APF-teamleader treatment.	test_a_19.csv	[]	1		
+19	0	0	All treatments have the same number of clusters.	test_a_19.csv	[]	0		
+19	0	0	There are three different levels of feedback.	test_a_19.csv	[]	0		
+19	0	0	There are two types of level of feedback and compensation scheme, Individual and team.	test_a_19.csv	[]	1		
+19	0	0	One way to address whether this difference affects results is to compare within-team heterogeneity in performance across treatments, i.e. to compare variance within teams in RPF team-ind with variance within quasi teams in RPF-ind-ind.	test_a_19.csv	[]	2		
+19	0	0	All the numbers of clusters are unique.	test_a_19.csv	[]	1		
+19	0	0	Feedback has 2 types - Relative and absolute.	test_a_19.csv	[]	1		
+20	0	0	Average Performance (SD) has three sub divisions in the table	test_a_20.csv	[]	1		
+20	0	0	The Mann-Whitney z-Statistics p-value has a N of 105. for (1) vs. (3)	test_a_20.csv	[]	0		
+20	0	0	Some stage 1 values are not provided.	test_a_20.csv	[]	0		
+20	0	0	Statistical tests reveal no significant performance difference between them (MW: p = 0.65, RT: p = 0.89).	test_a_20.csv	[]	2		
+20	0	0	All N values are above 50.	test_a_20.csv	[]	1		
+20	0	0	APF-ind-ind has a smaller N than RPF-ind-ind.	test_a_20.csv	[]	0		
+20	0	0	Stage 1 and stage 2 are compared in the table.	test_a_20.csv	[]	1		
+20	0	0	APF-ind-ind has a N value of 68.	test_a_20.csv	[]	1		
+20	0	0	All numerical values in the table are postitive.	test_a_20.csv	[]	0		
+20	0	0	All the values are observed to be unique.	test_a_20.csv	[]	1		
+20	0	0	The largest N value is 122.	test_a_20.csv	[]	1		
+20	0	0	Hence, moving from APF-ind-ind to APF-team-team (step 1) revealed a performance decrease, which may indicate a free-rider problem.	test_a_20.csv	[]	2		
+20	0	0	Moving from APF-team-team to RPF-team-team (step 2) revealed a positive effect of team feedback.	test_a_20.csv	[]	2		
+21	0	0	The non-parametric tests show no significant difference in overall performance across these treatments.	test_a_21.csv	[]	2		
+21	0	0	All N values in Mann-Whitney z-statistics is higher than N values in Average Performance (SD).	test_a_21.csv	[]	1		
+21	0	0	Mann-Whitney z-Statistics ( p -value) is -2.06 (0.040)** for Stage 2 in (1) vs.(2).	test_a_21.csv	[]	1		
+21	0	0	This difference weakens in the final stages of the experiment.	test_a_21.csv	[]	2		
+21	0	0	Average Performance (SD) of APF-team-team at Stage 1 is 22.16 (5.77).	test_a_21.csv	[]	1		
+21	0	0	The highest N in the table is in average performance(SD)	test_a_21.csv	[]	0		
+21	0	0	However, the regression analysis suggests that subjects exert higher effort in RPF-team-ind relative to the baseline	test_a_21.csv	[]	2		
+21	0	0	RPF-team-ind has an N of 63.	test_a_21.csv	[]	1		
+21	0	0	The highest N value is 120.	test_a_21.csv	[]	1		
+21	0	0	The stage with average performance of 32.60 for RPF-team-team is stage 2.	test_a_21.csv	[]	0		
+21	0	0	The average performance of APF-team-team at stage 1 is 29.52(6.23).	test_a_21.csv	[]	0		
+21	0	0	The N value for RPF-team-ind is lower than the one for RPF-team-team.	test_a_21.csv	[]	0		
+21	0	0	The all stages average performance(SD) for APF-team-team is 57.	test_a_21.csv	[]	0		
+22	0	0	The min value of ILR is same at every stage.	test_a_22.csv	[]	0		
+22	0	0	The average value is sometimes larger than the max value in %DCM r.	test_a_22.csv	[]	0		
+22	0	0	Operating time varies at every stage.	test_a_22.csv	[]	1		
+22	0	0	Stage I and IV have the same Q, (m 3 /h) value of 0.12.	test_a_22.csv	[]	1		
+22	0	0	Stage II has the highest average value in %DCM r.	test_a_22.csv	[]	1		
+22	0	0	The min value of ILR is different at every stage.	test_a_22.csv	[]	1		
+22	0	0	Stage IV has the lowest average value for %DCM r.	test_a_22.csv	[]	0		
+22	0	0	The EC average value is not given for stage III.	test_a_22.csv	[]	1		
+22	0	0	Operating time is the same for some stages.	test_a_22.csv	[]	0		
+22	0	0	Stage I and IV has different Q, (m 3 /h) value.	test_a_22.csv	[]	0		
+22	0	0	Stage 0 contains the shortest operating time.	test_a_22.csv	[]	2		
+22	0	0	The combined effects of [DCM] i and Q gas during each stage are presented.	test_a_22.csv	[]	1		
+23	0	0	i (denoted as x 3 ) and %RH (denoted as x 4 ) to achieve a steady-state %DCM r .	test_a_23.csv	[]	2		
+23	0	0	The highest UV-TiO2 RMS value is 0.20.	test_a_23.csv	[]	0		
+23	0	0	In addition, the root mean square (RMS), and the difference between the calculated and the predicted %DCM r were used to determine the significance of the process parameters.	test_a_23.csv	[]	2		
+23	0	0	They are 14 different types of terms in the given table.	test_a_23.csv	[]	1		
+23	0	0	The lowest Prob > F is 0.065.	test_a_23.csv	[]	0		
+23	0	0	The highest Prob > F is 0.066	test_a_23.csv	[]	1		
+23	0	0	The lowest Prob > F is 0.023.	test_a_23.csv	[]	1		
+23	0	0	The term b3 has a P-Value of >0.1.	test_a_23.csv	[]	0		
+23	0	0	There are 20 terms in the table.	test_a_23.csv	[]	0		
+23	0	0	All P-Values shown are <0.1 .	test_a_23.csv	[]	1		
+23	0	0	The UV RMS value for A 0 is 0.169.	test_a_23.csv	[]	1		
+23	0	0	Results revealed that AOPs depends on the N (denoted as x 1 ), PH-C L (denoted as x 2 ), [DCM]	test_a_23.csv	[]	2		
+23	0	0	The ANOVA results of the cubic four-level factorial design of the %DCM r are good.	test_a_23.csv	[]	2		
+23	0	0	There is no Prob>F value given for residual and lack of fit terms in the table.	test_a_23.csv	[]	1		
+24	0	0	All S 2 Low environmental dynamisms values are positive.	test_a_24.csv	[]	1		
+24	0	0	All FIMIX Path Coefficients Diff. are higher than 0.15	test_a_24.csv	[]	0		
+24	0	0	The table gives information for the Global model and FIMIX values.	test_a_24.csv	[]	1		
+24	0	0	All Test diff values are either Sig*** or Sig**.	test_a_24.csv	[]	1		
+24	0	0	Some Test Diff values are Sig.**.	test_a_24.csv	[]	1		
+24	0	0	0.300 is the Path Coefficients Diff of BDAC Incremental Innovative Capability.	test_a_24.csv	[]	1		
+24	0	0	Global value of R 2 (Radical Innovative Capability) is 0.402	test_a_24.csv	[]	1		
+24	0	0	The Global value for BDAC Incremental innovative capability and BDAC Radical Innovative Capability are the same.	test_a_24.csv	[]	0		
+24	0	0	Subgroup paths and coefficients of determination are high for the Global model.	test_a_24.csv	[]	2		
+24	0	0	0.270 is the Path Coefficients Diff of BDAC UI Incremental Innovative Capability.	test_a_24.csv	[]	0		
+24	0	0	All Welch-Satterthwait Test Diff. values are the same in the table.	test_a_24.csv	[]	0		
+24	0	0	The local model is 0.426 for BDAC Incremental Innovative Capability.	test_a_24.csv	[]	2		
+24	0	0	R3 values are the highest in the global model.	test_a_24.csv	[]	2		
+24	0	0	Global value of R 2 (Radical Innovative Capability) is 0.411	test_a_24.csv	[]	0		
+25	0	0	The AIC value is higher for s=4 than for s=3.	test_a_25.csv	[]	0		
+25	0	0	In addition, we did not take into account solutions with more than three segments, because segment sizes become increasingly fragmented (smallest subgroup size attains levels of less than 2 %), which are likely to be irrelevant to theory and practice.	test_a_25.csv	[]	2		
+25	0	0	Relative segment sizes G is classified into 5 sub headers.	test_a_25.csv	[]	1		
+25	0	0	The highest HQ value is at s=2.	test_a_25.csv	[]	0		
+25	0	0	BIC at s=2 is higher than AIC.	test_a_25.csv	[]	1		
+25	0	0	The highest CAIC value is 2957.07 which is for s=3.	test_a_25.csv	[]	1		
+25	0	0	The s value ranges from 1 to 8.	test_a_25.csv	[]	0		
+25	0	0	The Akaike Information Criterion is 2484.93 for S=3.	test_a_25.csv	[]	0		
+25	0	0	These indicators indicate that the two-segment solution is the most appropriate	test_a_25.csv	[]	2		
+25	0	0	The appropriate number of segments depends on a joint evaluation of the CAIC and AIC 3 indicators	test_a_25.csv	[]	2		
+25	0	0	These small subgroups are relatively less important for deriving managerial implications and are presumably caused by outliers.	test_a_25.csv	[]	2		
+25	0	0	The s value ranges from 2 to 5.	test_a_25.csv	[]	1		
+26	0	0	The lowest value in the table belongs to DeepAR.	test_a_26.csv	[]	1		
+26	0	0	The RMSE values of traffic and electricity are different for both MatFact and DeepAR.	test_a_26.csv	[]	1		
+26	0	0	DeepAR has the highest electricity RMSE and ND value.	test_a_26.csv	[]	0		
+26	0	0	MatFact contains the highest value in the table.	test_a_26.csv	[]	1		
+26	0	0	MatFact has the highest electricity RMSE value.	test_a_26.csv	[]	1		
+26	0	0	The RMSE value of DeepAR and MatFact are the same in electricity and traffic.	test_a_26.csv	[]	0		
+26	0	0	The traffic RMSE values of MatFact and DeepAR have a difference of 0.01.	test_a_26.csv	[]	1		
+26	0	0	The traffic RMSE value of MatFact and DeepAR have a difference of 0.40	test_a_26.csv	[]	0		
+26	0	0	The SlowAV method has better electricty ND than MatFact.	test_a_26.csv	[]	2		
+26	0	0	The power RMSE is higher for MatFact than for DeepAR.	test_a_26.csv	[]	2		
+26	0	0	MatFact has the lowest electricity RMSE value.	test_a_26.csv	[]	0		
+26	0	0	DeepAR does not have a ND value for traffic.	test_a_26.csv	[]	0		
+27	0	0	The running time for ec is closer to parts than it is for electricity.	test_a_27.csv	[]	0		
+27	0	0	Batch size has a different value in ec-sub and ec.	test_a_27.csv	[]	0		
+27	0	0	The domain has a different value in ec-sub and ec.	test_a_27.csv	[]	0		
+27	0	0	There are always more LSTM nodes than layers.	test_a_27.csv	[]	1		
+27	0	0	The number of LSTM layers are all equal to 3 for all datasets.	test_a_27.csv	[]	1		
+27	0	0	The time granularity for traffic is the only one that is hourly.	test_a_27.csv	[]	0		
+27	0	0	The number of time series is lowest for traffic	test_a_27.csv	[]	0		
+27	0	0	Parts, electricity and traffic all have a batch size of 64.	test_a_27.csv	[]	1		
+27	0	0	ec has the highest number of time series.	test_a_27.csv	[]	1		
+27	0	0	ec-sub and ec have the same values except for # of time series and running time.	test_a_27.csv	[]	1		
+28	0	0	"There are no living situation types other than ""Independently"", ""Cohabiting"" and ""Other."""	test_a_28.csv	[]	0		
+28	0	0	The Age at first pregnancy is sometimes higher than the Age.	test_a_28.csv	[]	0		
+28	0	0	The table contains 18 male gender babies and 15 female gender babies.	test_a_28.csv	[]	0		
+28	0	0	The ages of the grandparents were between 72 and 122.	test_a_28.csv	[]	2		
+28	0	0	There are 2 nationalities.	test_a_28.csv	[]	0		
+28	0	0	Age ranges from 16 to 39.	test_a_28.csv	[]	1		
+28	0	0	Age ranges from 18 to 39.	test_a_28.csv	[]	0		
+28	0	0	There are fewer planned pregnancies than ones that are not planned in the table.	test_a_28.csv	[]	1		
+28	0	0	On average, M = 3.77 care organizations ( SD = 1.64) were involved at time of admission of the mothers.	test_a_28.csv	[]	2		
+28	0	0	Living situation will be either Independently , With Parents, Cohabiting or Other	test_a_28.csv	[]	1		
+28	0	0	The most common nationality is Dutch.	test_a_28.csv	[]	1		
+28	0	0	Most of the mothers were second time mothers.	test_a_28.csv	[]	2		
+28	0	0	There are 5 types of Education.	test_a_28.csv	[]	1		
+29	0	0	The highest % ANETA-positive cohort is also the highest # ANETA-positive cohort.	test_a_29.csv	[]	0		
+29	0	0	SSc has 61% of ANETA-positive.	test_a_29.csv	[]	1		
+29	0	0	Number of patients data ranges from 56 to 453.	test_a_29.csv	[]	1		
+29	0	0	The highest number of ANETA-positive is 981.	test_a_29.csv	[]	0		
+29	0	0	Also in these RA cohorts, ANETA were frequently detected, although the percentages of Early RA and Established RA showed marked difference, 69% and 40% respectively.	test_a_29.csv	[]	1		
+29	0	0	Early RA has 70 patients.	test_a_29.csv	[]	0		
+29	0	0	The number of patients ranges from 57 to 453.	test_a_29.csv	[]	0		
+29	0	0	In SLE 36% of the patients was ANETA-positive.	test_a_29.csv	[]	1		
+29	0	0	The number of ANETA-positive is always lower than the % ANETA-positive for the same cohort.	test_a_29.csv	[]	0		
+29	0	0	The combination of all established BA sera tested leads to a frequency of 41%.	test_a_29.csv	[]	2		
+29	0	0	Cohort C and Early RA have the same % ANETA-positive.	test_a_29.csv	[]	1		
+29	0	0	SjS has 2 more patients than SSc.	test_a_29.csv	[]	1		
+29	0	0	Most ANETA-positive patients were found in the SjS cohort (76%).	test_a_29.csv	[]	1		
+29	0	0	Cohort B has 68 ANETA-positive patients.	test_a_29.csv	[]	0		
+30	0	0	Air-curing has the value of 1.98 under GC-2.00	test_a_30.csv	[]	1		
+30	0	0	GC-1.78 Si/Al molar ratio is larger than GC-2.00 for air-curing.	test_a_30.csv	[]	0		
+30	0	0	The curing solution concentration at 15 has the highest GC-1.78 Si/Al molar ratio.	test_a_30.csv	[]	0		
+30	0	0	For the GC-1.78 samples, the Si/Al molar ratio decreases from 1.83 to 1.79 when the salinity increases from 0 to 35 ppt.	test_a_30.csv	[]	1		
+30	0	0	Si/Al molar ratio has two types- GC-1.78 and GC-2.00.	test_a_30.csv	[]	1		
+30	0	0	For each curing solution concentration, the GC-2.00 Si/Al molar ratio is always higher than the GC-1.78 ratio.	test_a_30.csv	[]	1		
+30	0	0	The GC-2.00 value for 35 is 2.04.	test_a_30.csv	[]	1		
+30	0	0	The Si/Al molar ratio for 15 ppt curing solution concentration at GC-2.00 is 1.99.	test_a_30.csv	[]	0		
+30	0	0	2 O, K 2 O, and P 2 O 5 , among others.	test_a_30.csv	[]	2		
+30	0	0	Si/Al molar ratio has three types- GC-5.78 , GC-1.78 and GC-2.00.	test_a_30.csv	[]	0		
+30	0	0	Air-curing has the value of 11.98 under GC-2.00	test_a_30.csv	[]	0		
+30	0	0	When compared with the air-cured samples, underwater casting and curing tends to increase the Si/Al ratio.	test_a_30.csv	[]	2		
+30	0	0	The average Sa/Av molar ratios of all geopolymer samples are high.	test_a_30.csv	[]	2		
+31	0	0	Moisture is higher is Class C Fly ash than Metakaolin.	test_a_31.csv	[]	0		
+31	0	0	Their particle size distributions are determined by the standard test method [ 33 ], with a median particle size ( D 50 ) of 8.7 and 5.0 om, respectively	test_a_31.csv	[]	2		
+31	0	0	SiO 2 has the highest value in Class C Fly ash other than Total.	test_a_31.csv	[]	0		
+31	0	0	The lowest Metakaoli wt. % is Na 2O at 0.02.	test_a_31.csv	[]	0		
+31	0	0	The composition with the lowest Class C Fly ash is Moisture.	test_a_31.csv	[]	1		
+31	0	0	Chemical composition of Silt-sized fraction has highest value in Metakaolin (wt.%) of 58.90.	test_a_31.csv	[]	1		
+31	0	0	Chemical composition of K 2 O has the highest value in Metakaolin (wt.%) of 1.17.	test_a_31.csv	[]	0		
+31	0	0	The total for class c fly ash and metakaolin are the same.	test_a_31.csv	[]	0		
+31	0	0	Therefore, to reduce the rate of geopolymerization reactions, metakaolin was added to the Class C fly ash at mass ratios of 1:5, 1:4, 1:3, and 1:1 to form the raw material mixtures, and it was found that the mass ratio of 1:1 yielded an appropriate reaction rate.	test_a_31.csv	[]	2		
+31	0	0	Chemical composition of Na 2 O has the lowest value in Metakaolin (wt.%) of 0.01.	test_a_31.csv	[]	1		
+31	0	0	The activators included solid sodium hydroxide with a >95% purity quotient (Fisher Scientific, Inc., USA) and sodium silicate solution (Fisher Scientific, Inc., USA) with a specific gravity of 1.4, consisting of 9.1 wt%	test_a_31.csv	[]	2		
+31	0	0	In addition, for the purpose of comparison, Class G oil well cement (OWC) (LafargeHolcim, USA) was also studied in nearly all parallel testing.	test_a_31.csv	[]	2		
+31	0	0	Both CaO and So3 have 0.05 wt% for Metakaolin.	test_a_31.csv	[]	1		
+32	0	0	There are always more dependent than independent text cases for each project.	test_a_32.csv	[]	0		
+32	0	0	The lowest test case is 1748.	test_a_32.csv	[]	1		
+32	0	0	The highest Requirement is 3401.	test_a_32.csv	[]	1		
+32	0	0	The lowest Independent test case is 2550.	test_a_32.csv	[]	0		
+32	0	0	The size of the captured data for the project B is the largest.	test_a_32.csv	[]	2		
+32	0	0	Project B has fewer requirements than project A.	test_a_32.csv	[]	0		
+32	0	0	The highest Dependent test case is 3401.	test_a_32.csv	[]	0		
+32	0	0	Moreover, the way that the testers wrote the test cases is slightly different.	test_a_32.csv	[]	2		
+32	0	0	There are three projects in the given table.	test_a_32.csv	[]	0		
+32	0	0	Nonetheless all test cases are designed to test trains, which means that both have the same number of sub-level function groups (SLFG).	test_a_32.csv	[]	2		
+32	0	0	The lowest Dependent test case is 517.	test_a_32.csv	[]	1		
+32	0	0	Project A's IR is 4.33.	test_a_32.csv	[]	1		
+32	0	0	Project C has 3401 requirements.	test_a_32.csv	[]	2		
+32	0	0	The dependencies between requirements and thereby test cases for the project B are detected through using our tool.	test_a_32.csv	[]	2		
+32	0	0	There are 2 different types of projects in the given table, A and B.	test_a_32.csv	[]	1		
+33	0	0	All SMB have plastron in liquid.	test_a_33.csv	[]	0		
+33	0	0	The liquid uptake at 30 min for water is greater for SMB than UBM.	test_a_33.csv	[]	0		
+33	0	0	Liquid uptake at 24h (wt%)/(%) of Ethanol for SMB is 31 (40).	test_a_33.csv	[]	0		
+33	0	0	A faster liquid uptake process begins when ethylene glycol reaches the wood surface.	test_a_33.csv	[]	2		
+33	0	0	SMB Liquid uptake at 1min (wt%)/(%) of Water is 0.3(0.5).	test_a_33.csv	[]	0		
+33	0	0	There is no plastron in liquid for water in the UMB condition.	test_a_33.csv	[]	1		
+33	0	0	There are six liquids in the table.	test_a_33.csv	[]	0		
+33	0	0	UMB numerical values are always higher than SMB values for the same conditions.	test_a_33.csv	[]	1		
+33	0	0	Consequently, the final uptake of the SMB wood (at 24 h) is much higher than in hexadecane.	test_a_33.csv	[]	2		
+33	0	0	Liquid uptake at 1min (wt%)/(%) of UMB of Water is 14(19).	test_a_33.csv	[]	1		
+33	0	0	ethanol and water are both liquids in the table.	test_a_33.csv	[]	1		
+33	0	0	Liquid uptake is assessed at 1min, 30min and 24hours in the table.	test_a_33.csv	[]	1		
+34	0	0	The #1 ranking lightning hotspot's nearest city is Cajapi.	test_a_34.csv	[]	0		
+34	0	0	The flash rate density for the #1 rank is higher than the #2 rank by less than 1.	test_a_34.csv	[]	1		
+34	0	0	There are three states shown in the table, Pl, BA, and MA.	test_a_34.csv	[]	1		
+34	0	0	Monsenhor Gil is in the state MA.	test_a_34.csv	[]	0		
+34	0	0	Others have specifically examined the relation between CAPE and lightning occurrence.	test_a_34.csv	[]	2		
+34	0	0	Balsas has 98.02 as Flash rate density.	test_a_34.csv	[]	0		
+34	0	0	Sao Desiderio and Cajapio are in the same state.	test_a_34.csv	[]	0		
+34	0	0	All of them showed a very similar and well-defined annual cycle for all three countries	test_a_34.csv	[]	2		
+34	0	0	There are 25 nearest cities in the table.	test_a_34.csv	[]	0		
+34	0	0	For brevity, the mean monthly values of FRD, CAPE and precipitation are only from the first three hotspots	test_a_34.csv	[]	2		
+34	0	0	Pl is the most common state in the table.	test_a_34.csv	[]	1		
+34	0	0	Picos and Monsenhor Gil are in the same state.	test_a_34.csv	[]	1		
+34	0	0	Based on these studies, we analyzed the annual cycle (monthly mean values) of CAPE, precipitation and FRD for the 20 hotspots.	test_a_34.csv	[]	2		
+34	0	0	The table shows the lightning hotspot ranking up to 20.	test_a_34.csv	[]	1		
+35	0	0	PSU and PSU consequences have the same status.	test_a_35.csv	[]	0		
+35	0	0	The status of Actors is that research is most often conducted without a specific setting in mind.	test_a_35.csv	[]	0		
+35	0	0	RSU is one of the research perspectives in the table.	test_a_35.csv	[]	0		
+35	0	0	RSU and internet use have the same status.	test_a_35.csv	[]	2		
+35	0	0	Some research perspectives have the same status.	test_a_35.csv	[]	0		
+35	0	0	All statuses are unique.	test_a_35.csv	[]	1		
+35	0	0	There are 11 research perspectives in the table.	test_a_35.csv	[]	0		
+35	0	0	The status for Evaluation of use is that whereas many studies suggest measures to avoid PSU, little research is conducted to test working measures.	test_a_35.csv	[]	1		
+35	0	0	Based on our review, we suggest questions to be investigated which are either unclear or missing perspectives in extant research.	test_a_35.csv	[]	2		
+35	0	0	PSU and PSU consequences are both examples of research perspective.	test_a_35.csv	[]	1		
+35	0	0	There are nine Research perspective in the table.	test_a_35.csv	[]	1		
+36	0	0	The highest p perm is 0.192.	test_a_36.csv	[]	0		
+36	0	0	M Difference is same for all Head case comparison.	test_a_36.csv	[]	0		
+36	0	0	All t values are postive.	test_a_36.csv	[]	0		
+36	0	0	Viewing is the only condition in the table.	test_a_36.csv	[]	1		
+36	0	0	All p perm values are positive.	test_a_36.csv	[]	1		
+36	0	0	All Metrics in the table are FD MedianExcluded.	test_a_36.csv	[]	0		
+36	0	0	Onlu the metric FD MeanFilterd has the viewing condition.	test_a_36.csv	[]	0		
+36	0	0	There are three distinct head case comparisons in the table.	test_a_36.csv	[]	1		
+36	0	0	The S Difference is largest for the metric FD MeanFilterd.	test_a_36.csv	[]	2		
+36	0	0	Where the t values are negative, the p perm values are still positive.	test_a_36.csv	[]	1		
+36	0	0	Where the t value is 1.186, the p perm value is 0.244.	test_a_36.csv	[]	1		
+37	0	0	There are 6 Motion Parameter, X, Y, Z, Pitch, Roll, Yaw.	test_a_37.csv	[]	1		
+37	0	0	The highest t values is for the mean metric.	test_a_37.csv	[]	0		
+37	0	0	The mode metric has a large mean difference.	test_a_37.csv	[]	2		
+37	0	0	There are 4 metric types in the table.	test_a_37.csv	[]	0		
+37	0	0	The t value for the mean metric and the X motion parameter is -1.614.	test_a_37.csv	[]	1		
+37	0	0	All mean difference values are the same.	test_a_37.csv	[]	0		
+37	0	0	Across all three summary statistics, we found significantly greater displacement in all rotation degrees,	test_a_37.csv	[]	2		
+37	0	0	More than half of the t values are negative.	test_a_37.csv	[]	1		
+37	0	0	There are 8 unique motion parameters.	test_a_37.csv	[]	0		
+37	0	0	The largest p perm value is 0.874.	test_a_37.csv	[]	1		
+37	0	0	For X motion parameter and median metric, p perm is larger than t.	test_a_37.csv	[]	1		
+37	0	0	These findings suggest that observed differences in overall FD Mean , FD Median and Spike Proportion may have been driven by participants rotating their heads during talking, despite being constrained by headcases.	test_a_37.csv	[]	2		
+38	0	0	We found that for both FD MeanExcluded and FD MedianFiletered , observed differences in weight fell within this range of practical equivalence .	test_a_38.csv	[]	2		
+38	0	0	All conditions are talking.	test_a_38.csv	[]	1		
+38	0	0	For each metric, all p perm values are larger than t values.	test_a_38.csv	[]	1		
+38	0	0	The largest t value is 0.190.	test_a_38.csv	[]	1		
+38	0	0	The highest p perm value has the metric FD MedianExcluded.	test_a_38.csv	[]	0		
+38	0	0	These findings suggest that when specifically examining the reduction of smaller head movements induced while talking aloud, at best, headcases may be as efficacious as foam pillows alone.	test_a_38.csv	[]	2		
+38	0	0	FD Median and FD Mean are both examples of metric.	test_a_38.csv	[]	1		
+38	0	0	All p perm values are above 0.	test_a_38.csv	[]	1		
+38	0	0	All t values are below 0.	test_a_38.csv	[]	0		
+38	0	0	All comparisons are the same in the table.	test_a_38.csv	[]	1		
+38	0	0	FD Median is an example condition.	test_a_38.csv	[]	0		
+38	0	0	The metric FD Mean has a t value of -2.353 and a p perm value of 0.013.	test_a_38.csv	[]	0		
+39	0	0	The lowest DSO Investment into the smart grid is from Luxembourg.	test_a_39.csv	[]	0		
+39	0	0	The highest percentage of market share of the largest electricity generator is 80%.	test_a_39.csv	[]	0		
+39	0	0	Only Australia, Ireland and United Kingdom have no Innovation-stimulus Mechanism.	test_a_39.csv	[]	0		
+39	0	0	Three out of five smart meter functionalities are provided.	test_a_39.csv	[]	2		
+39	0	0	There are 15 EU member states in the table.	test_a_39.csv	[]	0		
+39	0	0	The distribution sector concentration is high for only Ireland.	test_a_39.csv	[]	1		
+39	0	0	The distribution sector concentration is low for only Ireland.	test_a_39.csv	[]	0		
+39	0	0	The highest percentage of market share of the largest electricity generator is 85.7% of France.	test_a_39.csv	[]	1		
+39	0	0	These largely include consumer information provision and feedback, such as online consumption historic data comparison, thresholds, and SMS notifications on consumption.	test_a_39.csv	[]	2		
+39	0	0	The lowest DSO Investment into the smart grid is 27.55 of Romania.	test_a_39.csv	[]	1		
+39	0	0	Only Austria, Ireland and United Kingdom have the Innovation-stimulus Mechanism as Adj. Rev.	test_a_39.csv	[]	1		
+39	0	0	There are 11 EU member states in the table.	test_a_39.csv	[]	1		
+40	0	0	F x P and E x P do not have the same Df.	test_a_40.csv	[]	1		
+40	0	0	All F values are unique in the table.	test_a_40.csv	[]	1		
+40	0	0	The plant part treatment has an Df.	test_a_40.csv	[]	0		
+40	0	0	Df=4 is more common than Df=1 in the table.	test_a_40.csv	[]	1		
+40	0	0	The table contains seven treatments.	test_a_40.csv	[]	1		
+40	0	0	The Treatment Food (F) has a F value of 493.3.	test_a_40.csv	[]	1		
+40	0	0	All F values in the table are above 0.	test_a_40.csv	[]	0		
+40	0	0	There are 10 treatments in the table.	test_a_40.csv	[]	0		
+40	0	0	Feeding on shoots, A. caliginosa chose HD radish over birch and LD radish (3-way LM; Tukey; P < 0.05).	test_a_40.csv	[]	2		
+40	0	0	A. caliginosa preferred roots of Poaceae and specifically black oat over the two radishes and control, whereas Sudan grass was selected before birch leaves and LD radish.	test_a_40.csv	[]	2		
+40	0	0	The treatment earthworm species has 4 Dfs.	test_a_40.csv	[]	0		
+40	0	0	Df is unique for each treatment.	test_a_40.csv	[]	0		
+41	0	0	The Rainfed (mm) total and the Irrigated (mm) total are identical.	test_a_41.csv	[]	0		
+41	0	0	Air temperature and precipitation was continuously measured for the whole trial period and we see that the year 2017 had the highest precipitation overall.	test_a_41.csv	[]	2		
+41	0	0	The highest air temperature (c) is 26.4.	test_a_41.csv	[]	1		
+41	0	0	The total of Precipitation (+Irrigation) for Rainfed (mm) is 555.6.	test_a_41.csv	[]	0		
+41	0	0	The total of Precipitation (+Irrigation) for Rainfed (mm) is 444.7.	test_a_41.csv	[]	1		
+41	0	0	The total of Precipitation (+Irrigation) for Irrigated (mm) is 564.7.	test_a_41.csv	[]	1		
+41	0	0	Air temperature ranges from 2.0 to 26.4 C.	test_a_41.csv	[]	0		
+41	0	0	The lowest air temperature was in 2018 Dec.	test_a_41.csv	[]	0		
+41	0	0	For the year 2018 and month June, the precipitation for rainfed and irrigated are both 93.5mm.	test_a_41.csv	[]	1		
+41	0	0	Year ranges from 2018 to 2019.	test_a_41.csv	[]	1		
+41	0	0	The year and month with the lowest air temperature are 2019 and Jan.	test_a_41.csv	[]	1		
+42	0	0	The Age hardening for API 6ACRA is 718C for 8 h, furnace cooled to 621C and held for total ageing time of 18h.	test_a_42.csv	[]	0		
+42	0	0	Age hardening is same for each standard.	test_a_42.csv	[]	0		
+42	0	0	The are 4 types of standards in the given table.	test_a_42.csv	[]	0		
+42	0	0	No significant trend is observed in the hardness values along the build height direction.	test_a_42.csv	[]	2		
+42	0	0	Solution treatment used for AMS 5663 is 1040C for 1h.	test_a_42.csv	[]	0		
+42	0	0	The Age hardening for AMS 5663 is 718C for 8 h, furnace cooled to 621C and held for total ageing time of 18h.	test_a_42.csv	[]	1		
+42	0	0	The same solution treatment is used for both standards.	test_a_42.csv	[]	0		
+42	0	0	Solution treatment used for API 6ACRA is 1040C for 1h.	test_a_42.csv	[]	1		
+42	0	0	The average hardness in the AMS condition is about 13% higher due to the lower ageing temperature as discussed previously in Section 3.2.2 .	test_a_42.csv	[]	2		
+42	0	0	Different solution treatments are used in the table.	test_a_42.csv	[]	1		
+42	0	0	Age hardening is uniquely defined for all in the table.	test_a_42.csv	[]	1		
+42	0	0	The are 2 types of standards in the given table.	test_a_42.csv	[]	1		
+43	0	0	The largest Kif23 P909R/WT R squared value is 0.7518 in the table.	test_a_43.csv	[]	0		
+43	0	0	KIF23-FL is found to be + for all under Direction.	test_a_43.csv	[]	1		
+43	0	0	Bone marrow (BM) is sub divided into R 2 and Direction.	test_a_43.csv	[]	1		
+43	0	0	All Kif23 WT/WT directions are +.	test_a_43.csv	[]	0		
+43	0	0	Using regression analysis, we also tested whether Srsf3 expression correlates with expression of different Kif23 transcripts regarding Kif23 genotype.	test_a_43.csv	[]	2		
+43	0	0	Direction values are numeric in the table.	test_a_43.csv	[]	0		
+43	0	0	Bone marrow is split into R squared, direction and magnitude.	test_a_43.csv	[]	0		
+43	0	0	The correlations seemed to be independent of the transcript.	test_a_43.csv	[]	2		
+43	0	0	The table values are all numeric.	test_a_43.csv	[]	0		
+43	0	0	The associations vary from very low to high, and no pattern was seen that could suggest selection of any Kif23 transcript by splicing factor Srsf3 .	test_a_43.csv	[]	2		
+43	0	0	Kif23 WT/WT R 2 values range from 0.006 to 0.877.	test_a_43.csv	[]	1		
+43	0	0	The largest numerical value in the table is 0.877.	test_a_43.csv	[]	1		
+43	0	0	The association (R 2 ) and direction of the association revealed an overrepresentation of positive association in expression between Kif24 and Srsf3.	test_a_43.csv	[]	2		
+43	0	0	The direction of Kif23 WT/WT for KIF23-FL is + .	test_a_43.csv	[]	1		
+44	0	0	Some questionnaires are assessed by the physician.	test_a_44.csv	[]	0		
+44	0	0	The fatigue impact scale is only in the cognitive domain.	test_a_44.csv	[]	0		
+44	0	0	The myasthenia gravis fatigue scale has the most number of items.	test_a_44.csv	[]	0		
+44	0	0	There are 11 items in the Chalder Fatigue Questionnaire.	test_a_44.csv	[]	1		
+44	0	0	The Fatigue Severity Scale questionnaire has an unknown no. of items.	test_a_44.csv	[]	0		
+44	0	0	The table shows 10 commonly used fatigue questionnaires.	test_a_44.csv	[]	1		
+44	0	0	There are 40 items in Chalder Fatigue Questionnaire.	test_a_44.csv	[]	0		
+44	0	0	There are an equal number of questionnaires with an unknown period as there are with the past week period.	test_a_44.csv	[]	1		
+44	0	0	A brief description of used questionnaires show their difficulty.	test_a_44.csv	[]	2		
+44	0	0	The fatigue survey has an unknown no. of items.	test_a_44.csv	[]	1		
+44	0	0	The fatigue survey is assessed by the patient and the period is unknown.	test_a_44.csv	[]	1		
+45	0	0	Study 1a is the only one with <0.001 p-value.	test_a_45.csv	[]	0		
+45	0	0	Study 2's z-statistic for difference in proportions is 1.97.	test_a_45.csv	[]	0		
+45	0	0	The proportion choosing to be tokens in the competitive condition and the proportion choosing to be tokens in the control condition are both 0.233 for study 4.	test_a_45.csv	[]	0		
+45	0	0	We find this pattern for female and Black participants, and it arises in both hypothetical scenario studies and studies involving real, incentivized choices.	test_a_45.csv	[]	2		
+45	0	0	There are 8 studies in the table.	test_a_45.csv	[]	0		
+45	0	0	Study 4 has the largest p-value.	test_a_45.csv	[]	1		
+45	0	0	Study 1a has fewer total N than study 1b.	test_a_45.csv	[]	0		
+45	0	0	Study 1a has the largest z-statistic but not the largest total N.	test_a_45.csv	[]	1		
+45	0	0	Our findings suggest that intra-group competition leads to a greater desire to join groups where people believe their work output and ideas will be differentiated from those of their peers, and women and racial minorities anticipate that joining a group where they will have token status makes this more likely.	test_a_45.csv	[]	2		
+45	0	0	0.003 is the p-value of study 1b.	test_a_45.csv	[]	1		
+45	0	0	z-value of study 2 is 3.59.	test_a_45.csv	[]	1		
+45	0	0	The full summary of our results across studies show that the r-value is lowest for study 5.	test_a_45.csv	[]	2		
+45	0	0	There are three p-values at <0.001 in the table.	test_a_45.csv	[]	1		
+46	0	0	Parameter theta 3 is the variable Intercept.	test_a_46.csv	[]	0		
+46	0	0	The standard deviation of parameter 5 is 0.	test_a_46.csv	[]	0		
+46	0	0	The Predictor Variable of parameter theta 1 is Intercept.	test_a_46.csv	[]	1		
+46	0	0	In the mid-1970s, the total population size varied between 2,385 and 5,240.	test_a_46.csv	[]	2		
+46	0	0	There are only four parameter.	test_a_46.csv	[]	0		
+46	0	0	The Predictor Variable of parameter theta 3 is Trend in time.	test_a_46.csv	[]	1		
+46	0	0	The mean of parameter theta 4 is a negative number.	test_a_46.csv	[]	0		
+46	0	0	The highest mean belongs to standard error.	test_a_46.csv	[]	1		
+46	0	0	Interestingly, the most recent survey in 2012 exhibited an increased abundance amounting to 6,700 caribou over the entire complex .	test_a_46.csv	[]	2		
+46	0	0	The median of parameter theta 2 is higher than the median of parameter theta 1.	test_a_46.csv	[]	2		
+46	0	0	Parameter theta 3 has a negative mean.	test_a_46.csv	[]	1		
+46	0	0	There are 6 parameters in the table.	test_a_46.csv	[]	1		
+47	0	0	The total biomass is highest for Ice-Nor.	test_a_47.csv	[]	0		
+47	0	0	There are 8 Compared basins.	test_a_47.csv	[]	0		
+47	0	0	Krill always has a higher p-value than amphipoda at each compared basin. .	test_a_47.csv	[]	0		
+47	0	0	The compared basin Lab-Lab has the highest P-value for Krill.	test_a_47.csv	[]	2		
+47	0	0	The Table contain 10 unique Size fraction/groups.	test_a_47.csv	[]	0		
+47	0	0	There are 6 Compared basins.	test_a_47.csv	[]	1		
+47	0	0	The compared basins ice-nor and irm-ice have the same p-values for krill.	test_a_47.csv	[]	0		
+47	0	0	The Ice-Nor value is the same for C.hyperborues and Chaetognatha.	test_a_47.csv	[]	1		
+47	0	0	Surface integrated densities of chaetognaths from the cold Labrador Sea are low.	test_a_47.csv	[]	2		
+47	0	0	The numerical surface integrated densities are based on MOCNESS samples within the same depth range (200-0m)	test_a_47.csv	[]	2		
+47	0	0	Irm-ice has the lowest p-value out of all compared basins for Amphipoda.	test_a_47.csv	[]	1		
+47	0	0	The iceland sea contains the largest amount of krill.	test_a_47.csv	[]	2		
+47	0	0	The table contains 9 unique Size fraction/groups.	test_a_47.csv	[]	1		
+48	0	0	All RCA4 RCM models correspond to the EC-Earth Driving GCM model.	test_a_48.csv	[]	0		
+48	0	0	The KNMI organization has only one driving GCM model.	test_a_48.csv	[]	0		
+48	0	0	The organisation Max Planck Institute (MPI) appears only once in the table.	test_a_48.csv	[]	1		
+48	0	0	The annual historical means are included here for reference purposes, and show the expected north-south gradient and the influence of topography.	test_a_48.csv	[]	2		
+48	0	0	The CCLM4 RCM model is from the organization Danish Meteorological Institute (DMI)	test_a_48.csv	[]	0		
+48	0	0	The RCM model CCLM4 has the short name combined of CCLM4_EC.	test_a_48.csv	[]	1		
+48	0	0	There are 15 driving GCM models.	test_a_48.csv	[]	0		
+48	0	0	There are eight unique short name combined in the table.	test_a_48.csv	[]	1		
+48	0	0	show an increasing warming with the RCP scenario (RCP2.6/RCP4.5) and distance into the future (2026-2035/2046-2055).As expected, the annual anomalies	test_a_48.csv	[]	2		
+48	0	0	All RCA4 RCM models are from the SMHI organisation.	test_a_48.csv	[]	1		
+48	0	0	The RCM model REMO2009 is from the organisation called Max Planck Institute.	test_a_48.csv	[]	1		
+48	0	0	EC-Earth is the most common Driving GCM model.	test_a_48.csv	[]	1		
+49	0	0	Not all values are positive in the table.	test_a_49.csv	[]	0		
+49	0	0	This can be attributable to the different ways of creating fractures and the different strain rate and fracture propagation velocity, associated with the energy loss of the viscoelastic gelatin media.	test_a_49.csv	[]	2		
+49	0	0	The difference between M f E and H f E is 10 (N/m).	test_a_49.csv	[]	1		
+49	0	0	The highest value is 16.7 in w%.	test_a_49.csv	[]	1		
+49	0	0	The lowest value of f E (N/m) is 44.	test_a_49.csv	[]	0		
+49	0	0	There are 4 types of stiffness in the given table.	test_a_49.csv	[]	1		
+49	0	0	There are 6 types of stiffness in the given table.	test_a_49.csv	[]	0		
+49	0	0	An increase in the medium stiffness caused an increase in the fluid pressure and an increase in the fringe size and radius, which led to an increase in the SIF values as well.	test_a_49.csv	[]	2		
+49	0	0	There was a slight difference between the SIF values and the medium toughness values obtained from the wire-cutting method at the rate of 50 mm/s.	test_a_49.csv	[]	2		
+49	0	0	For each property, all M values are higher than L values.	test_a_49.csv	[]	1		
+50	0	0	The value for Volume of void in Bare SiNW is 0.	test_a_50.csv	[]	0		
+50	0	0	There are some negative Li capacity values in the table.	test_a_50.csv	[]	0		
+50	0	0	The volume expansion (%) for Bare SiNW is more than 500.	test_a_50.csv	[]	0		
+50	0	0	The Li capacity of the three SiNW@CNT samples are 1338 mAh/g, 1725 mAh/g and 2697 mAh/g, respectively	test_a_50.csv	[]	1		
+50	0	0	The volume of void is highest at SiNW@CNT(45O).	test_a_50.csv	[]	0		
+50	0	0	The Volume expansion is 255 in SiNW@CNT(50O).	test_a_50.csv	[]	1		
+50	0	0	The highest Volume expansion (%) is 255 in SiNW@CNT(50O).	test_a_50.csv	[]	0		
+50	0	0	The lowest Li capacity value is 1338 in SiNW@CNT(40O).	test_a_50.csv	[]	1		
+50	0	0	Regulating the diameter of the C shell to enlarge the void space can enhance the Li capacity.	test_a_50.csv	[]	2		
+50	0	0	To further illustrate the effect of the sizes of void space on the volume expansion and Li capacity loss, the volume of void space, final volume expansion and Li capacity of each SiNW@CNT sample are listed in the table.  Compared with the 425% volume expansion and 4270 mAh/g Li capacity of the bare SiNW, the final volume expansions of the lithiated Si core coated with 40 O, 45 O and 50 O diameter CNT are only 155%, 180% and 255%, respectively.	test_a_50.csv	[]	1		
+50	0	0	All the values given in the table consist of positive values.	test_a_50.csv	[]	1		
+50	0	0	However, the limited void spaces also cause the capacity loss to some extent.	test_a_50.csv	[]	2		
+50	0	0	The value for Volume of void in Bare SiNW is not given.	test_a_50.csv	[]	1		
+51	0	0	The functions for Lactobacillus acidophilus and Stenotrophomonas maltophilia are the same.	test_a_51.csv	[]	0		
+51	0	0	The functions for Agrotis segetum, Arabidopsis thaliana, Cucurbit sp. cultivar and Rhinolophus sinicus are all  Long-chain acyl-CoA oxidase.	test_a_51.csv	[]	1		
+51	0	0	There are 6 different types of organisms.	test_a_51.csv	[]	1		
+51	0	0	The name AsePOX is for the organism Arabidopsis thaliana.	test_a_51.csv	[]	0		
+51	0	0	We chose the variant from Strenotrophomonas maltophilia.	test_a_51.csv	[]	2		
+51	0	0	The ref for the function Oleare 10-hydratase is AM743169.1.	test_a_51.csv	[]	0		
+51	0	0	Each organism has the same name.	test_a_51.csv	[]	0		
+51	0	0	LHY gene was sourced from Lactobacillus acidophilus.	test_a_51.csv	[]	2		
+51	0	0	There are eight organisms in the table.	test_a_51.csv	[]	0		
+51	0	0	We designed to express OHY in the strain that performs chain shortening to 12 carbons to obtain -dodecalactone from oleic acid	test_a_51.csv	[]	2		
+51	0	0	Long-chain acyl-CoA oxidase is the most common function.	test_a_51.csv	[]	1		
+51	0	0	Each organism consists of a different Genbank Accession.	test_a_51.csv	[]	1		
+51	0	0	Linoleate 13-hydratase (LHY) makes 13-hydroxyoleic acid from linoleate.	test_a_51.csv	[]	2		
+51	0	0	There are 5 columns given in the table.	test_a_51.csv	[]	1		
+52	0	0	The largest value in the table is 427.	test_a_52.csv	[]	0		
+52	0	0	The last timepoint of AD and the last input timepoint of NC is 21.	test_a_52.csv	[]	0		
+52	0	0	The lowest value in the table is 0.	test_a_52.csv	[]	1		
+52	0	0	For example, if a subject had 10 timepoints, then the 10 timepoints were split into 5 input (observed) timepoints and 5 unobserved timepoints we seek to predict.	test_a_52.csv	[]	2		
+52	0	0	The last input timepoint NC and last timepoint NC is 0.	test_a_52.csv	[]	0		
+52	0	0	The lowest last timepoint for AD is 21.	test_a_52.csv	[]	1		
+52	0	0	There are 5 last input timepoints.	test_a_52.csv	[]	0		
+52	0	0	The Last timepoint of AD is from 21 to 391.	test_a_52.csv	[]	1		
+52	0	0	If the subject did not have observed clinical diagnosis at timepoint 10, then we would consider the clinical diagnosis at timepoint 9 and so on.	test_a_52.csv	[]	2		
+52	0	0	The table shows the breakdown of subjects based on their clinical diagnoses at the last input timepoints (with observed clinical diagnoses) and the last timepoints (with observed clinical diagnoses).	test_a_52.csv	[]	1		
+52	0	0	The Last timepoint of MCI is from 4 to 469.	test_a_52.csv	[]	1		
+52	0	0	Then, in the case of this subject, the last input timepoint would be timepoint 5 and the last timepoint would be timepoint 10.	test_a_52.csv	[]	2		
+52	0	0	The highest last timepoint for NC is 427.	test_a_52.csv	[]	1		

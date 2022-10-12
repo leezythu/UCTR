@@ -6,7 +6,7 @@ This is the repository for our paper *Toward a Unified Framework for Unsupervise
 
 ## ⚡️ Quickstart
 
-We experiment on three benchmarks: FEVEROUS, TAT-QA, and SEM-TAB-FACTS, and provide scripts for data generation and model training in the corresponding directory.
+We experiment on four benchmarks: TAT-QA, WiKiSQL, SEM-TAB-FACTS and FEVEROUS, and we provide scripts for data generation and model training in the corresponding directory.
 
 ##  🏰 Resources
 

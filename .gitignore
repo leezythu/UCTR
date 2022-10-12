@@ -1,5 +1,5 @@
 .DS_Store
-*__pycache__*
+**__pycache__**
 #TAT-QA
 TAT-QA/tatqa/dataset_tagop/roberta.large
 TAT-QA/tatqa/tag_op/cache/
@@ -23,4 +23,12 @@ SEM-TAB-FACTS/checkpoint
 WiKiSQL/Table-Pretraining/examples/dataset
 WiKiSQL/Table-Pretraining/examples/tapex.large
 WiKiSQL/Table-Pretraining/examples/tapex.base
+WiKiSQL/Table-Pretraining/examples/checkpoints_syn
+WiKiSQL/Table-Pretraining/examples/predict_syn_test
 WiKiSQL/Table-Pretraining/examples/raw_dataset/wikisql_syn/data/train.db
+#docker
+readme_in_docker.md
+run_wikisql.sh
+run_feverous.sh
+run_sem_tab_facts.sh
+run_tat_qa.sh

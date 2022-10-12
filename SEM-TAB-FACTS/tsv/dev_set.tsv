@@ -1,0 +1,557 @@
+id	annotator	position	question	table_file	answer_coordinates	answer_text	aggregation	float_answer
+1	0	0	The positive test of South Korea dated 20 February and positive test of New York City dated 14 March is the same at 254.	dev_1.csv	[]	0		
+1	0	0	The dates shown for South Korea and New York City are the same.	dev_1.csv	[]	0		
+1	0	0	The highest positive test value is 1166 in New York City.	dev_1.csv	[]	1		
+1	0	0	The number of positive tests in South Korea is dated from 15 February to 25 February.	dev_1.csv	[]	1		
+1	0	0	The positive tests of South Korea dated 20 February and positive tests of New York City dated 14 March are the same.	dev_1.csv	[]	1		
+1	0	0	The lowest positive test value is 8 in New York City in the table.	dev_1.csv	[]	0		
+1	0	0	The highest positive test value is 947 in New York City.	dev_1.csv	[]	0		
+1	0	0	New York City Positive tests are shown for dates from 9 March to 29 March.	dev_1.csv	[]	0		
+1	0	0	The lowest positive test value for New York City  was recorded on the earliest date.	dev_1.csv	[]	1		
+1	0	0	The number of positive tests are increasing everyday for South Korea and New York city.	dev_1.csv	[]	1		
+1	0	0	If we assume each South Korean had 7.7 contacts per day, then  = 0 . 187 .	dev_1.csv	[]	2		
+1	0	0	For South Korea we find an average of 1.125 positive tests over the full period.	dev_1.csv	[]	0		
+2	0	0	The definition of S P (t) is Number of recovered crew members at time t.	dev_2.csv	[]	0		
+2	0	0	R C ( t ) is defined as Number of exposed crew members at time t.	dev_2.csv	[]	0		
+2	0	0	In the table, there are susceptible ( S ), exposed ( E ), asymptomatic ( I A ), symptomatic ( I S ), and recovered ( R ) classes.	dev_2.csv	[]	1		
+2	0	0	The notation for Number of recovered crew members at time t is S C ( t ).	dev_2.csv	[]	0		
+2	0	0	Each notation has its own definition.	dev_2.csv	[]	1		
+2	0	0	E C ( t ) is defined as Number of exposed crew members at time t.	dev_2.csv	[]	1		
+2	0	0	There are 12 types of notation in the given table.	dev_2.csv	[]	0		
+2	0	0	The definitions of all the notations are the same.	dev_2.csv	[]	0		
+2	0	0	There are 10 types of notation in the given table.	dev_2.csv	[]	1		
+2	0	0	Animal terms are defined in the table.	dev_2.csv	[]	2		
+2	0	0	t is the variable for time considered in all definitions and all notations.	dev_2.csv	[]	1		
+2	0	0	The notation for Number of recovered crew members at time t is R C ( t ).	dev_2.csv	[]	1		
+3	0	0	The before and after values for each parameter is always different.	dev_3.csv	[]	0		
+3	0	0	Influenza has a daily hospitalization and death rate of 0 . 005 % = 1	dev_3.csv	[]	2		
+3	0	0	The parameter P P is 14/day before quarantine.	dev_3.csv	[]	1		
+3	0	0	There are 6 unique paramters in the table.	dev_3.csv	[]	1		
+3	0	0	10 unique paramters are presented.	dev_3.csv	[]	0		
+3	0	0	o (COVID-19) is 20/day during quarantine.	dev_3.csv	[]	2		
+3	0	0	The table has the values for before and after quarantine for various parameters.	dev_3.csv	[]	1		
+3	0	0	C S and P S have the same after quarantine values.	dev_3.csv	[]	0		
+3	0	0	The table shows the estimated parameter value for before and after quarantine.	dev_3.csv	[]	1		
+3	0	0	o (COVID-19) Parameter is 0.25/day after Quarantine.	dev_3.csv	[]	1		
+3	0	0	There are 50 days for the parameter S S.	dev_3.csv	[]	2		
+3	0	0	The table shows the estimated parameter values for before and during quarantine.	dev_3.csv	[]	0		
+3	0	0	The parameter o (COVID-19) has the same before and after quarantine values.	dev_3.csv	[]	0		
+3	0	0	P P Parameter is 20/day before quarantine.	dev_3.csv	[]	0		
+4	0	0	1-OH-Naph is the only repeated value of Metabolite	dev_4.csv	[]	1		
+4	0	0	CTRL, L-PAH and H-PAH have identical values for 1-OH-Phen Metabolite	dev_4.csv	[]	0		
+4	0	0	There are 8 Types of Metabolite.	dev_4.csv	[]	0		
+4	0	0	CTRL, L-PAH/L-PFAS and H-PAH/L-PFAS have the same value for 2-OH0Naph Metabolite	dev_4.csv	[]	0		
+4	0	0	Metabolite 1-OH-Pyr has the highest value H-PAH	dev_4.csv	[]	1		
+4	0	0	Except for naphthalene metabolites, PFASs and other PAH metabolites were detected in higher levels in all exposure groups compared to the control group, confirming the absorption and accumulation from the exposure ( Fig. 1 , Table 3 ).	dev_4.csv	[]	2		
+4	0	0	L-PAH has its lowest value for Metabolite 2-OH-Naph.	dev_4.csv	[]	1		
+4	0	0	There are 4 Types of Metabolite.	dev_4.csv	[]	1		
+5	0	0	Proteins related to the ADP-ribosyltransferase a ctive component of binary toxins such as V i p 2 (1QS2) (from the Vip4 / Vip3 toxin) is the Description for the Vps class.	dev_5.csv	[]	2		
+5	0	0	cd01221 is the Conserved domain(s) of the Vpa class.	dev_5.csv	[]	0		
+5	0	0	The previous classifications for Vpa are Vip2, Vip4.	dev_5.csv	[]	0		
+5	0	0	By attempting to minimise the changes to the previous nomenclature Ai while incorporating a new structure-based element Ai it is hoped that this revision will also be widely adopted.	dev_5.csv	[]	2		
+5	0	0	The description for class Spp is Proteins related to the Au M akes C aterpillars F loppyAu toxins originally described from Photorhabdus.	dev_5.csv	[]	0		
+5	0	0	The previous classifications for Vpb are Vip1 and Vip4.	dev_5.csv	[]	1		
+5	0	0	There are six different classes.	dev_5.csv	[]	0		
+5	0	0	cd00233 is the Conserved domain for only the Vpa class.	dev_5.csv	[]	1		
+5	0	0	"In this version, some classes of bacterial pesticidal protein have been incorporated into the nomenclature that differ from previous classifications and it is anticipated that new classes will continue to be added using the principles described above."""	dev_5.csv	[]	1		
+5	0	0	The description for the class Spp is S phaericolysin like p esticidal p roteins.	dev_5.csv	[]	1		
+5	0	0	Proteins related to the ADP-ribosyltransferase a ctive component of binary toxins such as V i p 2 (1QS2) (from the Vip1 / Vip2 toxin) is the description for the Vpa class.	dev_5.csv	[]	1		
+5	0	0	There are no more than 20 different classes.	dev_5.csv	[]	1		
+6	0	0	Temperature varies between 11 and 36C.	dev_6.csv	[]	0		
+6	0	0	The variance in temperature across species is greater than 10C	dev_6.csv	[]	1		
+6	0	0	There are no citations for any of the species in the table.	dev_6.csv	[]	1		
+6	0	0	The only impact of temerapture on WSD outcome for P.japonicus is a mortality reduced at 31C compared to 27C.	dev_6.csv	[]	0		
+6	0	0	Controlled laboratory experiments have demonstrated that a temperature range between 25 and 28 C provides optimum conditions for WSSV infection; resulting in higher levels of mortality, with earlier disease onset.	dev_6.csv	[]	2		
+6	0	0	There are 21 Species in the Table.	dev_6.csv	[]	0		
+6	0	0	The impact of temperature on WSD outcome for P. Clarkii is a significantly higher survival at 32C and 36C.	dev_6.csv	[]	0		
+6	0	0	Protection ( i.e. reduced mortality and virus replication) from WSD has been reported at high temperatures (>30 C)	dev_6.csv	[]	1		
+6	0	0	Citations are unique for all species.	dev_6.csv	[]	0		
+6	0	0	Mortality reduced at 31C compared to 27C is not the only impact of temperature on WSD outcome for P.japonicus.	dev_6.csv	[]	1		
+6	0	0	P clarkii species have the impact of temperature on WSD outcome where there is lower water temperature reduced viral replication.	dev_6.csv	[]	1		
+6	0	0	There are  higher WSSV copy numbers ( You et al., 2010 ) in WSSV-infected shrimp and crayfish .	dev_6.csv	[]	2		
+6	0	0	There are at least 4 unique species in the table.	dev_6.csv	[]	1		
+7	0	0	The highest Jaw lesions is 20.	dev_7.csv	[]	0		
+7	0	0	Number of fish/aquaria has a highest is 271 og/L.	dev_7.csv	[]	0		
+7	0	0	In order to provide an overview and be able to compare the results in this study with those in our previously published diclofenac study ( Nslund et al., 2017 ), experimental design, lowest observed effect concentration (LOEC) and BCF for both NSAIDs are compiled in Table 4 .	dev_7.csv	[]	1		
+7	0	0	The Exposure concentration (measured, og/L) has a range between 0 to 271.	dev_7.csv	[]	1		
+7	0	0	Number of fish/aquaria highest Naproxen is 20.	dev_7.csv	[]	1		
+7	0	0	The lowest Mortality is 0.3.	dev_7.csv	[]	0		
+7	0	0	The Exposure concentration (nominal, og/L) has a highest value 27 d (21 d for 1232 og/L) .	dev_7.csv	[]	0		
+7	0	0	The Exposure concentration (nominal, og/L) has a range between 0 to 320.	dev_7.csv	[]	1		
+7	0	0	Overall, the experimental designs were similar with exception of a higher number of fish in each aquarium in the naproxen study, and the concentration range tested was higher.	dev_7.csv	[]	1		
+7	0	0	LOEC has no value.	dev_7.csv	[]	1		
+7	0	0	The lowest BCF (water to whole-body) is 0.3.	dev_7.csv	[]	0		
+7	0	0	The LOECs for naproxen were similar or higher for all endpoints.	dev_7.csv	[]	1		
+8	0	0	Sweden provides a good study case, as there is excellent data on total sales and corresponding measured levels in the WWTP effluents.	dev_8.csv	[]	1		
+8	0	0	80.1 g is the least DDD (Daily defined dose) least value for Diclofenac compare to Naproxen.	dev_8.csv	[]	0		
+8	0	0	the Naproxen value of LogP (Log K O:W ) is 3.1 .	dev_8.csv	[]	1		
+8	0	0	0.1 g is the least DDD (Daily defined dose) least value for Diclofenac compare to Naproxen.	dev_8.csv	[]	1		
+8	0	0	Excreted fraction unchanged/easily hydrolysable pharmaceutical has 70% under Naproxen.	dev_8.csv	[]	1		
+8	0	0	the Naproxen value of LogP (Log K O:W ) is 43.1 .	dev_8.csv	[]	0		
+8	0	0	As for 2016-2017, sales for naproxen were five times higher in terms of kilogram sold active substance ( Table 3 ).	dev_8.csv	[]	1		
+8	0	0	110 is the value for BCF Plasma (P B:W ; predicted from theAu fish plasma modelAu) under Diclofenac .	dev_8.csv	[]	1		
+8	0	0	Diclofenac  and Naproxen have a place for references.	dev_8.csv	[]	1		
+8	0	0	However, counted as sold doses, the two drugs are very similar ( Table 3 ).	dev_8.csv	[]	1		
+8	0	0	810 is the value for LogP (Log K O:W ) under Reference.	dev_8.csv	[]	0		
+8	0	0	Excreted fraction unchanged/easily hydrolysable pharmaceutical has 90% under Naproxen.	dev_8.csv	[]	0		
+8	0	0	710 is the value for BCF Plasma (P B:W ; predicted from theAu fish plasma modelAu) under Diclofenac .	dev_8.csv	[]	0		
+9	0	0	In the two highest exposure concentration groups (299 og/L and 1232 og/L), more than half of the fish had jaw lesions ( Table 2 ).	dev_9.csv	[]	1		
+9	0	0	2/60 (3 %) Fish with jaw lesions Treatment group (og/L) is 80.	dev_9.csv	[]	0		
+9	0	0	1232 Treatment group (og/L) Fish with jaw lesions is 33/60 (55 %) ***.	dev_9.csv	[]	0		
+9	0	0	Fish with jaw lesions 2/60 (3 %)Treatment group (og/L) is 299.	dev_9.csv	[]	0		
+9	0	0	Treatment group (og/L) 18 Fish with jaw lesions is 1/60 (2 %).	dev_9.csv	[]	1		
+9	0	0	Fish with jaw lesions 31/60 (52 %) *** Treatment group (og/L) is 299.	dev_9.csv	[]	1		
+9	0	0	18 Treatment group (og/L) Fish with jaw lesions is 33/60 (55 %) ***.	dev_9.csv	[]	0		
+9	0	0	Treatment group (og/L) 18 Fish with jaw lesions is 8/60 (2 %).	dev_9.csv	[]	0		
+9	0	0	The overall prevalence was 22 % (67/300).	dev_9.csv	[]	1		
+9	0	0	Lesions were not observed in fish from any of the control aquaria and very few fish were affected in the 18 og/L and 70 og/L exposure concentration groups.	dev_9.csv	[]	1		
+9	0	0	2/60 (3 %) Fish with jaw lesions Treatment group (og/L) is 70.	dev_9.csv	[]	1		
+9	0	0	1/60 (3 %) Fish with jaw lesions Treatment group (og/L) is 70.	dev_9.csv	[]	0		
+9	0	0	This was statistically significant compared to the control group (p < 0.001 for both groups, one-tailed test).	dev_9.csv	[]	2		
+9	0	0	1/60 (2 %) Fish with jaw lesions Treatment group (og/L) is 18.	dev_9.csv	[]	1		
+10	0	0	The only locality with the element nb.=2 is Puente Minero 2	dev_10.csv	[]	0		
+10	0	0	Except for Patrimonio Forestal 5A, all other localities have the same storage type.	dev_10.csv	[]	1		
+10	0	0	Patrimonio Forestal 5A does not have length and width.	dev_10.csv	[]	1		
+10	0	0	Only locality Mas=a de la Roma 3 has length and width.	dev_10.csv	[]	0		
+10	0	0	Locality Patrimonio Forestal 5A does not have length and width.	dev_10.csv	[]	1		
+10	0	0	Locality Los Aguanaces 3 is considered thrice with same element type.	dev_10.csv	[]	0		
+10	0	0	Los Aguanaces 3  localities have the same storage type.	dev_10.csv	[]	1		
+10	0	0	Only locality Puente Minero 2 has 4 element nb.	dev_10.csv	[]	1		
+10	0	0	Only locality Los Aguanaces 3 has length and width.	dev_10.csv	[]	1		
+10	0	0	The Locality Los Aguanaces 3 is considered thrice, sometimes with different element types.	dev_10.csv	[]	1		
+11	0	0	MN and Local Zone are consistent for the whole table.	dev_11.csv	[]	1		
+11	0	0	There are three unique localities given in the table.	dev_11.csv	[]	0		
+11	0	0	The only locality with the i element type is Masada del Valle 2.	dev_11.csv	[]	1		
+11	0	0	The age of locality Masada del Valle 2 is always 7.6 and Masada Ruea 3 is always 7.5.	dev_11.csv	[]	1		
+11	0	0	Both Localities have the same length and width.	dev_11.csv	[]	0		
+11	0	0	Both localities have different length and width values.	dev_11.csv	[]	1		
+11	0	0	Only locality Masada del Valle 2 has the c element type.	dev_11.csv	[]	1		
+11	0	0	All localities except Masada Ruea 3 has code MDV2.	dev_11.csv	[]	1		
+11	0	0	There are more than one type of Local Zone.	dev_11.csv	[]	0		
+11	0	0	Age of locality Masada del Valle 2 is always 7.6 and Masada Ruea 3 is also always 7.6.	dev_11.csv	[]	0		
+12	0	0	The variable US_R with type S has the description unbedded sediment.	dev_12.csv	[]	1		
+12	0	0	Variable C_R's source is clay and the type is S.	dev_12.csv	[]	0		
+12	0	0	The type L variable ENES o has the description Alluvial sediment.	dev_12.csv	[]	0		
+12	0	0	The type M variable PLCR E's description is terrain elevation mean.	dev_12.csv	[]	0		
+12	0	0	Type L Variable AD_R Description is Alluvial sediment.	dev_12.csv	[]	1		
+12	0	0	The type M variable ELEV o's description is terrain elevation mean.	dev_12.csv	[]	1		
+12	0	0	"The description ""planar curvature st.dev"" is for the variable PLCR E with Type M."	dev_12.csv	[]	1		
+12	0	0	The description of planar curvature st.dev. for the variable PLCR E has type S.	dev_12.csv	[]	0		
+12	0	0	Variable C_R's source is clay and the type is L.	dev_12.csv	[]	0		
+12	0	0	The variable US_R with the description unbedded sediment has type L.	dev_12.csv	[]	0		
+12	0	0	With this respect, we maintain that our morphometric, lithological, and structural covariates ( Table 2 ) are sound, accurate, and meaningful landslide predictors, and that they contribute to explain the known spatio-temporal distribution of landslides in our ( Fig. 1 ) and in similar study areas.	dev_12.csv	[]	2		
+13	0	0	Visual interpretation of the stereoscopic satellite images was performed using different software.	dev_13.csv	[]	2		
+13	0	0	The mode is unique for all years.	dev_13.csv	[]	0		
+13	0	0	The Period values are distinct.	dev_13.csv	[]	0		
+13	0	0	The table contains a repeated year.	dev_13.csv	[]	1		
+13	0	0	Nominal scale is unique for all years as observed.	dev_13.csv	[]	0		
+13	0	0	The landslides in the temporal slices before 2000 were detected and mapped using black and white (panchromatic) and colour (1977) aerial photographs,.	dev_13.csv	[]	1		
+13	0	0	There are ten different years in the table.	dev_13.csv	[]	0		
+13	0	0	The table repeats values for Year.	dev_13.csv	[]	1		
+13	0	0	The table contains at least one repeated year.	dev_13.csv	[]	1		
+13	0	0	The Type is Panchromatic for over half of the years.	dev_13.csv	[]	1		
+13	0	0	The Mode is same for all years .	dev_13.csv	[]	1		
+13	0	0	The years range from 1941 to 2014.	dev_13.csv	[]	1		
+13	0	0	The source WorldView-2 is used by more than one year.	dev_13.csv	[]	0		
+14	0	0	The group Not observed in education at age 18 always has a smaller percentage than Not observed in education, employment or training(NEET) at age 18.	dev_14.csv	[]	0		
+14	0	0	AQA English language sample has the smallest number of pupils.	dev_14.csv	[]	0		
+14	0	0	The subsample of foundation students in the English Language sample with marks is in the C-D range	dev_14.csv	[]	2		
+14	0	0	2013 cohort sitting English Language GCSE has the smallest value of 3.3.	dev_14.csv	[]	1		
+14	0	0	The 2013 cohort sitting English language GCSE has the highest number of pupils.	dev_14.csv	[]	1		
+14	0	0	The lowest value in the 2013 cohort sitting English Language GCSE  is 8.3.	dev_14.csv	[]	0		
+14	0	0	There are 8 different types of statistics in the given table.	dev_14.csv	[]	0		
+14	0	0	The group Enrolled in a level 3 qualification by age 18 is always higher than those that achieved a full level 3 qualification by age 19.	dev_14.csv	[]	1		
+14	0	0	The patterns described when discussing predetermined characteristics for the same groups also emerge here	dev_14.csv	[]	2		
+14	0	0	The highest percentage in the group not observed in education at age 18 is 14.2	dev_14.csv	[]	1		
+14	0	0	The number of pupils exceeds 300,000 in at least one of the cohorts.	dev_14.csv	[]	1		
+14	0	0	AQA English Language students (column 2) have slightly better outcomes than the average student in the cohort (column 1), and higher tier students perform much better than foundation students on any of the five dimensions analysed here.	dev_14.csv	[]	1		
+15	0	0	Candidates with data for all controls has the highest valued Observations.	dev_15.csv	[]	0		
+15	0	0	Candidates with data for all controls has the lowest valued Observations.	dev_15.csv	[]	0		
+15	0	0	This involves a bigger cut to the initial sample, and is explained by the fact that only students in state schools are included in the student census.	dev_15.csv	[]	2		
+15	0	0	Every Observation has a different value.	dev_15.csv	[]	1		
+15	0	0	The last sample restriction is given by the availability of data to construct controls from the Student Census dataset, which is also part of the National Pupil Database.	dev_15.csv	[]	2		
+15	0	0	Foundation Tier all has the lowest valued Observation.	dev_15.csv	[]	1		
+15	0	0	Each Observation is unique	dev_15.csv	[]	1		
+16	0	0	The highest Frequency, not counting the Total, is 84742.	dev_16.csv	[]	1		
+16	0	0	The highest percent is 55.7.	dev_16.csv	[]	0		
+16	0	0	AQA has the lowest percent for English Language.	dev_16.csv	[]	0		
+16	0	0	The highest total is 392015.	dev_16.csv	[]	1		
+16	0	0	The highest Percent value for OCR is 5.8	dev_16.csv	[]	0		
+16	0	0	We also have access to information on who asked for a review on the different units of the GCSE English and GCSE English Language qualifications, and on the tier of the externally assessed unit (i.e. whether Foundation or Higher Tier).	dev_16.csv	[]	2		
+16	0	0	First, this is due to technical problems in providing Unique Candidate Numbers (UPN) for all candidates.	dev_16.csv	[]	2		
+16	0	0	The highest English Percent is for AQA	dev_16.csv	[]	1		
+16	0	0	The lowest total is 392015.	dev_16.csv	[]	0		
+16	0	0	This is for four main reasons.	dev_16.csv	[]	2		
+16	0	0	The lowest Percent for OCR is 5.8	dev_16.csv	[]	1		
+17	0	0	Manufacturing Trade Deficit (billions) highest percentage is 17.1%.	dev_17.csv	[]	0		
+17	0	0	Manufacturing Consumption (Share of GDP ) highest value is 1688.	dev_17.csv	[]	0		
+18	0	0	We see in Table A14 that mother's age and marital status at birth are the two variables that best account for the compositional changes, driving the increase in inequality in externalising skills among the boys for the quantile differences and the variance, respectively.	dev_18.csv	[]	2		
+18	0	0	The Composition effect of 90ai10 is 0.112.	dev_18.csv	[]	0		
+18	0	0	The Composition effect of 90ai10 is 0.002.	dev_18.csv	[]	0		
+18	0	0	The Coefficient effect is 1.779 for one of its values.	dev_18.csv	[]	0		
+18	0	0	The Coefficient effect is 0.749 for one of its Inequality measures.	dev_18.csv	[]	1		
+18	0	0	There are four Inequality measures in the table.	dev_18.csv	[]	1		
+18	0	0	The Total difference is 0.578 for one of its rows.	dev_18.csv	[]	1		
+18	0	0	There are Inequality measures in the table.	dev_18.csv	[]	1		
+18	0	0	This is hardly surprising, given that we have seen in Table 1 that the average age of the mother at birth has increased by approximately three years (from 26 to 29 years old), and that the proportion of unmarried mothers has increased dramatically, from 5% in the BCS to 36% in the MCS.	dev_18.csv	[]	2		
+18	0	0	The Total difference has a value of 2.778.	dev_18.csv	[]	0		
+18	0	0	Composition and coefficient effects are further decomposed in the contribution of each covariate, and the results presented in Table A14 and in Table A15 .	dev_18.csv	[]	1		
+19	0	0	Configural (WE o) has a different description when compared to all other invariance levels.	dev_19.csv	[]	1		
+19	0	0	Threshold, Loading and intercept invariance has no restrictions.	dev_19.csv	[]	0		
+19	0	0	Threshold, Loading, and Intercept invariance's description is A Restricts thresholds N and loadings a to be equal across groups A Restricts intercepts to zero in both groups A Allows comparison of latent factor variances and means.	dev_19.csv	[]	1		
+19	0	0	Configural (WE o )'s description is a minimally restrictive model for identification.	dev_19.csv	[]	1		
+19	0	0	The ages at which socio-emotional skills are observed varies slightly between BCS and MCS, due to different sampling and fieldwork schedules.	dev_19.csv	[]	2		
+19	0	0	Threshold and loading invariance is a type of restriction.	dev_19.csv	[]	0		
+19	0	0	Configural (WE o) and threshold invariance have the same descriptions but different restrictions.	dev_19.csv	[]	0		
+19	0	0	In the MCS cohort, the age distribution has significantly higher variance.	dev_19.csv	[]	2		
+19	0	0	There are four invariance levels shown.	dev_19.csv	[]	1		
+19	0	0	The invariance level final tuning has the description a minimally restrictive model for identification.	dev_19.csv	[]	2		
+19	0	0	Every invariance level contains a discription.	dev_19.csv	[]	1		
+19	0	0	Configural (WE o )'s description is that A Restricts thresholds N and loadings a to be equal across groups.	dev_19.csv	[]	0		
+19	0	0	There are some invariance levels where there are no restrictions.	dev_19.csv	[]	0		
+19	0	0	We do not present fit results for the threshold-only invariance model, as it is statistically equivalent to the configural model and thus its fit is mathematically the same.	dev_19.csv	[]	2		
+20	0	0	The observed mean vales are higher for Female.	dev_20.csv	[]	0		
+20	0	0	The structure of Table 7 is similar to Table 6 , but it considers educational achievement, employment, and earnings (conditional on being in paid employment) for the BCS cohort members.	dev_20.csv	[]	1		
+20	0	0	For this cohort, we can examine the association between socio-emotional skills at age five and adult education and labour market outcomes.	dev_20.csv	[]	2		
+20	0	0	Gross weekly pay (42) for Male has 6.474 Mean.	dev_20.csv	[]	1		
+20	0	0	Employed (42) for Male has 0.932 Mean.	dev_20.csv	[]	1		
+20	0	0	Higher education (34) for Male is 0.460 Mean.	dev_20.csv	[]	0		
+20	0	0	Higher education (34) is higher for Females.	dev_20.csv	[]	0		
+20	0	0	Coefficients of Observations are higher for Males in the table.	dev_20.csv	[]	0		
+21	0	0	The highest Factor 1 is 0.684.	dev_21.csv	[]	0		
+21	0	0	There are 8 different types of terms in the given table.	dev_21.csv	[]	2		
+21	0	0	The lowest Factor 8 is 0.027.	dev_21.csv	[]	2		
+21	0	0	The highest Factor 10 is 0.728.	dev_21.csv	[]	2		
+21	0	0	There are 5 different types of factors in the given table.	dev_21.csv	[]	1		
+21	0	0	The lowest Factor 5 is 0.027.	dev_21.csv	[]	0		
+21	0	0	The highest Factor 1 is 0.728.	dev_21.csv	[]	1		
+21	0	0	The lowest Factor 2 is 0.03.	dev_21.csv	[]	0		
+21	0	0	The lowest Factor 12 is 0.03.	dev_21.csv	[]	2		
+21	0	0	The highest Factor 4 is 0.562.	dev_21.csv	[]	1		
+22	0	0	The value of factor 3 for Fussy and Bites Nails are the same.	dev_22.csv	[]	0		
+22	0	0	The only exception is the Auheadaches/stomachachesAu item, which seems to load on a separate factor.	dev_22.csv	[]	2		
+22	0	0	There are more than four factors in the table.	dev_22.csv	[]	1		
+22	0	0	There are 6 different factors.	dev_22.csv	[]	0		
+22	0	0	There exists factor values equal to 0.	dev_22.csv	[]	1		
+22	0	0	All the values given in the table is greater than 0.	dev_22.csv	[]	0		
+22	0	0	The split between externalising and internalising items that we recover in the 11-item scale is almost entirely preserved in the full scale, as seen by items loading on factors 1 and 2.	dev_22.csv	[]	2		
+22	0	0	Item AA+AB has a factor 5 value of 0.	dev_22.csv	[]	1		
+22	0	0	The title with Lies has a factor 4 of 0.	dev_22.csv	[]	0		
+22	0	0	The values of factor 2 for Restless and Bites Nails are the same at -0.001.	dev_22.csv	[]	1		
+22	0	0	There are repeated titles in the table.	dev_22.csv	[]	0		
+22	0	0	There are more than 20 items in the table with different titles.	dev_22.csv	[]	1		
+23	0	0	The scores are obtained by assigning 0, 1, or 2 points for each item in the scale in Table 2 .	dev_23.csv	[]	2		
+23	0	0	There are eleven different items described in the table.	dev_23.csv	[]	1		
+23	0	0	Title Distracted for Rutter wording (BCS 1970) is Cannot settle to anything for more than a few moments.	dev_23.csv	[]	1		
+23	0	0	Title Fearful for Rutter wording (BCS 1970) is Tends to be fearful or afraid of new things or new situations.	dev_23.csv	[]	1		
+23	0	0	The figure shows the distribution of the externalising and internalising sum scores at age five, by gender and cohort.	dev_23.csv	[]	2		
+23	0	0	The Title Distracted for Rutter wording (BCS 1970) is Constantly fidgeting or squirming.	dev_23.csv	[]	0		
+23	0	0	The Title Fights/bullies for Rutter wording (BCS 1970) is (+) Generally obedient, usually does what adults request.	dev_23.csv	[]	0		
+23	0	0	The Title Restless for Rutter wording (BCS 1970) is Often fights with other children or bullies them.	dev_23.csv	[]	0		
+23	0	0	Title Fights/bullies for Rutter wording (BCS 1970) is Frequently fights other children + Bullies other children	dev_23.csv	[]	1		
+23	0	0	Only 0 or 1 points are assigned for items that are coded as having two categories (5 and 11).	dev_23.csv	[]	2		
+23	0	0	"The short label title  Restless is used for the Rutter wording (BCS 1970) of ""Very restless. Often running about or jumping up and down. Hardly ever still."""	dev_23.csv	[]	1		
+23	0	0	Zero points are assigned for AoCertainly Applies /TrueAo responses, one point for AoSometimes applies/somewhat trueAo, and two points for AoDoesn't applyAo.	dev_23.csv	[]	2		
+23	0	0	The Rutter wording (BCS 1970) for the Fearful Title is Restless, overactive, cannot stay still for long.	dev_23.csv	[]	0		
+23	0	0	There are ten different Subscale of comparable items.	dev_23.csv	[]	0		
+24	0	0	The highest males value under BCS (1970) -1 Fac. has the title restless.	dev_24.csv	[]	1		
+24	0	0	Each value appears at least twice in the given table.	dev_24.csv	[]	0		
+24	0	0	Females Fac. 3 is higher than Females Fac.2 and Females Fac.1 under MCS(2000/1) - 3 Fac. for Item number 1.	dev_24.csv	[]	0		
+24	0	0	The lowest Females Fac.1 value is -0.12.	dev_24.csv	[]	1		
+24	0	0	There are fewer than twenty items in the given table.	dev_24.csv	[]	1		
+24	0	0	There is only 1 item in the given table.	dev_24.csv	[]	0		
+24	0	0	The lowest Males is 0.667.	dev_24.csv	[]	0		
+24	0	0	Restless factor loadings are not always larger than ones for Squirmy/fidgety.	dev_24.csv	[]	1		
+24	0	0	We mirror the structure found in the exploratory factor analysis above, and assume that all items load on one factor for the 1-factor solution.	dev_24.csv	[]	2		
+24	0	0	The highest MCS (2000/1) - 3 Fac Females Fac. 2 is 0.666.	dev_24.csv	[]	0		
+24	0	0	Item 32 has higher values for males than females.	dev_24.csv	[]	2		
+24	0	0	Factor loadings for the title emotional has the largest BCS(1970) - 3 Fac. value.	dev_24.csv	[]	2		
+24	0	0	The highest MCS (2000/1) - 1 Fac Males value is not the one with the title Squirmy/fidgety..	dev_24.csv	[]	1		
+24	0	0	The dedicated factor structure in the two-factor case corresponds to a sparse loading matrix, i.e.: o c ai a 1 c , A , a 6 c	dev_24.csv	[]	2		
+25	0	0	: while the magnitude of the loadings is relatively similar across the two cohorts for the first factor, items 3 and 5	dev_25.csv	[]	2		
+25	0	0	1 is the optimal coordinates of MCS(2000/1) of Females.	dev_25.csv	[]	0		
+25	0	0	The table compares the optimal number of factors.	dev_25.csv	[]	2		
+25	0	0	Acceleration factor of BCS(1970) Females is 1.	dev_25.csv	[]	1		
+25	0	0	Suggested number of factors to retain AI is 11-item scale.	dev_25.csv	[]	2		
+25	0	0	3 is the optimal coordinates of MCS(2000/1) of Females.	dev_25.csv	[]	1		
+25	0	0	Suggested number of factors to retain AI is 18-item scale.	dev_25.csv	[]	2		
+25	0	0	Acceleration factor of BCS(1970) Females is 3.	dev_25.csv	[]	0		
+25	0	0	The results for the 3-factor solution, instead, also reported in Table A5 , show a less homogeneous picture 9 9	dev_25.csv	[]	2		
+26	0	0	Velicer MAP has 92 as Rutter (BCS) value.	dev_26.csv	[]	0		
+26	0	0	The table has three heads -Approach ,Rutter (BCS) and SDQ (MCS).	dev_26.csv	[]	1		
+26	0	0	Compare to all the greatest value is 15 under Rutter (BCS)	dev_26.csv	[]	0		
+26	0	0	There are 17 categories under Approach.	dev_26.csv	[]	0		
+26	0	0	Since the purpose of this section is to assess the robustness of the 11-item subscale, we adopt a conservative approach by estimating EFA models with the largest number of factors suggested, i.e. five.	dev_26.csv	[]	2		
+26	0	0	SDQ (MCS) has the least value of 1.	dev_26.csv	[]	1		
+26	0	0	Similarly to the 11-item subscale, there is not much agreement between methods.	dev_26.csv	[]	2		
+26	0	0	There are 7 categories under Approach.	dev_26.csv	[]	1		
+26	0	0	SDQ (MCS) has the value of 11.	dev_26.csv	[]	0		
+26	0	0	The greatest value  in the table is 5	dev_26.csv	[]	1		
+26	0	0	Velicer MAP has 2 as Rutter (BCS) value.	dev_26.csv	[]	1		
+27	0	0	No father fig. (5) of 50Ai10 is 0.327*** .	dev_27.csv	[]	0		
+27	0	0	Father blue-collar occupation (5) of 90Ai50 is 0.367***.	dev_27.csv	[]	0		
+28	0	0	They have males and females gender group.	dev_28.csv	[]	1		
+28	0	0	Distracted BCS in males Cert. Appl. is 30.1.	dev_28.csv	[]	0		
+28	0	0	There are two kinds of Factors.	dev_28.csv	[]	1		
+28	0	0	Aches BCS in females Appl is 3.0.	dev_28.csv	[]	0		
+28	0	0	There exists a males group. 	dev_28.csv	[]	1		
+28	0	0	four items (distracted, tantrums, fearful, aches) show a higher prevalence in MCS than in BC for cert. appl. and smtm. appl.	dev_28.csv	[]	1		
+28	0	0	Restless BCS in Cert. Appl. is higher in males than females.	dev_28.csv	[]	1		
+28	0	0	Unhappy MCS in males Cert. True is 1.6.	dev_28.csv	[]	1		
+28	0	0	Worried MCS in males Smwt. True is 49.0.	dev_28.csv	[]	0		
+28	0	0	There are 11 types of Title.	dev_28.csv	[]	1		
+28	0	0	Squirmy MCS in Smwt. True is higher in males than females.	dev_28.csv	[]	1		
+29	0	0	The title Fights/bullies has a different factor 1 value for BCS and MCS.	dev_29.csv	[]	1		
+29	0	0	The dedicated factor structure in the two-factor case corresponds to a sparse loading matrix, i.e.: o c ai a 1 c , A , a 6 c	dev_29.csv	[]	2		
+29	0	0	The RCS factor 1 values are always higher than the MCS factor 1 values.	dev_29.csv	[]	2		
+29	0	0	Restless has the least factor 2 value in BCS	dev_29.csv	[]	1		
+29	0	0	There are ten Items given in the table.	dev_29.csv	[]	0		
+29	0	0	We mirror the structure found in the exploratory factor analysis above, and assume that all items load on one factor for the 1-factor solution.	dev_29.csv	[]	2		
+29	0	0	Ever factor 1 value is different.	dev_29.csv	[]	1		
+29	0	0	There are at least 11 different titles in the table.	dev_29.csv	[]	1		
+29	0	0	EXT and INT are two factors for both BCS and MCS.	dev_29.csv	[]	1		
+29	0	0	Every title has same Factor 1 value.	dev_29.csv	[]	0		
+29	0	0	The highest factor 2 value in BCS has the title Unhappy.	dev_29.csv	[]	0		
+29	0	0	EXT and INT are only factors in BCS.	dev_29.csv	[]	0		
+29	0	0	The item with the title Scared has the factor 1 value of 0.912.	dev_29.csv	[]	2		
+29	0	0	Fights/bullies has a higher factor 1 value in BCS than in MCS.	dev_29.csv	[]	1		
+30	0	0	The Threshold + Loading Inv has repeated values .	dev_30.csv	[]	0		
+31	0	0	The years 2010 and 2015 have the same measurement errors.	dev_31.csv	[]	0		
+31	0	0	and therefore it covers many fewer trade inflows into Russia than the BACI dataset.	dev_31.csv	[]	2		
+31	0	0	The years range from 2010 to 2020.	dev_31.csv	[]	0		
+31	0	0	The lowest measurement error (ME) is 7.50% in the year 2016.	dev_31.csv	[]	0		
+31	0	0	Each year consist of different measurement errors.	dev_31.csv	[]	1		
+31	0	0	The highest measurement error is 9.50% in the year 2016.	dev_31.csv	[]	1		
+31	0	0	The highest measurement error (ME) is 0.94% in the year 2019.	dev_31.csv	[]	0		
+31	0	0	Some of the measurement errors (ME) are negative.	dev_31.csv	[]	0		
+31	0	0	The lowest measurement error is 0.67 % in the year 2019.	dev_31.csv	[]	1		
+31	0	0	All the measurement errors are in positive.	dev_31.csv	[]	1		
+31	0	0	The year ranges from 2010 to 2019.	dev_31.csv	[]	1		
+32	0	0	(PCuN) vs. (PCuN) c has the value 124.4 under M2 +	dev_32.csv	[]	0		
+32	0	0	iG a and iE b both have the value 5.0 under M2 +.	dev_32.csv	[]	0		
+32	0	0	P1-Cu-P2 has 195.1  for M1 + .	dev_32.csv	[]	0		
+32	0	0	Due to the semi-rigid ligand backbone and the steric demand of the Mes* substituent we identified two distinctively different conformations as local minima on the relative shallow PES	dev_32.csv	[]	2		
+32	0	0	N2-Cu has the value of 1.995 value under M1 +.	dev_32.csv	[]	0		
+32	0	0	When compared to all values, 159.8 is the highest value under M1 + .	dev_32.csv	[]	1		
+32	0	0	When compared to all, 912.0 is the highest value under M1 +.	dev_32.csv	[]	0		
+32	0	0	(PCuN) vs. (PCuN) c has a higher M2 + value than M1 + value.	dev_32.csv	[]	1		
+32	0	0	P1-Cu-P2 does not have the largest value under M1 + .	dev_32.csv	[]	1		
+32	0	0	iG a and iE b have the same value under M2 +.	dev_32.csv	[]	1		
+32	0	0	The two presented models M1 + and M2 + for iG differ only by ca. 3.6 kcal/mol, supporting the idea that this complex may exist in a number of different conformations in solution.	dev_32.csv	[]	1		
+32	0	0	N2-Cu has value of 1.949 under M1 +.	dev_32.csv	[]	1		
+33	0	0	Local crafts, traditional skills, use of natural products, creativity of individual crafts people is the mobilizing resource of rural areas in Recife.	dev_33.csv	[]	0		
+33	0	0	Small cities in Den Bosch has structures like Public-private collaboration, with involvement of civic groups.	dev_33.csv	[]	0		
+33	0	0	table contains 8 context.	dev_33.csv	[]	0		
+33	0	0	These are presented successively in terms of the preparation of creative development actions (inspiration, selection, structure) and the implementation phase (mobilizing resources, giving meanings and using creativity to links thing together).	dev_33.csv	[]	1		
+33	0	0	The table contains 4 types of phase.	dev_33.csv	[]	0		
+33	0	0	Local crafts, traditional skills, use of natural products, creativity of individual crafts people is the mobilizing resource of rural areas in thailand.	dev_33.csv	[]	1		
+33	0	0	Conurbations in Nordrhein-Westfalen selects to Project individual with input from group makers.	dev_33.csv	[]	0		
+33	0	0	Large cities in Recife has structures like Public-private collaboration, with involvement of civic groups.	dev_33.csv	[]	1		
+33	0	0	Conurbations in Nordrhein-Westfalen selects to Project team with input from individual makers.	dev_33.csv	[]	1		
+33	0	0	The table contains 4 contexts.	dev_33.csv	[]	1		
+33	0	0	The table contains 2 types of phase.	dev_33.csv	[]	1		
+34	0	0	2.66Ai5.58 is 95% Cl for No treatment with ARB.	dev_34.csv	[]	0		
+34	0	0	12.99 is Odds Ratio for Having depression .	dev_34.csv	[]	0		
+34	0	0	The highest p- value is 9.36.	dev_34.csv	[]	0		
+34	0	0	, diuretics >40 mg/day (OR 1.92; 95% CI 1.02-3.64, p =0.04), and worse NYHA functional class (OR 1.92; 95% CI 1.05-3.52, p =0.04)	dev_34.csv	[]	1		
+34	0	0	Odds Ratio for Gender, male is 5.98.	dev_34.csv	[]	0		
+34	0	0	0.02 is the lowest p- value compared to all p-values.	dev_34.csv	[]	1		
+34	0	0	The Gender, male Variable has the lowest p- value of 5.02	dev_34.csv	[]	0		
+34	0	0	Odds Ratio for Gender, male is 1.98.	dev_34.csv	[]	1		
+34	0	0	1.33Ai5.58 is 95% Cl for No treatment with ARB.	dev_34.csv	[]	1		
+34	0	0	2.99 is Odds Ratio for Having depression .	dev_34.csv	[]	1		
+34	0	0	The highest p-value is 0.36	dev_34.csv	[]	1		
+35	0	0	Sulfur mustard and 1,4 - Oxathiane has 0.02 LOD value.	dev_35.csv	[]	1		
+35	0	0	Sulfur mustard and 1,4 - Oxathiane both have values of 9.82 LOD [ng/mL].	dev_35.csv	[]	0		
+35	0	0	There are two types of Analysis methods: LC-MS/MS and GC-MS/MS.	dev_35.csv	[]	1		
+35	0	0	Analysis were performed in two ways: intact analyses by GC-MS/MS and intact analyses by LC-MS/MS.	dev_35.csv	[]	1		
+35	0	0	The greatest value in LOQ is 1.31 for Thiodiglycol*.	dev_35.csv	[]	1		
+35	0	0	The Recovery percentage of Thiodiglycol sulfoxide and Thiodiglycol* is 100%.	dev_35.csv	[]	1		
+35	0	0	0.06 is the least value under LOQ .	dev_35.csv	[]	1		
+35	0	0	The largest value of LOQ [ng/mL] is 7.31, for Thiodiglycol*.	dev_35.csv	[]	0		
+35	0	0	8.36 is a value under LOQ .	dev_35.csv	[]	0		
+35	0	0	The Recovery percentage of Thiodiglycol sulfoxide and Thiodiglycol acid is 40%.	dev_35.csv	[]	0		
+35	0	0	All measurements were repeated at least five times and the results were standardized according to Q-Dixon test.	dev_35.csv	[]	2		
+35	0	0	There are only two types of Analysis methods: LC-MS/MS and GC-MS/MS	dev_35.csv	[]	1		
+36	0	0	It is worth underlining that there are significant differences in 2,6 - Oxathiane solubility.	dev_36.csv	[]	2		
+36	0	0	We were not able to obtain in our experiments solutions of this compound that would exceed a concentration of 28 745  2328	dev_36.csv	[]	2		
+36	0	0	103.4 is the sediments dry weight [ogAoAkg -1] of sulfur mustard.	dev_36.csv	[]	0		
+36	0	0	There are 9 different CAS#	dev_36.csv	[]	0		
+36	0	0	There are 7 rows of content, not counting column headers.	dev_36.csv	[]	1		
+36	0	0	It is worth underlining that there are significant differences in 1,4 - dithiane solubility.	dev_36.csv	[]	2		
+36	0	0	Its the list of non tested compounds, including their detections by CHEMSEA, MODUM and DAIMON projects	dev_36.csv	[]	2		
+36	0	0	6.2 is the vapour pressure [pa] of 1,2,5 - Thritiepane.	dev_36.csv	[]	0		
+36	0	0	8.6 is the vapour pressure [pa] of 1,2,5 - Thritiepane.	dev_36.csv	[]	1		
+36	0	0	203.7 is the sediments dry weight [ogAoAkg -1 ] of sulfur mustard.	dev_36.csv	[]	1		
+37	0	0	Type of A + E I has only Real symmetric, Hermitian and Complex symmetric .	dev_37.csv	[]	0		
+37	0	0	The Otherwise type has Shifted conjugate gradient (CG) method (using complex vector) as the method.	dev_37.csv	[]	0		
+37	0	0	Shifted conjugate orthogonal conjugate gradient (COCG) method is a method used for Hermitian .	dev_37.csv	[]	0		
+37	0	0	An appropriate solver should be selected depending on whether the type of Hamiltonian H and the frequency z are complex or real, as shown in Table 1 .	dev_37.csv	[]	2		
+37	0	0	All four solver names are unique.	dev_37.csv	[]	1		
+37	0	0	Real symmetric ,Hermitian , Complex symmetric and Otherwise are all types of A + E I.	dev_37.csv	[]	1		
+37	0	0	The solver name is different for all 44 types.	dev_37.csv	[]	0		
+37	0	0	Krylov subspace methods have been classified into 44 types.	dev_37.csv	[]	0		
+37	0	0	Krylov subspace methods have been classified into 4 types.	dev_37.csv	[]	1		
+37	0	0	It is noted that H must be Hermitian or symmetric for a complex or real matrix, respectively.	dev_37.csv	[]	2		
+37	0	0	Shifted conjugate orthogonal conjugate gradient (COCG) method is a method used for Complex symmetric .	dev_37.csv	[]	1		
+37	0	0	The Hermitian type has Shifted conjugate gradient (CG) method (using complex vector) as the method.	dev_37.csv	[]	1		
+37	0	0	For an efficient calculation, the seed switching function [7] is introduced in all methods.	dev_37.csv	[]	2		
+38	0	0	The lowest SS(10,1) value is -4.297689 for E n =4.	dev_38.csv	[]	0		
+38	0	0	The SS(10,2) values are same as the SS(10,5) values.	dev_38.csv	[]	1		
+38	0	0	The SS(10,1) is NA for both 5 E n and 6 E n.	dev_38.csv	[]	1		
+38	0	0	By taking about 50 different bases, we can obtain the correct eigenvalues including degeneracies.	dev_38.csv	[]	2		
+38	0	0	The lowest SS(10,1) value is -4.777389 for E n =4.	dev_38.csv	[]	0		
+38	0	0	The SS(10,1) is available for both 5 E n and 6 E n.	dev_38.csv	[]	0		
+38	0	0	To see the convergence of the contour-integral method, we show the obtained eigenvalues for several different conditions.	dev_38.csv	[]	2		
+38	0	0	The highest H value is -5.387391 for E n =0.	dev_38.csv	[]	0		
+38	0	0	There are 7 E n values in the given table.	dev_38.csv	[]	1		
+38	0	0	There are 8 E n values in the given table.	dev_38.csv	[]	0		
+38	0	0	The SS(10,2) values are not the same as the SS(10,5) values.	dev_38.csv	[]	0		
+38	0	0	The highest H value is -4.297689 at E n=0 ,	dev_38.csv	[]	0		
+39	0	0	As an advantage of the present method, it meets the demand for extremely large problems, such as quantum lattice models with matrix size	dev_39.csv	[]	2		
+39	0	0	There are three methods in the table.	dev_39.csv	[]	1		
+39	0	0	The inner products (Inner) for Shift (whole) method is unique.	dev_39.csv	[]	0		
+39	0	0	The Shift (projection) of SV is partially 3 M + 3 M left.	dev_39.csv	[]	1		
+39	0	0	The inner products (Inner) are 3 M N eq AND 3 M	dev_39.csv	[]	1		
+40	0	0	The brain size for preliterate humans are smaller than insects.	dev_40.csv	[]	0		
+40	0	0	The brain size for Proteins is neither tiny nor large.	dev_40.csv	[]	1		
+40	0	0	preliterate humans is the only type considered without mass-societies.	dev_40.csv	[]	1		
+40	0	0	Large is the brain size of Insects.	dev_40.csv	[]	0		
+40	0	0	Modern humans is the only one with a large brain size and mass-societies.	dev_40.csv	[]	1		
+40	0	0	There are mass-societies for every column considered.	dev_40.csv	[]	0		
+40	0	0	The brain sizes of Preliterate Humans and Modern Humans are tiny.	dev_40.csv	[]	0		
+40	0	0	In Cell City, the mass-societies of proteins, the citizens have no AubrainAu, but can be seen as information processing entities defined by their structure.	dev_40.csv	[]	2		
+40	0	0	There are no mass societies for modern humans.	dev_40.csv	[]	0		
+40	0	0	Amongst human social groups, all with the same brain size, only some have become modern mass-societies.	dev_40.csv	[]	1		
+40	0	0	Tiny is the brain size of Insects.	dev_40.csv	[]	1		
+40	0	0	Brain size and mass-societies are considered in the given table.	dev_40.csv	[]	1		
+40	0	0	But for mass-society emergence, great brain power is neither necessary nor sufficient.	dev_40.csv	[]	1		
+40	0	0	The brain sizes for both types of humans are large.	dev_40.csv	[]	1		
+41	0	0	The lowest RANSAC value is 12.8% of Stairs scene.	dev_41.csv	[]	1		
+41	0	0	The lowest RANSAC value is 40.01 % for the heads scene.	dev_41.csv	[]	0		
+41	0	0	The SR of Methods value for the stairs scene is 96.8% for RANSAC	dev_41.csv	[]	0		
+41	0	0	SR of Methods are classified into 3 sub heads.	dev_41.csv	[]	1		
+41	0	0	There are 7 scenes given in the table.	dev_41.csv	[]	1		
+41	0	0	The highest RANSAC value is 89.2% of Chess scene.	dev_41.csv	[]	0		
+41	0	0	There are 10 scenes given in the table.	dev_41.csv	[]	0		
+41	0	0	The highest DSAC value is 97.4% of Chess scene.	dev_41.csv	[]	1		
+41	0	0	The SR of Methods value of Chess is more than all other scenes for all methods.	dev_41.csv	[]	1		
+41	0	0	Table 7 , gives the SR measures as they have been stated in the related papers [86,205] .	dev_41.csv	[]	1		
+42	0	0	Testing took place on a random selection of 10% of the images of one sequence per scene.	dev_42.csv	[]	2		
+42	0	0	#Frames Test never dips below 1000 in the table.	dev_42.csv	[]	1		
+42	0	0	However, the dataset does not include an explicit image set for validation.	dev_42.csv	[]	2		
+42	0	0	There are 7 different Scenes in the given table.	dev_42.csv	[]	1		
+42	0	0	Each image frame is annotated with its 6D camera pose, that defines the ground truth for our experiments.	dev_42.csv	[]	2		
+42	0	0	#Frames Train ranges from 1000 to 7000	dev_42.csv	[]	1		
+42	0	0	There are 7 different Scenes in the table.	dev_42.csv	[]	1		
+42	0	0	#Frames Train has a range between 6000 and 12000	dev_42.csv	[]	0		
+42	0	0	The lowest value of #Frames Train is 1000	dev_42.csv	[]	1		
+42	0	0	The data of each scene are partitioned into testing or training subsets, with RGB-D image numbers varying from 1k to 7k ( Table 4 ).	dev_42.csv	[]	2		
+42	0	0	The lowest value of #Frames Test is 100.	dev_42.csv	[]	0		
+42	0	0	The highest value for #Frames Train is 6000.	dev_42.csv	[]	0		
+43	0	0	The method Wang et al. had the lowest errors for all scenes.	dev_43.csv	[]	2		
+43	0	0	There are more than 8 types of scenes in the table.	dev_43.csv	[]	0		
+43	0	0	Chess and Fire have different registration errors for both translation and rotation in all methods.	dev_43.csv	[]	1		
+43	0	0	There are fewer than eight scenes in the table.	dev_43.csv	[]	1		
+43	0	0	The mean registration error of translation and rotation are both highest in Shotton et al. for the Stairs scene out of all scenes.	dev_43.csv	[]	0		
+43	0	0	SoftPosit consistently has a higher registration error for translation when compared to all other methods.	dev_43.csv	[]	1		
+43	0	0	The SoftPOSIT values for the chess scene are both lower than the fire scene.	dev_43.csv	[]	0		
+43	0	0	The registration results of RANSAC [67] , SoftPOSIT [142] and [126] should be seen with caution as these methods were developed for slightly different data.	dev_43.csv	[]	2		
+43	0	0	The results were evaluated by comparing the final registration errors, expressed as translation and skew error and mean target registration error mTRE	dev_43.csv	[]	2		
+43	0	0	All scenes have different values in RANSAC.	dev_43.csv	[]	1		
+43	0	0	All registration errors are higher than 0m .	dev_43.csv	[]	1		
+43	0	0	All rotation errors are lower than 10 degrees.	dev_43.csv	[]	1		
+43	0	0	There are 10 Registration Error of Methods.	dev_43.csv	[]	0		
+44	0	0	All the values in RANSAC and Shotton et al are less than 1 meter.	dev_44.csv	[]	1		
+44	0	0	There are ten methods under mTRE.	dev_44.csv	[]	0		
+44	0	0	The registration results of RANSAC [67] , SoftPOSIT [142] and [126] should be seen with caution as these methods were developed for slightly different data.	dev_44.csv	[]	2		
+44	0	0	The results were evaluated by comparing the final registration errors, expressed as translation and rotation error  and mean target registration error mTRE.	dev_44.csv	[]	2		
+44	0	0	There are at least 7 scene types.	dev_44.csv	[]	1		
+44	0	0	PoseNet always has a higher value than Shotton et al.	dev_44.csv	[]	1		
+44	0	0	Equation 2 is 0.07m for the scene office.	dev_44.csv	[]	2		
+44	0	0	Fire scene values are not always larger than Chess scene values.	dev_44.csv	[]	1		
+44	0	0	All of the values in RANSAC, Shotton et al, PoseNet, Kendal et al and DSAC are greater than 0.	dev_44.csv	[]	1		
+44	0	0	There exists one value in SoftPOSIT or Liu et al. that is < 1m.	dev_44.csv	[]	0		
+44	0	0	In order for future multimodal registration methods to be more fairly compared, the creation of a publicly available dataset with more modalities and specified ground truth is necessary.	dev_44.csv	[]	2		
+44	0	0	There are 8 types of scenes.	dev_44.csv	[]	0		
+44	0	0	The lowest SoftPOSIT value is from the Heads scene.	dev_44.csv	[]	0		
+44	0	0	The highest value in the table is 20.96, which is SoftPOSIT in the scene of Red Kitchen.	dev_44.csv	[]	1		
+45	0	0	The VIPS Dataset Name is missing Data Format	dev_45.csv	[]	0		
+45	0	0	These modalities are medically oriented, so most of the methods focus on registration of a specific body organ and do not easily generalize.	dev_45.csv	[]	2		
+45	0	0	The medical field could offer the opportunity of building a dataset with multiple modalities and objects, but there may be challenges related to privacy.	dev_45.csv	[]	2		
+45	0	0	There are 14 Dataset Names in the table	dev_45.csv	[]	0		
+45	0	0	IXI has 600 # Subjects.	dev_45.csv	[]	1		
+45	0	0	Every Modality is unique	dev_45.csv	[]	0		
+45	0	0	There are no repeated years in the table.	dev_45.csv	[]	0		
+45	0	0	There are 12 Publicly available datasets in the table.	dev_45.csv	[]	1		
+45	0	0	The modality of Cambridge Landmark is 2D Images / 3D Models	dev_45.csv	[]	1		
+45	0	0	it can be said that most of such public datasets contain only a small number of subjects in one or two different modalities.	dev_45.csv	[]	2		
+46	0	0	Characteristic Male sex LEAP Peanut avoid is 42/248 (17%) .	dev_46.csv	[]	0		
+46	0	0	Characteristic Male sex LEAP Peanut avoid is 164 (65%).	dev_46.csv	[]	1		
+46	0	0	LEAP-On Peanut avoid 81 (37%) Characteristic is Atopic eczema.	dev_46.csv	[]	1		
+46	0	0	For Group V PAS, the Medication grade severe Characteristic is 0/1 (0%).	dev_46.csv	[]	1		
+46	0	0	An additional 123 subjects were eligible for the BAT but were not tested for logistic reasons (see Tables E7 and E8 in this articleAos Online Repository at www.jacionline.org ).	dev_46.csv	[]	2		
+46	0	0	On the BAT, in 93 samples (13.1%) basophils did not react to the IgE-mediated positive controls and were excluded from statistical analyses.	dev_46.csv	[]	2		
+46	0	0	LEAP-On Overall is 5/32 (16%) CTCAE grade severe Characteristic.	dev_46.csv	[]	0		
+46	0	0	PAS Overall is 5/32 (16%) CTCAE grade severe.	dev_46.csv	[]	1		
+47	0	0	Ara h 2 Ai specific IgE (kU/L) Sensitivity is lower in Severe versus nonsevere allergic reactions than Threshold a0.1 g vs >0.1 g of peanut protein.	dev_47.csv	[]	0		
+47	0	0	With use of the receiver operator characteristic curve analyses, the optimal cutoffs for the SPT, level of Ara h 2Aispecific IgE, and IgG4/IgE ratios also had a very good performance in identifying patients with a cumulative threshold dose of 0.1 g or lower ( Table II ).	dev_47.csv	[]	2		
+47	0	0	They have six different parameters.	dev_47.csv	[]	2		
+47	0	0	BAT (% of CD63 + basophils) ) Cutoff values are the same in Severe versus nonsevere allergic reactions and Threshold a0.1 g vs >0.1 g of peanut protein.	dev_47.csv	[]	0		
+47	0	0	Peanut SPT (mm) Cutoff is higher in Severe versus nonsevere allergic reactions than Threshold a0.1 g vs >0.1 g of peanut protein.	dev_47.csv	[]	1		
+47	0	0	Ara h 2 Ai specific IgE (kU/L) Sensitivity is higher in Severe versus nonsevere allergic reactions than Threshold a0.1 g vs >0.1 g of peanut protein.	dev_47.csv	[]	1		
+47	0	0	Fig E7 shows the estimated proportion of participants who remain reaction-free as a function of cumulative peanut dose and reinforces the concept that the higher the proportion of activated basophils, the lower the dose of peanut protein to which patients react during OFC.	dev_47.csv	[]	2		
+47	0	0	IgG4/IgE r atio NPV is higher in Severe versus nonsevere allergic reactions than Threshold a0.1 g vs >0.1 g of peanut protein.	dev_47.csv	[]	1		
+47	0	0	BAT (% of CD63 + basophils) Cutoff is higher in Severe versus nonsevere allergic reactions than Threshold a0.1 g vs >0.1 g of peanut protein.	dev_47.csv	[]	1		
+47	0	0	They have ten different parameters.	dev_47.csv	[]	2		
+48	0	0	The Mean Absolute calibration error of 0.1 g for BAT is 0.01.	dev_48.csv	[]	0		
+48	0	0	Model Multivariable for C-Index has the value of 9.981.	dev_48.csv	[]	0		
+48	0	0	Model IgG4 to peanut for C-Index has the highest value, 7.565	dev_48.csv	[]	0		
+48	0	0	The nomogram in Fig 4 , B depicts this multivariable model and can be used to make predictions of threshold of future reactions during PA testing.	dev_48.csv	[]	2		
+48	0	0	Model Multivariable for C-Index has the highest value, 0.981.	dev_48.csv	[]	1		
+48	0	0	The Mean of the Absolute calibration error of 0.1 g is the lowest for IgG 4 to peanut.	dev_48.csv	[]	0		
+48	0	0	A similar nomogram without BAT is shown in Fig E11 (in this articleAos Online Repository at www.jacionline.org ).	dev_48.csv	[]	2		
+48	0	0	Mean Absolute calibration error of 0.1 g for Multivariable has the lowest value, 1.6.	dev_48.csv	[]	0		
+48	0	0	Mean absolute calibration error of 0.1 g for IgE to peanut has the highest value, 4	dev_48.csv	[]	1		
+49	0	0	IgE to peanut has the highest mean severe/life-threatening absolute calibration error.	dev_49.csv	[]	1		
+49	0	0	Multivariable (BAT) and SPT has same mean moderate or higher absolute calibration error.	dev_49.csv	[]	1		
+49	0	0	We performed internal validation of these models by using the bootstrap to correct for the bias of using the same data to fit and validate the model.	dev_49.csv	[]	2		
+49	0	0	Modesl Ara h 2Aispecific IgE and BAT have different C-Index values.	dev_49.csv	[]	0		
+49	0	0	There are seven models present in the table.	dev_49.csv	[]	1		
+49	0	0	Although the performance of both multivariate models was good ( Table III ), on the basis of calibration, the model including the BAT more accurately predicted the probability of severe or life-threatening reactions than did either the model without the BAT or the individual tests.	dev_49.csv	[]	2		
+49	0	0	Models Ara h 2Aispecific IgE and BAT have the same C-Index values.	dev_49.csv	[]	1		
+49	0	0	90th percentile Moderate or higher absolute calibration error is different for every model.	dev_49.csv	[]	1		
+49	0	0	Model SPT does not have C-Index value	dev_49.csv	[]	0		
+49	0	0	There are two models present in the table.	dev_49.csv	[]	0		
+50	0	0	The Means value for Disease is 0.558, and it is higher than the value for Control.	dev_50.csv	[]	0		
+50	0	0	Control has 8.074 as the SD value.	dev_50.csv	[]	0		
+50	0	0	Results have been divided into three groups - Measures, Disease and Control.	dev_50.csv	[]	0		
+50	0	0	N value is 31 for both groups.	dev_50.csv	[]	1		
+50	0	0	Disease has 18.667 as the t value.	dev_50.csv	[]	0		
+50	0	0	Results have been divided into two groups - Disease and control.	dev_50.csv	[]	1		
+50	0	0	Disease has the highest mean.	dev_50.csv	[]	0		
+50	0	0	Control has 0.074 as the SD value.	dev_50.csv	[]	1		
+50	0	0	Disease has 8.667 as the t value.	dev_50.csv	[]	1		
+50	0	0	The N value is 91 for both the disease and control Groups.	dev_50.csv	[]	0		
+51	0	0	1:16 Median RBC is 0.67.	dev_51.csv	[]	0		
+51	0	0	1:8 Median RBC is 0.90.	dev_51.csv	[]	0		
+51	0	0	The median RBC for NS is 0.90	dev_51.csv	[]	1		
+51	0	0	The Original Median RBC is 0.25.	dev_51.csv	[]	1		
+51	0	0	Original AGI is 1.00	dev_51.csv	[]	0		
+51	0	0	NS AGI is 0.28.	dev_51.csv	[]	0		
+51	0	0	1:4 Median RBC is 0.60.	dev_51.csv	[]	1		
+51	0	0	The 1:2 Median RBC is 0.40.	dev_51.csv	[]	1		
+51	0	0	The results of the glass slide method were plotted on the X-axis and the AGI on the Y-axis for the scatter plot.	dev_51.csv	[]	2		
+51	0	0	There are seven groups.	dev_51.csv	[]	1		
+52	0	0	Cantilever beam material is AA2319.	dev_52.csv	[]	0		
+52	0	0	Aerospace bracket material is Machined from forging.	dev_52.csv	[]	0		
+52	0	0	Aerospance bracket's standard manufacturing process is machined from billet.	dev_52.csv	[]	0		
+52	0	0	In order to produce the components, which are conventionally manufactured by means of material removal processes from massive workpieces, two different WAAM system configurations were used, both based on anthropomorphic 6-axis Kuka robots for the provision of motion.	dev_52.csv	[]	2		
+52	0	0	The Aerospace frame material is Ti-6Al-4V.	dev_52.csv	[]	0		
+52	0	0	Aerospace frame material is AA2319.	dev_52.csv	[]	1		
+52	0	0	There are five components in the table.	dev_52.csv	[]	0		
+52	0	0	Cantilever beam material is ER70s-6.	dev_52.csv	[]	1		
+52	0	0	The first system relies on a plasma-arc power source (water cooled), and has a shielding device for the local supply of an inert gas atmosphere.	dev_52.csv	[]	2		
+52	0	0	Aerospace frame's standard manufacturing process is Machined from billet.	dev_52.csv	[]	1		
+52	0	0	Aerospace bracket material is Ti-6Al-4V.	dev_52.csv	[]	1		
+52	0	0	There are three components in the table.	dev_52.csv	[]	1		

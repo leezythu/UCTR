@@ -20,13 +20,18 @@ For NL-Generator, the training and inference procedures are the same as in FEVER
 python syn_filter.py
 ```
 
+Then put the generated data into the `tsv` folder as `train_3way_set.tsv`.
+
 #### Model Training&Inference
 
 ```python
 git clone git@github.com:devanshg27/sem-tab-fact.git
-mv train_a.sh sem-tab-fact/
-mv infer_a.sh sem-tab-fact/
-sh train_a.sh
+cp train_a.sh sem-tab-fact/
+cp infer_a.sh sem-tab-fact/
+cp -r csv sem-tab-fact/
+cp -r tsv sem-tab-fact/
+cd sem-tab-fact
+sh train_a.sh #you may need to set the data path and model saving path in train_task_a/tapas_stf.py
 sh infer_a.sh
 ```
 
