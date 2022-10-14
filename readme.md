@@ -12,16 +12,16 @@ Since some of the open-source repositories we use have no license, we can't uplo
 
 ##  🏰 Resources
 
-### Synthetic Data
+### Synthetic Data and Fine-tuned Models
 
 We release our synthetic data on four benchmark:TAT-QA, WiKiSQL, SEM-TAB-FACTS, FEVEROUS.
 
- Dataset | Synthetic Data 
+ Dataset | Synthetic Data | Fine-tuned Models 
 ----|----
-TAT-QA | [tatqa_syn.jsonl](https://drive.google.com/file/d/1mpcTMqgG_YdfYIxnOHfBUfawNhXuLWwC/view?usp=sharing)
-WiKiSQL | [wikisql_syn.jsonl](https://drive.google.com/file/d/1-xHnOV81Eg5RiT3G-ur6C67nhnbu-_JA/view?usp=sharing)
-SEM-TAB-FACTS | [sem_tab_facts_syn.tsv](https://drive.google.com/file/d/1ZcF1NFlrKvXB_3NB1HBBIited81gGjOs/view?usp=sharing)
-FEVEROUS | [feverous_syn.jsonl](https://drive.google.com/file/d/1S4NHfeb2lw8jnDIfWDOFRk8heTPxdeiU/view?usp=sharing) 
+TAT-QA | [tatqa_syn.jsonl](https://drive.google.com/file/d/1mpcTMqgG_YdfYIxnOHfBUfawNhXuLWwC/view?usp=sharing) | [tatqa_checkpoint](https://drive.google.com/file/d/1ZsNcnqGGiLEW2zew_M78UwSNNeXqEEvi/view?usp=sharing)
+WiKiSQL | [wikisql_syn.jsonl](https://drive.google.com/file/d/1-xHnOV81Eg5RiT3G-ur6C67nhnbu-_JA/view?usp=sharing) | [wikisql_checkpoint](https://drive.google.com/file/d/1QsupRlKUSsFBXWIKJyIR7KdIs7ePEmfa/view?usp=sharing)
+SEM-TAB-FACTS | [sem_tab_facts_syn.tsv](https://drive.google.com/file/d/1ZcF1NFlrKvXB_3NB1HBBIited81gGjOs/view?usp=sharing) | [sem_tab_fact_checkpoint](https://drive.google.com/file/d/1mwNhGQYHJKgYNLlm4BogaYxa9xRnPadf/view?usp=sharing)
+FEVEROUS | [feverous_syn.jsonl](https://drive.google.com/file/d/1S4NHfeb2lw8jnDIfWDOFRk8heTPxdeiU/view?usp=sharing) | [feverous_checkpoint](https://drive.google.com/file/d/1_CFdIROk8LfBqCtZBffZUvK-4QIwx8Mx/view?usp=sharing)
 
 ### NL-Generator Models
 Coming soon!
