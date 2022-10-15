@@ -29,7 +29,7 @@ Coming soon!
 ## 🤗 Docker
 We also provide a docker environment. You can reproduce our results in it easily.
 
-Coming soon!! (we will release it before 14, October)
+Coming soon!! (We encounter issues when pushing the image to the docker hub because the image is a bit large, and we're working on it. Please be patient.)
 
 ## 📝 License
 
