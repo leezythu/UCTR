@@ -27,9 +27,9 @@ FEVEROUS | [feverous_syn.jsonl](https://drive.google.com/file/d/1S4NHfeb2lw8jnDI
 Coming soon!
 
 ## 🤗 Docker
-We also provide a docker environment. You can reproduce our results in it easily.
+We also provide a [docker environment](https://hub.docker.com/r/leezythu/uctr). 
 
-Coming soon!! (We encounter issues when pushing the image to the docker hub because the image is a bit large, and we're working on it. Please be patient.)
+You can run `docker pull leezythu/uctr:3.0 ` and follow the instructions in `readme_in_docker.md` to reproduce our results in it.
 
 ## 📝 License
 
