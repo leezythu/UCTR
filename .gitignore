@@ -29,8 +29,3 @@ WiKiSQL/Table-Pretraining/examples/checkpoints_syn
 WiKiSQL/Table-Pretraining/examples/predict_syn_test
 WiKiSQL/Table-Pretraining/examples/raw_dataset/wikisql_syn/data/train.db
 #docker
-readme_in_docker.md
-run_wikisql.sh
-run_feverous.sh
-run_sem_tab_facts.sh
-run_tat_qa.sh
