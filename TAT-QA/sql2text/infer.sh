@@ -1,13 +1,12 @@
-# python prepare_infer_data.py --input_file syn_samples.jsonl --output_file syn_samples_op.json
-# python prepare_infer_data.py --input_file syn_for_arithmetic.jsonl --output_file syn_for_arithmetic_op.json
-
-
-# python predict_translation.py \
-#     --model_name_or_path  op2nl_output/epoch_10 \
-#     --output_dir  infer_res\
-#     --test_file ./syn_for_arithmetic_op.json \
-#     --source_lang program \
-#     --target_lang nl \
-#     --per_device_test_batch_size 32 
-
-python prepare_infer_data_2.py --op_file ./syn_for_arithmetic.jsonl --op2nl_file infer_res/res.jsonl --output_file ../dataset/tatqa_dataset_arithmetic2text_only_diff_changeratio.json
+python run_summarization.py \
+    --model_name_or_path result \
+    --do_predict \
+    --train_file sql2nl_tat.json \
+    --validation_file sql2nl_tat.json \
+    --test_file sql2nl_tat.json \
+    --source_prefix "summarize: " \
+    --output_dir result_tat \
+    --overwrite_output_dir \
+    --per_device_train_batch_size=8 \
+    --per_device_eval_batch_size=8 \
+    --predict_with_generate
