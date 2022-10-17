@@ -5,7 +5,7 @@ We have put the generated data into the file `tatqa/dataset_tagop/tatqa_dataset_
 
 In the finqa folder
 - we collect arithmetic expressions from [FinQA](https://github.com/czyssrs/FinQA) and split them into train_op2nl/dev_op2nl.json using `collect_data.py`.
-- Based on the above files, we train a Bart model to convert arithmetic expressions to natural language questions. You can download our trained model from [google drive](https://drive.google.com/file/d/1lH5YZX1gVQCwniFUgAlGEjpGorJjE0ce/view?usp=sharing) and put it in the `op2nl_output` directory.
+- Based on the above files, we train a Bart model to convert arithmetic expressions to natural language questions. You can download our trained model from [google drive](https://drive.google.com/file/d/1qkYb1v1snmjLL-DwlyrJGWUqpCaia1Xh/view?usp=sharing) and put it in the `op2nl_output` directory.
 ```
 sh run.sh
 ```
@@ -44,7 +44,7 @@ Firstly please download the [Squall dataset](https://github.com/tzshi/squall). T
 python collect_sql2text_from_squall.py
 ```
 and further split the generated data into sql2text_train.json and sql2text_valid.json.
-Then we can train a model to convert SQL language to natural language.
+Then we can train a model to convert SQL language to natural language. You can also download our trained model from [google drive](https://drive.google.com/file/d/1CS1vdS6CnYgOto4RoKSVzjzIvlj5joj3/view?usp=sharing)
 ```python
 sh trainer.sh
 ```

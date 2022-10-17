@@ -13,7 +13,7 @@ git clone https://github.com/Raldir/FEVEROUS.git
 python syn.py
 ```
 
-For NL-Generator, we use a GPT-2 model from [here](https://github.com/czyssrs/Logic2Text). Please download the model and scripts, and put them into a directory named gpt_base. Then run:
+For NL-Generator, we use a GPT-2 model from [here](https://github.com/czyssrs/Logic2Text). Please download the model and scripts, and put them into a directory named gpt_base. Our trained model can be downloaded from [google drive](https://drive.google.com/file/d/1YIsQWVK_h2QrkW8VzYa0GDiZ6Qtfx271/view?usp=sharing). Then run:
 
 ```python
 cd gpt_base
