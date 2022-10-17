@@ -23,7 +23,7 @@ python preprocess.py data_folder GPT_folder
 After fine-tuning the model, you can generate synthetic claims from collected programs:
 
 ```python
-sh generate.sh
+sh generate.sh #you may need to set correct model paths in the file
 ```
 
 #### Model Training&Inference
