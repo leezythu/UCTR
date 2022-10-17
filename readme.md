@@ -24,7 +24,11 @@ SEM-TAB-FACTS | [sem_tab_facts_syn.tsv](https://drive.google.com/file/d/1ZcF1NFl
 FEVEROUS | [feverous_syn.jsonl](https://drive.google.com/file/d/1S4NHfeb2lw8jnDIfWDOFRk8heTPxdeiU/view?usp=sharing) | [feverous_checkpoint](https://drive.google.com/file/d/1_CFdIROk8LfBqCtZBffZUvK-4QIwx8Mx/view?usp=sharing)
 
 ### NL-Generator Models
-Coming soon!
+ NL-To-Text | Models 
+----|----
+SQL2Text | [sql2text.zip](https://drive.google.com/file/d/1CS1vdS6CnYgOto4RoKSVzjzIvlj5joj3/view?usp=sharing)
+Logic2Text | [logic2text.zip](https://drive.google.com/file/d/1YIsQWVK_h2QrkW8VzYa0GDiZ6Qtfx271/view?usp=sharing)
+Arithmetic2Text | [arithmetic2text.zip](https://drive.google.com/file/d/1qkYb1v1snmjLL-DwlyrJGWUqpCaia1Xh/view?usp=sharing)
 
 ## 🤗 Docker
 We also provide a [docker environment](https://hub.docker.com/r/leezythu/uctr). 
